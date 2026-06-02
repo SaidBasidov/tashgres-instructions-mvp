@@ -1,3 +1,5 @@
+import { parovayaTurbinaDocument } from "./parovayaTurbina/index.js";
+
 export const documents = [
     {
         id: "kn-205-523-2024",
@@ -784,5 +786,5 @@ export const documents = [
                 ]
             }
         ]
-    },
+    }, parovayaTurbinaDocument
 ];
