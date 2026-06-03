@@ -1,4 +1,5 @@
 import { parovayaTurbinaDocument } from "./parovayaTurbina/index.js";
+import { pteThermomechanicalDocument } from "./pteThermomechanical/index.js";
 
 export const documents = [
     {
@@ -786,5 +787,5 @@ export const documents = [
                 ]
             }
         ]
-    }, parovayaTurbinaDocument
+    }, parovayaTurbinaDocument, pteThermomechanicalDocument
 ];

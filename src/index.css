@@ -315,3 +315,162 @@ button {
   color: #334155;
   line-height: 1.6;
 }
+
+.library-page {
+  display: grid;
+  gap: 28px;
+}
+
+.library-hero {
+  padding: 28px;
+  border: 1px solid #e2e8f0;
+  border-radius: 24px;
+  background: #ffffff;
+}
+
+.library-hero__eyebrow {
+  margin: 0 0 8px;
+  color: #2563eb;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.library-hero__title {
+  margin: 0;
+  color: #0f172a;
+  font-size: 36px;
+  line-height: 1.1;
+}
+
+.library-hero__description {
+  max-width: 760px;
+  margin: 14px 0 0;
+  color: #64748b;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.library-stats {
+  display: flex;
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.library-stat {
+  min-width: 140px;
+  padding: 16px;
+  border-radius: 18px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+}
+
+.library-stat__value {
+  display: block;
+  color: #0f172a;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.library-stat__label {
+  display: block;
+  margin-top: 4px;
+  color: #64748b;
+  font-size: 14px;
+}
+
+.library-list {
+  display: grid;
+  gap: 16px;
+}
+
+.library-card {
+  padding: 22px;
+  border: 1px solid #e2e8f0;
+  border-radius: 22px;
+  background: #ffffff;
+}
+
+.library-card__header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.library-card__code {
+  margin: 0 0 8px;
+  color: #2563eb;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.library-card__title {
+  margin: 0;
+  color: #0f172a;
+  font-size: 22px;
+  line-height: 1.35;
+}
+
+.library-card__badge {
+  flex-shrink: 0;
+  padding: 7px 11px;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #2563eb;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.library-card__meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 18px;
+  margin-top: 18px;
+}
+
+.library-card__meta p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.5;
+}
+
+.library-card__meta span {
+  color: #0f172a;
+  font-weight: 700;
+}
+
+.library-card__summary {
+  margin: 18px 0 0;
+  color: #64748b;
+  line-height: 1.6;
+}
+
+.library-card__button {
+  margin-top: 18px;
+  border: none;
+  border-radius: 14px;
+  padding: 12px 16px;
+  background: #2563eb;
+  color: #ffffff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.library-card__button:hover {
+  background: #1d4ed8;
+}
+
+@media (max-width: 760px) {
+  .library-card__header {
+    flex-direction: column;
+  }
+
+  .library-card__meta {
+    grid-template-columns: 1fr;
+  }
+
+  .library-stats {
+    flex-direction: column;
+  }
+}

@@ -18,7 +18,7 @@ function Header({ currentPage, setCurrentPage }) {
                     currentPage === "admin" 
                     ? "header__button header__button--active"
                     : "header__button"
-                } onClick={() => setCurrentPage("admin")}>Админ-панель</button>
+                } onClick={() => setCurrentPage("admin")}>Библиотека</button>
             </nav>
         </header>
     );

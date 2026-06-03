@@ -15,7 +15,11 @@ function App() {
       <Header currentPage={currentPage} setCurrentPage={setCurrentPage} />
 
       <div className="app__content">
-        {currentPage === "admin" ? <AdminPanel />
+        {currentPage === "admin" ? <AdminPanel
+          setCurrentPage={setCurrentPage}
+          setSelectedDocumentId={setSelectedDocumentId}
+          setTargetBlockId={setTargetBlockId}
+        />
           : currentPage === "instruction" ? <InstructionPage
             selectedDocumentId={selectedDocumentId}
             targetBlockId={targetBlockId}
