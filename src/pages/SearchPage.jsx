@@ -1,6 +1,21 @@
 import { useState } from "react";
 import { searchDocuments } from "../utils/searchDocuments";
 
+const searchSuggestions = [
+    "понижение вакуума в конденсаторе",
+    "падение давления масла",
+    "осевой сдвиг ротора",
+    "гидравлический удар в турбине",
+    "упуск воды в барабане котла",
+    "перепитка котла",
+    "погасание факела в топке",
+    "снижение давления газа",
+    "разрыв мазутопровода",
+    "потеря собственных нужд 6 кВ",
+    "загорание сажи в РВП",
+    "повышение жесткости питательной воды",
+];
+
 function SearchPage({
     setCurrentPage,
     setSelectedDocumentId,
@@ -8,6 +23,7 @@ function SearchPage({
 
 }) {
     const [query, setQuery] = useState("");
+
 
     function groupResultsByDocument(results, maxMatchesPerDocument = 4) {
         const groups = {};
@@ -35,6 +51,7 @@ function SearchPage({
 
     const searchResults = searchDocuments(query);
     const groupedResults = groupResultsByDocument(searchResults);
+    const shouldShowSuggestions = query.trim() === "";
 
     function createSnippet(text, maxLength = 180) {
         if (!text) return "";
@@ -54,6 +71,10 @@ function SearchPage({
         };
 
         return labels[type] || "Блок";
+    }
+
+    function handleSuggestionClick(suggestion) {
+        setQuery(suggestion);
     }
 
     return (
@@ -78,6 +99,27 @@ function SearchPage({
                     Текущий запрос: {query || "пусто"}
                 </p>
             </section>
+
+            {shouldShowSuggestions && (
+                <section className="search-suggestions">
+                    <p className="search-suggestions__title">
+                        Примеры запросов для теста:
+                    </p>
+
+                    <div className="search-suggestions__list">
+                        {searchSuggestions.map((suggestion) => (
+                            <button
+                                key={suggestion}
+                                type="button"
+                                className="search-suggestions__button"
+                                onClick={() => handleSuggestionClick(suggestion)}
+                            >
+                                {suggestion}
+                            </button>
+                        ))}
+                    </div>
+                </section>
+            )}
 
             <div className="search-results">
                 <p>Найдено документов: {groupedResults.length}</p>

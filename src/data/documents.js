@@ -1,5 +1,7 @@
 import { parovayaTurbinaDocument } from "./parovayaTurbina/index.js";
 import { pteThermomechanicalDocument } from "./pteThermomechanical/index.js";
+import { kn205131TurbineAccidentsDocument } from "./kn205131TurbineAccidents/index.js";
+import { kn205132BoilerAccidentsDocument } from "./kn205132BoilerAccidents/index.js";
 
 export const documents = [
     {
@@ -787,5 +789,8 @@ export const documents = [
                 ]
             }
         ]
-    }, parovayaTurbinaDocument, pteThermomechanicalDocument
+    }, parovayaTurbinaDocument,
+    pteThermomechanicalDocument,
+    kn205131TurbineAccidentsDocument,
+    kn205132BoilerAccidentsDocument
 ];

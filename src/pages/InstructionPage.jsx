@@ -33,6 +33,18 @@ function InstructionPage({
         });
     }
 
+    function splitSectionText(text) {
+        if (!text) return [];
+
+        return text
+            .replace(/\s+/g, " ")
+            .replace(/ (?=\d+\.\d+(?:\.\d+)?\s)/g, "\n")
+            .replace(/ (?=\d+\.\s)/g, "\n")
+            .split("\n")
+            .map((paragraph) => paragraph.trim())
+            .filter(Boolean);
+    }
+
     if (!documentData) {
         return (
             <main className="instruction-page">
@@ -167,7 +179,13 @@ function InstructionPage({
                                     {block.number}. {block.title}
                                 </h2>
 
-                                <p className="document-viewer__paragraph">{block.text}</p>
+                                <div className="document-viewer__text">
+                                    {splitSectionText(block.text).map((paragraph) => (
+                                        <p className="document-viewer__paragraph" key={paragraph}>
+                                            {paragraph}
+                                        </p>
+                                    ))}
+                                </div>
 
                                 {block.keywords?.length > 0 && (
                                     <div className="document-viewer__keywords">
