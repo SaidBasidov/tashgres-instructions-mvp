@@ -15,6 +15,10 @@ export const parovayaTurbinaDocument = {
   equipmentArea: "Паровая турбина",
   sourceFile: "Паровая турбина К-160-130 ХТГЗ.pdf",
   textQuality: "cleaned_ocr_requires_review",
+  purpose: "reference",
+  purposeLabel: "Справочное описание",
+  category: "turbine",
+  categoryLabel: "Турбинное оборудование",
   blocks: [
     ...blocksPart01,
     ...blocksPart02,
