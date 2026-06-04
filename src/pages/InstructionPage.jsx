@@ -1,5 +1,6 @@
 import { documents } from "../data/documents";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
+
 
 function InstructionPage({
     selectedDocumentId,
@@ -9,6 +10,27 @@ function InstructionPage({
     const documentData = documents.find(
         (document) => document.id === selectedDocumentId
     );
+
+    const [isScrollButtonVisible, setIsScrollButtonVisible] = useState(false);
+
+    useEffect(() => {
+        function handleScroll() {
+            setIsScrollButtonVisible(window.scrollY > 500);
+        }
+
+        window.addEventListener("scroll", handleScroll);
+
+        return () => {
+            window.removeEventListener("scroll", handleScroll);
+        };
+    }, []);
+
+    function scrollToTop() {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth",
+        });
+    }
 
     useEffect(() => {
         if (!targetBlockId) return;
@@ -44,6 +66,8 @@ function InstructionPage({
             .map((paragraph) => paragraph.trim())
             .filter(Boolean);
     }
+
+
 
     if (!documentData) {
         return (
@@ -203,6 +227,17 @@ function InstructionPage({
                     return null;
                 })}
             </article>
+
+            {isScrollButtonVisible && (
+                <button
+                    type="button"
+                    className="scroll-top-button"
+                    onClick={scrollToTop}
+                >
+                    Наверх ↑
+                </button>
+            )}
+
         </main>
     );
 }
