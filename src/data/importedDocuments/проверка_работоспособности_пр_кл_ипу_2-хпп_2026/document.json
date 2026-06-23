@@ -1,0 +1,425 @@
+{
+  "id": "проверка_работоспособности_пр_кл_ипу_2-хпп_2026",
+  "code": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026",
+  "title": "АО « Ташкентская ТЭС»",
+  "sourceLanguage": "ru",
+  "originalFile": {
+    "name": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026.doc",
+    "path": "documents/проверка_работоспособности_пр_кл_ипу_2-хпп_2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": null,
+  "translations": {
+    "ru": {
+      "title": "АО « Ташкентская ТЭС»",
+      "summary": "",
+      "blocks": [
+        {
+          "id": "block-0001",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "УТВЕРЖДАЮ"
+        },
+        {
+          "id": "block-0002",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Технический директор"
+        },
+        {
+          "id": "block-0003",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "АО « Ташкентская ТЭС»"
+        },
+        {
+          "id": "block-0004",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "В.В. Пак"
+        },
+        {
+          "id": "block-0005",
+          "type": "section",
+          "number": "П",
+          "level": 1,
+          "title": "Р О Г Р А М М А",
+          "text": "П Р О Г Р А М М А"
+        },
+        {
+          "id": "block-0006",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Проверки работоспособности предохранительных клапанов ИПУ-2."
+        },
+        {
+          "id": "block-0007",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Согласовать с руководством станции АО «Ташкентская ТЭС» (техническим директором АО «Таш. ТЭС»)."
+        },
+        {
+          "id": "block-0008",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Проверка работы и опробование предохранительного клапана ИПУ-2 производится во время останова блока."
+        },
+        {
+          "id": "block-0009",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Подать заявку на ЦПУ на опробование предохранительных клапанов ИПУ-2."
+        },
+        {
+          "id": "block-0010",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Разгрузить блок до 100 МВт."
+        },
+        {
+          "id": "block-0011",
+          "type": "section",
+          "number": "С",
+          "level": 1,
+          "title": "разрешения ДИСа приступить к опробованию.",
+          "text": "С разрешения ДИСа приступить к опробованию."
+        },
+        {
+          "id": "block-0012",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Провести инструктаж персоналу перед опробованием предохранительных клапанов ИПУ-2."
+        },
+        {
+          "id": "block-0013",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Перед опробованием старший машинист по месту визуально осматривает импульсный и главный предохранительных клапан на наличие пломб на клапане, исправное состояние пружин ГПК, штоков ИПУ."
+        },
+        {
+          "id": "block-0014",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Расстановка персонала:"
+        },
+        {
+          "id": "block-0015",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "- на БЩУ находится начальник смены КТЦ-1, начальник смены ЦТКА, машинист энергоблока"
+        },
+        {
+          "id": "block-0016",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "- на котле возле клапана ГПК: слева – старший машинист, справа – обходчик котла"
+        },
+        {
+          "id": "block-0017",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Машинист энергоблока на БЩУ даёт от ключа импульс на открытие импульсно-предохранительного устройства, смотрит загорание ламп."
+        },
+        {
+          "id": "block-0018",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Старший машинист и обходчик котла при открытии импульсно-предохранительного устройства по месту осматривает ход штока, открытие и закрытие клапана."
+        },
+        {
+          "id": "block-0019",
+          "type": "paragraph",
+          "number": "В",
+          "level": null,
+          "title": null,
+          "text": "В случае не посадки главного предохранительного клапана, старший машинист и обходчик котла производят посадку вручную, путём нажатия на рычаг импульсно-предохранительного устройства. Если главный предохранительный клапан не сел, блок вести на останов."
+        },
+        {
+          "id": "block-0020",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После окончания опробования ИПУ-2, записать в оперативном журнале и в журнале учёта опробования предохранительных клапанов, при выявленных замечаниях – в журнале дефектов."
+        },
+        {
+          "id": "block-0021",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Зам. тех. директора по ТМО Б.Р. Исмоилов"
+        },
+        {
+          "id": "block-0022",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник КТЦ-1 У.Л. Мажлимов"
+        },
+        {
+          "id": "block-0023",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник КТЦ-2 М.М. Махкамов"
+        },
+        {
+          "id": "block-0024",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник ЦТКА Р.К. Байматов"
+        },
+        {
+          "id": "block-0025",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "УТВЕРЖДАЮ"
+        },
+        {
+          "id": "block-0026",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Технический директор"
+        },
+        {
+          "id": "block-0027",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "АО « Ташкентская ТЭС»"
+        },
+        {
+          "id": "block-0028",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "В.В. Пак"
+        },
+        {
+          "id": "block-0029",
+          "type": "section",
+          "number": "П",
+          "level": 1,
+          "title": "Р О Г Р А М М А",
+          "text": "П Р О Г Р А М М А"
+        },
+        {
+          "id": "block-0030",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Проверки работоспособности предохранительных клапанов ХПП."
+        },
+        {
+          "id": "block-0031",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Согласовать с руководством станции АО «Ташкентская ТЭС» (техническим директором АО «Таш. ТЭС»)."
+        },
+        {
+          "id": "block-0032",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Проверка работы и опробование ХПП производится перед остановом блока."
+        },
+        {
+          "id": "block-0033",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Подать заявку на ЦПУ на опробование предохранительных клапанов ХПП."
+        },
+        {
+          "id": "block-0034",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Разгрузить блок до 100 МВт."
+        },
+        {
+          "id": "block-0035",
+          "type": "section",
+          "number": "С",
+          "level": 1,
+          "title": "разрешения ДИСа приступить к опробованию.",
+          "text": "С разрешения ДИСа приступить к опробованию."
+        },
+        {
+          "id": "block-0036",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Перед опробованием предохранительных клапанов ХПП провести инструктаж персоналу. Удалить посторонний персонал с отм. 9м. ТГ, не участвующий в опробовании."
+        },
+        {
+          "id": "block-0037",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Расстановка персонала:"
+        },
+        {
+          "id": "block-0038",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "- на БЩУ находится начальник смены КТЦ-1 и начальник смены ЦТКА."
+        },
+        {
+          "id": "block-0039",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "- на площадке предохранительных клапанов ХПП – старший машинист и обходчик турбины."
+        },
+        {
+          "id": "block-0040",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Перед опробованием предохранительных клапанов ХПП старший машинист визуально по месту проверяет клапана, их исправное состояние. При отсутствии замечаний, поочерёдно поднимает рычаг ИПУ ПК-1 ХПП и отпускает рычаг на место, затем ИПУ ПК-2 ХПП и ИПУ ПК-3 ХПП. В случае не посадки предохранительного клапана блок вести на останов."
+        },
+        {
+          "id": "block-0041",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После окончания опробования предохранительных клапанов ХПП, записать в оперативном журнале и в журнале учёта опробования предохранительных клапанов, при выявленных замечаниях – в журнале дефектов."
+        },
+        {
+          "id": "block-0042",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Зам. тех. директора по ТМО Б.Р. Исмоилов"
+        },
+        {
+          "id": "block-0043",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник КТЦ-1 У.Л. Мажлимов"
+        },
+        {
+          "id": "block-0044",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник КТЦ-2 М.М. Махкамов"
+        },
+        {
+          "id": "block-0045",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник ЦТКА Р.К. Байматов"
+        }
+      ]
+    }
+  },
+  "searchMetadata": {
+    "ru": {
+      "keywords": [
+        "предохранительных",
+        "клапанов",
+        "начальник",
+        "машинист",
+        "клапана",
+        "старший",
+        "ктц",
+        "журнале",
+        "ипу",
+        "ташкентская",
+        "опробование",
+        "опробованием",
+        "смены",
+        "цтка",
+        "обходчик",
+        "опробования",
+        "предохранительного",
+        "месту",
+        "котла",
+        "импульсно-предохранительного",
+        "устройства",
+        "рычаг",
+        "утверждаю",
+        "технический",
+        "директор",
+        "проверки",
+        "работоспособности",
+        "согласовать",
+        "руководством",
+        "станции"
+      ],
+      "aliases": []
+    }
+  },
+  "translationStatus": {
+    "ru": "source",
+    "uzLatn": "pending",
+    "uzCyrl": "pending"
+  },
+  "sectionCount": 4,
+  "sourceFile": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026.doc"
+}

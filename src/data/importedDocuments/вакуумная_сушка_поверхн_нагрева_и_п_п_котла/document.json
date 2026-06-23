@@ -1,0 +1,295 @@
+{
+  "id": "вакуумная_сушка_поверхн_нагрева_и_п_п_котла",
+  "code": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла",
+  "title": "АО « Ташкентская ТЭС»",
+  "sourceLanguage": "ru",
+  "originalFile": {
+    "name": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла.doc",
+    "path": "documents/вакуумная_сушка_поверхн_нагрева_и_п_п_котла/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": null,
+  "translations": {
+    "ru": {
+      "title": "АО « Ташкентская ТЭС»",
+      "summary": "",
+      "blocks": [
+        {
+          "id": "block-0001",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "УТВЕРЖДАЮ"
+        },
+        {
+          "id": "block-0002",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Технический директор"
+        },
+        {
+          "id": "block-0003",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "АО « Ташкентская ТЭС»"
+        },
+        {
+          "id": "block-0004",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "В.В. Пак"
+        },
+        {
+          "id": "block-0005",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ПРОГРАММА"
+        },
+        {
+          "id": "block-0006",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "консервации методом вакуумной сушки поверхностей нагрева и промежуточного пароперегревателя котла при останове на срок более трех суток"
+        },
+        {
+          "id": "block-0007",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "или выводе блоков №1-12 в ремонт."
+        },
+        {
+          "id": "block-0008",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Цель программы: Консервация производится для предотвращения стояночной коррозии при останове блоков в резерв или ремонт и невозможности поддерживать избыточное давление в барабане котла персоналом КТЦ-1."
+        },
+        {
+          "id": "block-0009",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Простым и достаточно надежным методом консервации промежуточного пароперегревателя является метод вакуумной сушки."
+        },
+        {
+          "id": "block-0010",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Подготовительные мероприятия."
+        },
+        {
+          "id": "block-0011",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Снизить давление в барабане котла до нуля."
+        },
+        {
+          "id": "block-0012",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Котел полностью опорожнить."
+        },
+        {
+          "id": "block-0013",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Последовательность операций."
+        },
+        {
+          "id": "block-0014",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Включить КН и ЦН."
+        },
+        {
+          "id": "block-0015",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Подать пар от РОУс.н. на О.Э. и упл. ТГ, подтянуть вакуум в конденсаторе ТГ не менее"
+        },
+        {
+          "id": "block-0016",
+          "type": "section",
+          "number": "60",
+          "level": 1,
+          "title": "kPа (0,6 kgf/сm2).",
+          "text": "60 kPа (0,6 kgf/сm2)."
+        },
+        {
+          "id": "block-0017",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Подключить БРОУ-1,2 на 20 - 30 min для выпаривания оставшейся воды."
+        },
+        {
+          "id": "block-0018",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Через 30 мин. закрыть БРОУ-1."
+        },
+        {
+          "id": "block-0019",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "БРОУ-2 остается в работе для отсоса в конденсатор пара, оставшегося в промежуточном пароперегревателе. В конденсаторе поддерживается вакуум не менее 60 kPа (0,6 kgf/сm2)."
+        },
+        {
+          "id": "block-0020",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Продолжительность сушки промежуточного пароперегревателя составляет 15 - 20 min."
+        },
+        {
+          "id": "block-0021",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После окончания вакуумной сушки закрыть БРОУ-2."
+        },
+        {
+          "id": "block-0022",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Срывать вакуум в конденсаторе ТГ, закрыть пар от РОУ с.н. на О.Э. и упл. ТГ."
+        },
+        {
+          "id": "block-0023",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Отключить ЦН и КН."
+        },
+        {
+          "id": "block-0024",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Зам. тех.директора по тепломеханической части Б.Р. Исмоилов"
+        },
+        {
+          "id": "block-0025",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник СНТБ Б.Б. Нурдинов"
+        },
+        {
+          "id": "block-0026",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ст. инспектор по ОТ и ТБ Ф.М. Мирзахидова"
+        },
+        {
+          "id": "block-0027",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Вр.и.о. Начальника КТЦ-1 У.Л. Мажлимов"
+        },
+        {
+          "id": "block-0028",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник КТЦ-2 М.М. Махкамов"
+        },
+        {
+          "id": "block-0029",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев"
+        },
+        {
+          "id": "block-0030",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник Хим.цеха Л.П. Хамракулова"
+        }
+      ]
+    }
+  },
+  "searchMetadata": {
+    "ru": {
+      "keywords": [
+        "сушки",
+        "броу",
+        "вакуумной",
+        "промежуточного",
+        "пароперегревателя",
+        "котла",
+        "ктц",
+        "вакуум",
+        "конденсаторе",
+        "закрыть",
+        "начальник",
+        "консервации",
+        "методом",
+        "останове",
+        "блоков",
+        "ремонт",
+        "давление",
+        "барабане",
+        "менее",
+        "директора"
+      ],
+      "aliases": []
+    }
+  },
+  "translationStatus": {
+    "ru": "source",
+    "uzLatn": "pending",
+    "uzCyrl": "pending"
+  },
+  "sectionCount": 1,
+  "sourceFile": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла.doc"
+}

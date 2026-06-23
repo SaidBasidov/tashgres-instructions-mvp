@@ -1,0 +1,625 @@
+{
+  "id": "продувка-паропров-после-рем-2025",
+  "code": "продувка паропров. после рем - 2025",
+  "title": "АО « ТАШКЕНТСКАЯ ТЭС»",
+  "sourceLanguage": "ru",
+  "originalFile": {
+    "name": "продувка паропров. после рем - 2025.doc",
+    "path": "documents/продувка-паропров-после-рем-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": null,
+  "translations": {
+    "ru": {
+      "title": "АО « ТАШКЕНТСКАЯ ТЭС»",
+      "summary": "",
+      "blocks": [
+        {
+          "id": "block-0001",
+          "type": "section",
+          "number": null,
+          "level": 1,
+          "title": "УТВЕРЖДАЮ",
+          "text": "УТВЕРЖДАЮ"
+        },
+        {
+          "id": "block-0002",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР"
+        },
+        {
+          "id": "block-0003",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "АО « ТАШКЕНТСКАЯ ТЭС»"
+        },
+        {
+          "id": "block-0004",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "В.В. Пак"
+        },
+        {
+          "id": "block-0005",
+          "type": "section",
+          "number": "Т",
+          "level": 1,
+          "title": "И П О В А Я П Р О Г Р А М М А",
+          "text": "Т И П О В А Я П Р О Г Р А М М А"
+        },
+        {
+          "id": "block-0006",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ПРОВЕДЕНИЯ ПРОДУВКИ ПАРОПРОВОДОВ БЛОКА"
+        },
+        {
+          "id": "block-0007",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ПОСЛЕ РЕМОНТА БЛОКА"
+        },
+        {
+          "id": "block-0008",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Продувка паропроводов производится с целью удаления из них посторонних предметов согласно «Справочник монтажника тепловых электростанции», раздел 4."
+        },
+        {
+          "id": "block-0009",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ."
+        },
+        {
+          "id": "block-0010",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "До растопки котла для продувки паропроводов должны быть выполнены следующие работы:"
+        },
+        {
+          "id": "block-0011",
+          "type": "section",
+          "number": "1",
+          "level": 1,
+          "title": "Гидравлические испытания котла и паропроводов.",
+          "text": "1. Гидравлические испытания котла и паропроводов."
+        },
+        {
+          "id": "block-0012",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт и поузловая приемка в пределах программ гидравлического испытания."
+        },
+        {
+          "id": "block-0013",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ."
+        },
+        {
+          "id": "block-0014",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт газовоздуховодов и гарнитуры котла."
+        },
+        {
+          "id": "block-0015",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт обмуровки котла"
+        },
+        {
+          "id": "block-0016",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт и опробование 3-х ярусов приводов горелок."
+        },
+        {
+          "id": "block-0017",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт газопроводов в пределах котла с проверкой защиты по газу."
+        },
+        {
+          "id": "block-0018",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Обмуровка котла и тепловая изоляция трубопроводов в пределах котла, паропроводов острого пара, перепускных труб острого пара, паропроводов «холодного» и «горячего» промперегрева, барабана котла."
+        },
+        {
+          "id": "block-0019",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт лестниц и площадок котла."
+        },
+        {
+          "id": "block-0020",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Уборка мусора со всех площадок, отметок, лестниц котла и СУП."
+        },
+        {
+          "id": "block-0021",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Снятие лесов и подмостей, где возможно их загорание."
+        },
+        {
+          "id": "block-0022",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт и включение в работу контрольно-измерительных приборов:"
+        },
+        {
+          "id": "block-0023",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Разряжение в топке и газоходах."
+        },
+        {
+          "id": "block-0024",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Давление холодного и горячего воздуха."
+        },
+        {
+          "id": "block-0025",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Температура по газовоздушному тракту котла."
+        },
+        {
+          "id": "block-0026",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Температура пара по всему тракту котла."
+        },
+        {
+          "id": "block-0027",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Температура острого пара и пара промперегрева."
+        },
+        {
+          "id": "block-0028",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Давление в барабане котла."
+        },
+        {
+          "id": "block-0029",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Давление острого пара и пара промперегрева."
+        },
+        {
+          "id": "block-0030",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Давление в Д-6ата."
+        },
+        {
+          "id": "block-0031",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Давление питательной воды."
+        },
+        {
+          "id": "block-0032",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Уровень в барабане котла."
+        },
+        {
+          "id": "block-0033",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Уровень в Д-6ата."
+        },
+        {
+          "id": "block-0034",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Снято сито стопорного клапана острого пара, установлены заглушки на регулирующих"
+        },
+        {
+          "id": "block-0035",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "клапанах."
+        },
+        {
+          "id": "block-0036",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ремонт и поузловая приемка арматуры в объеме программы гидравлических испытаний."
+        },
+        {
+          "id": "block-0037",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Дать отписку на ЦПУ."
+        },
+        {
+          "id": "block-0038",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ПРОДУВКА ПАРОПРОВОДОВ"
+        },
+        {
+          "id": "block-0039",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После выполнения перечисленных подготовительных работ и исправности узлов руководитель ремонта подает заявку на растопку котла для продувки паропроводов."
+        },
+        {
+          "id": "block-0040",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После разрешения заявки руководством КТЦ-1 и НСС котел заполняется химобессоленной водой до растопочного уровня."
+        },
+        {
+          "id": "block-0041",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Растопка котла для продувки паропроводов производится согласно эксплуатационных инструкций."
+        },
+        {
+          "id": "block-0042",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Пароперегреватели первичного тракта котла во время растопки охлаждается через линию продувки в атмосферу."
+        },
+        {
+          "id": "block-0043",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Температура дымовых газов после вторичного п/перегревателя не должна превышать 4000С."
+        },
+        {
+          "id": "block-0044",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "При достижении давления 10, 26, 50ата проверить работоспособность реперов теплового перемещения элементов котла."
+        },
+        {
+          "id": "block-0045",
+          "type": "section",
+          "number": "В",
+          "level": 1,
+          "title": "работе находятся 2; 6 горелки 1 яруса котла.",
+          "text": "В работе находятся 2; 6 горелки 1 яруса котла."
+        },
+        {
+          "id": "block-0046",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "При достижении давления в барабане котла 25-30ати, начинается прогрев перепускных труб высокого давления."
+        },
+        {
+          "id": "block-0047",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После прогрева перепускных труб высокого давления поднимается давление в барабане котла до 50ати, открываются ГПЗ и их байпасы и продуваются паропроводы острого пара в течение 15 мин."
+        },
+        {
+          "id": "block-0048",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности."
+        },
+        {
+          "id": "block-0049",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих"
+        },
+        {
+          "id": "block-0050",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "клапанах."
+        },
+        {
+          "id": "block-0051",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ"
+        },
+        {
+          "id": "block-0052",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Оперативно-техническое руководство продувкой осуществляет начальник КТЦ-1 или его заместитель."
+        },
+        {
+          "id": "block-0053",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Оперативные переключения основного и вспомогательного оборудования осуществляет персонал КТЦ-1."
+        },
+        {
+          "id": "block-0054",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Все работы по продувке паропроводов осуществляются под непосредственным руководством начальника смены КТЦ-1,2 и руководителя ремонтных работ по котлу."
+        },
+        {
+          "id": "block-0055",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "На время растопки котла, подъема давления, продувки паропроводов, прекращаются ремонтные работы и выводятся ремонтные бригады с котла, из района питательных трубопроводов, главных паропроводов, перепускных труб острого пара, отм. 9 м. турбины."
+        },
+        {
+          "id": "block-0056",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Сдаются все промежуточные наряды на производство работ в указанных местах."
+        },
+        {
+          "id": "block-0057",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Производство работ на остальных участках станции или блока разрешается. Работающие бригады должны быть предупреждены руководителем ремонта о растопке котла и недопустимости нахождения в перечисленных выше местах."
+        },
+        {
+          "id": "block-0058",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Непосредственно перед началом продувки паропроводов руководитель ремонта выставляет наблюдающих и обеспечивает отсутствие персонала на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону."
+        },
+        {
+          "id": "block-0059",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "На период заполнения, растопки котла и продувки паропроводов выделяется дежурная ремонтная бригада во главе с мастером."
+        },
+        {
+          "id": "block-0060",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Члены дежурной бригады должны быть проинструктированы ответственным руководителем ремонта и руководством КТЦ-1 о соблюдении ПТБ при растопке котла для продувки паропроводов с записью в журнале инструктажей."
+        },
+        {
+          "id": "block-0061",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Зам. тех.директора по тепломеханической части Б.Р. Исмоилов"
+        },
+        {
+          "id": "block-0062",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник СНТБ Б.Б. Нурдинов"
+        },
+        {
+          "id": "block-0063",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Ведущий инспектор по ОТ и ТБ Ф.М. Мирзахидова"
+        },
+        {
+          "id": "block-0064",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник КТЦ-1 У.Л. Мажлимов"
+        },
+        {
+          "id": "block-0065",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник ЦЦР Т.А. Валиев"
+        },
+        {
+          "id": "block-0066",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник ЦТКА Р. К. Байматов"
+        },
+        {
+          "id": "block-0067",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник Эл.цеха М.Д. Кенжибаев"
+        },
+        {
+          "id": "block-0068",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Начальник лаб. металлов Л.У. Эшонкулов"
+        },
+        {
+          "id": "block-0069",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Руководитель работ нач. уч-ка «УЭТ» М.М. Базаров"
+        },
+        {
+          "id": "block-0070",
+          "type": "paragraph",
+          "number": null,
+          "level": null,
+          "title": null,
+          "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев"
+        }
+      ]
+    }
+  },
+  "searchMetadata": {
+    "ru": {
+      "keywords": [
+        "котла",
+        "паропроводов",
+        "пара",
+        "продувки",
+        "ремонт",
+        "острого",
+        "начальник",
+        "давление",
+        "ктц",
+        "ремонта",
+        "давления",
+        "блока",
+        "растопки",
+        "пределах",
+        "перепускных",
+        "труб",
+        "температура",
+        "барабане",
+        "должны",
+        "промперегрева",
+        "руководитель",
+        "руководством",
+        "бригады",
+        "продувка",
+        "производится",
+        "согласно",
+        "испытания",
+        "поузловая",
+        "приемка",
+        "трубопроводов"
+      ],
+      "aliases": []
+    }
+  },
+  "translationStatus": {
+    "ru": "source",
+    "uzLatn": "pending",
+    "uzCyrl": "pending"
+  },
+  "sectionCount": 4,
+  "sourceFile": "продувка паропров. после рем - 2025.doc"
+}

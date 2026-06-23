@@ -1,8 +1,3 @@
-import { parovayaTurbinaDocument } from "./parovayaTurbina/index.js";
-import { pteThermomechanicalDocument } from "./pteThermomechanical/index.js";
-import { kn205131TurbineAccidentsDocument } from "./kn205131TurbineAccidents/index.js";
-import { kn205132BoilerAccidentsDocument } from "./kn205132BoilerAccidents/index.js";
-
 export const documents = [
     {
         id: "kn-205-523-2024",
@@ -801,8 +796,5 @@ export const documents = [
                 ]
             }
         ]
-    }, parovayaTurbinaDocument,
-    pteThermomechanicalDocument,
-    kn205131TurbineAccidentsDocument,
-    kn205132BoilerAccidentsDocument
+    }
 ];

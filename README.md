@@ -1,16 +1,31 @@
-# React + Vite
+# База инструкций ТашГРЭС
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MVP для поиска, фильтрации и просмотра производственных инструкций. Приложение работает полностью в браузере; данные документов находятся в `src/data`.
 
-Currently, two official plugins are available:
+## Запуск
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Требуется Node.js, совместимый с Vite 8.
 
-## React Compiler
+```bash
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Основные команды:
 
-## Expanding the ESLint configuration
+- `npm run dev` — локальная разработка;
+- `npm run build` — production-сборка в `dist`;
+- `npm run preview` — просмотр production-сборки;
+- `npm run lint` — проверка исходного кода.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Структура
+
+- `src/app/App.jsx` — URL-навигация и загрузка страниц;
+- `src/pages/SearchPage.jsx` — полнотекстовый и нечёткий поиск;
+- `src/pages/AdminPanel.jsx` — библиотека документов и фильтры;
+- `src/pages/InstructionPage.jsx` — просмотр выбранного документа;
+- `src/data/loadDocuments.js` — ленивая загрузка документов;
+- `src/data/documents.js` и каталоги в `src/data` — метаданные и блоки документов;
+- `src/utils/searchDocuments.js` — поисковый индекс Fuse.js.
+
+Навигация использует hash-URL, поэтому прямые ссылки на документы работают на статическом хостинге. Исходные PDF/DOC не входят в репозиторий: поле `sourceFile` хранит только название файла, из которого был подготовлен текст.

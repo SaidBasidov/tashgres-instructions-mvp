@@ -1,119 +1,117 @@
-import { useState } from "react";
-import { searchDocuments } from "../utils/searchDocuments";
+import { useEffect, useState } from "react";
+import { useLanguage } from "../i18n/useLanguage.js";
+import { interpolate } from "../i18n/messages.js";
+import { getSearchableDocumentCount, searchDocuments } from "../utils/searchDocuments";
 
-const searchSuggestions = [
-    "понижение вакуума в конденсаторе",
-    "падение давления масла",
-    "осевой сдвиг ротора",
-    "гидравлический удар в турбине",
-    "упуск воды в барабане котла",
-    "перепитка котла",
-    "погасание факела в топке",
-    "снижение давления газа",
-    "разрыв мазутопровода",
-    "потеря собственных нужд 6 кВ",
-    "загорание сажи в РВП",
-    "повышение жесткости питательной воды",
+const russianSearchSuggestions = [
+    "понижение вакуума в конденсаторе", "падение давления масла", "осевой сдвиг ротора",
+    "гидравлический удар в турбине", "упуск воды в барабане котла", "перепитка котла",
+    "погасание факела в топке", "снижение давления газа", "разрыв мазутопровода",
+    "потеря собственных нужд 6 кВ", "загорание сажи в РВП", "повышение жесткости питательной воды",
 ];
 
-function SearchPage({
-    setCurrentPage,
-    setSelectedDocumentId,
-    setTargetBlockId,
+function groupResultsByDocument(results, maxMatchesPerDocument = 4) {
+    const groups = {};
 
-}) {
-    const [query, setQuery] = useState("");
-
-
-    function groupResultsByDocument(results, maxMatchesPerDocument = 4) {
-        const groups = {};
-
-        results.forEach((result) => {
-            if (!groups[result.documentId]) {
-                groups[result.documentId] = {
-                    documentId: result.documentId,
-                    documentCode: result.documentCode,
-                    documentTitle: result.documentTitle,
-                    matches: [],
-                    totalMatches: 0,
-                };
-            }
-
-            groups[result.documentId].totalMatches += 1;
-
-            if (groups[result.documentId].matches.length < maxMatchesPerDocument) {
-                groups[result.documentId].matches.push(result);
-            }
-        });
-
-        return Object.values(groups);
-    }
-
-    const searchResults = searchDocuments(query);
-    const groupedResults = groupResultsByDocument(searchResults);
-    const shouldShowSuggestions = query.trim() === "";
-
-    function createSnippet(text, maxLength = 180) {
-        if (!text) return "";
-
-        if (text.length <= maxLength) {
-            return text;
-        }
-
-        return text.slice(0, maxLength).trim() + "...";
-    }
-
-    function getBlockTypeLabel(type) {
-        const labels = {
-            heading: "Заголовок",
-            paragraph: "Абзац",
-            list: "Список",
+    results.forEach((result) => {
+        groups[result.documentId] ??= {
+            documentId: result.documentId,
+            documentCode: result.documentCode,
+            documentTitle: result.documentTitle,
+            matches: [],
+            totalMatches: 0,
         };
 
-        return labels[type] || "Блок";
+        groups[result.documentId].totalMatches += 1;
+        if (groups[result.documentId].matches.length < maxMatchesPerDocument) {
+            groups[result.documentId].matches.push(result);
+        }
+    });
+
+    return Object.values(groups);
+}
+
+function SearchPage({ navigate }) {
+    const { selectedLanguage, messages } = useLanguage();
+    const [query, setQuery] = useState("");
+    const [searchResults, setSearchResults] = useState([]);
+    const [isSearching, setIsSearching] = useState(false);
+    const [searchableDocumentCount, setSearchableDocumentCount] = useState(null);
+    const [resultsLanguage, setResultsLanguage] = useState(selectedLanguage);
+    const groupedResults = groupResultsByDocument(
+        resultsLanguage === selectedLanguage ? searchResults : [],
+    );
+    const shouldShowSuggestions = selectedLanguage === "ru" && query.trim() === "";
+
+    useEffect(() => {
+        let isCurrent = true;
+
+        getSearchableDocumentCount(selectedLanguage).then((count) => {
+            if (isCurrent) setSearchableDocumentCount(count);
+        });
+
+        return () => { isCurrent = false; };
+    }, [selectedLanguage]);
+
+    useEffect(() => {
+        let isCurrent = true;
+        const trimmedQuery = query.trim();
+
+        if (!trimmedQuery) return undefined;
+
+        const timeoutId = window.setTimeout(async () => {
+            setIsSearching(true);
+            const searchResponse = await searchDocuments(trimmedQuery, selectedLanguage);
+
+            if (isCurrent) {
+                setSearchResults(searchResponse.results);
+                setResultsLanguage(selectedLanguage);
+                setSearchableDocumentCount(searchResponse.searchableDocumentCount);
+                setIsSearching(false);
+            }
+        }, 150);
+
+        return () => {
+            isCurrent = false;
+            window.clearTimeout(timeoutId);
+        };
+    }, [query, selectedLanguage]);
+
+    function createSnippet(text, maxLength = 180) {
+        if (!text || text.length <= maxLength) return text || "";
+        return `${text.slice(0, maxLength).trim()}...`;
     }
 
-    function handleSuggestionClick(suggestion) {
-        setQuery(suggestion);
+    function handleQueryChange(event) {
+        const nextQuery = event.target.value;
+        setQuery(nextQuery);
+
+        if (!nextQuery.trim()) {
+            setSearchResults([]);
+            setIsSearching(false);
+        }
     }
 
     return (
         <main className="search-page">
             <section className="search-panel">
-                <h2 className="search-panel__title">Поиск по базе инструкций</h2>
-
-                <p className="search-panel__description">
-                    Опишите ситуацию. Система будет искать подходящие
-                    разделы инструкций.
-                </p>
-
+                <h1 className="search-panel__title">{messages.search.title}</h1>
+                <p className="search-panel__description">{messages.search.description}</p>
                 <input
                     className="search-panel__input"
-                    type="text"
+                    type="search"
                     value={query}
-                    onChange={(event) => setQuery(event.target.value)}
-                    placeholder="Например: потеря собственных нужд, вибрация турбины..."
+                    onChange={handleQueryChange}
+                    placeholder={messages.search.placeholder}
                 />
-
-                <p className="search-panel__debug">
-                    Текущий запрос: {query || "пусто"}
-                </p>
             </section>
 
             {shouldShowSuggestions && (
                 <section className="search-suggestions">
-                    <p className="search-suggestions__title">
-                        Примеры запросов для теста:
-                    </p>
-
+                    <p className="search-suggestions__title">{messages.search.suggestions}</p>
                     <div className="search-suggestions__list">
-                        {searchSuggestions.map((suggestion) => (
-                            <button
-                                key={suggestion}
-                                type="button"
-                                className="search-suggestions__button"
-                                onClick={() => handleSuggestionClick(suggestion)}
-                            >
+                        {russianSearchSuggestions.map((suggestion) => (
+                            <button key={suggestion} type="button" className="search-suggestions__button" onClick={() => setQuery(suggestion)}>
                                 {suggestion}
                             </button>
                         ))}
@@ -121,42 +119,41 @@ function SearchPage({
                 </section>
             )}
 
-            <div className="search-results">
-                <p>Найдено документов: {groupedResults.length}</p>
+            <section className="search-results" aria-live="polite">
+                <p>{isSearching
+                    ? messages.search.searching
+                    : interpolate(messages.search.found, { count: groupedResults.length })}</p>
+
+                {!isSearching && query.trim() && searchableDocumentCount === 0 && (
+                    <div className="empty-message">{messages.search.translationUnavailable}</div>
+                )}
+                {!isSearching && query.trim() && searchableDocumentCount > 0 && groupedResults.length === 0 && (
+                    <div className="empty-message">{messages.search.noResults}</div>
+                )}
 
                 {groupedResults.map((group) => (
                     <article className="search-document-card" key={group.documentId}>
-                        <h3>{group.documentCode}</h3>
+                        <h2>{group.documentCode}</h2>
                         <p>{group.documentTitle}</p>
-                        <small>Совпадений: {group.matches.length}</small>
-
+                        <small>{interpolate(messages.search.matches, { count: group.totalMatches })}</small>
                         <div className="search-document-card__matches">
                             {group.matches.map((match) => (
                                 <button
                                     key={match.blockId}
+                                    type="button"
                                     className="search-match-button"
-                                    onClick={() => {
-                                        setSelectedDocumentId(match.documentId);
-                                        setTargetBlockId(match.blockId);
-                                        setCurrentPage("instruction");
-                                    }}
+                                    onClick={() => navigate(`/documents/${encodeURIComponent(match.documentId)}?block=${encodeURIComponent(match.blockId)}`)}
                                 >
                                     <span className="search-match-button__type">
-                                        {getBlockTypeLabel(match.blockType)}
+                                        {messages.search.blockTypes[match.blockType] || messages.search.blockTypes.fallback}
                                     </span>
-
-                                    <span className="search-match-button__text">
-                                        {createSnippet(match.blockText)}
-                                    </span>
-
-                                    <small>Score: {match.score?.toFixed(3)}</small>
+                                    <span className="search-match-button__text">{createSnippet(match.blockText)}</span>
                                 </button>
                             ))}
                         </div>
                     </article>
                 ))}
-            </div>
-
+            </section>
         </main>
     );
 }

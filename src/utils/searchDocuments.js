@@ -1,5 +1,6 @@
 import Fuse from "fuse.js";
-import { documents } from "../data/documents.js";
+import { loadAllDocuments } from "../data/loadDocuments.js";
+import { getLocalizedDocument } from "../data/documentTranslations.js";
 
 function normalize(text) {
   return String(text || "")
@@ -11,14 +12,17 @@ function normalize(text) {
 function getBlockText(block) {
   if (block.text) return block.text;
   if (block.items) return block.items.join(" ");
+  if (block.rows) return block.rows.flat().join(" ");
   return "";
 }
 
-function getSearchableBlocks() {
+function getSearchableBlocks(documents, language) {
   return documents.flatMap((document) =>
     document.blocks.map((block) => {
       const blockText = getBlockText(block);
       const blockKeywords = block.keywords?.join(" ") || "";
+      const documentKeywords = document.searchMetadata?.[language]?.keywords?.join(" ") || "";
+      const documentAliases = document.searchMetadata?.[language]?.aliases?.join(" ") || "";
 
       return {
         documentId: document.id,
@@ -31,20 +35,22 @@ function getSearchableBlocks() {
         blockTitle: block.title || "",
         blockText,
         blockKeywords,
+        documentKeywords,
+        documentAliases,
 
         normalizedDocumentTitle: normalize(document.title),
         normalizedDocumentCode: normalize(document.code),
         normalizedBlockTitle: normalize(block.title || ""),
         normalizedBlockText: normalize(blockText),
         normalizedBlockKeywords: normalize(blockKeywords),
+        normalizedDocumentKeywords: normalize(documentKeywords),
+        normalizedDocumentAliases: normalize(documentAliases),
       };
     })
   );
 }
 
-const searchableBlocks = getSearchableBlocks();
-
-const fuse = new Fuse(searchableBlocks, {
+const fuseOptions = {
   includeScore: true,
   threshold: 0.4,
   ignoreLocation: true,
@@ -70,8 +76,16 @@ const fuse = new Fuse(searchableBlocks, {
       name: "documentCode",
       weight: 0.05,
     },
+    {
+      name: "documentKeywords",
+      weight: 0.1,
+    },
+    {
+      name: "documentAliases",
+      weight: 0.1,
+    },
   ],
-});
+};
 
 function getExactMatchScore(block, normalizedQuery) {
   if (block.normalizedDocumentTitle.includes(normalizedQuery)) {
@@ -94,10 +108,18 @@ function getExactMatchScore(block, normalizedQuery) {
     return 0.15;
   }
 
+  if (block.normalizedDocumentKeywords.includes(normalizedQuery)) {
+    return 0.09;
+  }
+
+  if (block.normalizedDocumentAliases.includes(normalizedQuery)) {
+    return 0.1;
+  }
+
   return null;
 }
 
-function getExactResults(normalizedQuery) {
+function getExactResults(searchableBlocks, normalizedQuery) {
   return searchableBlocks
     .map((block) => {
       const exactScore = getExactMatchScore(block, normalizedQuery);
@@ -115,7 +137,7 @@ function getExactResults(normalizedQuery) {
     .filter(Boolean);
 }
 
-function getFuseResults(query) {
+function getFuseResults(fuse, query) {
   return fuse.search(query).map((result) => ({
     ...result.item,
     score: result.score ?? 1,
@@ -127,33 +149,63 @@ function removeDuplicates(results) {
   const resultMap = new Map();
 
   results.forEach((result) => {
-    const existingResult = resultMap.get(result.blockId);
+    const resultKey = `${result.documentId}:${result.blockId}`;
+    const existingResult = resultMap.get(resultKey);
 
     if (!existingResult || result.score < existingResult.score) {
-      resultMap.set(result.blockId, result);
+      resultMap.set(resultKey, result);
     }
   });
 
   return Array.from(resultMap.values());
 }
 
-export function searchDocuments(query) {
+const searchIndexPromises = new Map();
+
+async function getSearchIndex(language) {
+  if (!searchIndexPromises.has(language)) {
+    searchIndexPromises.set(language, loadAllDocuments().then((documents) => {
+      const localizedDocuments = documents
+        .map((documentData) => getLocalizedDocument(documentData, language))
+        .filter((documentData) => documentData?.translationAvailable && documentData.blocks);
+      const searchableBlocks = getSearchableBlocks(localizedDocuments, language);
+
+      return {
+        searchableBlocks,
+        searchableDocumentCount: localizedDocuments.length,
+        fuse: new Fuse(searchableBlocks, fuseOptions),
+      };
+    }));
+  }
+
+  return searchIndexPromises.get(language);
+}
+
+export async function getSearchableDocumentCount(language = "ru") {
+  const { searchableDocumentCount } = await getSearchIndex(language);
+  return searchableDocumentCount;
+}
+
+export async function searchDocuments(query, language = "ru") {
   const trimmedQuery = query.trim();
   const normalizedQuery = normalize(trimmedQuery);
 
   if (!normalizedQuery) {
-    return [];
+    return { results: [], searchableDocumentCount: 0 };
   }
 
-  const exactResults = getExactResults(normalizedQuery);
-  const fuzzyResults = getFuseResults(trimmedQuery);
+  const { searchableBlocks, searchableDocumentCount, fuse } = await getSearchIndex(language);
+  const exactResults = getExactResults(searchableBlocks, normalizedQuery);
+  const fuzzyResults = getFuseResults(fuse, trimmedQuery);
 
   const mergedResults = removeDuplicates([...exactResults, ...fuzzyResults]);
 
-  return mergedResults.sort((a, b) => {
+  const results = mergedResults.sort((a, b) => {
     if (a.matchType === "exact" && b.matchType !== "exact") return -1;
     if (a.matchType !== "exact" && b.matchType === "exact") return 1;
 
     return a.score - b.score;
   });
+
+  return { results, searchableDocumentCount };
 }
