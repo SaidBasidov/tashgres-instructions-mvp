@@ -1,0 +1,548 @@
+{
+  "id": "gidravlich-ispytanie-bl-2025",
+  "code": "",
+  "title": "Т И П О В А Я П Р О Г РА М М А",
+  "summary": "Т И П О В А Я П Р О Г РА М М А\nпроведения гидравлического испытания котлоагрегата ТГМ-94\nпосле среднего ремонта блока №2\nГидравлическое испытание производится с целью проверки на плотность поверхности нагрева в котлоагрегата и трубопроводов.",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "гидравлич. испытание бл. 2025.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/gidravlich-ispytanie-bl-2025/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.2in }\n\t\tp { margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: center; background: transparent }\n\t\tp.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "гидравлич. испытание бл. 2025.doc",
+    "path": "documents/gidravlich-ispytanie-bl-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "гидравлич. испытание бл. 2025.pdf",
+    "path": "documents/gidravlich-ispytanie-bl-2025/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "гидравлич. испытание бл. 2025.docx",
+    "path": "documents/gidravlich-ispytanie-bl-2025/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ",
+      "level": 1,
+      "blockIds": [
+        "block-0009",
+        "block-0010",
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039"
+      ],
+      "text": "1. ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ\nДо заполнения котла под гидравлическое испытание, должны быть закончены следующие работы и проведена поузловая приемка.\nРемонт поверхностей нагрева котла, барабана, главных паропроводов, паропроводов «холодного» и «горячего», промперегрева, питательных трубопроводов, сдана сварочная документация.\nРемонт РНП, Д-6 ата, дренажного бака, дренажных насосов с арматурой. Ремонт арматуры: всас и напор ПЭН, задвижки ХПП, импульсно-предохранительные устройства ХПП, ГПП и острого пара, БВК, ДК, БРОУ-1,2, запорная и регулирующая арматура узла 1-х; 2-х; и аварийных впрысков, аварийный сброс котла, продувки пароперегревателей, рециркуляции котла, ГПЗ, байпасы ГПЗ, дренажей до ГПЗ, вход и выход ПВД, холодного питания, дренажей высокого давления котла и промперегрева, вентили водоуказательных колонок, импульсных линий, отборов проб, воздушники, фосфатирования, солевая кратность, непрерывная продувка, нижние точки котла. Вся арматура, имеющая электроприводы, должна быть опробована, ИПУ-1А,Б, ИПУ-2 необходимо заклинить. Сборка отсечных клапанов промперегрева. Клапан необходимо заклинить. Установка манометров:\nДавление питательной воды на БЩУ – 1 шт.\nДавление в барабане котла на БЩУ - 2 шт.\nДавление острого пара до ГПЗ на БЩУ – 1 шт\nДавление питательной воды за СУП - 1 шт.\nДавление в горячем промперегреве - 2 шт. – БЩУ\nДавление в холодном промперегреве - 1 шт. -БЩУ\nУстановить заглушки:\nЗа ДК БРОУ – 2А,Б заглушка должна соответствовать ГОСТ 34233-73, закрывается вся арматура котла по воде и пару.\nЗаполнение котла, промперегрева и трубопроводов производится после разрешения руководства КТЦ-1 и НСС, химобессоленной водой ( c температурой не менее 5 0 С, не более 40 0 С) дренажными насосами по разрешенной местной заявке. Химобессоленная вода подается в дренажный бак котла от коллектора БЗК через всасывающий коллектор ПЭН.\nПо мере заполнения котла - ремонтным персоналом и оперативным персоналом КТЦ-1 совместно проверяются поверхности нагрева котла и арматуры для обнаружения неплотностей. После заполнения котел опрессовывается дренажными насосами на давление на 6-8 ати и при отсутствии замечаний начинаются гидравлические испытания.\nПРОВЕДЕНИЕ ГИДРАВЛИЧЕСКИХ ИСПЫТАНИЙ\nСтавится под давление перемычка питательной воды от работающего блока. Давление в котле и промперегреве поднимается (сверх рабочего 1,25) до 34,5 ати с выдержкой в течение пяти минут. (Согласно правилам устройства и безопасной эксплуатации паровых и водогрейных котлов). Снижается давление до 25 ати и производится осмотр тракта промперегрева. Закрываются БВК, ДК, БРОУ-1, открываются дренажи и производится опорожнение тракта промперегрева. Давление в барабане котла поднимается (сверх рабочего 1,25) до 187,5 ати с выдержкой времени в течение 10 минут. (Согласно правилам устройства и безопасной эксплуатации паровых и водогрейных котлов) Снижается давление до 130 ати и производится осмотр котла, арматуры и трубопроводов, находящихся под давлением. Снижается давление до нуля, опорожняется котел и трубопроводы. Производится восстановление постоянных схем. Снимается заглушка за ДК БРОУ-2А,Б.\n2.10 При положительных результатах гидравлического испытания составляется совместный акт.\nОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ.\nПеред постановкой под давление перемычки питательной воды прекращаются все работы и выводятся ремонтные бригады: с котла, из района питательных трубопроводов, СУП, паропроводов острого пара, холодного и горячего промперегрева. Сдаются промежуточные наряды на работы в указанных местах. Производство работ на остальных участках котла разрешается. Работающие бригады должны быть предупреждены руководителем ремонта о начале гидравлического испытания и недопустимости нахождения персонала в перечисленных выше местах. Гидравлическое испытание производится под непосредственным руководством ответственного руководителя ремонта блока и начальника КТЦ-1 или его заместителя. На все время заполнения котла и гидравлического испытания котла выделяется дежурная бригада во главе с мастером. Список бригады передается руководству КТЦ-1. Члены дежурной бригады должны быть проинструктированы ответственными руководителями ремонтных организаций и КТЦ-1 о соблюдении ПТБ при производстве гидравлического испытания, с записью в журнале инструктажей. Все переключения в тепловых и электрических схемах производится оперативным персоналом КТЦ-1 и электроцеха согласно поданным заявкам. Ответственным за соблюдение ПТЭ, ПТБ является начальник КТЦ-1 и руководитель ремонта.\nЗ ам. тех.директора по тепломеханической части Б.Р. Исмоилов\nН ачальник СНТБ Б.Б. Нурдинов\nВедущий инспектор по ОТ и ТБ Ф.М. Мирзахидова\nВ едущий инспектор по котлонадзору Х.Ф. Абдувалиев\nН ачальник КТЦ-1 У.Л. Мажлимов\nН ачальник ЦТКА Р. К. Байматов\nНачальник Эл.цеха М.Д. Кенж и баев\nН ачальник лаб. металлов Л.У. Эшонкулов\nН ачальник ЦЦР Т.А. Валиев\nРуководитель работ уч-ка «УЭТ» Ш.М. Турсунбаев\nЗам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "keywords": [
+        "котла",
+        "давление",
+        "ктц-1",
+        "промперегрева",
+        "бщу",
+        "ати",
+        "испытания",
+        "ачальник",
+        "работы",
+        "заполнения",
+        "трубопроводов",
+        "гпз",
+        "питательной",
+        "воды",
+        "гидравлического"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<ol data-block-id=\"block-0001\"><li><h1 align=\"right\" class=\"western\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "А О « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 13pt\">А<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.gif\" width=\"62\"/>\nО\n « ТАШКЕНТСКАЯ ТЭС»</font></font></p>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"uz-Cyrl-UZ\">В.В.\nПак</span></font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "Т И П О В А Я П Р О Г РА М М А",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0005\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>Т\nИ П О В А Я  П Р О Г РА М М А</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "проведения гидравлического испытания котлоагрегата ТГМ-94",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0006\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>проведения\n гидравлического испытания котлоагрегата\nТГМ-94  </b></font></font>\n</p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "после среднего ремонта блока №2",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0007\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>после\n  среднего ремонта блока №2</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Гидравлическое испытание производится с целью проверки на плотность поверхности нагрева в котлоагрегата и трубопроводов.",
+      "html": "<p class=\"western\" data-block-id=\"block-0008\" lang=\"ru-RU\">            Гидравлическое\nиспытание производится с целью проверки\nна плотность поверхности нагрева в\nкотлоагрегата и трубопроводов.</p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1. ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0009\" data-section-level=\"1\" id=\"section-001\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>1.</b></font><font size=\"3\" style=\"font-size: 12pt\">\nПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ</font></font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "До заполнения котла под гидравлическое испытание, должны быть закончены следующие работы и проведена поузловая приемка.",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0010\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">До\nзаполнения котла под гидравлическое\nиспытание, должны быть закончены\nследующие работы и проведена поузловая\nприемка.</font></font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "list",
+      "text": "Ремонт поверхностей нагрева котла, барабана, главных паропроводов, паропроводов «холодного» и «горячего», промперегрева, питательных трубопроводов, сдана сварочная документация.",
+      "html": "<ol data-block-id=\"block-0011\">\n<ol>\n<li value=\"1\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\t\tповерхностей нагрева котла, барабана,\n\t\tглавных паропроводов, паропроводов\n\t\t«холодного» и «горячего», промперегрева,\n\t\tпитательных трубопроводов, сдана\n\t\tсварочная документация.</font></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Ремонт РНП, Д-6 ата, дренажного бака, дренажных насосов с арматурой. Ремонт арматуры: всас и напор ПЭН, задвижки ХПП, импульсно-предохранительные устройства ХПП, ГПП и острого пара, БВК, ДК, БРОУ-1,2, запорная и регулирующая арматура узла 1-х; 2-х; и аварийных впрысков, аварийный сброс котла, продувки пароперегревателей, рециркуляции котла, ГПЗ, байпасы ГПЗ, дренажей до ГПЗ, вход и выход ПВД, холодного питания, дренажей высокого давления котла и промперегрева, вентили водоуказательных колонок, импульсных линий, отборов проб, воздушники, фосфатирования, солевая кратность, непрерывная продувка, нижние точки котла. Вся арматура, имеющая электроприводы, должна быть опробована, ИПУ-1А,Б, ИПУ-2 необходимо заклинить. Сборка отсечных клапанов промперегрева. Клапан необходимо заклинить. Установка манометров:",
+      "html": "<ol data-block-id=\"block-0012\">\n<ol>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\t\tРНП, Д-6 ата, дренажного бака, дренажных\n\t\tнасосов с арматурой.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\t\tарматуры: всас и напор ПЭН, задвижки\n\t\tХПП, импульсно-предохранительные\n\t\tустройства ХПП, ГПП и острого пара,\n\t\tБВК, ДК, БРОУ-1,2, запорная и регулирующая\n\t\tарматура узла 1-х; 2-х; и аварийных\n\t\tвпрысков, аварийный сброс котла,\n\t\tпродувки пароперегревателей, рециркуляции\n\t\tкотла, ГПЗ, байпасы ГПЗ, дренажей до\n\t\tГПЗ, вход и выход ПВД, холодного питания,\n\t\tдренажей высокого давления котла и\n\t\tпромперегрева, вентили водоуказательных\n\t\tколонок, импульсных линий, отборов\n\t\tпроб, воздушники, фосфатирования,\n\t\tсолевая кратность, непрерывная продувка,\n\t\tнижние точки котла. Вся арматура,\n\t\tимеющая электроприводы, должна быть\n\t\tопробована, ИПУ-1А,Б, ИПУ-2 необходимо\n\t\tзаклинить.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Сборка\n\t\tотсечных клапанов промперегрева.\n\t\tКлапан необходимо заклинить.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Установка\n\t\tманометров:</font></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "Давление питательной воды на БЩУ – 1 шт.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0013\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\nпитательной воды на БЩУ – 1 шт.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "Давление в барабане котла на БЩУ - 2 шт.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0014\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\nв барабане котла на БЩУ    - 2 шт.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "Давление острого пара до ГПЗ на БЩУ – 1 шт",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0015\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\nострого пара до ГПЗ на БЩУ – 1 шт</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "Давление питательной воды за СУП - 1 шт.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0016\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\nпитательной воды за СУП   - 1 шт.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "Давление в горячем промперегреве - 2 шт. – БЩУ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0017\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\nв горячем промперегреве   -  2 шт.  – БЩУ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "Давление в холодном промперегреве - 1 шт. -БЩУ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0018\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\nв холодном промперегреве - 1 шт. -БЩУ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "Установить заглушки:",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"margin-left: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Установить\nзаглушки:</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "За ДК БРОУ – 2А,Б заглушка должна соответствовать ГОСТ 34233-73, закрывается вся арматура котла по воде и пару.",
+      "html": "<ol data-block-id=\"block-0020\">\n<ol start=\"6\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">За\n\t\tДК БРОУ – 2А,Б заглушка должна\n\t\tсоответствовать ГОСТ 34233-73, закрывается\n\t\tвся арматура котла по воде и пару.</font></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Заполнение котла, промперегрева и трубопроводов производится после разрешения руководства КТЦ-1 и НСС, химобессоленной водой ( c температурой не менее 5 0 С, не более 40 0 С) дренажными насосами по разрешенной местной заявке. Химобессоленная вода подается в дренажный бак котла от коллектора БЗК через всасывающий коллектор ПЭН.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0021\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Заполнение\nкотла, промперегрева и трубопроводов\nпроизводится после разрешения руководства\nКТЦ-1 и НСС, химобессоленной водой (</font><font size=\"3\" style=\"font-size: 12pt\"><span lang=\"en-US\">c</span></font><font size=\"3\" style=\"font-size: 12pt\">\nтемпературой не менее 5</font><sup><font size=\"3\" style=\"font-size: 12pt\">0</font></sup><font size=\"3\" style=\"font-size: 12pt\">С,\nне более 40</font><sup><font size=\"3\" style=\"font-size: 12pt\">0</font></sup><font size=\"3\" style=\"font-size: 12pt\">С)\nдренажными насосами по разрешенной\nместной заявке. Химобессоленная вода\nподается в дренажный бак котла от\nколлектора БЗК через всасывающий\nколлектор ПЭН.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "По мере заполнения котла - ремонтным персоналом и оперативным персоналом КТЦ-1 совместно проверяются поверхности нагрева котла и арматуры для обнаружения неплотностей. После заполнения котел опрессовывается дренажными насосами на давление на 6-8 ати и при отсутствии замечаний начинаются гидравлические испытания.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0022\" lang=\"ru-RU\" style=\"text-indent: 0.29in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">По\nмере заполнения котла - ремонтным\nперсоналом и оперативным персоналом\nКТЦ-1 совместно проверяются поверхности\nнагрева котла и арматуры для обнаружения\nнеплотностей. После заполнения котел\nопрессовывается дренажными насосами\nна давление на 6-8 ати и при  отсутствии\nзамечаний начинаются гидравлические\nиспытания.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "list",
+      "text": "ПРОВЕДЕНИЕ ГИДРАВЛИЧЕСКИХ ИСПЫТАНИЙ",
+      "html": "<ol data-block-id=\"block-0023\" start=\"2\">\n<li><p align=\"left\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">ПРОВЕДЕНИЕ\n\tГИДРАВЛИЧЕСКИХ ИСПЫТАНИЙ</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "list",
+      "text": "Ставится под давление перемычка питательной воды от работающего блока. Давление в котле и промперегреве поднимается (сверх рабочего 1,25) до 34,5 ати с выдержкой в течение пяти минут. (Согласно правилам устройства и безопасной эксплуатации паровых и водогрейных котлов). Снижается давление до 25 ати и производится осмотр тракта промперегрева. Закрываются БВК, ДК, БРОУ-1, открываются дренажи и производится опорожнение тракта промперегрева. Давление в барабане котла поднимается (сверх рабочего 1,25) до 187,5 ати с выдержкой времени в течение 10 минут. (Согласно правилам устройства и безопасной эксплуатации паровых и водогрейных котлов) Снижается давление до 130 ати и производится осмотр котла, арматуры и трубопроводов, находящихся под давлением. Снижается давление до нуля, опорожняется котел и трубопроводы. Производится восстановление постоянных схем. Снимается заглушка за ДК БРОУ-2А,Б.",
+      "html": "<ol data-block-id=\"block-0024\">\n<ol>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ставится\n\t\tпод давление перемычка питательной\n\t\tводы от работающего блока.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tв котле и промперегреве поднимается\n\t\t(сверх рабочего 1,25) до  34,5 ати с выдержкой\n\t\tв течение пяти минут. (Согласно правилам\n\t\tустройства и безопасной эксплуатации\n\t\tпаровых и водогрейных котлов).</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Снижается\n\t\tдавление до 25 ати и производится осмотр\n\t\tтракта промперегрева.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Закрываются\n\t\tБВК, ДК, БРОУ-1, открываются дренажи и\n\t\tпроизводится опорожнение тракта\n\t\tпромперегрева.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tв барабане котла поднимается  (сверх\n\t\tрабочего 1,25) до 187,5 ати с выдержкой\n\t\tвремени в течение 10 минут. (Согласно\n\t\tправилам устройства и безопасной\n\t\tэксплуатации паровых и водогрейных\n\t\tкотлов)</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Снижается\n\t\tдавление до 130 ати и производится осмотр\n\t\tкотла, арматуры и трубопроводов,\n\t\tнаходящихся под давлением.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Снижается\n\t\tдавление до нуля, опорожняется котел\n\t\tи трубопроводы.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Производится\n\t\tвосстановление постоянных схем.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Снимается\n\t\tзаглушка за ДК БРОУ-2А,Б.</font></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "2.10 При положительных результатах гидравлического испытания составляется совместный акт.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0025\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">2.10\nПри положительных результатах\nгидравлического испытания составляется\nсовместный акт.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "list",
+      "text": "ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ.",
+      "html": "<ol data-block-id=\"block-0026\" start=\"3\">\n<li><p align=\"left\" lang=\"ru-RU\" style=\"line-height: 100%\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">ОРГАНИЗАЦИОННЫЕ\n\tМЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ\n\tРАБОТ.</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "list",
+      "text": "Перед постановкой под давление перемычки питательной воды прекращаются все работы и выводятся ремонтные бригады: с котла, из района питательных трубопроводов, СУП, паропроводов острого пара, холодного и горячего промперегрева. Сдаются промежуточные наряды на работы в указанных местах. Производство работ на остальных участках котла разрешается. Работающие бригады должны быть предупреждены руководителем ремонта о начале гидравлического испытания и недопустимости нахождения персонала в перечисленных выше местах. Гидравлическое испытание производится под непосредственным руководством ответственного руководителя ремонта блока и начальника КТЦ-1 или его заместителя. На все время заполнения котла и гидравлического испытания котла выделяется дежурная бригада во главе с мастером. Список бригады передается руководству КТЦ-1. Члены дежурной бригады должны быть проинструктированы ответственными руководителями ремонтных организаций и КТЦ-1 о соблюдении ПТБ при производстве гидравлического испытания, с записью в журнале инструктажей. Все переключения в тепловых и электрических схемах производится оперативным персоналом КТЦ-1 и электроцеха согласно поданным заявкам. Ответственным за соблюдение ПТЭ, ПТБ является начальник КТЦ-1 и руководитель ремонта.",
+      "html": "<ol data-block-id=\"block-0027\">\n<ol>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Перед\n\t\tпостановкой под давление перемычки\n\t\tпитательной воды прекращаются все\n\t\tработы и выводятся ремонтные бригады:\n\t\tс котла, из района питательных\n\t\tтрубопроводов, СУП, паропроводов\n\t\tострого пара, холодного и горячего\n\t\tпромперегрева. \n\t\t</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Сдаются\n\t\tпромежуточные наряды на работы в\n\t\tуказанных местах.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Производство\n\t\tработ на остальных участках котла\n\t\tразрешается. Работающие бригады должны\n\t\tбыть предупреждены руководителем\n\t\tремонта о начале гидравлического\n\t\tиспытания и недопустимости нахождения\n\t\tперсонала в перечисленных выше местах.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Гидравлическое\n\t\tиспытание производится под непосредственным\n\t\tруководством ответственного руководителя\n\t\tремонта блока и начальника КТЦ-1 или\n\t\tего заместителя.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">На все\n\t\tвремя заполнения котла и гидравлического\n\t\tиспытания котла выделяется дежурная\n\t\tбригада во главе с мастером. Список\n\t\tбригады передается руководству КТЦ-1.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Члены\n\t\tдежурной бригады должны быть\n\t\tпроинструктированы ответственными\n\t\tруководителями ремонтных организаций\n\t\tи КТЦ-1 о соблюдении ПТБ при производстве\n\t\tгидравлического испытания, с записью\n\t\tв журнале инструктажей.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Все\n\t\tпереключения в тепловых и электрических\n\t\tсхемах производится оперативным\n\t\tперсоналом КТЦ-1 и электроцеха согласно\n\t\tподанным заявкам.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Ответственным\n\t\tза соблюдение ПТЭ, ПТБ является начальник\n\t\tКТЦ-1 и руководитель ремонта.</p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0028\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_31ddd917.gif\" height=\"56\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-002.gif\" width=\"141\"/>\n<br/>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "З ам. тех.директора по тепломеханической части Б.Р. Исмоилов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0029\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">З<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_64e44389.gif\" height=\"60\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-003.gif\" width=\"79\"/>\nам.\nтех.директора по тепломеханической\nчасти \t\t\t\tБ.Р. Исмоилов                               \n              </font>\n</p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Н ачальник СНТБ Б.Б. Нурдинов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0030\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_9e13de95.png\" height=\"63\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-004.png\" width=\"64\"/>\nачальник\n СНТБ                                 \t\t\t\t\t\tБ.Б. Нурдинов</font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Ведущий инспектор по ОТ и ТБ Ф.М. Мирзахидова",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0031\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Ведущий  инспектор\nпо ОТ и ТБ                                                   \n\t\tФ.М. Мирзахидова</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "В едущий инспектор по котлонадзору Х.Ф. Абдувалиев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0032\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">В<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_50379ea0.png\" height=\"56\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-005.png\" width=\"90\"/>\nедущий\nинспектор по котлонадзору\t\t\t\t\t\tХ.Ф.\nАбдувалиев</font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "Н ачальник КТЦ-1 У.Л. Мажлимов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0033\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_563ac4f5.jpg\" height=\"49\" loading=\"lazy\" name=\"Рисунок 13\" src=\"assets/image-006.jpg\" width=\"114\"/>\nачальник\nКТЦ-1                                                             \n             \t\tУ.Л. Мажлимов</font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "Н ачальник ЦТКА Р. К. Байматов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0034\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_ba50ff54.gif\" height=\"82\" loading=\"lazy\" name=\"Image6\" src=\"assets/image-007.gif\" width=\"102\"/>\nачальник\nЦТКА                                                             \n             \t\tР. К. Байматов</font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "Начальник Эл.цеха М.Д. Кенж и баев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0035\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник Эл.цеха\n                                                                     \n  \t\tМ.Д. Кенж</font><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"uz-Cyrl-UZ\">и</span></font><font size=\"3\" style=\"font-size: 13pt\">баев</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "Н ачальник лаб. металлов Л.У. Эшонкулов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0036\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_7375950f.gif\" height=\"74\" loading=\"lazy\" name=\"Image7\" src=\"assets/image-008.gif\" width=\"64\"/>\nачальник\nлаб. металлов                                             \n                  \t\tЛ.У. Эшонкулов</font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "Н ачальник ЦЦР Т.А. Валиев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0037\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_dc635daa.gif\" height=\"61\" loading=\"lazy\" name=\"Image8\" src=\"assets/image-009.gif\" width=\"92\"/>\nачальник\nЦЦР                                                               \n             \t\tТ.А. Валиев</font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "Руководитель работ уч-ка «УЭТ» Ш.М. Турсунбаев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0038\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">Руководитель\nработ уч-ка «УЭТ»                                      \n                         Ш.М. Турсунбаев</font></font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0039\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо электрооборудованию \t\t\t\tА.А. Махмудходжаев\n                                             </font>\n</p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "котла",
+    "давление",
+    "ктц-1",
+    "промперегрева",
+    "испытания",
+    "гидравлического",
+    "трубопроводов",
+    "бщу",
+    "ати",
+    "ачальник",
+    "ремонта",
+    "работы",
+    "заполнения",
+    "гпз",
+    "питательной",
+    "воды",
+    "бригады",
+    "блока",
+    "гидравлическое",
+    "испытание",
+    "нагрева",
+    "ремонт",
+    "паропроводов",
+    "холодного",
+    "арматуры",
+    "устройства",
+    "острого",
+    "пара",
+    "арматура",
+    "промперегреве",
+    "персоналом",
+    "согласно",
+    "снижается",
+    "работ",
+    "котлоагрегата"
+  ],
+  "statistics": {
+    "blocks": 39,
+    "sections": 1,
+    "tables": 0,
+    "images": 9,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "c1784e71bbd3967d3b11ee8f0776c991c3801d52eaa6f12f1085f5b31353696c",
+    "sourceDocxStats": {
+      "paragraphs": 72,
+      "tables": 0,
+      "media": 9,
+      "textChars": 5265
+    },
+    "htmlTextChars": 5280,
+    "textLengthRatio": 1.003,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/gidravlich-ispytanie-bl-2025/"
+}

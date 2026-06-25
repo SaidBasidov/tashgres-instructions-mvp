@@ -29,11 +29,11 @@ export const messages = {
       loading: "Загрузка библиотеки…",
       emptyTitle: "Документы не найдены",
       emptyDescription: "По выбранным фильтрам нет документов. Сбросьте фильтры или выберите другую комбинацию.",
-      translationUnavailable: "Перевод этого документа на выбранный язык пока не добавлен.",
+      translationUnavailable: "Перевод этого документа на выбранный язык пока не добавлен.", noSelectedLanguageVersion: "Нет версии на выбранном языке", availableOnSelectedLanguage: "Доступно на выбранном языке", availableOf: "из",
       originalAvailable: "Доступен оригинал на языке",
     },
     filters: {
-      title: "Фильтры", reset: "Сбросить", purpose: "Назначение документа", category: "Направление",
+      title: "Фильтры", reset: "Сбросить", availability: "Доступность", onlyAvailable: "Показывать только доступные на выбранном языке", purpose: "Назначение документа", category: "Направление",
       accidentResponse: "Ликвидация / предупреждение аварий", reference: "Справочное описание", operationRules: "Правила эксплуатации",
       boiler: "Котельное оборудование", turbine: "Турбинное оборудование", electrical: "Электрическая часть",
       auxiliaryPower: "Собственные нужды", pgu: "ПГУ-370 MW", pte: "Общие тепломеханические / ПТЭ", other: "Другое",
@@ -41,7 +41,7 @@ export const messages = {
     document: {
       loading: "Загрузка документа…", notFound: "Документ не найден", notFoundDescription: "Выбранный документ отсутствует в базе.",
       translationUnavailable: "Этот документ пока не переведён на выбранный язык.",
-      sourceFile: "Исходный файл", sourceUnavailable: "не включён в веб-версию", contents: "Содержание", contentsLabel: "Содержание документа", page: "Страница {number}", language: "Язык документа", languageName: "Русский",
+      sourceFile: "Исходный файл", sourceUnavailable: "не включён в веб-версию", contents: "Содержание", contentsLabel: "Содержание документа", page: "Страница {number}", language: "Язык документа", languageName: "Русский", richLoadError: "Не удалось загрузить полную версию документа",
     },
     buttons: { back: "Назад", openDocument: "Открыть документ", scrollTop: "Наверх ↑" },
     documentActions: {
@@ -77,11 +77,11 @@ export const messages = {
       description: "Bu yerda yo‘riqnomalar va texnik hujjatlar jamlangan. Ularni vazifasi va uskuna yo‘nalishi bo‘yicha filtrlash mumkin.",
       total: "jami hujjatlar", shown: "ko‘rsatildi", sections: "bo‘limlar", loading: "Kutubxona yuklanmoqda…",
       emptyTitle: "Hujjatlar topilmadi", emptyDescription: "Tanlangan filtrlarga mos hujjatlar yo‘q. Filtrlarni tozalang yoki boshqa kombinatsiyani tanlang.",
-      translationUnavailable: "Bu hujjatning tanlangan tildagi tarjimasi hali qo‘shilmagan.",
+      translationUnavailable: "Bu hujjatning tanlangan tildagi tarjimasi hali qo‘shilmagan.", noSelectedLanguageVersion: "Tanlangan tildagi versiya mavjud emas", availableOnSelectedLanguage: "Tanlangan tilda mavjud", availableOf: "dan",
       originalAvailable: "Asl nusxa tili",
     },
     filters: {
-      title: "Filtrlar", reset: "Tozalash", purpose: "Hujjat vazifasi", category: "Yo‘nalish",
+      title: "Filtrlar", reset: "Tozalash", availability: "Mavjudlik", onlyAvailable: "Faqat tanlangan tilda mavjud hujjatlarni ko‘rsatish", purpose: "Hujjat vazifasi", category: "Yo‘nalish",
       accidentResponse: "Avariyalarni bartaraf etish / oldini olish", reference: "Ma’lumotnoma", operationRules: "Foydalanish qoidalari",
       boiler: "Qozon uskunalari", turbine: "Turbina uskunalari", electrical: "Elektr qismi", auxiliaryPower: "O‘z ehtiyojlari",
       pgu: "BGQ-370 MW", pte: "Umumiy issiqlik-mexanik / FQ", other: "Boshqa",
@@ -89,7 +89,7 @@ export const messages = {
     document: {
       loading: "Hujjat yuklanmoqda…", notFound: "Hujjat topilmadi", notFoundDescription: "Tanlangan hujjat bazada mavjud emas.",
       translationUnavailable: "Bu hujjat tanlangan tilga hali tarjima qilinmagan.", sourceFile: "Manba fayl", sourceUnavailable: "veb-versiyaga kiritilmagan",
-      contents: "Mundarija", contentsLabel: "Hujjat mundarijasi", page: "Sahifa {number}", language: "Hujjat tili", languageName: "O‘zbekcha (lotin)",
+      contents: "Mundarija", contentsLabel: "Hujjat mundarijasi", page: "Sahifa {number}", language: "Hujjat tili", languageName: "O‘zbekcha (lotin)", richLoadError: "Hujjatning to‘liq versiyasini yuklab bo‘lmadi",
     },
     buttons: { back: "Orqaga", openDocument: "Hujjatni ochish", scrollTop: "Yuqoriga ↑" },
     documentActions: {
@@ -125,11 +125,11 @@ export const messages = {
       description: "Бу ерда йўриқномалар ва техник ҳужжатлар жамланган. Уларни вазифаси ва ускуна йўналиши бўйича фильтрлаш мумкин.",
       total: "жами ҳужжатлар", shown: "кўрсатилди", sections: "бўлимлар", loading: "Кутубхона юкланмоқда…",
       emptyTitle: "Ҳужжатлар топилмади", emptyDescription: "Танланган фильтрларга мос ҳужжатлар йўқ. Фильтрларни тозаланг ёки бошқа комбинацияни танланг.",
-      translationUnavailable: "Бу ҳужжатнинг танланган тилдаги таржимаси ҳали қўшилмаган.",
+      translationUnavailable: "Бу ҳужжатнинг танланган тилдаги таржимаси ҳали қўшилмаган.", noSelectedLanguageVersion: "Танланган тилдаги версия мавжуд эмас", availableOnSelectedLanguage: "Танланган тилда мавжуд", availableOf: "дан",
       originalAvailable: "Асл нусха тили",
     },
     filters: {
-      title: "Фильтрлар", reset: "Тозалаш", purpose: "Ҳужжат вазифаси", category: "Йўналиш",
+      title: "Фильтрлар", reset: "Тозалаш", availability: "Мавжудлик", onlyAvailable: "Фақат танланган тилда мавжуд ҳужжатларни кўрсатиш", purpose: "Ҳужжат вазифаси", category: "Йўналиш",
       accidentResponse: "Аварияларни бартараф этиш / олдини олиш", reference: "Маълумотнома", operationRules: "Фойдаланиш қоидалари",
       boiler: "Қозон ускуналари", turbine: "Турбина ускуналари", electrical: "Электр қисми", auxiliaryPower: "Ўз эҳтиёжлари",
       pgu: "БГҚ-370 MW", pte: "Умумий иссиқлик-механик / ФҚ", other: "Бошқа",
@@ -137,7 +137,7 @@ export const messages = {
     document: {
       loading: "Ҳужжат юкланмоқда…", notFound: "Ҳужжат топилмади", notFoundDescription: "Танланган ҳужжат базада мавжуд эмас.",
       translationUnavailable: "Бу ҳужжат танланган тилга ҳали таржима қилинмаган.", sourceFile: "Манба файл", sourceUnavailable: "веб-версияга киритилмаган",
-      contents: "Мундарижа", contentsLabel: "Ҳужжат мундарижаси", page: "Саҳифа {number}", language: "Ҳужжат тили", languageName: "Ўзбекча (кирилл)",
+      contents: "Мундарижа", contentsLabel: "Ҳужжат мундарижаси", page: "Саҳифа {number}", language: "Ҳужжат тили", languageName: "Ўзбекча (кирилл)", richLoadError: "Ҳужжатнинг тўлиқ версиясини юклаб бўлмади",
     },
     buttons: { back: "Орқага", openDocument: "Ҳужжатни очиш", scrollTop: "Юқорига ↑" },
     documentActions: {

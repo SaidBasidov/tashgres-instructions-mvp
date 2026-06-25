@@ -13,14 +13,25 @@
 export function prepareDocumentTranslations(documentData) {
   if (!documentData || documentData.translations) return documentData;
 
+  const sourceLanguage = documentData.sourceLanguage || documentData.language || "ru";
+
   return {
     ...documentData,
+    sourceLanguage,
+    translationStatus: {
+      ...documentData.translationStatus,
+      [sourceLanguage]: "source",
+    },
     translations: {
       ...documentData.translations,
-      ru: {
+      [sourceLanguage]: {
+        status: "source",
         title: documentData.title,
         summary: documentData.summary,
+        sections: documentData.sections,
         blocks: documentData.blocks,
+        richContent: documentData.richContent,
+        searchMetadata: documentData.searchMetadata?.[sourceLanguage],
       },
     },
   };
@@ -30,8 +41,10 @@ export function getLocalizedDocument(documentData, language) {
   if (!documentData) return null;
 
   const translation = documentData.translations?.[language];
+  const sourceLanguage = documentData.sourceLanguage || documentData.language || "ru";
+  const isSourceLanguage = language === sourceLanguage;
 
-  if (language === "ru") {
+  if (translation || isSourceLanguage) {
     const russianTitle = translation?.title ?? documentData.title;
     const russianBlocks = translation?.blocks ?? documentData.blocks;
 
@@ -39,20 +52,17 @@ export function getLocalizedDocument(documentData, language) {
       ...documentData,
       title: russianTitle,
       summary: translation?.summary ?? documentData.summary,
+      sections: translation?.sections ?? (isSourceLanguage ? documentData.sections : null),
       blocks: russianBlocks,
-      translationAvailable: Boolean(russianTitle && russianBlocks?.length),
+      richContent: translation?.richContent ?? (isSourceLanguage ? documentData.richContent : null),
+      activeTranslationStatus: translation?.status || documentData.translationStatus?.[language],
+      searchMetadata: {
+        ...documentData.searchMetadata,
+        ...(translation?.searchMetadata ? { [language]: translation.searchMetadata } : {}),
+      },
+      translationAvailable: Boolean(russianTitle && (russianBlocks?.length || translation?.sections?.length || translation?.richContent)),
     };
   }
 
-  if (!translation) {
-    return { ...documentData, title: null, summary: null, blocks: null, translationAvailable: false };
-  }
-
-  return {
-    ...documentData,
-    title: translation.title ?? null,
-    summary: translation.summary ?? null,
-    blocks: translation.blocks ?? null,
-    translationAvailable: Boolean(translation.title && translation.blocks),
-  };
+  return { ...documentData, title: null, summary: null, sections: null, blocks: null, richContent: null, translationAvailable: false };
 }

@@ -1,0 +1,981 @@
+{
+  "id": "proverka-plotnosti-stop-i-reg-klap-tg-2026",
+  "code": "",
+  "title": "ТИПОВАЯ ПРОГРАММА",
+  "summary": "ТИПОВАЯ ПРОГРАММА\nПроверка плотности стопорных и регулирующих клапанов ТГ\nпосле ремонта блоков\nЦелью проведения испытания является определения плотности стопорного клапана высокого давления, регулирующих клапанов высокого давления и стопорных, регулирующих клапанов среднего давления ТГ после ремонта блоков.\n1. На турбине К-160-130 ХТГЗ проверка плотности клапанов высокого давления (ВД) проводится при давлении свежего пара перед ними 65-130 кгс/см 2 , клапанов среднего давления (СД) - при давлени",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "Проверка_плотности_стоп_и_рег_клап_ТГ_2026.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.49in; margin-top: 0.3in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "Проверка_плотности_стоп_и_рег_клап_ТГ_2026.doc",
+    "path": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "Проверка_плотности_стоп_и_рег_клап_ТГ_2026.pdf",
+    "path": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "Проверка_плотности_стоп_и_рег_клап_ТГ_2026.docx",
+    "path": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2026/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "2",
+      "title": "Мероприятия по подготовке оборудования к проведению работ:",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022"
+      ],
+      "text": "2. Мероприятия по подготовке оборудования к проведению работ:\n2.1. Проверить плавное перемещение регулирующих клапанов ВД, СД.\n2.2. Закрыть обратные клапаны отборов (КОС)\n2.3. Проверить готовность к пуску резервного и пускового маслонасосов.\n2.4. Проверить исправность работы электрического привода ГПЗ и их байпасов.\n2.5. Проверить соответствие температуры масла в системе регулирования и смазки с заводскими данными.Температура масла должна быть 40-43ºС.\n2.6. Проведение испытания заранее согласовывается с НСС.\n2.7. Провести инструктажи перед началом испытания персоналу участвующему в проведении испытаний, с записью в журнале инструктажей.\nОтветственный – начальник КТЦ-1,2 или его заместитель.\nПроверка плотности клапанов производится при давлении свежего пара – 65 кгс/см 2 .",
+      "keywords": [
+        "проверить",
+        "клапанов",
+        "масла",
+        "испытания"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "3",
+      "title": "Проверка плотности регулирующих клапанов. Порядок проверки:",
+      "level": 1,
+      "blockIds": [
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030"
+      ],
+      "text": "3. Проверка плотности регулирующих клапанов. Порядок проверки:\n3.1. Включается в работу пусковой маслонасос (ПМН) ТГ и взводятся стопорные клапаны ВД и СД. Воздействием на МУТ поднять частоту вращения роторов ТГ до номинального значения 3000 об/мин.\n3.2. При номинальной частоте вращения действием на кнопку ручного отключения или дистанционного, закрываются стопорные и регулирующие клапаны ВД и СД. Одновременно закрываются ГПЗ и их байпасы. Открываются дренажи до и после стопорного клапана, задвижки ХПП закрыты.\n3.3. При частоте вращения ротора 800 об/мин. поднимается давление пара перед блок клапанами среднего давления до 29 кгс/см 2 , прикрытием БРОУ-2.\n3.4. Стопорные и регулирующие клапана среднего давления считаются плотными, если частота вращения ротора снизится до 300 об/мин.\n3.5. Давление пара перед клапанами СД снижается до 11 кгс/см 2 , открываются стопорные клапана СД и стопорный клапан ВД.\n3.6. При проверке плотности регулирующих клапанов ВД частота вращения ротора повышается до 400-500 об/мин, кратковременным открытием регулирующих клапанов СД воздействием на механизм управления турбиной (МУТ). Давление пара перед клапанами СД снижается до минимума.\n3.7. Открываются байпасы ГПЗ и контролируется давлением в камере регулирующей ступени и перед распределительной диафрагмой. В случае подъема давления в камере регулирующей ступени до 4 кгс/см 2 закрывают байпасы ГПЗ, регулирующие клапаны считаются неплотными и проверка прекращается. Регулирующие клапана ВД считаются плотными, если частота вращения снизится до 300 об/мин.",
+      "keywords": [
+        "вращения",
+        "мин",
+        "стопорные",
+        "регулирующие",
+        "клапана",
+        "регулирующих",
+        "клапанов",
+        "клапаны",
+        "гпз",
+        "байпасы",
+        "открываются",
+        "ротора",
+        "давление",
+        "пара",
+        "клапанами"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "4",
+      "title": "При испытании плотности стопорного клапана ВД необходимо выполнить следующее:",
+      "level": 1,
+      "blockIds": [
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039"
+      ],
+      "text": "4. При испытании плотности стопорного клапана ВД необходимо выполнить следующее:\n4.1 Включается в работу ПМН ТГ и взводятся стопорные клапаны ВД и СД.\n4.2. Открыть полностью вентиль полного расхаживания стопорного клапана, убедиться в полном его закрытии (стопорного клапана).\n4.3.Закрыть пробковые краны на рабочих линиях сервомоторов встроенных регулирующих клапанов СД.\n4.4. Воздействием на МУТ открыть сервомотор регулирующих клапанов ВД на 150 мм.\n4.5. Давление пара перед ГПЗ 65 кгс/см 2 .\n4.6. Давление пара перед клапанами СД составляет 11 кгс/см 2 .\n4.7. Кратковременным открытием регулирующих клапанов СД на 15-20 мм. с помощью пробковых кранов установить частоту вращения 400-500 об/мин.\n4.8. Открыть байпасы ГПЗ и контролировать давление в камере регулирующей ступени. В случае подъема давления до 4 кгс/см 2 закрываются байпас ГПЗ, стопорные клапаны считаются неплотными. Если частота вращения снизится до 300 об/мин., стопорные клапана считаются плотными.",
+      "keywords": [
+        "клапана",
+        "стопорного",
+        "стопорные",
+        "открыть",
+        "регулирующих",
+        "клапанов",
+        "давление",
+        "гпз",
+        "кгс",
+        "клапаны",
+        "пара",
+        "вращения",
+        "мин",
+        "считаются"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "5",
+      "title": "ТБ при проверке плотности ст. и регулирующих клапанов:",
+      "level": 1,
+      "blockIds": [
+        "block-0040",
+        "block-0041",
+        "block-0042",
+        "block-0043"
+      ],
+      "text": "5. ТБ при проверке плотности ст. и регулирующих клапанов:\n5.1. Провести инструктаж персоналу, участвующему в проведении проверки, с записью в журнале.\n5.2. Удалить с местного щита управления турбины персонал, не участвующий в проверке.\nОтветственность за соблюдение правил техники безопасности возлагается на начальника КТЦ-1 или его заместителя.",
+      "keywords": [
+        "проверке"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "6",
+      "title": "Расстановка оперативного персонала по местам.",
+      "level": 1,
+      "blockIds": [
+        "block-0044",
+        "block-0045",
+        "block-0046",
+        "block-0047",
+        "block-0048",
+        "block-0049",
+        "block-0050",
+        "block-0051",
+        "block-0052",
+        "block-0053"
+      ],
+      "text": "6. Расстановка оперативного персонала по местам.\n6.1. Обходчик ТГ - на отм. 9 м. и у местного щита турбины.\n6.2. Обходчик по котлу – 2 ярус котла.\n6.3. Машинист блока – у ключей управления котлом на БЩУ.\n6.4. Старший машинист – у ключей управления турбиной на БЩУ.\n6.5. Начальник смены – у пульта связи БЩУ.\n6.6. Ответственный руководитель испытания – на отм. 9 м. ТГ.\nСтарший машинист блока производит контроль работы оборудования турбогенератора, включает БРОУ-1,2, по команде ответственного руководителя, расхаживающее устройство стопорного клапана и блок клапанов, машинист блока производит контроль и поддержание параметров котла.\nНачальник смены фиксирует величину оборотов турбины по тахометру. Обходчик ТГ поддерживает вакуум в конденсаторе. По команде ответственного руководителя открывает и закрывает дренажи ТГ, байпас ГПЗ.\nОтветственный руководитель испытаний находится на местном щите турбины и следит за оборотом турбины.",
+      "keywords": [
+        "турбины",
+        "машинист",
+        "обходчик",
+        "блока",
+        "бщу",
+        "отм",
+        "котла",
+        "ключей",
+        "управления",
+        "старший",
+        "начальник",
+        "смены",
+        "ответственный",
+        "руководитель",
+        "производит"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "7",
+      "title": "Действия оперативного персонала в аварийных ситуациях:",
+      "level": 1,
+      "blockIds": [
+        "block-0054",
+        "block-0055",
+        "block-0056",
+        "block-0057",
+        "block-0058",
+        "block-0059",
+        "block-0060",
+        "block-0061"
+      ],
+      "text": "7. Действия оперативного персонала в аварийных ситуациях:\n- при повышении частоты вращения ротора выше 3360 об/мин. прекратить доступ пара в турбину воздействием на защитное устройство дистанционно или по месту;\n- при проверке после открытия байпаса ГПЗ контролируется давление в камере регулирующей ступени и перед разделительной диафрагмой.\n- случае подъема давления в камере регулирующей ступени или разделительной диафрагме до 4 кгс/см 2 закрывают байпасы ГПЗ, открывают БРОУ.\n7.1. Обходчик ТГ прекращает доступ пара в турбину, открывает дренажи ТГ.\n7.2. Старший машинист включает БРОУ, при необходимости открывает ИПУ-2.\n7.3. Ответственный руководитель испытания выбивает ГАБ.\n7.4. Машинист блока гасит котел.",
+      "keywords": [
+        "доступ",
+        "пара",
+        "турбину",
+        "гпз",
+        "камере",
+        "регулирующей",
+        "ступени",
+        "разделительной",
+        "броу",
+        "открывает",
+        "машинист"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-007",
+      "number": "8",
+      "title": "Руководство по испытанию на определение паровой плотности клапанов осуществляет начальник КТЦ-1,2 или его заместитель.",
+      "level": 1,
+      "blockIds": [
+        "block-0062",
+        "block-0063",
+        "block-0064",
+        "block-0065",
+        "block-0066"
+      ],
+      "text": "8. Руководство по испытанию на определение паровой плотности клапанов осуществляет начальник КТЦ-1,2 или его заместитель.\nЗам. тех.директора по тепломеханической части Б.Р. Исмоилов Начальник СНТБ Б.Б. Нурдинов Начальник КТЦ-1 У.Л. Мажлимов Начальник КТЦ-2 М.М. Махкамов Начальника ЦТКА Р. К. Байматов Руководитель работ. уч-ка «УЭТ» А. Мамиров Ведущий инженер «Узэнергосозлаш» Ф.Ф.Умеров\nЗам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "keywords": [
+        "начальник",
+        "ктц-1",
+        "зам",
+        "тех",
+        "директора"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<ol data-block-id=\"block-0001\"><li><h1 align=\"right\" class=\"western\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">АО  « ТАШКЕНТСКАЯ\nТЭС»</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"uz-Cyrl-UZ\">В.В.\nПак</span></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ТИПОВАЯ ПРОГРАММА",
+      "html": "<p align=\"center\" data-block-id=\"block-0005\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><b>ТИПОВАЯ\nПРОГРАММА</b></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Проверка плотности стопорных и регулирующих клапанов ТГ",
+      "html": "<p align=\"center\" data-block-id=\"block-0006\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><b>Проверка\n плотности стопорных и регулирующих\nклапанов ТГ</b></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "после ремонта блоков",
+      "html": "<p align=\"center\" data-block-id=\"block-0007\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"> <font size=\"3\" style=\"font-size: 12pt\"><b>после\nремонта блоков</b></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Целью проведения испытания является определения плотности стопорного клапана высокого давления, регулирующих клапанов высокого давления и стопорных, регулирующих клапанов среднего давления ТГ после ремонта блоков.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0008\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tЦелью\nпроведения испытания является определения\nплотности стопорного клапана высокого\nдавления, регулирующих клапанов высокого\nдавления и стопорных, регулирующих\nклапанов среднего давления ТГ после \nремонта блоков.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1. На турбине К-160-130 ХТГЗ проверка плотности клапанов высокого давления (ВД) проводится при давлении свежего пара перед ними 65-130 кгс/см 2 , клапанов среднего давления (СД) - при давлении пара перед ними не ниже 20 кгс/см 2 .",
+      "html": "<p align=\"justify\" data-block-id=\"block-0009\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t1.\nНа турбине К-160-130 ХТГЗ проверка плотности\nклапанов высокого давления (ВД) проводится\nпри давлении свежего  пара  перед ними\n65-130 кгс/см<sup>2</sup>, клапанов среднего\nдавления (СД) - при давлении пара перед\nними не ниже 20 кгс/см<sup>2</sup>.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Вначале проверяются плотность клапанов СД, а затем клапанов ВД.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0010\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tВначале\nпроверяются плотность клапанов СД, а\nзатем клапанов ВД.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "При проверке паровой плотности клапанов СД турбины необходимое давление пара перед клапанами СД обеспечивается открытием БРОУ-1.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0011\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tПри\nпроверке паровой плотности клапанов\nСД турбины необходимое давление пара\nперед клапанами СД обеспечивается \nоткрытием БРОУ-1.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "Необходимое давление свежего пара при проверке плотности клапанов ВД устанавливается за счет корректировки расхода воды и топлива на котел.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0012\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tНеобходимое\nдавление свежего пара при проверке\nплотности клапанов ВД устанавливается\nза счет корректировки расхода воды и\nтоплива на котел.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "2. Мероприятия по подготовке оборудования к проведению работ:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0013\" data-section-level=\"1\" id=\"section-001\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.\nМероприятия по подготовке оборудования\nк проведению работ:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "2.1. Проверить плавное перемещение регулирующих клапанов ВД, СД.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0014\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.1.\nПроверить плавное перемещение регулирующих\nклапанов ВД, СД.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "2.2. Закрыть обратные клапаны отборов (КОС)",
+      "html": "<p align=\"justify\" data-block-id=\"block-0015\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.2.\nЗакрыть обратные клапаны отборов (КОС)</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "2.3. Проверить готовность к пуску резервного и пускового маслонасосов.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0016\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.3.\nПроверить готовность к пуску резервного\nи пускового маслонасосов.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "2.4. Проверить исправность работы электрического привода ГПЗ и их байпасов.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0017\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.4.\nПроверить исправность работы электрического\nпривода ГПЗ и их байпасов.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "2.5. Проверить соответствие температуры масла в системе регулирования и смазки с заводскими данными.Температура масла должна быть 40-43ºС.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0018\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.5.\nПроверить соответствие температуры\nмасла в системе регулирования и смазки\nс заводскими данными.Температура масла\nдолжна быть 40-43ºС.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "2.6. Проведение испытания заранее согласовывается с НСС.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.6.\nПроведение испытания заранее\nсогласовывается с НСС.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "2.7. Провести инструктажи перед началом испытания персоналу участвующему в проведении испытаний, с записью в журнале инструктажей.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0020\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t2.7.\nПровести инструктажи перед началом\nиспытания персоналу участвующему в\nпроведении испытаний, с записью в журнале\nинструктажей.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Ответственный – начальник КТЦ-1,2 или его заместитель.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0021\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">Ответственный\n– начальник КТЦ-1,2 или его заместитель.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Проверка плотности клапанов производится при давлении свежего пара – 65 кгс/см 2 .",
+      "html": "<p align=\"justify\" data-block-id=\"block-0022\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tПроверка\nплотности клапанов производится при\nдавлении свежего пара – 65 кгс/см<sup>2</sup>.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "3. Проверка плотности регулирующих клапанов. Порядок проверки:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0023\" data-section-level=\"1\" id=\"section-002\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.\nПроверка плотности регулирующих\nклапанов. Порядок проверки:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-002"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "3.1. Включается в работу пусковой маслонасос (ПМН) ТГ и взводятся стопорные клапаны ВД и СД. Воздействием на МУТ поднять частоту вращения роторов ТГ до номинального значения 3000 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0024\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.1.\nВключается в работу пусковой маслонасос\n(ПМН) ТГ и взводятся стопорные клапаны\nВД и СД. Воздействием на МУТ поднять\nчастоту вращения роторов ТГ до номинального\nзначения 3000 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "3.2. При номинальной частоте вращения действием на кнопку ручного отключения или дистанционного, закрываются стопорные и регулирующие клапаны ВД и СД. Одновременно закрываются ГПЗ и их байпасы. Открываются дренажи до и после стопорного клапана, задвижки ХПП закрыты.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0025\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.2.\nПри номинальной частоте вращения\nдействием на кнопку ручного отключения\nили дистанционного, закрываются стопорные\nи регулирующие клапаны ВД и СД. \nОдновременно закрываются ГПЗ и их\nбайпасы. Открываются дренажи  до и после\nстопорного клапана, задвижки ХПП закрыты.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "3.3. При частоте вращения ротора 800 об/мин. поднимается давление пара перед блок клапанами среднего давления до 29 кгс/см 2 , прикрытием БРОУ-2.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0026\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.3.\nПри частоте вращения ротора 800 об/мин.\nподнимается давление пара перед блок\nклапанами среднего давления до 29 кгс/см<sup>2</sup>,\nприкрытием БРОУ-2.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "3.4. Стопорные и регулирующие клапана среднего давления считаются плотными, если частота вращения ротора снизится до 300 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0027\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.4.\nСтопорные и регулирующие клапана\nсреднего давления считаются плотными,\nесли частота вращения ротора снизится\nдо 300 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "3.5. Давление пара перед клапанами СД снижается до 11 кгс/см 2 , открываются стопорные клапана СД и стопорный клапан ВД.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0028\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.5.\nДавление пара перед клапанами СД\nснижается до 11 кгс/см<sup>2</sup>, открываются\nстопорные клапана СД и стопорный клапан\nВД.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "3.6. При проверке плотности регулирующих клапанов ВД частота вращения ротора повышается до 400-500 об/мин, кратковременным открытием регулирующих клапанов СД воздействием на механизм управления турбиной (МУТ). Давление пара перед клапанами СД снижается до минимума.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0029\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.6.\nПри проверке плотности регулирующих\nклапанов ВД частота вращения ротора\nповышается до 400-500 об/мин, кратковременным\nоткрытием регулирующих клапанов СД\nвоздействием на механизм управления\nтурбиной (МУТ). Давление пара  перед\nклапанами СД снижается до минимума.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "3.7. Открываются байпасы ГПЗ и контролируется давлением в камере регулирующей ступени и перед распределительной диафрагмой. В случае подъема давления в камере регулирующей ступени до 4 кгс/см 2 закрывают байпасы ГПЗ, регулирующие клапаны считаются неплотными и проверка прекращается. Регулирующие клапана ВД считаются плотными, если частота вращения снизится до 300 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0030\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t3.7.\nОткрываются байпасы ГПЗ и контролируется\nдавлением в камере регулирующей ступени\nи перед распределительной диафрагмой.\nВ случае подъема давления в камере\nрегулирующей ступени до 4 кгс/см<sup>2</sup>\nзакрывают байпасы ГПЗ, регулирующие\nклапаны считаются неплотными и проверка\nпрекращается. Регулирующие клапана ВД\nсчитаются плотными, если частота вращения\nснизится до 300 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "4. При испытании плотности стопорного клапана ВД необходимо выполнить следующее:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0031\" data-section-level=\"1\" id=\"section-003\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.\nПри испытании плотности стопорного\nклапана ВД необходимо выполнить\nследующее:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-003"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "4.1 Включается в работу ПМН ТГ и взводятся стопорные клапаны ВД и СД.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0032\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">4.1 Включается в\nработу ПМН ТГ и взводятся стопорные\nклапаны ВД и СД. </font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "4.2. Открыть полностью вентиль полного расхаживания стопорного клапана, убедиться в полном его закрытии (стопорного клапана).",
+      "html": "<p align=\"justify\" data-block-id=\"block-0033\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.2.\nОткрыть полностью вентиль полного\nрасхаживания стопорного клапана,\nубедиться в полном его закрытии\n(стопорного клапана).</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "4.3.Закрыть пробковые краны на рабочих линиях сервомоторов встроенных регулирующих клапанов СД.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0034\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.3.Закрыть\nпробковые краны на рабочих линиях\nсервомоторов встроенных регулирующих\nклапанов СД.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "4.4. Воздействием на МУТ открыть сервомотор регулирующих клапанов ВД на 150 мм.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0035\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.4.\nВоздействием на МУТ открыть сервомотор\nрегулирующих клапанов ВД на 150 мм.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "4.5. Давление пара перед ГПЗ 65 кгс/см 2 .",
+      "html": "<p align=\"justify\" data-block-id=\"block-0036\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.5.\nДавление пара  перед ГПЗ 65 кгс/см<sup>2</sup>.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "4.6. Давление пара перед клапанами СД составляет 11 кгс/см 2 .",
+      "html": "<p align=\"justify\" data-block-id=\"block-0037\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.6.\nДавление пара перед клапанами СД\nсоставляет 11 кгс/см<sup>2</sup>.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "4.7. Кратковременным открытием регулирующих клапанов СД на 15-20 мм. с помощью пробковых кранов установить частоту вращения 400-500 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0038\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.7.\nКратковременным открытием регулирующих\nклапанов СД на  15-20 мм.  с помощью пробковых\nкранов установить частоту вращения  \n400-500 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "4.8. Открыть байпасы ГПЗ и контролировать давление в камере регулирующей ступени. В случае подъема давления до 4 кгс/см 2 закрываются байпас ГПЗ, стопорные клапаны считаются неплотными. Если частота вращения снизится до 300 об/мин., стопорные клапана считаются плотными.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0039\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t4.8.\nОткрыть байпасы ГПЗ и контролировать\nдавление в камере регулирующей ступени.\nВ случае подъема давления до 4 кгс/см<sup>2</sup>\nзакрываются байпас ГПЗ, стопорные\nклапаны считаются неплотными. Если\nчастота вращения снизится до 300 об/мин.,\nстопорные клапана считаются плотными.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "paragraph",
+      "text": "5. ТБ при проверке плотности ст. и регулирующих клапанов:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0040\" data-section-level=\"1\" id=\"section-004\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t5.\nТБ при проверке плотности ст. и регулирующих\nклапанов:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-004"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "5.1. Провести инструктаж персоналу, участвующему в проведении проверки, с записью в журнале.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0041\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t5.1.\nПровести инструктаж персоналу,\nучаствующему в проведении проверки, с\nзаписью в журнале.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "5.2. Удалить с местного щита управления турбины персонал, не участвующий в проверке.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0042\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t5.2.\nУдалить с местного щита управления\nтурбины персонал, не участвующий в\nпроверке.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "Ответственность за соблюдение правил техники безопасности возлагается на начальника КТЦ-1 или его заместителя.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0043\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tОтветственность\nза соблюдение правил техники безопасности\nвозлагается на начальника КТЦ-1 или его\nзаместителя.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "paragraph",
+      "text": "6. Расстановка оперативного персонала по местам.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0044\" data-section-level=\"1\" id=\"section-005\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.\nРасстановка оперативного персонала по\nместам.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-005"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0045",
+      "type": "paragraph",
+      "text": "6.1. Обходчик ТГ - на отм. 9 м. и у местного щита турбины.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0045\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.1.\nОбходчик ТГ - на отм. 9 м. и у местного\nщита турбины.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0046",
+      "type": "paragraph",
+      "text": "6.2. Обходчик по котлу – 2 ярус котла.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0046\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.2.\nОбходчик по котлу – 2 ярус котла.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0047",
+      "type": "paragraph",
+      "text": "6.3. Машинист блока – у ключей управления котлом на БЩУ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0047\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.3.\nМашинист блока – у ключей управления\nкотлом на БЩУ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0048",
+      "type": "paragraph",
+      "text": "6.4. Старший машинист – у ключей управления турбиной на БЩУ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0048\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.4.\nСтарший машинист – у ключей управления\nтурбиной на БЩУ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0049",
+      "type": "paragraph",
+      "text": "6.5. Начальник смены – у пульта связи БЩУ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0049\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.5.\nНачальник смены – у пульта связи БЩУ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0050",
+      "type": "paragraph",
+      "text": "6.6. Ответственный руководитель испытания – на отм. 9 м. ТГ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0050\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t6.6.\nОтветственный руководитель испытания\n– на отм. 9 м. ТГ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0051",
+      "type": "paragraph",
+      "text": "Старший машинист блока производит контроль работы оборудования турбогенератора, включает БРОУ-1,2, по команде ответственного руководителя, расхаживающее устройство стопорного клапана и блок клапанов, машинист блока производит контроль и поддержание параметров котла.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0051\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tСтарший\nмашинист блока производит контроль\nработы оборудования турбогенератора,\nвключает БРОУ-1,2, по команде ответственного\nруководителя, расхаживающее устройство\nстопорного клапана и блок клапанов,\nмашинист блока производит контроль и\nподдержание параметров котла.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0052",
+      "type": "paragraph",
+      "text": "Начальник смены фиксирует величину оборотов турбины по тахометру. Обходчик ТГ поддерживает вакуум в конденсаторе. По команде ответственного руководителя открывает и закрывает дренажи ТГ, байпас ГПЗ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0052\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tНачальник\nсмены фиксирует величину оборотов\nтурбины по тахометру. Обходчик ТГ\nподдерживает вакуум в конденсаторе. По\nкоманде ответственного руководителя\nоткрывает и закрывает дренажи ТГ, байпас\nГПЗ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0053",
+      "type": "paragraph",
+      "text": "Ответственный руководитель испытаний находится на местном щите турбины и следит за оборотом турбины.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0053\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\tОтветственный\nруководитель испытаний находится на\nместном щите турбины и следит за оборотом\nтурбины.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0054",
+      "type": "paragraph",
+      "text": "7. Действия оперативного персонала в аварийных ситуациях:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0054\" data-section-level=\"1\" id=\"section-006\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t7.\nДействия оперативного персонала в\nаварийных ситуациях:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-006"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0055",
+      "type": "paragraph",
+      "text": "- при повышении частоты вращения ротора выше 3360 об/мин. прекратить доступ пара в турбину воздействием на защитное устройство дистанционно или по месту;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0055\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t-\nпри повышении частоты вращения ротора\nвыше 3360 об/мин. прекратить доступ пара\nв турбину воздействием на защитное\nустройство дистанционно или по месту;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0056",
+      "type": "paragraph",
+      "text": "- при проверке после открытия байпаса ГПЗ контролируется давление в камере регулирующей ступени и перед разделительной диафрагмой.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0056\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t-\nпри проверке после открытия байпаса\nГПЗ контролируется давление в камере\nрегулирующей ступени и перед разделительной\nдиафрагмой.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0057",
+      "type": "paragraph",
+      "text": "- случае подъема давления в камере регулирующей ступени или разделительной диафрагме до 4 кгс/см 2 закрывают байпасы ГПЗ, открывают БРОУ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0057\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t-\nслучае подъема давления в камере\nрегулирующей ступени или разделительной\nдиафрагме до 4 кгс/см<sup>2</sup> закрывают\nбайпасы ГПЗ, открывают БРОУ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0058",
+      "type": "paragraph",
+      "text": "7.1. Обходчик ТГ прекращает доступ пара в турбину, открывает дренажи ТГ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0058\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t7.1.\nОбходчик ТГ прекращает доступ пара в\nтурбину, открывает дренажи ТГ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0059",
+      "type": "paragraph",
+      "text": "7.2. Старший машинист включает БРОУ, при необходимости открывает ИПУ-2.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0059\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t7.2.\nСтарший машинист включает БРОУ, при\nнеобходимости открывает ИПУ-2.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0060",
+      "type": "paragraph",
+      "text": "7.3. Ответственный руководитель испытания выбивает ГАБ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0060\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t7.3.\nОтветственный руководитель испытания\nвыбивает ГАБ.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0061",
+      "type": "paragraph",
+      "text": "7.4. Машинист блока гасит котел.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0061\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t7.4.\nМашинист блока гасит котел.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0062",
+      "type": "paragraph",
+      "text": "8. Руководство по испытанию на определение паровой плотности клапанов осуществляет начальник КТЦ-1,2 или его заместитель.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0062\" data-section-level=\"1\" id=\"section-007\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\">\t8.\nРуководство по испытанию на определение\nпаровой плотности клапанов осуществляет\nначальник КТЦ-1,2 или его заместитель.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-007"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0063",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по тепломеханической части Б.Р. Исмоилов Начальник СНТБ Б.Б. Нурдинов Начальник КТЦ-1 У.Л. Мажлимов Начальник КТЦ-2 М.М. Махкамов Начальника ЦТКА Р. К. Байматов Руководитель работ. уч-ка «УЭТ» А. Мамиров Ведущий инженер «Узэнергосозлаш» Ф.Ф.Умеров",
+      "html": "<div align=\"right\" data-block-id=\"block-0063\">\n<table cellpadding=\"7\" cellspacing=\"0\" width=\"691\">\n<col width=\"456\"/>\n<col width=\"207\"/>\n<tr valign=\"top\">\n<td height=\"36\" style=\"border: none; padding: 0in\" width=\"456\"><p class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\n\t\t\t\tпо тепломеханической части</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">Б.Р. Исмоилов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник СНТБ</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">Б.Б. Нурдинов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник КТЦ-1</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">У.Л. Мажлимов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник КТЦ-2</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">М.М. Махкамов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальника ЦТКА</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\" style=\"text-indent: 0.43in; margin-left: 0.03in\">\n<font size=\"3\" style=\"font-size: 13pt\">Р. К. Байматов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td height=\"33\" style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\" style=\"margin-right: -0.04in\">\n<font size=\"3\" style=\"font-size: 13pt\">Руководитель\n\t\t\t\tработ. уч-ка «УЭТ»</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\" style=\"margin-right: -0.04in\">\n<font size=\"3\" style=\"font-size: 13pt\">А. Мамиров</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td height=\"33\" style=\"border: none; padding: 0in\" width=\"456\"><p class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Ведущий инженер\n\t\t\t\t«Узэнергосозлаш»</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\">\n<font size=\"3\" style=\"font-size: 13pt\">Ф.Ф.Умеров</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td height=\"33\" style=\"border: none; padding: 0in\" width=\"456\"><p class=\"western\" lang=\"ru-RU\">\n<br/>\n</p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"ru-RU\">\n<br/>\n</p>\n</td>\n</tr>\n</table>\n</div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0064",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "html": "<p data-block-id=\"block-0064\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Зам.\nтех.директора по электрооборудованию\nА.А. Махмудходжаев                                    \n           </font></font>\n</p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0065",
+      "type": "image",
+      "text": "",
+      "html": "<p data-block-id=\"block-0065\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><img align=\"bottom\" alt=\"Shape1\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2026_html_78f2f4e4.gif\" height=\"973\" loading=\"lazy\" name=\"Shape1\" src=\"assets/image-001.gif\" width=\"811\"/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0066",
+      "type": "image",
+      "text": "",
+      "html": "<p data-block-id=\"block-0066\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2026_html_9e0aee27.gif\" height=\"921\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-002.gif\" width=\"652\"/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "клапанов",
+    "пара",
+    "плотности",
+    "регулирующих",
+    "клапана",
+    "давления",
+    "кгс",
+    "гпз",
+    "давление",
+    "вращения",
+    "мин",
+    "начальник",
+    "стопорные",
+    "стопорного",
+    "проверке",
+    "турбины",
+    "клапаны",
+    "машинист",
+    "проверка",
+    "испытания",
+    "клапанами",
+    "байпасы",
+    "считаются",
+    "камере",
+    "регулирующей",
+    "ступени",
+    "среднего",
+    "проверить",
+    "ответственный",
+    "ктц-1",
+    "воздействием",
+    "регулирующие",
+    "ротора",
+    "частота",
+    "управления"
+  ],
+  "statistics": {
+    "blocks": 66,
+    "sections": 7,
+    "tables": 1,
+    "images": 2,
+    "pdfPages": 6
+  },
+  "integrity": {
+    "originalSha256": "e8443befe8fbdc50079a9d7a9fed3f09220e88dbde43f99985c41f29a7d2326a",
+    "sourceDocxStats": {
+      "paragraphs": 133,
+      "tables": 1,
+      "media": 2,
+      "textChars": 6404
+    },
+    "htmlTextChars": 6688,
+    "textLengthRatio": 1.044,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2026/"
+}

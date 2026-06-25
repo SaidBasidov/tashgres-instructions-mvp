@@ -1,0 +1,972 @@
+{
+  "id": "ochistka-maslosistemy-2025",
+  "code": "",
+  "title": "очистка маслосистемы  2025",
+  "summary": "УТВЕРЖДАЮ\nТЕХНИЧЕСКИЙ ДИРЕКТОР\nА О « ТАШКЕНТСКАЯ ТЭС»\nВ.В. Пак\nП Р О Г Р А М М А\nОЧИСТКИ МАСЛОСИСТЕМЫ ТУРБОАГРЕГАТА\nВ ПЕРИОД СРЕДНЕГО РЕМОНТА БЛОКА №2\nЦЕЛЬ ПРОГРАММЫ.\nУдаление механических примесей из маслосистемы турбоагрегата после проведенного среднего ремонта.\nПОДГОТОВИТЕЛЬНЫЕ МЕРОПРИЯТИЯ. Удалить дроссельные шайбы на напорных маслопроводах смазки к подшипникам турбоагрегата. Поставить заглушки на маслопроводах:\n— системы регулирования и защиты;\n— на всасе и напоре главного маслонасоса;\n— на",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "очистка маслосистемы  2025.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/ochistka-maslosistemy-2025/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.3in }\n\t\tp { margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: center; background: transparent }\n\t\tp.western { font-size: 12pt; so-language: en-US; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: en-US; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "очистка маслосистемы  2025.doc",
+    "path": "documents/ochistka-maslosistemy-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "очистка маслосистемы  2025.pdf",
+    "path": "documents/ochistka-maslosistemy-2025/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "очистка маслосистемы  2025.docx",
+    "path": "documents/ochistka-maslosistemy-2025/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "4",
+      "title": "мин. 12 сек.",
+      "level": 1,
+      "blockIds": [
+        "block-0065"
+      ],
+      "text": "Наименование анализа Наименование оборудования ПЭН 2 «А» ПЭН 2 «Б» Кислотное число 0,065 м g КОН/1 g масла 0,065 м g КОН/1 g масла Влага прис. прис. Механические примеси отс. отс. Цвет м.коричн. м.коричн. Скор. деэмульсации 4 мин. 12 сек. 6 мин. 38 сек.",
+      "keywords": [
+        "наименование",
+        "пэн",
+        "кон",
+        "масла",
+        "прис",
+        "отс",
+        "коричн",
+        "мин",
+        "сек"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "6",
+      "title": "мин. 38 сек.",
+      "level": 1,
+      "blockIds": [
+        "block-0065",
+        "block-0066",
+        "block-0067"
+      ],
+      "text": "Наименование анализа Наименование оборудования ПЭН 2 «А» ПЭН 2 «Б» Кислотное число 0,065 м g КОН/1 g масла 0,065 м g КОН/1 g масла Влага прис. прис. Механические примеси отс. отс. Цвет м.коричн. м.коричн. Скор. деэмульсации 4 мин. 12 сек. 6 мин. 38 сек.\nСогласно РД 34.10.551 п. 1.4. срок службы масла в питательных электронасосах - 6 лет.\nВ данный момент масло слито в маслобак №5 маслохозяйства. Вскрыть маслобаки ПЭН-2А,Б, очистить механически и сдать на чистоту химическому цеху с оформлением акта. Маслопроводы очистить механически и сдать на чистоту химическому цеху с оформлением акта. Маслофильтры ПЭН–2«А» и ПЭН–2«Б» очистить механически и сдать на чистоту химическому цеху с оформлением акта.",
+      "keywords": [
+        "пэн",
+        "масла",
+        "очистить",
+        "механически",
+        "сдать",
+        "чистоту",
+        "химическому",
+        "цеху",
+        "оформлением",
+        "акта",
+        "наименование",
+        "кон",
+        "прис",
+        "отс",
+        "коричн"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "6",
+      "title": "При очистке маслобака и маслопроводов ПЭН–2«А» и ПЭН–2«Б» иметь в наличии первичные средства пожаротушения.",
+      "level": 1,
+      "blockIds": [
+        "block-0068",
+        "block-0069",
+        "block-0070",
+        "block-0071",
+        "block-0072",
+        "block-0073",
+        "block-0074",
+        "block-0075",
+        "block-0076",
+        "block-0077",
+        "block-0078"
+      ],
+      "text": "6. При очистке маслобака и маслопроводов ПЭН–2«А» и ПЭН–2«Б» иметь в наличии первичные средства пожаротушения.\n7. После очистки и сдаче маслосистемы на чистоту, закачать в маслосистему ПЭН–2«А» и ПЭН–2«Б» свежее масло ТП-22С по чистому коллектору из маслобака №5 маслохозяйства.\nЗ АМ. ТЕХ ДИРЕКТОРА ПО ТЕПЛОМЕХ. ЧАСТИ Б.Р. ИСМОИЛОВ\nНАЧАЛЬНИК СНТБ Б.Б. НУРДИНОВ\nНАЧАЛЬНИК КТЦ-1 У.Л. МАЖЛИМОВ\nН АЧАЛЬНИК ХИМ. ЦЕХА Л.П. ХАМРАКУЛОВА\nН АЧАЛЬНИК ЭЛ. ЦЕХА М.Д. КЕНЖИБАЕВ\nРУКОВОДИТЕЛЬ РАБОТ. УЧ-КА «УЭТ» А. МАМИРОВ\nЗАМ. ТЕХ.ДИРЕКТОРА ПО ЭЛ.ОБОРУД. А.А. МАХМУДХОДЖАЕВ",
+      "keywords": [
+        "пэн",
+        "маслобака",
+        "тех",
+        "директора",
+        "начальник",
+        "ачальник",
+        "цеха"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<ol data-block-id=\"block-0001\"><li><h1 align=\"right\" class=\"western\" style=\"line-height: 150%\"><span lang=\"ru-RU\">УТВЕРЖДАЮ</span></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"line-height: 150%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "А О « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"line-height: 150%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">А<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.gif\" width=\"62\"/>\nО\n « ТАШКЕНТСКАЯ ТЭС»</font></font></p>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"line-height: 150%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><span lang=\"uz-Cyrl-UZ\">В.В.\nПак</span></font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "list",
+      "text": "П Р О Г Р А М М А",
+      "html": "<ol data-block-id=\"block-0005\" start=\"2\">\n<li><h1 align=\"center\" class=\"western\">\n</h1></li>\n<li><h1 align=\"center\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>П\n\tР О Г Р А М М А</b></span></font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "ОЧИСТКИ МАСЛОСИСТЕМЫ ТУРБОАГРЕГАТА",
+      "html": "<p class=\"western\" data-block-id=\"block-0006\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>ОЧИСТКИ\nМАСЛОСИСТЕМЫ ТУРБОАГРЕГАТА </b></span></font>\n</p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "В ПЕРИОД СРЕДНЕГО РЕМОНТА БЛОКА №2",
+      "html": "<p class=\"western\" data-block-id=\"block-0007\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>В\nПЕРИОД  СРЕДНЕГО  РЕМОНТА БЛОКА №2</b></span></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "ЦЕЛЬ ПРОГРАММЫ.",
+      "html": "<ol data-block-id=\"block-0008\">\n<li><p align=\"left\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>ЦЕЛЬ\n\tПРОГРАММЫ.</b></span></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "Удаление механических примесей из маслосистемы турбоагрегата после проведенного среднего ремонта.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0009\" style=\"margin-left: 0.25in\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\tУдаление\nмеханических примесей из маслосистемы\nтурбоагрегата после проведенного\nсреднего ремонта.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "ПОДГОТОВИТЕЛЬНЫЕ МЕРОПРИЯТИЯ. Удалить дроссельные шайбы на напорных маслопроводах смазки к подшипникам турбоагрегата. Поставить заглушки на маслопроводах:",
+      "html": "<ol data-block-id=\"block-0010\" start=\"2\">\n<li><p align=\"left\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>ПОДГОТОВИТЕЛЬНЫЕ\n\tМЕРОПРИЯТИЯ.</b></span></font></p>\n<ol>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Удалить\n\t\tдроссельные шайбы на напорных\n\t\tмаслопроводах смазки к подшипникам\n\t\tтурбоагрегата.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Поставить\n\t\tзаглушки на маслопроводах:</span></font></p></li>\n</ol>\n</li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "— системы регулирования и защиты;",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0011\" style=\"text-indent: 0.25in; margin-left: 0.25in\">\n—  <font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">системы\nрегулирования и защиты;</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "— на всасе и напоре главного маслонасоса;",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0012\" style=\"text-indent: 0.25in; margin-left: 0.25in\">\n—  <font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">на\nвсасе и напоре главного маслонасоса;</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "— на входе масла на валоповоротное устройство.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0013\" style=\"text-indent: 0.25in; margin-left: 0.25in\">\n—  <font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">на\nвходе масла на валоповоротное устройство.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "2.3 Напорный трубопровод на уплотняющие подшипники генератора временной перемычкой соединяют со сливным.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0014\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.3\nНапорный трубопровод на уплотняющие\nподшипники генератора временной\nперемычкой соединяют со сливным.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "2.4 Завершить к началу промывки все ремонтные работы на маслосистеме ТГ и АМС.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0015\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.4\nЗавершить к началу промывки все ремонтные\nработы на маслосистеме ТГ и АМС.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "2.4.1. Чистка картеров подшипников ТГ-1-8, маслобака ТГ, ДМБ ТГ.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0016\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.4.1.\nЧистка картеров подшипников ТГ-1-8,\nмаслобака ТГ, ДМБ ТГ.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "2.4.2. Закрытие крышек подшипников.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0017\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.4.2.\nЗакрытие крышек подшипников.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "2.4.3. Уборка рабочих мест.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0018\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.4.3.\nУборка рабочих мест.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "2.5 Установить штатные приборы:",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0019\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.5 \nУстановить штатные приборы:</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "Манометры:",
+      "html": "<ol data-block-id=\"block-0020\">\n<li value=\"1\"><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Манометры:</span></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "- Давление до маслоохладителей ТГ - 1 шт. на МЩ ТГ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0021\" style=\"text-indent: -0.09in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">-  Давление\nдо маслоохладителей ТГ  -  1 шт. на МЩ ТГ</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "- Давление за маслоохладителями ТГ - 1 шт. на МЩ ТГ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0022\" style=\"text-indent: -0.09in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">- Давление\nза маслоохладителями ТГ  -  1 шт. на МЩ ТГ</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "- Давление на напоре пускового маслонасоса ТГ (ПМН ТГ) - 1 шт. на БЩУ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0023\" style=\"text-indent: -0.09in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">-  Давление\nна напоре пускового маслонасоса ТГ \n(ПМН ТГ) -  1 шт. на БЩУ</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "2) Термопары:",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0024\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2)\nТермопары:</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "- Температура масла до маслоохладителей ТГ - 1 шт. на БЩУ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0025\" style=\"text-indent: -0.09in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">- \nТемпература масла до маслоохладителей\nТГ  -  1 шт. на БЩУ</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "- Температура масла за маслоохладителями ТГ - 1 шт. на БЩУ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0026\" style=\"text-indent: -0.09in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">- \nТемпература масла за маслоохладителями\nТГ  -  1 шт. на БЩУ</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "2.6 Эксплуатационное турбинное масло было залито в маслосистему ТГ-2 в мае 2022 г. после ремонта. В данный момент масло:",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0027\" style=\"text-indent: -0.59in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.6\nЭксплуатационное турбинное масло было\nзалито в маслосистему ТГ-2  в мае       \n</span></font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2022\nг.</span></font></font><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\n после ремонта. В данный момент масло:</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "Кислотное число - 0,065 м g КОН/1 g масла",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0028\" style=\"text-indent: 0.03in; margin-left: 0.59in\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Кислотное\nчисло  -  0,065 м</span></font></font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">g</font></font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\nКОН/1</span></font></font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">g</font></font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\nмасла</span></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Мех. примеси - отсутстуют",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0029\" style=\"text-indent: 0.03in; margin-left: 0.59in\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Мех.\nпримеси  - отсутстуют</span></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Влага в масле - 3,2%",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0030\" style=\"text-indent: 0.03in; margin-left: 0.59in\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Влага\nв масле  -  3,2%</span></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Цвет – м. коричн.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0031\" style=\"text-indent: 0.03in; margin-left: 0.59in\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Цвет\n– м. коричн.</span></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "Скорость деэмульсации – 5 мин. 47 сек.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0032\" style=\"text-indent: 0.03in; margin-left: 0.59in\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Скорость\nдеэмульсации  – 5 мин. 47 сек.</span></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "(анализ от 17.02.2026 г.)",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0033\" style=\"text-indent: -0.59in; margin-left: 0.59in\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\t(анализ\nот  17.02.2026 г.)</span></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "2.7 Закачать промывочное турбинное масло для промывки из бака №5 маслохозяйства в маслобак турбоагрегата в количестве 20 м 3 по чистому коллектору, предварительно взяв анализ масла на отсутствие мех. примесей и влагу.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0034\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.7\nЗакачать промывочное турбинное масло\nдля промывки из бака №5 маслохозяйства\nв маслобак турбоагрегата в количестве\n20 м</span></font><sup><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">3</span></font></sup><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\nпо чистому коллектору, предварительно\nвзяв анализ масла на отсутствие мех.\nпримесей и влагу.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "2.8 Установить сетки на фланцы маслопроводов подачи масла на подшипники №1,2,3,4,5.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0035\" style=\"text-indent: -0.34in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.8\nУстановить сетки на фланцы маслопроводов\nподачи масла на подшипники №1,2,3,4,5.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "2.9 После заливки масла в маслобак турбины производится заполнение маслосистемы открытием задвижек на всасе резервного, аварийного маслонасосов смазки, всасе пускового маслонасоса.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0036\" style=\"text-indent: -0.59in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.9\nПосле заливки масла в маслобак турбины\nпроизводится заполнение маслосистемы\nоткрытием задвижек на всасе резервного,\nаварийного маслонасосов смазки, всасе\nпускового маслонасоса.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "2.10 Собирается схема прокачки: пусковой маслонасос – инжектор смазки – картера подшипников ТГ – сливной маслопровод – маслобак ТГ.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0037\" style=\"text-indent: -0.59in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.10 \nСобирается схема прокачки: пусковой\nмаслонасос – инжектор смазки –  картера\nподшипников ТГ  –  сливной маслопровод\n –  маслобак ТГ.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "2.11 Включить резервный маслонасос смазки ТГ на закрытую напорную задвижку. Медленным открытием напорной задвижки заполнить напорные маслопроводы. Убедиться в отсутствии течей масла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0038\" style=\"text-indent: -0.59in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.11\nВключить резервный маслонасос смазки\nТГ на закрытую напорную задвижку.\nМедленным открытием напорной задвижки\nзаполнить напорные маслопроводы.\nУбедиться в отсутствии течей масла.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "2.12 Отключить резервный маслонасос ТГ.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0039\" style=\"text-indent: -0.59in; margin-left: 0.59in\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.12\nОтключить резервный маслонасос ТГ.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "list",
+      "text": "ПРОВЕДЕНИЕ ПРОМЫВКИ.",
+      "html": "<ol data-block-id=\"block-0040\" start=\"3\">\n<li><p align=\"left\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>ПРОВЕДЕНИЕ\n\tПРОМЫВКИ.</b></span></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "Включить пусковой маслонасос ТГ. Открытием задвижки на напоре создать необходимый расход масла, обеспечивающий высокие скорости масла по маслосистеме. Убедиться в отсутствии течей масла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0041\" style=\"margin-left: 0.3in\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\tВключить\nпусковой маслонасос ТГ. Открытием\nзадвижки на напоре создать необходимый\nрасход масла, обеспечивающий высокие\nскорости масла по маслосистеме. Убедиться\nв отсутствии течей масла.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "Температуру масла за маслоохладителями поддерживать в пределах +60 0 С +65 0 С, не допуская повышения и понижения за вышеуказанные пределы. Снижать температуру масла отключением ПМН ТГ.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0042\" style=\"margin-left: 0.3in\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\tТемпературу\n масла  за  маслоохладителями  поддерживать\nв пределах   +60</span></font><sup><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">0</span></font></sup><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">С\n +65</span></font><sup><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">0</span></font></sup><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">С,\nне допуская повышения и понижения за\nвышеуказанные пределы. Снижать температуру\nмасла отключением ПМН ТГ.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "В процессе прокачки регулярно чистятся сетки главного маслобака ТГ по чистому и грязному отсекам с периодичностью 4 часа, а также при увеличении перепада уровней между чистым и грязным отсеками на 100 мм. Сдается персоналу химического цеха.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0043\" style=\"margin-left: 0.3in\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">\tВ\nпроцессе прокачки регулярно чистятся\nсетки главного маслобака ТГ по  чистому\nи грязному отсекам с периодичностью 4\nчаса, а также при увеличении перепада\nуровней между чистым и грязным отсеками\nна 100 мм. Сдается персоналу химического\nцеха.</span></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "list",
+      "text": "Прокачка масла осуществляется по контурам согласно следующей таблице:",
+      "html": "<ol data-block-id=\"block-0044\">\n<ol>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Прокачка\n\t\tмасла осуществляется по контурам\n\t\tсогласно следующей   таблице:</span></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0045",
+      "type": "paragraph",
+      "text": "№ конт Наименование контура Время прокачки (час) Отметка о выполнении 1. Подшипники №№ 1,2,3,4,5; МО-А,Б,В; ФТО 8 2. Подшипники №№ 4,5,6, АМС; МО-А; ФТО 8 3. Подшипники №№ 6,7,8, АМС; МО-Б; ФТО 8 4. Подшипники №№ 6,7,8, система регулирования и защиты; МО-В; ФТО 8",
+      "html": "<dl data-block-id=\"block-0045\"><dd>\n<table cellpadding=\"7\" cellspacing=\"0\" width=\"659\">\n<col width=\"33\"/>\n<col width=\"396\"/>\n<col width=\"73\"/>\n<col width=\"98\"/>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"33\"><p class=\"western\">\n\t\t\t\t№ <font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">конт</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"396\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Наименование\n\t\t\t\tконтура</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"73\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Время\n\t\t\t\tпрокачки (час)</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"98\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Отметка\n\t\t\t\tо выполнении</span></font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"33\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">1.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"396\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Подшипники\n\t\t\t\t№№ 1,2,3,4,5; МО-А,Б,В; ФТО</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"73\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">8</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"98\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<br/>\n</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"33\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">2.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"396\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Подшипники\n\t\t\t\t№№ 4,5,6, АМС; МО-А; ФТО</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"73\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">8</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"98\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<br/>\n</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"33\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">3.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"396\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Подшипники\n\t\t\t\t№№ 6,7,8, АМС; МО-Б; ФТО</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"73\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">8</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"98\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<br/>\n</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"33\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">4.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"396\"><p align=\"justify\" class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Подшипники\n\t\t\t\t№№ 6,7,8, система регулирования и\n\t\t\t\tзащиты; МО-В; ФТО</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"73\"><p class=\"western\">\n<font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">8</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"98\"><p align=\"justify\" class=\"western\" lang=\"ru-RU\">\n<br/>\n</p>\n</td>\n</tr>\n</table>\n</dd></dl>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0046",
+      "type": "list",
+      "text": "При неплотности фланцевых соединений, выбивания масла из уплотнений подшипников или переполнения сливных маслопроводов останавливают насос и устраняют неполадки. Прокачка считается законченной, если на сетке чистого отсека маслобака турбины не наблюдается явного загрязнения в течении последних 2-х часов прокачки. Масло с ГМБ ТГ и маслопроводов после завершения прокачки всех контуров откачивается после контроля масла на присутствие мех. примесей на маслохозяйство по грязному коллектору. Сдается на чистоту маслосистема ТГ: главный, дренажный, аварийный маслобаки, бак АМС, фильтры АМС и демпферный маслобак АМС, ФТО, МО АМС, гидропетля сливного маслопровода, сливной и напорные коллекторы, передний стул, картера подшипников №2÷8 химическому цеху по акту. При положительных результатах промывки привести все узлы в нормальное состояние, установить дроссельные шайбы. Масло, слитое на маслохозяйство после промывки маслосистемы ТГ, очистить от механических примесей и влаги. Отобрать масло на хим. анализ. Закачать в маслосистему эксплуатационное масло ТП-22С, по чистому коллектору.",
+      "html": "<ol data-block-id=\"block-0046\">\n<ol start=\"2\">\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">При\n\t\tнеплотности фланцевых соединений,\n\t\tвыбивания масла из уплотнений подшипников\n\t\tили переполнения сливных маслопроводов\n\t\tостанавливают насос и устраняют\n\t\tнеполадки.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Прокачка\n\t\tсчитается законченной, если на сетке\n\t\tчистого отсека маслобака турбины не\n\t\tнаблюдается явного загрязнения в\n\t\tтечении последних 2-х часов прокачки.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Масло\n\t\tс ГМБ ТГ и маслопроводов после завершения\n\t\tпрокачки всех контуров откачивается\n\t\tпосле контроля масла на присутствие\n\t\tмех. примесей на маслохозяйство по\n\t\tгрязному коллектору.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Сдается\n\t\tна чистоту маслосистема ТГ: главный,\n\t\tдренажный, аварийный маслобаки, бак\n\t\tАМС, фильтры АМС и демпферный маслобак\n\t\tАМС, ФТО, МО АМС, гидропетля сливного\n\t\tмаслопровода, сливной и напорные\n\t\tколлекторы, передний стул, картера\n\t\tподшипников №2÷8 химическому цеху по\n\t\tакту.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">При\n\t\tположительных результатах промывки\n\t\tпривести все узлы в нормальное состояние,\n\t\tустановить дроссельные шайбы.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Масло,\n\t\tслитое на маслохозяйство после промывки\n\t\tмаслосистемы ТГ, очистить от механических\n\t\tпримесей и влаги.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Отобрать\n\t\tмасло на хим. анализ.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Закачать\n\t\tв маслосистему эксплуатационное масло\n\t\tТП-22С,  по чистому коллектору.</span></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0047",
+      "type": "list",
+      "text": "ТЕХНИКА БЕЗОПАСНОСТИ.",
+      "html": "<ol data-block-id=\"block-0047\" start=\"4\">\n<li><p align=\"left\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\"><b>ТЕХНИКА\n\tБЕЗОПАСНОСТИ.</b></span></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0048",
+      "type": "list",
+      "text": "Все работы по прокачке осуществляются под непосредственным руководством заместителя начальника КТЦ-1 по ремонту и руководителем ремонтных работ по турбине. Перед заполнением маслопроводов прекращаются все работы на маслосистеме ТГ. Сдаются все промежуточные наряды на работы, связанные с маслосистемой ТГ. Ремонтный персонал должен быть предупрежден руководителем о начале прокачки масла. На все время заполнения и прокачки масла выделяется дежурная бригада УЭТ во главе с мастером. Список бригады передается руководству КТЦ-1. Члены дежурной бригады должны быть проинструктированы ответственными руководителями УЭТ, СРП и КТЦ-1 о соблюдении ПТБ, ППБ при прокачке масла с записью в журнале инструктажей. Все переключения в тепловых и электросхемах производятся персоналом КТЦ-1 и электроцеха согласно поданных заявок. Ответственными за организацию работ и соблюдение ПТЭ, ПТБ, ППБ являются начальник КТЦ-1 или его заместители, а также руководитель ремонта. За установку и достоверность показаний приборов КИП и А – начальник ЦТКА. При возникновении нештатной ситуации персонал, участвующий в прокачке масла, действует согласно действующих инструкций. Во время работы по прокачке персоналу иметь при себе индивидуальные средства защиты.",
+      "html": "<ol data-block-id=\"block-0048\">\n<ol>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Все\n\t\tработы по прокачке осуществляются под\n\t\tнепосредственным руководством\n\t\tзаместителя начальника КТЦ-1 по ремонту\n\t\tи руководителем ремонтных работ по\n\t\tтурбине.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Перед\n\t\tзаполнением маслопроводов прекращаются\n\t\tвсе работы на маслосистеме ТГ.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Сдаются\n\t\tвсе промежуточные наряды на работы,\n\t\tсвязанные с маслосистемой ТГ.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Ремонтный\n\t\tперсонал должен быть предупрежден\n\t\tруководителем о начале прокачки масла.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">На\n\t\tвсе время заполнения и прокачки масла\n\t\tвыделяется дежурная бригада УЭТ во\n\t\tглаве с мастером. Список бригады\n\t\tпередается руководству КТЦ-1.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Члены\n\t\tдежурной бригады должны быть\n\t\tпроинструктированы ответственными\n\t\tруководителями УЭТ, СРП и КТЦ-1 о\n\t\tсоблюдении ПТБ, ППБ при прокачке масла\n\t\tс записью в журнале инструктажей.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Все\n\t\tпереключения в тепловых и электросхемах\n\t\tпроизводятся персоналом КТЦ-1 и\n\t\tэлектроцеха согласно поданных заявок.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Ответственными\n\t\tза организацию работ и соблюдение ПТЭ,\n\t\tПТБ, ППБ являются начальник КТЦ-1 или\n\t\tего заместители, а также руководитель\n\t\tремонта.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">За\n\t\tустановку и достоверность показаний\n\t\tприборов КИП и А – начальник ЦТКА.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">При\n\t\tвозникновении нештатной ситуации\n\t\tперсонал, участвующий в прокачке масла,\n\t\tдействует согласно действующих\n\t\tинструкций.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"ru-RU\">Во\n\t\tвремя работы по прокачке персоналу\n\t\tиметь при себе индивидуальные средства\n\t\tзащиты.</span></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0049",
+      "type": "list",
+      "text": "",
+      "html": "<ol data-block-id=\"block-0049\">\n<ol start=\"14\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_31ddd917.gif\" height=\"51\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-002.gif\" width=\"128\"/>\n</p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0050",
+      "type": "paragraph",
+      "text": "З АМ ТЕХ.ДИРЕКТОРА ПО ТЕПЛОМЕХ. ЧАСТИ Б.Р. ИСМОИЛОВ",
+      "html": "<p align=\"left\" data-block-id=\"block-0050\" lang=\"ru-RU\" style=\"line-height: 300%; margin-bottom: 0.08in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">З<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_64e44389.gif\" height=\"71\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-003.gif\" width=\"68\"/>\nАМ\nТЕХ.ДИРЕКТОРА ПО ТЕПЛОМЕХ. ЧАСТИ          \n                   \tБ.Р. ИСМОИЛОВ</font></font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0051",
+      "type": "list",
+      "text": "НАЧАЛЬНИК СНТБ Б.Б. НУРДИНОВ",
+      "html": "<ol data-block-id=\"block-0051\">\n<ol start=\"15\">\n<li><p align=\"justify\" class=\"western\" style=\"margin-right: -0.04in; line-height: 300%\">\n<span lang=\"ru-RU\">НАЧАЛЬНИК  СНТБ                    \n\t\t            \t\t\t    \t\t  Б.Б. НУРДИНОВ</span></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0052",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК КТЦ-1 У.Л. МАЖЛИМОВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0052\" style=\"margin-right: -0.04in; line-height: 300%\">\n<span lang=\"ru-RU\">НАЧАЛЬНИК КТЦ-1                       \n                                                  \t У.Л. МАЖЛИМОВ\n</span>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0053",
+      "type": "paragraph",
+      "text": "Н АЧАЛЬНИК ХИМ. ЦЕХА Л.П. ХАМРАКУЛОВА",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0053\" lang=\"ru-RU\" style=\"margin-right: -0.04in; line-height: 300%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_563ac4f5.jpg\" height=\"42\" loading=\"lazy\" name=\"Рисунок 13\" src=\"assets/image-004.jpg\" width=\"96\"/>\nАЧАЛЬНИК\nХИМ. ЦЕХА                                                     \n         \tЛ.П. ХАМРАКУЛОВА  </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0054",
+      "type": "paragraph",
+      "text": "Н АЧАЛЬНИК ЦТКА Р.К. БАЙМАТОВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0054\" lang=\"ru-RU\" style=\"margin-right: -0.04in; line-height: 300%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_dc635daa.gif\" height=\"70\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-005.gif\" width=\"128\"/>\n<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_4a771962.gif\" height=\"55\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-006.gif\" width=\"100\"/>\nАЧАЛЬНИК\n ЦТКА                                                            \n             \t Р.К. БАЙМАТОВ </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0055",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК ЭЛ. ЦЕХА М.Д. КЕНЖИБАЕВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0055\" lang=\"ru-RU\" style=\"margin-right: -0.04in; line-height: 300%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nЭЛ. ЦЕХА                                                       \n            \tМ.Д. КЕНЖИБАЕВ </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0056",
+      "type": "paragraph",
+      "text": "РУКОВОДИТЕЛЬ РАБОТ. УЧ-КА «УЭТ» А. МАМИРОВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0056\" lang=\"ru-RU\" style=\"line-height: 300%; margin-left: 0.5in; margin-right: -0.04in; text-indent: -0.5in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 12pt\">РУКОВОДИТЕЛЬ\nРАБОТ. УЧ-КА «УЭТ»                                     \n        А. МАМИРОВ</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0057",
+      "type": "paragraph",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0057\" lang=\"ru-RU\" style=\"line-height: 150%; margin-left: 0.5in; margin-right: -0.04in; text-indent: -0.5in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">УТВЕРЖДАЮ</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0058",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0058\" lang=\"ru-RU\" style=\"line-height: 150%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0059",
+      "type": "paragraph",
+      "text": "А О « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0059\" lang=\"ru-RU\" style=\"line-height: 150%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">А<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image6\" src=\"assets/image-007.gif\" width=\"62\"/>\nО\n « ТАШКЕНТСКАЯ ТЭС»</font><font size=\"3\" style=\"font-size: 12pt\"><span lang=\"uz-Cyrl-UZ\">\n</span></font></font>\n</p>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0060",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0060\" lang=\"ru-RU\" style=\"line-height: 150%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><span lang=\"uz-Cyrl-UZ\">В.В.\nПак</span></font><font size=\"3\" style=\"font-size: 12pt\"> </font></font>\n</p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0061",
+      "type": "list",
+      "text": "П Р О Г Р А М М А",
+      "html": "<ol data-block-id=\"block-0061\" start=\"4\">\n<li><h1 align=\"center\" class=\"western\"><span lang=\"ru-RU\"><b>П Р О\n\tГ Р А М М А</b></span></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0062",
+      "type": "paragraph",
+      "text": "очистки маслосистемы ПЭН - 2«А» и ПЭН -2 «Б».",
+      "html": "<p class=\"western\" data-block-id=\"block-0062\"><span lang=\"ru-RU\"><b>очистки маслосистемы\nПЭН - 2«А» и ПЭН -2 «Б».</b></span></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0063",
+      "type": "list",
+      "text": "Масло в систему ПЭН было залито в мае месяце 2022 года: 4500 тн. (эксплуатационное).",
+      "html": "<ol data-block-id=\"block-0063\">\n<li value=\"1\"><p align=\"justify\" class=\"western\"><span lang=\"ru-RU\">Масло\n\tв систему ПЭН было залито в мае месяце\n\t2022 года:  4500 тн.  (эксплуатационное).</span></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0064",
+      "type": "paragraph",
+      "text": "В данный момент:",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0064\" style=\"margin-left: 0.5in\"> <span lang=\"ru-RU\">В\nданный момент:</span></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0065",
+      "type": "table",
+      "text": "Наименование анализа Наименование оборудования ПЭН 2 «А» ПЭН 2 «Б» Кислотное число 0,065 м g КОН/1 g масла 0,065 м g КОН/1 g масла Влага прис. прис. Механические примеси отс. отс. Цвет м.коричн. м.коричн. Скор. деэмульсации 4 мин. 12 сек. 6 мин. 38 сек.",
+      "html": "<table cellpadding=\"7\" cellspacing=\"0\" data-block-id=\"block-0065\" width=\"695\">\n<col width=\"217\"/>\n<col width=\"218\"/>\n<col width=\"217\"/>\n<tr valign=\"top\">\n<td rowspan=\"2\" style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">Наименование анализа</span></p>\n<p align=\"center\" class=\"western\" lang=\"ru-RU\"><br/>\n</p>\n</td>\n<td colspan=\"2\" style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"448\"><p class=\"western\">\n<span lang=\"ru-RU\">Наименование оборудования</span></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"218\"><p class=\"western\">\n<span lang=\"ru-RU\">ПЭН 2 «А»</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p class=\"western\">\n<span lang=\"ru-RU\">ПЭН 2 «Б»</span></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">Кислотное число</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"218\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">0,065 м</span>g<span lang=\"ru-RU\"> КОН/1</span>g<span lang=\"ru-RU\">\n\t\t\tмасла</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">0,065 м</span>g<span lang=\"ru-RU\">\n\t\t\tКОН/1</span>g<span lang=\"ru-RU\"> масла</span></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">Влага</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"218\"><p class=\"western\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">прис.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p class=\"western\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">прис.</span></font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">Механические примеси</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"218\"><p class=\"western\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">отс.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p class=\"western\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">отс.</span></font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">Цвет</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"218\"><p class=\"western\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">м.коричн.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p class=\"western\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">м.коричн.</span></font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p align=\"justify\" class=\"western\">\n<span lang=\"ru-RU\">Скор. деэмульсации</span></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"218\"><p class=\"western\" data-section-level=\"1\" id=\"section-001\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">4 мин. 12 сек.</span></font></p>\n</td>\n<td style=\"border: 1px solid #000000; padding: 0in 0.08in\" width=\"217\"><p class=\"western\" data-section-level=\"1\" id=\"section-002\">\n<font color=\"#c00000\"><span lang=\"ru-RU\">6 мин. 38 сек.</span></font></p>\n</td>\n</tr>\n</table>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001",
+        "section-002"
+      ],
+      "pageBreak": false,
+      "table": {
+        "rows": 7,
+        "cells": 19,
+        "hasMergedCells": true
+      }
+    },
+    {
+      "id": "block-0066",
+      "type": "paragraph",
+      "text": "Согласно РД 34.10.551 п. 1.4. срок службы масла в питательных электронасосах - 6 лет.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0066\" style=\"text-indent: 0.25in\"><span lang=\"ru-RU\">Согласно\nРД 34.10.551 п. 1.4. срок службы масла в\nпитательных электронасосах  -  6 лет.</span></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0067",
+      "type": "list",
+      "text": "В данный момент масло слито в маслобак №5 маслохозяйства. Вскрыть маслобаки ПЭН-2А,Б, очистить механически и сдать на чистоту химическому цеху с оформлением акта. Маслопроводы очистить механически и сдать на чистоту химическому цеху с оформлением акта. Маслофильтры ПЭН–2«А» и ПЭН–2«Б» очистить механически и сдать на чистоту химическому цеху с оформлением акта.",
+      "html": "<ol data-block-id=\"block-0067\">\n<li><p align=\"justify\" class=\"western\"><span lang=\"ru-RU\">В данный\n\tмомент масло слито в  маслобак №5\n\tмаслохозяйства. </span>\n</p></li>\n<li><p align=\"justify\" class=\"western\"><span lang=\"ru-RU\">Вскрыть\n\tмаслобаки ПЭН-2А,Б, очистить механически\n\tи сдать на чистоту химическому цеху с\n\tоформлением акта.</span></p></li>\n<li><p align=\"justify\" class=\"western\"><span lang=\"ru-RU\">Маслопроводы\n\tочистить механически и сдать на чистоту\n\tхимическому цеху с оформлением акта.</span></p></li>\n<li><p align=\"justify\" class=\"western\"><span lang=\"ru-RU\">Маслофильтры\n\tПЭН–2«А» и ПЭН–2«Б» очистить механически\n\tи сдать на чистоту химическому цеху с\n\tоформлением акта.</span></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0068",
+      "type": "paragraph",
+      "text": "6. При очистке маслобака и маслопроводов ПЭН–2«А» и ПЭН–2«Б» иметь в наличии первичные средства пожаротушения.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0068\" data-section-level=\"1\" id=\"section-003\" style=\"text-indent: 0.25in\"><span lang=\"ru-RU\">6.\nПри очистке маслобака и маслопроводов\nПЭН–2«А» и ПЭН–2«Б» иметь в наличии\nпервичные средства пожаротушения.</span></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-003"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0069",
+      "type": "paragraph",
+      "text": "7. После очистки и сдаче маслосистемы на чистоту, закачать в маслосистему ПЭН–2«А» и ПЭН–2«Б» свежее масло ТП-22С по чистому коллектору из маслобака №5 маслохозяйства.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0069\" style=\"text-indent: 0.25in\"><span lang=\"ru-RU\">7.\nПосле очистки и сдаче маслосистемы на\nчистоту, закачать в маслосистему ПЭН–2«А»\nи ПЭН–2«Б» свежее масло ТП-22С по чистому\nколлектору из маслобака №5 маслохозяйства.</span></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0070",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0070\" lang=\"ru-RU\" style=\"line-height: 150%; text-indent: 0.49in\">\n<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_31ddd917.gif\" height=\"51\" loading=\"lazy\" name=\"Image7\" src=\"assets/image-008.gif\" width=\"128\"/>\n<br/>\n</p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0071",
+      "type": "paragraph",
+      "text": "З АМ. ТЕХ ДИРЕКТОРА ПО ТЕПЛОМЕХ. ЧАСТИ Б.Р. ИСМОИЛОВ",
+      "html": "<p align=\"left\" data-block-id=\"block-0071\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0.08in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">З<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_64e44389.gif\" height=\"71\" loading=\"lazy\" name=\"Image8\" src=\"assets/image-009.gif\" width=\"68\"/>\nАМ.\nТЕХ ДИРЕКТОРА ПО ТЕПЛОМЕХ. ЧАСТИ          \n              \t   Б.Р. ИСМОИЛОВ</font></font></p>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0072",
+      "type": "list",
+      "text": "НАЧАЛЬНИК СНТБ Б.Б. НУРДИНОВ",
+      "html": "<ol data-block-id=\"block-0072\">\n<ol start=\"16\">\n<li><p align=\"justify\" class=\"western\" style=\"margin-right: -0.04in; line-height: 250%\">\n<span lang=\"ru-RU\">НАЧАЛЬНИК  СНТБ                    \n\t\t            \t\t\t    \t\t  Б.Б. НУРДИНОВ</span></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0073",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК КТЦ-1 У.Л. МАЖЛИМОВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0073\" style=\"margin-right: -0.04in; line-height: 250%\">\n<span lang=\"ru-RU\">НАЧАЛЬНИК КТЦ-1                       \n                                                   \t   У.Л.\nМАЖЛИМОВ </span>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0074",
+      "type": "paragraph",
+      "text": "Н АЧАЛЬНИК ХИМ. ЦЕХА Л.П. ХАМРАКУЛОВА",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0074\" lang=\"ru-RU\" style=\"margin-right: -0.04in; line-height: 250%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_4a771962.gif\" height=\"55\" loading=\"lazy\" name=\"Image9\" src=\"assets/image-010.gif\" width=\"108\"/>\nАЧАЛЬНИК\nХИМ. ЦЕХА                                                     \n         \t  Л.П. ХАМРАКУЛОВА  </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0075",
+      "type": "paragraph",
+      "text": "Н АЧАЛЬНИК ЭЛ. ЦЕХА М.Д. КЕНЖИБАЕВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0075\" lang=\"ru-RU\" style=\"margin-right: -0.04in; line-height: 250%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_dc635daa.gif\" height=\"70\" loading=\"lazy\" name=\"Image10\" src=\"assets/image-011.gif\" width=\"128\"/>\nАЧАЛЬНИК\nЭЛ. ЦЕХА                                                       \n           \t   М.Д. КЕНЖИБАЕВ </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0076",
+      "type": "paragraph",
+      "text": "РУКОВОДИТЕЛЬ РАБОТ. УЧ-КА «УЭТ» А. МАМИРОВ",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0076\" lang=\"ru-RU\" style=\"margin-right: -0.04in; line-height: 250%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">РУКОВОДИТЕЛЬ\nРАБОТ. УЧ-КА «УЭТ»                                     \n            А. МАМИРОВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0077",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0077\" style=\"text-indent: -0.5in; margin-left: 0.5in; line-height: 200%; margin-right: -0.04in\">\n<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%202025_html_ba09f225.gif\" height=\"87\" loading=\"lazy\" name=\"Image11\" src=\"assets/image-012.gif\" width=\"129\"/>\n<br/>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0078",
+      "type": "list",
+      "text": "ЗАМ. ТЕХ.ДИРЕКТОРА ПО ЭЛ.ОБОРУД. А.А. МАХМУДХОДЖАЕВ",
+      "html": "<ol data-block-id=\"block-0078\">\n<ol start=\"17\">\n<li><p align=\"justify\" class=\"western\" style=\"margin-right: -0.04in; line-height: 300%\">\n<span lang=\"ru-RU\">ЗАМ. ТЕХ.ДИРЕКТОРА ПО\n\t\tЭЛ.ОБОРУД.                     \t\t А.А. МАХМУДХОДЖАЕВ</span></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "масла",
+    "пэн",
+    "масло",
+    "амс",
+    "прокачки",
+    "ктц-1",
+    "начальник",
+    "маслосистемы",
+    "подшипники",
+    "промывки",
+    "работы",
+    "подшипников",
+    "маслобака",
+    "маслобак",
+    "маслопроводов",
+    "цеха",
+    "фто",
+    "чистоту",
+    "турбоагрегата",
+    "ремонта",
+    "примесей",
+    "смазки",
+    "чистому",
+    "коллектору",
+    "маслонасос",
+    "согласно",
+    "химическому",
+    "цеху",
+    "очистить",
+    "прокачке",
+    "работ",
+    "уэт",
+    "ачальник",
+    "очистки",
+    "защиты"
+  ],
+  "statistics": {
+    "blocks": 78,
+    "sections": 3,
+    "tables": 2,
+    "images": 12,
+    "pdfPages": 5
+  },
+  "integrity": {
+    "originalSha256": "eb4ab531aaff32e9e305e57d32a4dfcfb3653e62e25c24096f3ab0020fb43ef0",
+    "sourceDocxStats": {
+      "paragraphs": 133,
+      "tables": 2,
+      "media": 7,
+      "textChars": 6867
+    },
+    "htmlTextChars": 7409,
+    "textLengthRatio": 1.079,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/ochistka-maslosistemy-2025/"
+}

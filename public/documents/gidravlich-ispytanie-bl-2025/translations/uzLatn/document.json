@@ -1,0 +1,563 @@
+{
+  "id": "gidravlich-ispytanie-bl-2025",
+  "code": "",
+  "title": "ТГМ-94 QOZON AGREGATINI GIDRAVLIK SINOVDAN O‘TKAZISH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "2-blok o‘rta ta’miridan keyin qozon agregati va quvurlarni zichlikka gidravlik sinash tartibi.",
+  "sourceLanguage": "ru",
+  "language": "uzLatn",
+  "sourceFile": "гидравлич. испытание бл. 2025.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/gidravlich-ispytanie-bl-2025/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.2in }\n\t\tp { margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: center; background: transparent }\n\t\tp.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "гидравлич. испытание бл. 2025.doc",
+    "path": "documents/gidravlich-ispytanie-bl-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "гидравлич. испытание бл. 2025.pdf",
+    "path": "documents/gidravlich-ispytanie-bl-2025/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "гидравлич. испытание бл. 2025.docx",
+    "path": "documents/gidravlich-ispytanie-bl-2025/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "TAYYORGARLIK ISHLARI",
+      "level": 1,
+      "blockIds": [
+        "block-0009",
+        "block-0010",
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039"
+      ],
+      "text": "1. TAYYORGARLIK ISHLARI\nQozonni gidravlik sinov uchun to‘ldirishdan oldin quyidagi ishlar tugatilishi va uzellar bo‘yicha qabul qilish o‘tkazilishi kerak.\nQozon qizdirish yuzalari, baraban, bosh bug‘ quvurlari, «sovuq» va «issiq» oraliq qayta qizdirish bug‘ quvurlari, oziqlantiruvchi quvurlar ta’miri bajarilgan, payvandlash hujjatlari topshirilgan bo‘lishi kerak.\nРНП, Д-6 ата, drenaj baki, armaturali drenaj nasoslari ta’miri. Armatura ta’miri: ПЭН so‘rish va napori, ХПП surma klapanlari, ХПП, ГПП va o‘tkir bug‘ импульсно-предохранительные устройства, БВК, ДК, БРОУ-1,2, 1-x; 2-x va avariya purkash uzeli berkituvchi va rostlovchi armaturasi, qozon avariya tashlamasi, bug‘ o‘ta qizdirgichlar puflashlari, qozon retsirkulyatsiyasi, ГПЗ, ГПЗ baypaslari, ГПЗgacha drenajlar, ПВД kirish va chiqish, sovuq oziqlantirish, qozon va oraliq qayta qizdirish yuqori bosim drenajlari, suv ko‘rsatkich kolonkalari ventillari va boshqa bog‘langan armatura bajarilgan bo‘lishi kerak. ИПУ-1А,Б va ИПУ-2ni klinlash zarur.\nБЩУda oziqlantiruvchi suv bosimi — 1 dona.\nБЩУda qozon barabanidagi bosim — 2 dona.\nБЩУda ГПЗgacha o‘tkir bug‘ bosimi — 1 dona\nСУПdan keyingi oziqlantiruvchi suv bosimi — 1 dona.\nIssiq oraliq qayta qizdirishdagi bosim — 2 dona — БЩУ\nSovuq oraliq qayta qizdirishdagi bosim — 1 dona — БЩУ\nTiqinlarni o‘rnatish:\nДК БРОУ – 2А,Бdan keyin tiqin ГОСТ 34233-73 ga muvofiq bo‘lishi kerak, suv va bug‘ bo‘yicha qozonning barcha armaturasi yopiladi.\nQozon, oraliq qayta qizdirish va quvurlarni to‘ldirish КТЦ-1 rahbariyati va НСС ruxsatidan so‘ng kimyoviy tuzsizlantirilgan suv bilan (harorati kamida 5 0 С, ko‘pi bilan 40 0 С) drenaj nasoslari orqali ruxsat etilgan mahalliy ariza bo‘yicha bajariladi. Kimyoviy tuzsizlantirilgan suv БЗК kollektoridan ПЭН so‘rish kollektori orqali qozon drenaj bakiga beriladi.\nQozon to‘ldirilishi davomida ta’mir xodimlari va КТЦ-1 operativ xodimlari birgalikda zich bo‘lmagan joylarni aniqlash uchun qozon qizdirish yuzalari va armaturani tekshiradi. To‘ldirilgandan so‘ng qozon drenaj nasoslari bilan 6-8 ати bosimgacha presslanadi va e’tirozlar bo‘lmasa gidravlik sinovlar boshlanadi.\nGIDRAVLIK SINOVLARNI O‘TKAZISH\nIshlayotgan blokdan oziqlantiruvchi suv peremichkasi bosim ostiga qo‘yiladi. Qozon va oraliq qayta qizdirishda bosim (ish bosimidan 1,25 yuqori) 34,5 ати gacha ko‘tarilib, besh minut ushlab turiladi. Bosim 25 ати gacha tushiriladi va oraliq qayta qizdirish trakti ko‘rikdan o‘tkaziladi. БВК, ДК, БРОУ-1 yopiladi, drenajlar ochiladi va oraliq qayta qizdirish trakti bo‘shatiladi. Qozon barabanidagi bosim (ish bosimidan 1,25 yuqori) 187,5 ати gacha ko‘tarilib, 10 minut ushlab turiladi. Bosim 130 ати gacha tushiriladi, qozon, armatura va bosim ostidagi quvurlar ko‘rikdan o‘tkaziladi. Bosim nolgacha tushiriladi, qozon va quvurlar bo‘shatiladi. Doimiy sxemalar tiklanadi. ДК БРОУ-2А,Бdan keyingi tiqin olinadi.\n2.10 Gidravlik sinov ijobiy natija berganda qo‘shma dalolatnoma tuziladi.\nISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR.\nOziqlantiruvchi suv peremichkasini bosim ostiga qo‘yishdan oldin barcha ishlar to‘xtatiladi va ta’mir brigadalari qozondan, oziqlantiruvchi quvurlar hududidan, СУПdan, o‘tkir bug‘, sovuq va issiq oraliq qayta qizdirish bug‘ quvurlaridan chiqariladi. Ko‘rsatilgan joylardagi ishlar bo‘yicha oraliq naryadlar topshiriladi. Qozonning boshqa uchastkalarida ishlarni bajarishga ruxsat etiladi. Ishlayotgan brigadalar ta’mir rahbari tomonidan gidravlik sinov boshlanishi va sanab o‘tilgan zonalarda xodimlar bo‘lishiga yo‘l qo‘yilmasligi haqida ogohlantirilishi kerak. Gidravlik sinov blok ta’miri mas’ul rahbari va КТЦ-1 boshlig‘i yoki uning o‘rinbosari bevosita rahbarligida bajariladi. Qozonni to‘ldirish va gidravlik sinovning butun vaqtiga usta boshchiligida navbatchi brigada ajratiladi, ro‘yxat КТЦ-1 rahbariyatiga beriladi. Brigada a’zolari ta’mir tashkilotlari mas’ul rahbarlari va КТЦ-1 tomonidan ПТБ bo‘yicha yo‘riqnomadan o‘tkaziladi. Barcha almashlab ulashlar КТЦ-1 va elektr sexi operativ xodimlari tomonidan bajariladi. ПТЭ, ПТБga rioya qilish uchun КТЦ-1 boshlig‘i va ta’mir rahbari mas’ul.\nIssiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov\nСНТБ boshlig‘i B.B. Nurdinov\nММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova\nQozon nazorati bo‘yicha yetakchi inspektor X.F. Abduvaliyev\nКТЦ-1 boshlig‘i U.L. Majlimov\nЦТКА boshlig‘i R.K. Baymatov\nElektr sexi boshlig‘i M.D. Kenjibayev\nMetallar laboratoriyasi boshlig‘i L.U. Eshonqulov\nЦЦР boshlig‘i T.A. Valiyev\n«UET» uchastkasi ishlari rahbari Sh.M. Tursunbayev\nElektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev",
+      "keywords": [
+        "котла",
+        "давление",
+        "ктц-1",
+        "промперегрева",
+        "бщу",
+        "ати",
+        "испытания",
+        "ачальник",
+        "работы",
+        "заполнения",
+        "трубопроводов",
+        "гпз",
+        "питательной",
+        "воды",
+        "гидравлического"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "TASDIQLAYMAN",
+      "html": "<ol data-block-id=\"block-0001\"><li><p align=\"inherit\" lang=\"uz-Latn\">TASDIQLAYMAN</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Latn\">TEXNIK DIREKTOR</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Latn\">AJ «TOSHKENT IES»<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.gif\" width=\"62\"/></p></div>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Latn\">V.V. Pak</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"center\" lang=\"uz-Latn\">NAMUNAVIY DASTUR</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "ТГМ-94 qozon agregatini gidravlik sinovdan o‘tkazish",
+      "html": "<div data-block-id=\"block-0006\"><p align=\"center\" lang=\"uz-Latn\">ТГМ-94 qozon agregatini gidravlik sinovdan o‘tkazish</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "2-blok o‘rta ta’miridan keyin",
+      "html": "<div data-block-id=\"block-0007\"><p align=\"center\" lang=\"uz-Latn\">2-blok o‘rta ta’miridan keyin</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Gidravlik sinov qozon agregatidagi qizdirish yuzalari va quvurlarning zichligini tekshirish maqsadida o‘tkaziladi.",
+      "html": "<div data-block-id=\"block-0008\"><p align=\"inherit\" lang=\"uz-Latn\">Gidravlik sinov qozon agregatidagi qizdirish yuzalari va quvurlarning zichligini tekshirish maqsadida o‘tkaziladi.</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1. TAYYORGARLIK ISHLARI",
+      "html": "<div data-block-id=\"block-0009\"><p align=\"left\" lang=\"uz-Latn\">1. TAYYORGARLIK ISHLARI</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Qozonni gidravlik sinov uchun to‘ldirishdan oldin quyidagi ishlar tugatilishi va uzellar bo‘yicha qabul qilish o‘tkazilishi kerak.",
+      "html": "<div data-block-id=\"block-0010\"><p align=\"left\" lang=\"uz-Latn\">Qozonni gidravlik sinov uchun to‘ldirishdan oldin quyidagi ishlar tugatilishi va uzellar bo‘yicha qabul qilish o‘tkazilishi kerak.</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "list",
+      "text": "Qozon qizdirish yuzalari, baraban, bosh bug‘ quvurlari, «sovuq» va «issiq» oraliq qayta qizdirish bug‘ quvurlari, oziqlantiruvchi quvurlar ta’miri bajarilgan, payvandlash hujjatlari topshirilgan bo‘lishi kerak.",
+      "html": "<ol data-block-id=\"block-0011\"><li><p align=\"inherit\" lang=\"uz-Latn\">Qozon qizdirish yuzalari, baraban, bosh bug‘ quvurlari, «sovuq» va «issiq» oraliq qayta qizdirish bug‘ quvurlari, oziqlantiruvchi quvurlar ta’miri bajarilgan, payvandlash hujjatlari topshirilgan bo‘lishi kerak.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "РНП, Д-6 ата, drenaj baki, armaturali drenaj nasoslari ta’miri. Armatura ta’miri: ПЭН so‘rish va napori, ХПП surma klapanlari, ХПП, ГПП va o‘tkir bug‘ импульсно-предохранительные устройства, БВК, ДК, БРОУ-1,2, 1-x; 2-x va avariya purkash uzeli berkituvchi va rostlovchi armaturasi, qozon avariya tashlamasi, bug‘ o‘ta qizdirgichlar puflashlari, qozon retsirkulyatsiyasi, ГПЗ, ГПЗ baypaslari, ГПЗgacha drenajlar, ПВД kirish va chiqish, sovuq oziqlantirish, qozon va oraliq qayta qizdirish yuqori bosim drenajlari, suv ko‘rsatkich kolonkalari ventillari va boshqa bog‘langan armatura bajarilgan bo‘lishi kerak. ИПУ-1А,Б va ИПУ-2ni klinlash zarur.",
+      "html": "<ol data-block-id=\"block-0012\"><li><p align=\"inherit\" lang=\"uz-Latn\">РНП, Д-6 ата, drenaj baki, armaturali drenaj nasoslari ta’miri. Armatura ta’miri: ПЭН so‘rish va napori, ХПП surma klapanlari, ХПП, ГПП va o‘tkir bug‘ импульсно-предохранительные устройства, БВК, ДК, БРОУ-1,2, 1-x; 2-x va avariya purkash uzeli berkituvchi va rostlovchi armaturasi, qozon avariya tashlamasi, bug‘ o‘ta qizdirgichlar puflashlari, qozon retsirkulyatsiyasi, ГПЗ, ГПЗ baypaslari, ГПЗgacha drenajlar, ПВД kirish va chiqish, sovuq oziqlantirish, qozon va oraliq qayta qizdirish yuqori bosim drenajlari, suv ko‘rsatkich kolonkalari ventillari va boshqa bog‘langan armatura bajarilgan bo‘lishi kerak. ИПУ-1А,Б va ИПУ-2ni klinlash zarur.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "БЩУda oziqlantiruvchi suv bosimi — 1 dona.",
+      "html": "<div data-block-id=\"block-0013\"><p align=\"justify\" lang=\"uz-Latn\">БЩУda oziqlantiruvchi suv bosimi — 1 dona.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "БЩУda qozon barabanidagi bosim — 2 dona.",
+      "html": "<div data-block-id=\"block-0014\"><p align=\"justify\" lang=\"uz-Latn\">БЩУda qozon barabanidagi bosim — 2 dona.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "БЩУda ГПЗgacha o‘tkir bug‘ bosimi — 1 dona",
+      "html": "<div data-block-id=\"block-0015\"><p align=\"justify\" lang=\"uz-Latn\">БЩУda ГПЗgacha o‘tkir bug‘ bosimi — 1 dona</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "СУПdan keyingi oziqlantiruvchi suv bosimi — 1 dona.",
+      "html": "<div data-block-id=\"block-0016\"><p align=\"justify\" lang=\"uz-Latn\">СУПdan keyingi oziqlantiruvchi suv bosimi — 1 dona.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "Issiq oraliq qayta qizdirishdagi bosim — 2 dona — БЩУ",
+      "html": "<div data-block-id=\"block-0017\"><p align=\"justify\" lang=\"uz-Latn\">Issiq oraliq qayta qizdirishdagi bosim — 2 dona — БЩУ</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "Sovuq oraliq qayta qizdirishdagi bosim — 1 dona — БЩУ",
+      "html": "<div data-block-id=\"block-0018\"><p align=\"justify\" lang=\"uz-Latn\">Sovuq oraliq qayta qizdirishdagi bosim — 1 dona — БЩУ</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "Tiqinlarni o‘rnatish:",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"justify\" lang=\"uz-Latn\">Tiqinlarni o‘rnatish:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "ДК БРОУ – 2А,Бdan keyin tiqin ГОСТ 34233-73 ga muvofiq bo‘lishi kerak, suv va bug‘ bo‘yicha qozonning barcha armaturasi yopiladi.",
+      "html": "<ol data-block-id=\"block-0020\"><li><p align=\"inherit\" lang=\"uz-Latn\">ДК БРОУ – 2А,Бdan keyin tiqin ГОСТ 34233-73 ga muvofiq bo‘lishi kerak, suv va bug‘ bo‘yicha qozonning barcha armaturasi yopiladi.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Qozon, oraliq qayta qizdirish va quvurlarni to‘ldirish КТЦ-1 rahbariyati va НСС ruxsatidan so‘ng kimyoviy tuzsizlantirilgan suv bilan (harorati kamida 5 0 С, ko‘pi bilan 40 0 С) drenaj nasoslari orqali ruxsat etilgan mahalliy ariza bo‘yicha bajariladi. Kimyoviy tuzsizlantirilgan suv БЗК kollektoridan ПЭН so‘rish kollektori orqali qozon drenaj bakiga beriladi.",
+      "html": "<div data-block-id=\"block-0021\"><p align=\"justify\" lang=\"uz-Latn\">Qozon, oraliq qayta qizdirish va quvurlarni to‘ldirish КТЦ-1 rahbariyati va НСС ruxsatidan so‘ng kimyoviy tuzsizlantirilgan suv bilan (harorati kamida 5 0 С, ko‘pi bilan 40 0 С) drenaj nasoslari orqali ruxsat etilgan mahalliy ariza bo‘yicha bajariladi. Kimyoviy tuzsizlantirilgan suv БЗК kollektoridan ПЭН so‘rish kollektori orqali qozon drenaj bakiga beriladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Qozon to‘ldirilishi davomida ta’mir xodimlari va КТЦ-1 operativ xodimlari birgalikda zich bo‘lmagan joylarni aniqlash uchun qozon qizdirish yuzalari va armaturani tekshiradi. To‘ldirilgandan so‘ng qozon drenaj nasoslari bilan 6-8 ати bosimgacha presslanadi va e’tirozlar bo‘lmasa gidravlik sinovlar boshlanadi.",
+      "html": "<div data-block-id=\"block-0022\"><p align=\"justify\" lang=\"uz-Latn\">Qozon to‘ldirilishi davomida ta’mir xodimlari va КТЦ-1 operativ xodimlari birgalikda zich bo‘lmagan joylarni aniqlash uchun qozon qizdirish yuzalari va armaturani tekshiradi. To‘ldirilgandan so‘ng qozon drenaj nasoslari bilan 6-8 ати bosimgacha presslanadi va e’tirozlar bo‘lmasa gidravlik sinovlar boshlanadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "list",
+      "text": "GIDRAVLIK SINOVLARNI O‘TKAZISH",
+      "html": "<ol data-block-id=\"block-0023\"><li><p align=\"inherit\" lang=\"uz-Latn\">GIDRAVLIK SINOVLARNI O‘TKAZISH</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "list",
+      "text": "Ishlayotgan blokdan oziqlantiruvchi suv peremichkasi bosim ostiga qo‘yiladi. Qozon va oraliq qayta qizdirishda bosim (ish bosimidan 1,25 yuqori) 34,5 ати gacha ko‘tarilib, besh minut ushlab turiladi. Bosim 25 ати gacha tushiriladi va oraliq qayta qizdirish trakti ko‘rikdan o‘tkaziladi. БВК, ДК, БРОУ-1 yopiladi, drenajlar ochiladi va oraliq qayta qizdirish trakti bo‘shatiladi. Qozon barabanidagi bosim (ish bosimidan 1,25 yuqori) 187,5 ати gacha ko‘tarilib, 10 minut ushlab turiladi. Bosim 130 ати gacha tushiriladi, qozon, armatura va bosim ostidagi quvurlar ko‘rikdan o‘tkaziladi. Bosim nolgacha tushiriladi, qozon va quvurlar bo‘shatiladi. Doimiy sxemalar tiklanadi. ДК БРОУ-2А,Бdan keyingi tiqin olinadi.",
+      "html": "<ol data-block-id=\"block-0024\"><li><p align=\"inherit\" lang=\"uz-Latn\">Ishlayotgan blokdan oziqlantiruvchi suv peremichkasi bosim ostiga qo‘yiladi. Qozon va oraliq qayta qizdirishda bosim (ish bosimidan 1,25 yuqori) 34,5 ати gacha ko‘tarilib, besh minut ushlab turiladi. Bosim 25 ати gacha tushiriladi va oraliq qayta qizdirish trakti ko‘rikdan o‘tkaziladi. БВК, ДК, БРОУ-1 yopiladi, drenajlar ochiladi va oraliq qayta qizdirish trakti bo‘shatiladi. Qozon barabanidagi bosim (ish bosimidan 1,25 yuqori) 187,5 ати gacha ko‘tarilib, 10 minut ushlab turiladi. Bosim 130 ати gacha tushiriladi, qozon, armatura va bosim ostidagi quvurlar ko‘rikdan o‘tkaziladi. Bosim nolgacha tushiriladi, qozon va quvurlar bo‘shatiladi. Doimiy sxemalar tiklanadi. ДК БРОУ-2А,Бdan keyingi tiqin olinadi.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "2.10 Gidravlik sinov ijobiy natija berganda qo‘shma dalolatnoma tuziladi.",
+      "html": "<div data-block-id=\"block-0025\"><p align=\"justify\" lang=\"uz-Latn\">2.10 Gidravlik sinov ijobiy natija berganda qo‘shma dalolatnoma tuziladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "list",
+      "text": "ISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR.",
+      "html": "<ol data-block-id=\"block-0026\"><li><p align=\"inherit\" lang=\"uz-Latn\">ISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "list",
+      "text": "Oziqlantiruvchi suv peremichkasini bosim ostiga qo‘yishdan oldin barcha ishlar to‘xtatiladi va ta’mir brigadalari qozondan, oziqlantiruvchi quvurlar hududidan, СУПdan, o‘tkir bug‘, sovuq va issiq oraliq qayta qizdirish bug‘ quvurlaridan chiqariladi. Ko‘rsatilgan joylardagi ishlar bo‘yicha oraliq naryadlar topshiriladi. Qozonning boshqa uchastkalarida ishlarni bajarishga ruxsat etiladi. Ishlayotgan brigadalar ta’mir rahbari tomonidan gidravlik sinov boshlanishi va sanab o‘tilgan zonalarda xodimlar bo‘lishiga yo‘l qo‘yilmasligi haqida ogohlantirilishi kerak. Gidravlik sinov blok ta’miri mas’ul rahbari va КТЦ-1 boshlig‘i yoki uning o‘rinbosari bevosita rahbarligida bajariladi. Qozonni to‘ldirish va gidravlik sinovning butun vaqtiga usta boshchiligida navbatchi brigada ajratiladi, ro‘yxat КТЦ-1 rahbariyatiga beriladi. Brigada a’zolari ta’mir tashkilotlari mas’ul rahbarlari va КТЦ-1 tomonidan ПТБ bo‘yicha yo‘riqnomadan o‘tkaziladi. Barcha almashlab ulashlar КТЦ-1 va elektr sexi operativ xodimlari tomonidan bajariladi. ПТЭ, ПТБga rioya qilish uchun КТЦ-1 boshlig‘i va ta’mir rahbari mas’ul.",
+      "html": "<ol data-block-id=\"block-0027\"><li><p align=\"inherit\" lang=\"uz-Latn\">Oziqlantiruvchi suv peremichkasini bosim ostiga qo‘yishdan oldin barcha ishlar to‘xtatiladi va ta’mir brigadalari qozondan, oziqlantiruvchi quvurlar hududidan, СУПdan, o‘tkir bug‘, sovuq va issiq oraliq qayta qizdirish bug‘ quvurlaridan chiqariladi. Ko‘rsatilgan joylardagi ishlar bo‘yicha oraliq naryadlar topshiriladi. Qozonning boshqa uchastkalarida ishlarni bajarishga ruxsat etiladi. Ishlayotgan brigadalar ta’mir rahbari tomonidan gidravlik sinov boshlanishi va sanab o‘tilgan zonalarda xodimlar bo‘lishiga yo‘l qo‘yilmasligi haqida ogohlantirilishi kerak. Gidravlik sinov blok ta’miri mas’ul rahbari va КТЦ-1 boshlig‘i yoki uning o‘rinbosari bevosita rahbarligida bajariladi. Qozonni to‘ldirish va gidravlik sinovning butun vaqtiga usta boshchiligida navbatchi brigada ajratiladi, ro‘yxat КТЦ-1 rahbariyatiga beriladi. Brigada a’zolari ta’mir tashkilotlari mas’ul rahbarlari va КТЦ-1 tomonidan ПТБ bo‘yicha yo‘riqnomadan o‘tkaziladi. Barcha almashlab ulashlar КТЦ-1 va elektr sexi operativ xodimlari tomonidan bajariladi. ПТЭ, ПТБga rioya qilish uchun КТЦ-1 boshlig‘i va ta’mir rahbari mas’ul.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0028\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_31ddd917.gif\" height=\"56\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-002.gif\" width=\"141\"/>\n<br/>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov",
+      "html": "<div data-block-id=\"block-0029\"><p align=\"left\" lang=\"uz-Latn\">Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_64e44389.gif\" height=\"60\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-003.gif\" width=\"79\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "СНТБ boshlig‘i B.B. Nurdinov",
+      "html": "<div data-block-id=\"block-0030\"><p align=\"left\" lang=\"uz-Latn\">СНТБ boshlig‘i B.B. Nurdinov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_9e13de95.png\" height=\"63\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-004.png\" width=\"64\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "ММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova",
+      "html": "<div data-block-id=\"block-0031\"><p align=\"left\" lang=\"uz-Latn\">ММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "Qozon nazorati bo‘yicha yetakchi inspektor X.F. Abduvaliyev",
+      "html": "<div data-block-id=\"block-0032\"><p align=\"left\" lang=\"uz-Latn\">Qozon nazorati bo‘yicha yetakchi inspektor X.F. Abduvaliyev<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_50379ea0.png\" height=\"56\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-005.png\" width=\"90\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "КТЦ-1 boshlig‘i U.L. Majlimov",
+      "html": "<div data-block-id=\"block-0033\"><p align=\"left\" lang=\"uz-Latn\">КТЦ-1 boshlig‘i U.L. Majlimov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_563ac4f5.jpg\" height=\"49\" loading=\"lazy\" name=\"Рисунок 13\" src=\"assets/image-006.jpg\" width=\"114\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "ЦТКА boshlig‘i R.K. Baymatov",
+      "html": "<div data-block-id=\"block-0034\"><p align=\"left\" lang=\"uz-Latn\">ЦТКА boshlig‘i R.K. Baymatov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_ba50ff54.gif\" height=\"82\" loading=\"lazy\" name=\"Image6\" src=\"assets/image-007.gif\" width=\"102\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "Elektr sexi boshlig‘i M.D. Kenjibayev",
+      "html": "<div data-block-id=\"block-0035\"><p align=\"left\" lang=\"uz-Latn\">Elektr sexi boshlig‘i M.D. Kenjibayev</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "Metallar laboratoriyasi boshlig‘i L.U. Eshonqulov",
+      "html": "<div data-block-id=\"block-0036\"><p align=\"left\" lang=\"uz-Latn\">Metallar laboratoriyasi boshlig‘i L.U. Eshonqulov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_7375950f.gif\" height=\"74\" loading=\"lazy\" name=\"Image7\" src=\"assets/image-008.gif\" width=\"64\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "ЦЦР boshlig‘i T.A. Valiyev",
+      "html": "<div data-block-id=\"block-0037\"><p align=\"left\" lang=\"uz-Latn\">ЦЦР boshlig‘i T.A. Valiyev<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87.%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%BB.%202025_html_dc635daa.gif\" height=\"61\" loading=\"lazy\" name=\"Image8\" src=\"assets/image-009.gif\" width=\"92\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "«UET» uchastkasi ishlari rahbari Sh.M. Tursunbayev",
+      "html": "<div data-block-id=\"block-0038\"><p align=\"left\" lang=\"uz-Latn\">«UET» uchastkasi ishlari rahbari Sh.M. Tursunbayev</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev",
+      "html": "<div data-block-id=\"block-0039\"><p align=\"left\" lang=\"uz-Latn\">Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "котла",
+    "давление",
+    "ктц-1",
+    "промперегрева",
+    "испытания",
+    "гидравлического",
+    "трубопроводов",
+    "бщу",
+    "ати",
+    "ачальник",
+    "ремонта",
+    "работы",
+    "заполнения",
+    "гпз",
+    "питательной",
+    "воды",
+    "бригады",
+    "блока",
+    "гидравлическое",
+    "испытание",
+    "нагрева",
+    "ремонт",
+    "паропроводов",
+    "холодного",
+    "арматуры",
+    "устройства",
+    "острого",
+    "пара",
+    "арматура",
+    "промперегреве",
+    "персоналом",
+    "согласно",
+    "снижается",
+    "работ",
+    "котлоагрегата"
+  ],
+  "statistics": {
+    "blocks": 39,
+    "sections": 1,
+    "tables": 0,
+    "images": 9,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "c1784e71bbd3967d3b11ee8f0776c991c3801d52eaa6f12f1085f5b31353696c",
+    "sourceDocxStats": {
+      "paragraphs": 72,
+      "tables": 0,
+      "media": 9,
+      "textChars": 5265
+    },
+    "htmlTextChars": 5280,
+    "textLengthRatio": 1.003,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/gidravlich-ispytanie-bl-2025/",
+  "searchMetadata": {
+    "keywords": [
+      "gidravlik sinov",
+      "qozon agregati",
+      "oraliq qayta qizdirish",
+      "zichlikni tekshirish",
+      "bosim ostida sinash"
+    ],
+    "aliases": [
+      "qozonni presslash",
+      "gidrosinov",
+      "qozon barabani bosimi"
+    ],
+    "searchText": "ТГМ-94 QOZON AGREGATINI GIDRAVLIK SINOVDAN O‘TKAZISH BO‘YICHA NAMUNAVIY DASTUR 2-blok o‘rta ta’miridan keyin qozon agregati va quvurlarni zichlikka gidravlik sinash tartibi. TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» V.V. Pak NAMUNAVIY DASTUR ТГМ-94 qozon agregatini gidravlik sinovdan o‘tkazish 2-blok o‘rta ta’miridan keyin Gidravlik sinov qozon agregatidagi qizdirish yuzalari va quvurlarning zichligini tekshirish maqsadida o‘tkaziladi. 1. TAYYORGARLIK ISHLARI Qozonni gidravlik sinov uchun to‘ldirishdan oldin quyidagi ishlar tugatilishi va uzellar bo‘yicha qabul qilish o‘tkazilishi kerak. Qozon qizdirish yuzalari, baraban, bosh bug‘ quvurlari, «sovuq» va «issiq» oraliq qayta qizdirish bug‘ quvurlari, oziqlantiruvchi quvurlar ta’miri bajarilgan, payvandlash hujjatlari topshirilgan bo‘lishi kerak. РНП, Д-6 ата, drenaj baki, armaturali drenaj nasoslari ta’miri. Armatura ta’miri: ПЭН so‘rish va napori, ХПП surma klapanlari, ХПП, ГПП va o‘tkir bug‘ импульсно-предохранительные устройства, БВК, ДК, БРОУ-1,2, 1-x; 2-x va avariya purkash uzeli berkituvchi va rostlovchi armaturasi, qozon avariya tashlamasi, bug‘ o‘ta qizdirgichlar puflashlari, qozon retsirkulyatsiyasi, ГПЗ, ГПЗ baypaslari, ГПЗgacha drenajlar, ПВД kirish va chiqish, sovuq oziqlantirish, qozon va oraliq qayta qizdirish yuqori bosim drenajlari, suv ko‘rsatkich kolonkalari ventillari va boshqa bog‘langan armatura bajarilgan bo‘lishi kerak. ИПУ-1А,Б va ИПУ-2ni klinlash zarur. БЩУda oziqlantiruvchi suv bosimi — 1 dona. БЩУda qozon barabanidagi bosim — 2 dona. БЩУda ГПЗgacha o‘tkir bug‘ bosimi — 1 dona СУПdan keyingi oziqlantiruvchi suv bosimi — 1 dona. Issiq oraliq qayta qizdirishdagi bosim — 2 dona — БЩУ Sovuq oraliq qayta qizdirishdagi bosim — 1 dona — БЩУ Tiqinlarni o‘rnatish: ДК БРОУ – 2А,Бdan keyin tiqin ГОСТ 34233-73 ga muvofiq bo‘lishi kerak, suv va bug‘ bo‘yicha qozonning barcha armaturasi yopiladi. Qozon, oraliq qayta qizdirish va quvurlarni to‘ldirish КТЦ-1 rahbariyati va НСС ruxsatidan so‘ng kimyoviy tuzsizlantirilgan suv bilan (harorati kamida 5 0 С, ko‘pi bilan 40 0 С) drenaj nasoslari orqali ruxsat etilgan mahalliy ariza bo‘yicha bajariladi. Kimyoviy tuzsizlantirilgan suv БЗК kollektoridan ПЭН so‘rish kollektori orqali qozon drenaj bakiga beriladi. Qozon to‘ldirilishi davomida ta’mir xodimlari va КТЦ-1 operativ xodimlari birgalikda zich bo‘lmagan joylarni aniqlash uchun qozon qizdirish yuzalari va armaturani tekshiradi. To‘ldirilgandan so‘ng qozon drenaj nasoslari bilan 6-8 ати bosimgacha presslanadi va e’tirozlar bo‘lmasa gidravlik sinovlar boshlanadi. GIDRAVLIK SINOVLARNI O‘TKAZISH Ishlayotgan blokdan oziqlantiruvchi suv peremichkasi bosim ostiga qo‘yiladi. Qozon va oraliq qayta qizdirishda bosim (ish bosimidan 1,25 yuqori) 34,5 ати gacha ko‘tarilib, besh minut ushlab turiladi. Bosim 25 ати gacha tushiriladi va oraliq qayta qizdirish trakti ko‘rikdan o‘tkaziladi. БВК, ДК, БРОУ-1 yopiladi, drenajlar ochiladi va oraliq qayta qizdirish trakti bo‘shatiladi. Qozon barabanidagi bosim (ish bosimidan 1,25 yuqori) 187,5 ати gacha ko‘tarilib, 10 minut ushlab turiladi. Bosim 130 ати gacha tushiriladi, qozon, armatura va bosim ostidagi quvurlar ko‘rikdan o‘tkaziladi. Bosim nolgacha tushiriladi, qozon va quvurlar bo‘shatiladi. Doimiy sxemalar tiklanadi. ДК БРОУ-2А,Бdan keyingi tiqin olinadi. 2.10 Gidravlik sinov ijobiy natija berganda qo‘shma dalolatnoma tuziladi. ISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR. Oziqlantiruvchi suv peremichkasini bosim ostiga qo‘yishdan oldin barcha ishlar to‘xtatiladi va ta’mir brigadalari qozondan, oziqlantiruvchi quvurlar hududidan, СУПdan, o‘tkir bug‘, sovuq va issiq oraliq qayta qizdirish bug‘ quvurlaridan chiqariladi. Ko‘rsatilgan joylardagi ishlar bo‘yicha oraliq naryadlar topshiriladi. Qozonning boshqa uchastkalarida ishlarni bajarishga ruxsat etiladi. Ishlayotgan brigadalar ta’mir rahbari tomonidan gidravlik sinov boshlanishi va sanab o‘tilgan zonalarda xodimlar bo‘lishiga yo‘l qo‘yilmasligi haqida ogohlantirilishi kerak. Gidravlik sinov blok ta’miri mas’ul rahbari va КТЦ-1 boshlig‘i yoki uning o‘rinbosari bevosita rahbarligida bajariladi. Qozonni to‘ldirish va gidravlik sinovning butun vaqtiga usta boshchiligida navbatchi brigada ajratiladi, ro‘yxat КТЦ-1 rahbariyatiga beriladi. Brigada a’zolari ta’mir tashkilotlari mas’ul rahbarlari va КТЦ-1 tomonidan ПТБ bo‘yicha yo‘riqnomadan o‘tkaziladi. Barcha almashlab ulashlar КТЦ-1 va elektr sexi operativ xodimlari tomonidan bajariladi. ПТЭ, ПТБga rioya qilish uchun КТЦ-1 boshlig‘i va ta’mir rahbari mas’ul.  Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov СНТБ boshlig‘i B.B. Nurdinov ММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova Qozon nazorati bo‘yicha yetakchi inspektor X.F. Abduvaliyev КТЦ-1 boshlig‘i U.L. Majlimov ЦТКА boshlig‘i R.K. Baymatov Elektr sexi boshlig‘i M.D. Kenjibayev Metallar laboratoriyasi boshlig‘i L.U. Eshonqulov ЦЦР boshlig‘i T.A. Valiyev «UET» uchastkasi ishlari rahbari Sh.M. Tursunbayev Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev"
+  }
+}

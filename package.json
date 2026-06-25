@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prepare:translations": "node scripts/prepare-translations.mjs",
+    "validate:translations": "node scripts/validate-translations.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.3.0",

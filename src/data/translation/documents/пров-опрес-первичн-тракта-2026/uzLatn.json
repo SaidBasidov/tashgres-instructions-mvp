@@ -1,0 +1,477 @@
+{
+  "status": "review_required",
+  "title": "ТГМ-94 QOZON AGREGATI BIRLAMCHI TRAKTINI ISH BOSIMIGA PRESSLASH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "Qozon birlamchi traktini to‘ldirish, presslash, ko‘rikdan o‘tkazish va xavfsiz ishlarni tashkil etish tartibi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "2",
+      "title": "Texnik tarjima talab qilinadi: 2. ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА",
+      "level": 1,
+      "blockIds": [
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039",
+        "block-0040",
+        "block-0041",
+        "block-0042",
+        "block-0043",
+        "block-0044"
+      ],
+      "text": "Texnik tarjima talab qilinadi: 2. ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА\n2.1. Ставится под bosim перемычка по питательной воде от рабочего блока.\n2.2. Bosim в барабане qozon поднимается до 150 ати с выдержкой времени в течение 5 минут.\n2.3. Снижается bosim до 100 ати и bajariladi осмотр armatura и quvurlar, находящихся под bosimм.\n2.4. После осмотра при положительных результатах, снижается bosim в котле до нуля, опорожняется барабан до растопочного уровня, bug‘ quvurlari и пароперегреватели в дренажный бак с откачкой в химцех по линии грязного конденсата.\nTexnik tarjima talab qilinadi: 2.5. Производится восстановление рабочих схем.\nTexnik tarjima talab qilinadi: ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ.\n3.1. Перед пto‘xtatishкой под bosim перемычки по питательной воде прекращаются все работы и выводится ta’mirные бригады с qozon, из района питательных quvurlar, СУП, bug‘ quvurlari острого пара, холодного и горячего промперегрева.\nTexnik tarjima talab qilinadi: 3.2. Сдаются наряды на работы в указанных местах.\n3.3. Производство работ на остальных участках блока разрешается. Работающие бригады bo‘lishi kerak предупреждены оперативном xodimlarом о начале опрессовки qozon.\n3.4. Опрессовка bajariladi под непосредственным руководством boshliqа смены КТЦ-1.\n3.5. На все время заполнения qozon и его опрессовки выделяется дежурная бригада во главе мастера ЦЦР.\n3.6. Члены бригады bo‘lishi kerak проинструктированы НС КТЦ-1 и руководителем работ по наряду.\n3.7. Все переключения в тепловых схемах bajariladi оперативным xodimlarом\nКТЦ-1.\n3.8. Ответственными за соблюдение ПТБ, ПТЭ xodimlarом КТЦ-1 является НСЦ, а ta’mirного xodimlarа мастер ЦЦР.\nTexnik direktor o‘rinbosari по ТМО Б.Р. Исмоилов\nBoshliq СНТБ Б.Б. Нурдинов\nBoshliq ОПТО Б.С. Айтмуратов\nBoshliq ЦЦР Т.А. Валиев\nBoshliq КТЦ-1 У.Л. Мажлимов\nBoshliq КТЦ-2 М.М. Махкамов\nTexnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "keywords": [
+        "котла",
+        "давление",
+        "ктц-1",
+        "начальник",
+        "опрессовки",
+        "работ",
+        "бригады",
+        "персоналом",
+        "ццр",
+        "питательной",
+        "воде",
+        "блока",
+        "ати",
+        "снижается",
+        "трубопроводов"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Технический директор",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО « Ташкентская ТЭС»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "проведение birlamchi traktni presslash котлоагрегата ТГМ-94",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "на рабочее bosim.",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "TAYYORGARLIK ISHLARI",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "До заполнения qozon под опрессовку bo‘lishi kerak закончены все ta’mirные работы по котлу, препятствующие ее проведению. Все наряды bo‘lishi kerak сданы ответственному лицу дежурного xodimlarа, подана заявка на ЦПУ.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Перед заполнением первичного тракта qozon под опрессовку zarur tekshirish:",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "- закрытие БВК и ДК БРОУ-1;",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - открытие дренажей и ревизии за БВК и ДК БРОУ-1 с низкой стороны;",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "-открытие дренажей промперегрева по хвосту qozon;",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "- открытие дренажей bug‘ quvurlari ХПП, ГПП, перепускных труб высокого и среднего давления;",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "- закрытие armatura на линии подачи пара на ОЭ и уплотнения ТГ от барабана или от потолка;",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "- закрытие задвижек ХПП.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "На дренажах до и после стопорного клапана ТГ bo‘lishi kerak вывернуты бугеля, а также zarur контролировать уровень в конденсаторе ТГ. Заполнение первичного тракта bajariladi после разрешения заявки руководством станции и ДИСа, kimyoviy tuzsizlantirilgan suv bilan дренажными насосами. Химобессоленная вода подается в ДБ от коллектора БЗК через всасывающий коллектор ПЭН.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "По мере заполнения qozon, xodimlarом ЦЦР проверяются поверхности нагрева и арматура для обнаружения неплотностей. Работа bajariladi по наряду.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "После заполнения котел опрессовывается дренажными насосами на 6-8 ати, и при отсутствии замечаний начинается опрессовка на рабочее bosim питательной водой по перемычке от соседнего блока.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "Перемычка ставится под bosim от блоков, на которых отбор oziqlantiruvchi suv осуществлен с напорного коллектора ПЭНов до ПВД-6-8.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: Вентиля перемычек открываются в следующей последовательности: открываются вентили по ходу среди над клапан, а затем остальные вентили.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 2. ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "2.1. Ставится под bosim перемычка по питательной воде от рабочего блока.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "2.2. Bosim в барабане qozon поднимается до 150 ати с выдержкой времени в течение 5 минут.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "2.3. Снижается bosim до 100 ати и bajariladi осмотр armatura и quvurlar, находящихся под bosimм.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "2.4. После осмотра при положительных результатах, снижается bosim в котле до нуля, опорожняется барабан до растопочного уровня, bug‘ quvurlari и пароперегреватели в дренажный бак с откачкой в химцех по линии грязного конденсата.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 2.5. Производится восстановление рабочих схем.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "list",
+      "text": "Texnik tarjima talab qilinadi: ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "3.1. Перед пto‘xtatishкой под bosim перемычки по питательной воде прекращаются все работы и выводится ta’mirные бригады с qozon, из района питательных quvurlar, СУП, bug‘ quvurlari острого пара, холодного и горячего промперегрева.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 3.2. Сдаются наряды на работы в указанных местах.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "3.3. Производство работ на остальных участках блока разрешается. Работающие бригады bo‘lishi kerak предупреждены оперативном xodimlarом о начале опрессовки qozon.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "3.4. Опрессовка bajariladi под непосредственным руководством boshliqа смены КТЦ-1.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "3.5. На все время заполнения qozon и его опрессовки выделяется дежурная бригада во главе мастера ЦЦР.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "3.6. Члены бригады bo‘lishi kerak проинструктированы НС КТЦ-1 и руководителем работ по наряду.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "3.7. Все переключения в тепловых схемах bajariladi оперативным xodimlarом",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "КТЦ-1.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "3.8. Ответственными за соблюдение ПТБ, ПТЭ xodimlarом КТЦ-1 является НСЦ, а ta’mirного xodimlarа мастер ЦЦР.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari по ТМО Б.Р. Исмоилов",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "Boshliq СНТБ Б.Б. Нурдинов",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "paragraph",
+      "text": "Boshliq ОПТО Б.С. Айтмуратов",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "Boshliq ЦЦР Т.А. Валиев",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "Boshliq КТЦ-1 У.Л. Мажлимов",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "Boshliq КТЦ-2 М.М. Махкамов",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/prov-opres-pervichn-trakta-2026/translations/uzLatn/document.json",
+    "assetBasePath": "documents/prov-opres-pervichn-trakta-2026/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "birlamchi traktni presslash",
+      "qozon bosimi",
+      "gidravlik sinov",
+      "drenajlar",
+      "oziqlantiruvchi suv"
+    ],
+    "aliases": [
+      "opressovka trakta",
+      "qozonni presslash",
+      "ish bosimi"
+    ],
+    "searchText": "ТГМ-94 QOZON AGREGATI BIRLAMCHI TRAKTINI ISH BOSIMIGA PRESSLASH BO‘YICHA NAMUNAVIY DASTUR Qozon birlamchi traktini to‘ldirish, presslash, ko‘rikdan o‘tkazish va xavfsiz ishlarni tashkil etish tartibi. TASDIQLAYMAN Технический директор АО « Ташкентская ТЭС» В.В. Пак NAMUNAVIY DASTUR проведение birlamchi traktni presslash котлоагрегата ТГМ-94 на рабочее bosim. TAYYORGARLIK ISHLARI До заполнения qozon под опрессовку bo‘lishi kerak закончены все ta’mirные работы по котлу, препятствующие ее проведению. Все наряды bo‘lishi kerak сданы ответственному лицу дежурного xodimlarа, подана заявка на ЦПУ. Перед заполнением первичного тракта qozon под опрессовку zarur tekshirish: - закрытие БВК и ДК БРОУ-1; Texnik tarjima talab qilinadi: - открытие дренажей и ревизии за БВК и ДК БРОУ-1 с низкой стороны; -открытие дренажей промперегрева по хвосту qozon; - открытие дренажей bug‘ quvurlari ХПП, ГПП, перепускных труб высокого и среднего давления; - закрытие armatura на линии подачи пара на ОЭ и уплотнения ТГ от барабана или от потолка; - закрытие задвижек ХПП. На дренажах до и после стопорного клапана ТГ bo‘lishi kerak вывернуты бугеля, а также zarur контролировать уровень в конденсаторе ТГ. Заполнение первичного тракта bajariladi после разрешения заявки руководством станции и ДИСа, kimyoviy tuzsizlantirilgan suv bilan дренажными насосами. Химобессоленная вода подается в ДБ от коллектора БЗК через всасывающий коллектор ПЭН. По мере заполнения qozon, xodimlarом ЦЦР проверяются поверхности нагрева и арматура для обнаружения неплотностей. Работа bajariladi по наряду. После заполнения котел опрессовывается дренажными насосами на 6-8 ати, и при отсутствии замечаний начинается опрессовка на рабочее bosim питательной водой по перемычке от соседнего блока. Перемычка ставится под bosim от блоков, на которых отбор oziqlantiruvchi suv осуществлен с напорного коллектора ПЭНов до ПВД-6-8. Texnik tarjima talab qilinadi: Вентиля перемычек открываются в следующей последовательности: открываются вентили по ходу среди над клапан, а затем остальные вентили. Texnik tarjima talab qilinadi: 2. ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА 2.1. Ставится под bosim перемычка по питательной воде от рабочего блока. 2.2. Bosim в барабане qozon поднимается до 150 ати с выдержкой времени в течение 5 минут. 2.3. Снижается bosim до 100 ати и bajariladi осмотр armatura и quvurlar, находящихся под bosimм. 2.4. После осмотра при положительных результатах, снижается bosim в котле до нуля, опорожняется барабан до растопочного уровня, bug‘ quvurlari и пароперегреватели в дренажный бак с откачкой в химцех по линии грязного конденсата. Texnik tarjima talab qilinadi: 2.5. Производится восстановление рабочих схем. Texnik tarjima talab qilinadi: ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ. 3.1. Перед пto‘xtatishкой под bosim перемычки по питательной воде прекращаются все работы и выводится ta’mirные бригады с qozon, из района питательных quvurlar, СУП, bug‘ quvurlari острого пара, холодного и горячего промперегрева. Texnik tarjima talab qilinadi: 3.2. Сдаются наряды на работы в указанных местах. 3.3. Производство работ на остальных участках блока разрешается. Работающие бригады bo‘lishi kerak предупреждены оперативном xodimlarом о начале опрессовки qozon. 3.4. Опрессовка bajariladi под непосредственным руководством boshliqа смены КТЦ-1. 3.5. На все время заполнения qozon и его опрессовки выделяется дежурная бригада во главе мастера ЦЦР. 3.6. Члены бригады bo‘lishi kerak проинструктированы НС КТЦ-1 и руководителем работ по наряду. 3.7. Все переключения в тепловых схемах bajariladi оперативным xodimlarом КТЦ-1. 3.8. Ответственными за соблюдение ПТБ, ПТЭ xodimlarом КТЦ-1 является НСЦ, а ta’mirного xodimlarа мастер ЦЦР. Texnik direktor o‘rinbosari по ТМО Б.Р. Исмоилов Boshliq СНТБ Б.Б. Нурдинов Boshliq ОПТО Б.С. Айтмуратов Boshliq ЦЦР Т.А. Валиев Boshliq КТЦ-1 У.Л. Мажлимов Boshliq КТЦ-2 М.М. Махкамов Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев"
+  }
+}

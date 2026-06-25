@@ -1,0 +1,314 @@
+{
+  "documents": {
+    "ппрограмма_восстановления_хим_режима": {
+      "sourceDocument": "src/data/importedDocuments/ппрограмма_восстановления_хим_режима/document.json",
+      "sourceDocumentSha256": "c08b5941a0f635f95606de76786786c2d14ac4fa781b440d8cfcdf5ddd278e4e",
+      "richDocument": "public/documents/pprogramma-vosstanovleniya-him-rezhima/document.json",
+      "richDocumentSha256": "c0da54edf369bde15b1f6bae4b595d99888d673c8b90e23598169abe8d6e550a",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "вакуумная_сушка_поверхн_нагрева_и_п_п_котла": {
+      "sourceDocument": "src/data/importedDocuments/вакуумная_сушка_поверхн_нагрева_и_п_п_котла/document.json",
+      "sourceDocumentSha256": "c091f3af2f5ee11f8bcd83aa22a61b56e5234b5e276bcdedec5b1dab6aa92701",
+      "richDocument": "public/documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/document.json",
+      "richDocumentSha256": "0cc3a106b72b12ff30d73781fde4c666db635ea24ae3b9de7e878c0f83f547de",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "проверка_плотности_стоп_и_рег_клап_тг_2026": {
+      "sourceDocument": "src/data/importedDocuments/проверка_плотности_стоп_и_рег_клап_тг_2026/document.json",
+      "sourceDocumentSha256": "e264e7b7392c901364b9892ea3b71db0c1051125bcf1d5d6edf1a725f4335cbc",
+      "richDocument": "public/documents/proverka-plotnosti-stop-i-reg-klap-tg-2026/document.json",
+      "richDocumentSha256": "637012d8c456a43040935aba70b7e62d283b24cd22005ea0bed99617fc56c73c",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "вывод-бл-в-кап-и-ср-рем-2026": {
+      "sourceDocument": "src/data/importedDocuments/вывод-бл-в-кап-и-ср-рем-2026/document.json",
+      "sourceDocumentSha256": "adb04a8bfa6c7bb558881addcb71c7e8fbf8c9355b1215c5315f4f9f35b8fdad",
+      "richDocument": "public/documents/vyvod-bl-v-kap-i-sr-rem-2026/document.json",
+      "richDocumentSha256": "32548700d9ecc21b837037cca1656195c0b51797d41db5925e414b4dff0ec971",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "гидравлич-испытание-бл-2025": {
+      "sourceDocument": "src/data/importedDocuments/гидравлич-испытание-бл-2025/document.json",
+      "sourceDocumentSha256": "533df4a0aba570974a448e7350b0b51ab6ad3cf7507c8458fc078b4d6753c5dc",
+      "richDocument": "public/documents/gidravlich-ispytanie-bl-2025/document.json",
+      "richDocumentSha256": "7d9a98d8550b64dc510dc128bb8055068217576a5a51b53a22fca7e39b278992",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "проверка_работоспособности_пр_кл_ипу_2-хпп_2026": {
+      "sourceDocument": "src/data/importedDocuments/проверка_работоспособности_пр_кл_ипу_2-хпп_2026/document.json",
+      "sourceDocumentSha256": "322c5e68188f6efdbd3ca4e07971b1cb4f566f04b8276d028bbac5f8f7bc7932",
+      "richDocument": "public/documents/proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026/document.json",
+      "richDocumentSha256": "e33f06b05c8d6c19e2004bd1bebccf8269dd92499c03df5351e2598b1cd4e37e",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "прог_проведения_настрои-ки_ипу_2026": {
+      "sourceDocument": "src/data/importedDocuments/прог_проведения_настрои-ки_ипу_2026/document.json",
+      "sourceDocumentSha256": "29dd59a2eeae4bfa73ed4c4c0ca2d759bb51c0188aa8f32ba657b889f87f3d49",
+      "richDocument": "public/documents/prog-provedeniya-nastroyki-ipu-2026/document.json",
+      "richDocumentSha256": "b4942e9cd4d46b0743b37755bd209118a9cc253afe1b74707f92c3380cd0688e",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "очистка-маслосистемы-2025": {
+      "sourceDocument": "src/data/importedDocuments/очистка-маслосистемы-2025/document.json",
+      "sourceDocumentSha256": "e1033e03b7be232ad5969083fe6a7060f7679143d7f8492bd44e918cfef43001",
+      "richDocument": "public/documents/ochistka-maslosistemy-2025/document.json",
+      "richDocumentSha256": "b91f59e23d60bfc55514fd41fda7ecef4c2b0a7e15b6363eea72dd0c40d4a868",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "перевод-сар-2026": {
+      "sourceDocument": "src/data/importedDocuments/перевод-сар-2026/document.json",
+      "sourceDocumentSha256": "9f51d3617eb47a86275c0e146223a84b6f05eed97ecd2b4ba0227d573e03c8c6",
+      "richDocument": "public/documents/perevod-sar-2026/document.json",
+      "richDocumentSha256": "5136475ce095098c9bed0c52ef6287de78322ece87a06db0cb156d1b440d150b",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "ппр-восстановл-хим-режима-2026-г": {
+      "sourceDocument": "src/data/importedDocuments/ппр-восстановл-хим-режима-2026-г/document.json",
+      "sourceDocumentSha256": "a386977a74d52324b119bb5fdd64e10460af61840f41a7531b50ab3347c561c2",
+      "richDocument": "public/documents/ppr-vosstanovl-him-rezhima-2026-g/document.json",
+      "richDocumentSha256": "57846a61892926a2b1075645f57e8823e09d3a9c41251ba3f7fe08547aa7b6bf",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "ппрограмма_восстановления_хим_режима_10_блока": {
+      "sourceDocument": "src/data/importedDocuments/ппрограмма_восстановления_хим_режима_10_блока/document.json",
+      "sourceDocumentSha256": "1016cce25ecfcc25cd5e91b4f13909a8ee2335614cf2a58cd33cc30dcb9e0bb4",
+      "richDocument": "public/documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/document.json",
+      "richDocumentSha256": "2a4066ad3a37fe672b942421fbd3adc92adbb8376c8f481a0d7ed9ec7bf41fd3",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "пар-опроб-и-пуск-на-хол-ход-2025": {
+      "sourceDocument": "src/data/importedDocuments/пар-опроб-и-пуск-на-хол-ход-2025/document.json",
+      "sourceDocumentSha256": "6199d4562f6b7920c8618fc810b98fa25ab51fe53a5947fe0933bfeb446616b8",
+      "richDocument": "public/documents/par-oprob-i-pusk-na-hol-hod-2025/document.json",
+      "richDocumentSha256": "e387aeb01a0b8b4400364cbde1e1835afabbac14635510ec75fa2b7709f6cb97",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "продувка-паропров-после-рем-2026": {
+      "sourceDocument": "src/data/importedDocuments/продувка-паропров-после-рем-2026/document.json",
+      "sourceDocumentSha256": "f8ef5b2ba7d6be193e1bebff595d0349bf7a00b454adf96c269b27d3f86ec261",
+      "richDocument": "public/documents/produvka-paroprov-posle-rem-2026/document.json",
+      "richDocumentSha256": "06f55fcd813b2420eb1ccb46fce8caf3d22ab82d1abd933e32e3bee22a006677",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "программа_гидравлич_испытание_бл_2026": {
+      "sourceDocument": "src/data/importedDocuments/программа_гидравлич_испытание_бл_2026/document.json",
+      "sourceDocumentSha256": "c362d333f11c2e4238d9e0ea6daea1951d5991bdcc605709509ab6275ce30d91",
+      "richDocument": "public/documents/programma-gidravlich-ispytanie-bl-2026/document.json",
+      "richDocumentSha256": "8e33b57238af3c99a6948ebc6a085ad6d89a127a7efe3078440fdf0dfc3760c5",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "проверка_плотности_стоп_и_рег_клап_тг_2025": {
+      "sourceDocument": "src/data/importedDocuments/проверка_плотности_стоп_и_рег_клап_тг_2025/document.json",
+      "sourceDocumentSha256": "4ca2484e39a3ecd36da44d3f717e51133f6fc16e5eea71519ef99b60e360eba9",
+      "richDocument": "public/documents/proverka-plotnosti-stop-i-reg-klap-tg-2025/document.json",
+      "richDocumentSha256": "9d2277b9e570439f8ab24f3dc52bc7578dbaffe977a3f61aa5383c0677296746",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "kн-205-138-2025-лотин-февраль-2025": {
+      "sourceDocument": "src/data/importedDocuments/kн-205-138-2025-лотин-февраль-2025/document.json",
+      "sourceDocumentSha256": "2187c52a236fb26d77857ffa9aa6ebe0b3ca69aa5172acc7805bb939693105fe",
+      "richDocument": "public/documents/kn-205-138-2025-lotin-fevral-2025/document.json",
+      "richDocumentSha256": "309d92040bda0d6c7f17ce7f3faab8009ef8fcf87a51106e467edafefe9582fd",
+      "targetLanguages": [
+        "ru",
+        "uzCyrl"
+      ]
+    },
+    "программа_паровои-_продувки_котла_no1_новая_уэт_2024": {
+      "sourceDocument": "src/data/importedDocuments/программа_паровои-_продувки_котла_no1_новая_уэт_2024/document.json",
+      "sourceDocumentSha256": "a7fb802ebec0ded39462c43364bd0555e3c68b0e9954ee76b7b7b9f6da83fbfa",
+      "richDocument": "public/documents/programma-parovoy-produvki-kotla-no1-novaya-uet-2024/document.json",
+      "richDocumentSha256": "0852417959660e1b42daee9cf96bd0ab3dd4235e1ae11c3347f2959d9b030d42",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "продувка-паропров-после-рем-2025": {
+      "sourceDocument": "src/data/importedDocuments/продувка-паропров-после-рем-2025/document.json",
+      "sourceDocumentSha256": "c6d4c11f05c22a340533f8b3f37b60fba3b0d2d322dddbe93377ff20a749600e",
+      "richDocument": "public/documents/produvka-paroprov-posle-rem-2025/document.json",
+      "richDocumentSha256": "082220c3a116b80694a045a00e6c9000f265fa88ce257651664c0db87061b918",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "пров-опрес-первичн-тракта-2026": {
+      "sourceDocument": "src/data/importedDocuments/пров-опрес-первичн-тракта-2026/document.json",
+      "sourceDocumentSha256": "cd01b03aa98482d34a1bb98ccf8eefbbc2876732439dfa3f701734752709316a",
+      "richDocument": "public/documents/prov-opres-pervichn-trakta-2026/document.json",
+      "richDocumentSha256": "2826a29df522c453bf738bcdfa721142b7f877544858faebe8d9ed3bfdc780c6",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "останов_турбиннои-_установки_no8_в_режим_холост_ход": {
+      "sourceDocument": "src/data/importedDocuments/останов_турбиннои-_установки_no8_в_режим_холост_ход/document.json",
+      "sourceDocumentSha256": "a4914fe29317ed12e1e1d6775d38658906ba09895c16662914d38e9837c9be4f",
+      "richDocument": "public/documents/ostanov-turbinnoy-ustanovki-no8-v-rezhim-holost-hod/document.json",
+      "richDocumentSha256": "0102a7cedaab2d1246ab37f5730280b8dde3add95483546f5b493cec09a129e4",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "опроб-защиты-от-разгона-2026": {
+      "sourceDocument": "src/data/importedDocuments/опроб-защиты-от-разгона-2026/document.json",
+      "sourceDocumentSha256": "75d8babda48e752be1a1aec2c6c0f5f9c459c41a5b213ad2bc289d3a3e9ebde6",
+      "richDocument": "public/documents/oprob-zaschity-ot-razgona-2026/document.json",
+      "richDocumentSha256": "e13a96fac0f49341d292e7721948e36893df82f3bd3012b88d60f0ce6000001a",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "опроб-защиты-от-разгона-2025": {
+      "sourceDocument": "src/data/importedDocuments/опроб-защиты-от-разгона-2025/document.json",
+      "sourceDocumentSha256": "e43bab267d0208f68f2670a458a0c39282224c023787b2b229d44b48c86e6415",
+      "richDocument": "public/documents/oprob-zaschity-ot-razgona-2025/document.json",
+      "richDocumentSha256": "586de9e6dce0957ab06bc765a3ca0e3dca5761c72a05f154687be78a5e488151",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "пуск_на_холостои-_ход_и_пров_авт_безопасн_2026": {
+      "sourceDocument": "src/data/importedDocuments/пуск_на_холостои-_ход_и_пров_авт_безопасн_2026/document.json",
+      "sourceDocumentSha256": "0b0c4ae741cdb5b50156cbf948d824fadde0be32cfb146bfe1071d85a4a4b6c6",
+      "richDocument": "public/documents/pusk-na-holostoy-hod-i-prov-avt-bezopasn-2026/document.json",
+      "richDocumentSha256": "03b286c8b5a1f23cfb77cdda83425dd2fac8f1d69e403ece8f8eb3c07cdfdf3d",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "kн-131-2026-y-к-k-160-130": {
+      "sourceDocument": "src/data/importedDocuments/kн-131-2026-y-к-k-160-130/document.json",
+      "sourceDocumentSha256": "e3c9d858117daf5f5d9f58ef87d579a1c60f8b5ba9c62b06670e1e61eb26e21f",
+      "richDocument": "public/documents/kn-131-2026-y-k-k-160-130/document.json",
+      "richDocumentSha256": "7db61b906fc05915e0d47557e98ab7a6bc62cab6c08436855d63c5bd46bcb4f4",
+      "targetLanguages": [
+        "ru",
+        "uzCyrl"
+      ]
+    },
+    "kн-132-2023-лотинча-февраль-2025-doc": {
+      "sourceDocument": "src/data/importedDocuments/kн-132-2023-лотинча-февраль-2025-doc/document.json",
+      "sourceDocumentSha256": "8cecaad668e80bb1df8584510367f2607274f92b485f9fb05a5e303f11389974",
+      "richDocument": "public/documents/kn-132-2023-lotincha-fevral-2025-doc/document.json",
+      "richDocumentSha256": "91d4870271b6c4bb153852ce6b998ae74d0a6751d085456ad97af1a1292f74cc",
+      "targetLanguages": [
+        "ru",
+        "uzCyrl"
+      ]
+    },
+    "kн-145-2025-лотин-февраль-2025": {
+      "sourceDocument": "src/data/importedDocuments/kн-145-2025-лотин-февраль-2025/document.json",
+      "sourceDocumentSha256": "fb52b61674018ee85a2baf59e2c1145461b68c2a1c58e5fbbec76d7ec2a42274",
+      "richDocument": "public/documents/kn-145-2025-lotin-fevral-2025/document.json",
+      "richDocumentSha256": "76d0a9ad6f2b2f820c55dd5475065de81a4f8253bb9637fe8b9e062f8ae48899",
+      "targetLanguages": [
+        "ru",
+        "uzCyrl"
+      ]
+    },
+    "kн-205-140-2025-лотин-февраль-2025": {
+      "sourceDocument": "src/data/importedDocuments/kн-205-140-2025-лотин-февраль-2025/document.json",
+      "sourceDocumentSha256": "23580658bd6e6e169ae6e9e4e17d08aa35339d67afcad8c5a955a58f0e85a76e",
+      "richDocument": "public/documents/kn-205-140-2025-lotin-fevral-2025/document.json",
+      "richDocumentSha256": "a4358335089eb8b1e06828d58e81ffa65e4436ac272893112c254e77dc9bcb62",
+      "targetLanguages": [
+        "ru",
+        "uzCyrl"
+      ]
+    },
+    "кн-143-2026-и-лотин": {
+      "sourceDocument": "src/data/importedDocuments/кн-143-2026-и-лотин/document.json",
+      "sourceDocumentSha256": "beaabfe8408bcb4c9382a846e2912bbb6fc678d9bf6e24509679693c05b5478d",
+      "richDocument": "public/documents/kn-143-2026-y-lotin/document.json",
+      "richDocumentSha256": "17e6a5701ad5c9b37c46fe1f1c113c11faa8bd3cede3fe336c63ea6fb0781e7b",
+      "targetLanguages": [
+        "ru",
+        "uzCyrl"
+      ]
+    },
+    "программа_паровои-_продувки_котла_no1_новая_уэт_2024_образец": {
+      "sourceDocument": "src/data/importedDocuments/программа_паровои-_продувки_котла_no1_новая_уэт_2024_образец/document.json",
+      "sourceDocumentSha256": "895760bffec03e7829205eb6f46aa7417d092f6d114346e5a2ed3748145b6de6",
+      "richDocument": "public/documents/programma-parovoy-produvki-kotla-no1-novaya-uet-2024-obrazec/document.json",
+      "richDocumentSha256": "fc1ee82416334eaeaaf803cae3c09b36fa5238539f3a67cf7b115f64dc298d62",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "программа_пуск_турб_из_холодн_сост": {
+      "sourceDocument": "src/data/importedDocuments/программа_пуск_турб_из_холодн_сост/document.json",
+      "sourceDocumentSha256": "9cc8fc1f053ae7838622edec3ea86016b8f8775270fc34666ebd67ca76f7b408",
+      "richDocument": "public/documents/programma-pusk-turb-iz-holodn-sost/document.json",
+      "richDocumentSha256": "2d639cd0506e359038fba1263a654fc0c289fc9d1b41a62c8a685ad43a23ff18",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    },
+    "хим_очистка_экран_труб_котла_солян_кислотои-_2026": {
+      "sourceDocument": "src/data/importedDocuments/хим_очистка_экран_труб_котла_солян_кислотои-_2026/document.json",
+      "sourceDocumentSha256": "2b3c5a2f97707fb1b546fc42ad7860ea1e59fcd87f76213f35d32da7dc87fa75",
+      "richDocument": "public/documents/him-ochistka-ekran-trub-kotla-solyan-kislotoy-2026/document.json",
+      "richDocumentSha256": "fc5c6ee0cdafd03f73dc613e7d8861ae30e20bc1ced04ac1d68fd16b156cac31",
+      "targetLanguages": [
+        "uzLatn",
+        "uzCyrl"
+      ]
+    }
+  }
+}

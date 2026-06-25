@@ -1,0 +1,590 @@
+{
+  "id": "prov-opres-pervichn-trakta-2026",
+  "code": "",
+  "title": "ТИПОВАЯ ПРОГРАММА",
+  "summary": "ТИПОВАЯ ПРОГРАММА\nпроведение опрессовки первичного тракта котлоагрегата ТГМ-94\nна рабочее давление.\nПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ\nДо заполнения котла под опрессовку должны быть закончены все ремонтные работы по котлу, препятствующие ее проведению. Все наряды должны быть сданы ответственному лицу дежурного персонала, подана заявка на ЦПУ.\nПеред заполнением первичного тракта котла под опрессовку необходимо проверить:\n- закрытие БВК и ДК БРОУ-1;\n- открытие дренажей и ревизии за БВК и ДК БРОУ-1 с низкой с",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "пров.опрес.первичн.тракта 2026.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/prov-opres-pervichn-trakta-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "пров.опрес.первичн.тракта 2026.doc",
+    "path": "documents/prov-opres-pervichn-trakta-2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "пров.опрес.первичн.тракта 2026.pdf",
+    "path": "documents/prov-opres-pervichn-trakta-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "пров.опрес.первичн.тракта 2026.docx",
+    "path": "documents/prov-opres-pervichn-trakta-2026/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "2",
+      "title": "ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА",
+      "level": 1,
+      "blockIds": [
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039",
+        "block-0040",
+        "block-0041",
+        "block-0042",
+        "block-0043",
+        "block-0044"
+      ],
+      "text": "2. ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА\n2.1. Ставится под давление перемычка по питательной воде от рабочего блока.\n2.2. Давление в барабане котла поднимается до 150 ати с выдержкой времени в течение 5 минут.\n2.3. Снижается давление до 100 ати и производится осмотр арматуры и трубопроводов, находящихся под давлением.\n2.4. После осмотра при положительных результатах, снижается давление в котле до нуля, опорожняется барабан до растопочного уровня, паропроводы и пароперегреватели в дренажный бак с откачкой в химцех по линии грязного конденсата.\n2.5. Производится восстановление рабочих схем.\nОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ.\n3.1. Перед постановкой под давление перемычки по питательной воде прекращаются все работы и выводится ремонтные бригады с котла, из района питательных трубопроводов, СУП, паропроводов острого пара, холодного и горячего промперегрева.\n3.2. Сдаются наряды на работы в указанных местах.\n3.3. Производство работ на остальных участках блока разрешается. Работающие бригады должны быть предупреждены оперативном персоналом о начале опрессовки котла.\n3.4. Опрессовка производится под непосредственным руководством начальника смены КТЦ-1.\n3.5. На все время заполнения котла и его опрессовки выделяется дежурная бригада во главе мастера ЦЦР.\n3.6. Члены бригады должны быть проинструктированы НС КТЦ-1 и руководителем работ по наряду.\n3.7. Все переключения в тепловых схемах производится оперативным персоналом\nКТЦ-1.\n3.8. Ответственными за соблюдение ПТБ, ПТЭ персоналом КТЦ-1 является НСЦ, а ремонтного персонала мастер ЦЦР.\nЗам. тех.директора по ТМО Б.Р. Исмоилов\nНачальник СНТБ Б.Б. Нурдинов\nНачальник ОПТО Б.С. Айтмуратов\nНачальник ЦЦР Т.А. Валиев\nНачальник КТЦ-1 У.Л. Мажлимов\nНачальник КТЦ-2 М.М. Махкамов\nЗам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "keywords": [
+        "котла",
+        "давление",
+        "ктц-1",
+        "начальник",
+        "опрессовки",
+        "работ",
+        "бригады",
+        "персоналом",
+        "ццр",
+        "питательной",
+        "воде",
+        "блока",
+        "ати",
+        "снижается",
+        "трубопроводов"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0001\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Технический директор",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">Технический\nдиректор</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО « Ташкентская ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">АО « Ташкентская\nТЭС»</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">В.В. Пак</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ТИПОВАЯ ПРОГРАММА",
+      "html": "<p align=\"center\" data-block-id=\"block-0005\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\"><b>ТИПОВАЯ\nПРОГРАММА</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "проведение опрессовки первичного тракта котлоагрегата ТГМ-94",
+      "html": "<p align=\"center\" data-block-id=\"block-0006\" lang=\"ru-RU\" style=\"text-indent: 0.5in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\"><b>проведение\nопрессовки первичного тракта котлоагрегата\nТГМ-94 </b></font></font>\n</p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "на рабочее давление.",
+      "html": "<p align=\"center\" data-block-id=\"block-0007\" lang=\"ru-RU\" style=\"text-indent: 0.5in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\"><b>на\nрабочее давление.</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ",
+      "html": "<ol data-block-id=\"block-0008\">\n<li><p lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">ПОДГОТОВИТЕЛЬНЫЕ\n\tРАБОТЫ</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "До заполнения котла под опрессовку должны быть закончены все ремонтные работы по котлу, препятствующие ее проведению. Все наряды должны быть сданы ответственному лицу дежурного персонала, подана заявка на ЦПУ.",
+      "html": "<p data-block-id=\"block-0009\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\tДо\nзаполнения котла под опрессовку должны\nбыть закончены все ремонтные работы по\nкотлу, препятствующие ее проведению.\nВсе наряды должны быть сданы ответственному\nлицу дежурного персонала, подана заявка\nна ЦПУ.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Перед заполнением первичного тракта котла под опрессовку необходимо проверить:",
+      "html": "<p data-block-id=\"block-0010\" lang=\"ru-RU\" style=\"text-indent: 0.5in; margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Перед\nзаполнением первичного тракта котла\nпод опрессовку необходимо проверить:</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "- закрытие БВК и ДК БРОУ-1;",
+      "html": "<p data-block-id=\"block-0011\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t-\nзакрытие БВК и ДК БРОУ-1;</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "- открытие дренажей и ревизии за БВК и ДК БРОУ-1 с низкой стороны;",
+      "html": "<p data-block-id=\"block-0012\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t-\nоткрытие дренажей и ревизии за БВК и ДК\nБРОУ-1 с низкой стороны;</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "-открытие дренажей промперегрева по хвосту котла;",
+      "html": "<p data-block-id=\"block-0013\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t-открытие\nдренажей промперегрева по хвосту котла;</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "- открытие дренажей паропроводов ХПП, ГПП, перепускных труб высокого и среднего давления;",
+      "html": "<p data-block-id=\"block-0014\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t-\nоткрытие дренажей паропроводов ХПП,\nГПП, перепускных труб высокого и среднего\nдавления;</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "- закрытие арматуры на линии подачи пара на ОЭ и уплотнения ТГ от барабана или от потолка;",
+      "html": "<p data-block-id=\"block-0015\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t-\nзакрытие арматуры на линии подачи пара\nна ОЭ и уплотнения ТГ от барабана или\nот потолка;</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "- закрытие задвижек ХПП.",
+      "html": "<p data-block-id=\"block-0016\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t-\nзакрытие задвижек ХПП.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "На дренажах до и после стопорного клапана ТГ должны быть вывернуты бугеля, а также необходимо контролировать уровень в конденсаторе ТГ. Заполнение первичного тракта производится после разрешения заявки руководством станции и ДИСа, химобессоленной водой дренажными насосами. Химобессоленная вода подается в ДБ от коллектора БЗК через всасывающий коллектор ПЭН.",
+      "html": "<p data-block-id=\"block-0017\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\tНа\nдренажах до и после стопорного клапана\nТГ должны быть вывернуты бугеля, а также\nнеобходимо контролировать уровень в\nконденсаторе ТГ. Заполнение первичного\nтракта производится после разрешения\nзаявки руководством станции и ДИСа,\nхимобессоленной водой дренажными\nнасосами. Химобессоленная вода подается\nв ДБ от коллектора БЗК через всасывающий\nколлектор ПЭН.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "По мере заполнения котла, персоналом ЦЦР проверяются поверхности нагрева и арматура для обнаружения неплотностей. Работа производится по наряду.",
+      "html": "<p data-block-id=\"block-0018\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\tПо\nмере заполнения котла, персоналом ЦЦР\nпроверяются поверхности нагрева и\nарматура для обнаружения неплотностей.\nРабота производится по наряду.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "После заполнения котел опрессовывается дренажными насосами на 6-8 ати, и при отсутствии замечаний начинается опрессовка на рабочее давление питательной водой по перемычке от соседнего блока.",
+      "html": "<p data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\tПосле\nзаполнения котел опрессовывается\nдренажными насосами на 6-8 ати, и при\nотсутствии замечаний начинается\nопрессовка на рабочее давление питательной\nводой по перемычке от соседнего блока.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "Перемычка ставится под давление от блоков, на которых отбор питательной воды осуществлен с напорного коллектора ПЭНов до ПВД-6-8.",
+      "html": "<p data-block-id=\"block-0020\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\tПеремычка\nставится под давление от блоков, на\nкоторых отбор питательной воды осуществлен\nс напорного коллектора ПЭНов до ПВД-6-8.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Вентиля перемычек открываются в следующей последовательности: открываются вентили по ходу среди над клапан, а затем остальные вентили.",
+      "html": "<p data-block-id=\"block-0021\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\tВентиля\nперемычек открываются в следующей\nпоследовательности: открываются вентили\nпо ходу среди над клапан, а затем остальные\nвентили.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "2. ПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА КОТЛА",
+      "html": "<p data-block-id=\"block-0022\" data-section-level=\"1\" id=\"section-001\" lang=\"ru-RU\" style=\"text-indent: 0.49in; margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">2.\nПРОВЕДЕНИЕ ОПРЕССОВКИ ПЕРВИЧНОГО ТРАКТА\nКОТЛА</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "2.1. Ставится под давление перемычка по питательной воде от рабочего блока.",
+      "html": "<p data-block-id=\"block-0023\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t2.1.\nСтавится под давление перемычка по\nпитательной воде от рабочего блока.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "2.2. Давление в барабане котла поднимается до 150 ати с выдержкой времени в течение 5 минут.",
+      "html": "<p data-block-id=\"block-0024\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t2.2.\nДавление в барабане котла поднимается\nдо </font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">150\nати</font></font><font size=\"3\" style=\"font-size: 13pt\"> с\nвыдержкой времени в течение 5 минут.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "2.3. Снижается давление до 100 ати и производится осмотр арматуры и трубопроводов, находящихся под давлением.",
+      "html": "<p data-block-id=\"block-0025\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t2.3.\nСнижается давление до 100 ати и производится\nосмотр арматуры и трубопроводов,\nнаходящихся под давлением.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "2.4. После осмотра при положительных результатах, снижается давление в котле до нуля, опорожняется барабан до растопочного уровня, паропроводы и пароперегреватели в дренажный бак с откачкой в химцех по линии грязного конденсата.",
+      "html": "<p data-block-id=\"block-0026\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t2.4.\nПосле осмотра при положительных\nрезультатах, снижается давление в котле\nдо нуля, опорожняется барабан до\nрастопочного уровня, паропроводы и\nпароперегреватели в дренажный бак с\nоткачкой в химцех по линии грязного\nконденсата.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "2.5. Производится восстановление рабочих схем.",
+      "html": "<p data-block-id=\"block-0027\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t2.5.\nПроизводится восстановление рабочих\nсхем.</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "list",
+      "text": "ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ.",
+      "html": "<ol data-block-id=\"block-0028\" start=\"3\">\n<li><p lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">ОРГАНИЗАЦИОННЫЕ\n\tМЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ\n\tРАБОТ.</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "3.1. Перед постановкой под давление перемычки по питательной воде прекращаются все работы и выводится ремонтные бригады с котла, из района питательных трубопроводов, СУП, паропроводов острого пара, холодного и горячего промперегрева.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0029\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.1.\nПеред постановкой под давление перемычки\nпо питательной воде прекращаются все\nработы и выводится ремонтные бригады\nс котла, из района питательных\nтрубопроводов, СУП, паропроводов острого\nпара, холодного и горячего промперегрева.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "3.2. Сдаются наряды на работы в указанных местах.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0030\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.2.\nСдаются наряды на работы в указанных\nместах.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "3.3. Производство работ на остальных участках блока разрешается. Работающие бригады должны быть предупреждены оперативном персоналом о начале опрессовки котла.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0031\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.3.\nПроизводство работ на остальных участках\nблока разрешается. Работающие бригады\nдолжны быть предупреждены оперативном\nперсоналом о начале опрессовки котла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "3.4. Опрессовка производится под непосредственным руководством начальника смены КТЦ-1.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0032\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.4.\nОпрессовка производится под непосредственным\nруководством начальника смены КТЦ-1.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "3.5. На все время заполнения котла и его опрессовки выделяется дежурная бригада во главе мастера ЦЦР.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0033\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.5.\nНа все время заполнения котла и его\nопрессовки выделяется дежурная бригада\nво главе мастера ЦЦР.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "3.6. Члены бригады должны быть проинструктированы НС КТЦ-1 и руководителем работ по наряду.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0034\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.6.\nЧлены бригады должны быть проинструктированы\nНС КТЦ-1 и руководителем работ по наряду.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "3.7. Все переключения в тепловых схемах производится оперативным персоналом",
+      "html": "<p align=\"justify\" data-block-id=\"block-0035\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.7.\nВсе переключения в тепловых схемах\nпроизводится оперативным персоналом </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "КТЦ-1.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0036\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">КТЦ-1.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "3.8. Ответственными за соблюдение ПТБ, ПТЭ персоналом КТЦ-1 является НСЦ, а ремонтного персонала мастер ЦЦР.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0037\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">\t3.8.\nОтветственными за соблюдение ПТБ, ПТЭ\nперсоналом КТЦ-1 является НСЦ, а ремонтного\nперсонала мастер ЦЦР.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по ТМО Б.Р. Исмоилов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0038\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо ТМО\t\t\t \t\t\t\t Б.Р. Исмоилов                          \n                   </font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "Начальник СНТБ Б.Б. Нурдинов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0039\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  СНТБ  \n                              \t\t\t\t\t\tБ.Б. Нурдинов</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "paragraph",
+      "text": "Начальник ОПТО Б.С. Айтмуратов",
+      "html": "<p align=\"justify\" data-block-id=\"block-0040\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n ОПТО           \t\t\t\t\t\t\t\tБ.С. Айтмуратов </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "Начальник ЦЦР Т.А. Валиев",
+      "html": "<p align=\"justify\" data-block-id=\"block-0041\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n ЦЦР            \t\t\t\t\t\t       \t    \t Т.А. Валиев</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-1 У.Л. Мажлимов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0042\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  КТЦ-1\t\t\t\t\t\n     \t\t\t\tУ.Л. Мажлимов</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-2 М.М. Махкамов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0043\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  КТЦ-2\t\t\t\t\t\n     \t\t\t\tМ.М. Махкамов</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0044\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо  электрооборудованию                         \n       \tА.А. Махмудходжаев</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "котла",
+    "давление",
+    "ктц-1",
+    "начальник",
+    "опрессовки",
+    "первичного",
+    "тракта",
+    "работы",
+    "заполнения",
+    "персоналом",
+    "ццр",
+    "питательной",
+    "закрытие",
+    "открытие",
+    "дренажей",
+    "ати",
+    "блока",
+    "работ",
+    "бригады",
+    "проведение",
+    "рабочее",
+    "опрессовку",
+    "ремонтные",
+    "наряды",
+    "персонала",
+    "бвк",
+    "броу-1",
+    "промперегрева",
+    "паропроводов",
+    "хпп",
+    "арматуры",
+    "линии",
+    "пара",
+    "руководством",
+    "водой"
+  ],
+  "statistics": {
+    "blocks": 44,
+    "sections": 1,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "93eae539d86b9336b054b92d74881410b3243394b393561e8ece85f4ded0b103",
+    "sourceDocxStats": {
+      "paragraphs": 69,
+      "tables": 0,
+      "media": 0,
+      "textChars": 3618
+    },
+    "htmlTextChars": 3618,
+    "textLengthRatio": 1.0,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/prov-opres-pervichn-trakta-2026/"
+}

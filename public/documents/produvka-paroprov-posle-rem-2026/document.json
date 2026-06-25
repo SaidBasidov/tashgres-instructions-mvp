@@ -1,0 +1,469 @@
+{
+  "id": "produvka-paroprov-posle-rem-2026",
+  "code": "",
+  "title": "Т И П О В А Я П Р О Г Р А М М А",
+  "summary": "Т И П О В А Я П Р О Г Р А М М А",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "продувка паропров. после рем - 2026.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/produvka-paroprov-posle-rem-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.38in; margin-bottom: 0.25in }\n\t\tp { margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: center; background: transparent }\n\t\tp.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "продувка паропров. после рем - 2026.doc",
+    "path": "documents/produvka-paroprov-posle-rem-2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "продувка паропров. после рем - 2026.pdf",
+    "path": "documents/produvka-paroprov-posle-rem-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "продувка паропров. после рем - 2026.docx",
+    "path": "documents/produvka-paroprov-posle-rem-2026/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Гидравлические испытания котла и паропроводов.",
+      "level": 1,
+      "blockIds": [
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032"
+      ],
+      "text": "1. Гидравлические испытания котла и паропроводов.\nРемонт и поузловая приемка в пределах программ гидравлического испытания. Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ. Ремонт газовоздуховодов и гарнитуры котла. Ремонт обмуровки котла Ремонт и опробование 3-х ярусов приводов горелок. Ремонт газопроводов в пределах котла с проверкой защиты по газу. Обмуровка котла и тепловая изоляция трубопроводов в пределах котла, паропроводов острого пара, перепускных труб острого пара, паропроводов «холодного» и «горячего» промперегрева, барабана котла. Ремонт лестниц и площадок котла. Уборка мусора со всех площадок, отметок, лестниц котла и СУП. Снятие лесов и подмостей, где возможно их загорание. Ремонт и включение в работу контрольно-измерительных приборов:\nРазряжение в топке и газоходах. Давление холодного и горячего воздуха. Температура по газовоздушному тракту котла. Температура пара по всему тракту котла. Температура острого пара и пара промперегрева. Давление в барабане котла. Давление острого пара и пара промперегрева. Давление в Д-6ата. Давление питательной воды. Уровень в барабане котла. Уровень в Д-6ата.\nСнято сито стопорного клапана острого пара, установлены заглушки на регулирующих\nклапанах.\nРемонт и поузловая приемка арматуры в объеме программы гидравлических испытаний. Дать отписку на ЦПУ.\nПРОДУВКА ПАРОПРОВОДОВ\nПосле выполнения перечисленных подготовительных работ и исправности узлов руководитель ремонта подает заявку на растопку котла для продувки паропроводов. После разрешения заявки руководством КТЦ-1,2 и НСС котел заполняется химобессоленной водой до растопочного уровня. Растопка котла для продувки паропроводов производится согласно эксплуатационных инструкций. Пароперегреватели первичного тракта котла во время растопки охлаждается через линию продувки в атмосферу. Температура дымовых газов после вторичного п/перегревателя не должна превышать 400 0 С. При достижении давления 10, 26, 50ата проверить работоспособность реперов теплового перемещения элементов котла. В работе находятся 2; 6 горелки 1 яруса котла. При достижении давления в барабане котла 25-30ати, начинается прогрев перепускных труб высокого давления. После прогрева перепускных труб высокого давления поднимается давление в барабане котла до 50ати, открываются ГПЗ и их байпасы и продуваются паропроводы острого пара в течение 15 мин. После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности. Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих\nклапанах.\nОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ\nОперативно-техническое руководство продувкой осуществляет начальник КТЦ-1,2 или его заместитель. Оперативные переключения основного и вспомогательного оборудования осуществляет персонал КТЦ-1,2. Все работы по продувке паропроводов осуществляются под непосредственным руководством начальника смены КТЦ-1,2 и руководителя ремонтных работ по котлу. На время растопки котла, подъема давления, продувки паропроводов, прекращаются ремонтные работы и выводятся ремонтные бригады с котла, из района питательных трубопроводов, главных паропроводов, перепускных труб острого пара, отм. 9 м. турбины. Сдаются все промежуточные наряды на производство работ в указанных местах. Производство работ на остальных участках станции или блока разрешается. Работающие бригады должны быть предупреждены руководителем ремонта о растопке котла и недопустимости нахождения в перечисленных выше местах. Непосредственно перед началом продувки паропроводов руководитель ремонта выставляет наблюдающих и обеспечивает отсутствие персонала на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону. На период заполнения, растопки котла и продувки паропроводов выделяется дежурная ремонтная бригада во главе с мастером. Члены дежурной бригады должны быть проинструктированы ответственным руководителем ремонта и руководством КТЦ-1,2 о соблюдении ПТБ при растопке котла для продувки паропроводов с записью в журнале инструктажей.\nЗам. тех.директора по тепломеханической части Б.Р. Исмоилов\nНачальник СНТБ Б.Б. Нурдинов\nВедущий инспектор по ОТ и ТБ Ф.М. Мирзахидова\nНачальник КТЦ-1 У.Л. Мажлимов\nНачальник КТЦ-2 М.М. Махкамов\nНачальник ЦЦР Т.А. Валиев\nНачальник ЦТКА Р. К. Байматов\nНачальник Эл.цеха М.Д. Кенжибаев\nНачальник лаб. металлов Л.У. Эшонкулов\nРуководитель работ нач. уч-ка «УЭТ» М.М. Базаров\nЗам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "keywords": [
+        "котла",
+        "паропроводов",
+        "пара",
+        "ремонт",
+        "острого",
+        "продувки",
+        "начальник",
+        "давление",
+        "работ",
+        "ктц-1",
+        "давления",
+        "пределах",
+        "перепускных",
+        "труб",
+        "температура"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<ol data-block-id=\"block-0001\"><li><h1 align=\"right\" class=\"western\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 13pt\">АО\n « ТАШКЕНТСКАЯ ТЭС»</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"uz-Cyrl-UZ\">В.В.\nПак</span></font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "Т И П О В А Я П Р О Г Р А М М А",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0005\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>Т\nИ П О В А Я   П Р О Г Р А М М А</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "ПРОВЕДЕНИЯ ПРОДУВКИ ПАРОПРОВОДОВ БЛОКА",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0006\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>ПРОВЕДЕНИЯ\nПРОДУВКИ ПАРОПРОВОДОВ БЛОКА </b></font></font>\n</p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "ПОСЛЕ РЕМОНТА БЛОКА",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0007\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>ПОСЛЕ\n  РЕМОНТА БЛОКА</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Продувка паропроводов производится с целью удаления из них посторонних предметов согласно «Справочник монтажника тепловых электростанции», раздел 4.",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0008\" lang=\"ru-RU\" style=\"text-indent: 0.25in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Продувка\nпаропроводов производится с целью\nудаления из них посторонних предметов\nсогласно «Справочник монтажника тепловых\nэлектростанции», раздел 4.</font></font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "list",
+      "text": "ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ.",
+      "html": "<ol data-block-id=\"block-0009\">\n<li><p align=\"left\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>ПОДГОТОВИТЕЛЬНЫЕ\n\tРАБОТЫ.</b></font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "До растопки котла для продувки паропроводов должны быть выполнены следующие работы:",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0010\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">До\nрастопки котла для продувки паропроводов\nдолжны быть выполнены следующие работы:</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "1. Гидравлические испытания котла и паропроводов.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0011\" data-section-level=\"1\" id=\"section-001\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">1.\n Гидравлические испытания котла и\nпаропроводов.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Ремонт и поузловая приемка в пределах программ гидравлического испытания. Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ. Ремонт газовоздуховодов и гарнитуры котла. Ремонт обмуровки котла Ремонт и опробование 3-х ярусов приводов горелок. Ремонт газопроводов в пределах котла с проверкой защиты по газу. Обмуровка котла и тепловая изоляция трубопроводов в пределах котла, паропроводов острого пара, перепускных труб острого пара, паропроводов «холодного» и «горячего» промперегрева, барабана котла. Ремонт лестниц и площадок котла. Уборка мусора со всех площадок, отметок, лестниц котла и СУП. Снятие лесов и подмостей, где возможно их загорание. Ремонт и включение в работу контрольно-измерительных приборов:",
+      "html": "<ol data-block-id=\"block-0012\" start=\"2\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tи поузловая приемка в пределах программ\n\tгидравлического испытания.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Сдача\n\tи обкатка ДС, ДВ-А,Б; РВП-А, Б, В их\n\tнаправляющих аппаратов и КДУ.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tгазовоздуховодов и гарнитуры котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tобмуровки котла</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tи опробование 3-х ярусов приводов\n\tгорелок.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tгазопроводов в пределах котла с проверкой\n\tзащиты по газу.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Обмуровка\n\tкотла и тепловая изоляция трубопроводов\n\tв пределах котла, паропроводов острого\n\tпара, перепускных труб острого пара,\n\tпаропроводов «холодного» и «горячего»\n\tпромперегрева, барабана котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tлестниц и площадок котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Уборка\n\tмусора со всех площадок, отметок, лестниц\n\tкотла и СУП.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Снятие\n\tлесов и подмостей, где возможно их\n\tзагорание.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tи включение в работу контрольно-измерительных\n\tприборов:</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "list",
+      "text": "Разряжение в топке и газоходах. Давление холодного и горячего воздуха. Температура по газовоздушному тракту котла. Температура пара по всему тракту котла. Температура острого пара и пара промперегрева. Давление в барабане котла. Давление острого пара и пара промперегрева. Давление в Д-6ата. Давление питательной воды. Уровень в барабане котла. Уровень в Д-6ата.",
+      "html": "<ol data-block-id=\"block-0013\" start=\"12\">\n<ol>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Разряжение\n\t\tв топке и газоходах.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tхолодного и горячего воздуха.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Температура\n\t\tпо газовоздушному тракту котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Температура\n\t\tпара по всему тракту котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Температура\n\t\tострого пара и пара промперегрева.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tв барабане котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tострого пара и пара промперегрева.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tв Д-6ата.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"> <font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Давление\n\t\tпитательной воды.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Уровень\n\t\tв барабане котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Уровень\n\t\tв Д-6ата.</font></font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "list",
+      "text": "Снято сито стопорного клапана острого пара, установлены заглушки на регулирующих",
+      "html": "<ol data-block-id=\"block-0014\" start=\"13\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Снято\n\tсито стопорного клапана острого пара,\n\tустановлены заглушки на регулирующих\n\t      </font></font>\n</p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "клапанах.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0015\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">клапанах.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "list",
+      "text": "Ремонт и поузловая приемка арматуры в объеме программы гидравлических испытаний. Дать отписку на ЦПУ.",
+      "html": "<ol data-block-id=\"block-0016\" start=\"14\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Ремонт\n\tи поузловая приемка арматуры в объеме\n\tпрограммы гидравлических испытаний.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Дать\n\tотписку на ЦПУ. </font></font>\n</p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "list",
+      "text": "ПРОДУВКА ПАРОПРОВОДОВ",
+      "html": "<ol data-block-id=\"block-0017\" start=\"2\">\n<li><p align=\"left\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\"><b>ПРОДУВКА\n\t ПАРОПРОВОДОВ</b></font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "list",
+      "text": "После выполнения перечисленных подготовительных работ и исправности узлов руководитель ремонта подает заявку на растопку котла для продувки паропроводов. После разрешения заявки руководством КТЦ-1,2 и НСС котел заполняется химобессоленной водой до растопочного уровня. Растопка котла для продувки паропроводов производится согласно эксплуатационных инструкций. Пароперегреватели первичного тракта котла во время растопки охлаждается через линию продувки в атмосферу. Температура дымовых газов после вторичного п/перегревателя не должна превышать 400 0 С. При достижении давления 10, 26, 50ата проверить работоспособность реперов теплового перемещения элементов котла. В работе находятся 2; 6 горелки 1 яруса котла. При достижении давления в барабане котла 25-30ати, начинается прогрев перепускных труб высокого давления. После прогрева перепускных труб высокого давления поднимается давление в барабане котла до 50ати, открываются ГПЗ и их байпасы и продуваются паропроводы острого пара в течение 15 мин. После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности. Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих",
+      "html": "<ol data-block-id=\"block-0018\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">После\n\tвыполнения перечисленных подготовительных\n\tработ и исправности узлов руководитель\n\tремонта подает заявку на растопку котла\n\tдля продувки паропроводов.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">После\n\tразрешения заявки руководством КТЦ-1,2\n\tи НСС котел заполняется химобессоленной\n\tводой до растопочного уровня.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Растопка\n\tкотла для продувки паропроводов\n\tпроизводится согласно эксплуатационных\n\tинструкций.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Пароперегреватели\n\tпервичного тракта котла во время\n\tрастопки охлаждается через линию\n\tпродувки в атмосферу.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Температура\n\tдымовых газов после вторичного\n\tп/перегревателя не должна превышать\n\t400</font><sup><font size=\"3\" style=\"font-size: 12pt\">0</font></sup><font size=\"3\" style=\"font-size: 12pt\">С.\n\t                                                                    \n\t                                                                    \n\t         </font></font>\n</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">При\n\tдостижении давления 10, 26, 50ата проверить\n\tработоспособность реперов теплового\n\tперемещения элементов котла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">В\n\tработе находятся 2; 6 горелки 1 яруса\n\tкотла.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">При\n\tдостижении давления в барабане котла\n\t25-30ати, начинается прогрев перепускных\n\tтруб высокого давления.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">После\n\tпрогрева перепускных труб высокого\n\tдавления поднимается давление в барабане\n\tкотла до 50ати, открываются ГПЗ и их\n\tбайпасы и продуваются паропроводы\n\tострого пара в течение 15 мин.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">После\n\tокончания продувки котел гасится и\n\tрасхолаживается, готовится к паровой\n\tплотности.</font></font></p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">Установить\n\tсито стопорного клапана острого пара.\n\tСнять заглушки на регулирующих </font></font>\n</p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "клапанах.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"margin-left: 0.25in\">\n<font size=\"2\" style=\"font-size: 10pt\"><font size=\"3\" style=\"font-size: 12pt\">клапанах.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ РАБОТ",
+      "html": "<ol data-block-id=\"block-0020\" start=\"2\">\n<li><p align=\"left\" class=\"western\" lang=\"ru-RU\"><b>ОРГАНИЗАЦИОННЫЕ\n\tМЕРОПРИЯТИЯ, ОБЕСПЕЧИВАЮЩИЕ БЕЗОПАСНОСТЬ\n\tРАБОТ</b></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "list",
+      "text": "Оперативно-техническое руководство продувкой осуществляет начальник КТЦ-1,2 или его заместитель. Оперативные переключения основного и вспомогательного оборудования осуществляет персонал КТЦ-1,2. Все работы по продувке паропроводов осуществляются под непосредственным руководством начальника смены КТЦ-1,2 и руководителя ремонтных работ по котлу. На время растопки котла, подъема давления, продувки паропроводов, прекращаются ремонтные работы и выводятся ремонтные бригады с котла, из района питательных трубопроводов, главных паропроводов, перепускных труб острого пара, отм. 9 м. турбины. Сдаются все промежуточные наряды на производство работ в указанных местах. Производство работ на остальных участках станции или блока разрешается. Работающие бригады должны быть предупреждены руководителем ремонта о растопке котла и недопустимости нахождения в перечисленных выше местах. Непосредственно перед началом продувки паропроводов руководитель ремонта выставляет наблюдающих и обеспечивает отсутствие персонала на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону. На период заполнения, растопки котла и продувки паропроводов выделяется дежурная ремонтная бригада во главе с мастером. Члены дежурной бригады должны быть проинструктированы ответственным руководителем ремонта и руководством КТЦ-1,2 о соблюдении ПТБ при растопке котла для продувки паропроводов с записью в журнале инструктажей.",
+      "html": "<ol data-block-id=\"block-0021\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Оперативно-техническое\n\tруководство продувкой осуществляет\n\tначальник КТЦ-1,2 или его заместитель.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Оперативные\n\tпереключения основного и вспомогательного\n\tоборудования осуществляет персонал\n\tКТЦ-1,2.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Все работы\n\tпо продувке паропроводов осуществляются\n\tпод непосредственным руководством\n\tначальника смены КТЦ-1,2 и руководителя\n\tремонтных работ по котлу.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">На время\n\tрастопки котла, подъема давления,\n\tпродувки паропроводов, прекращаются\n\tремонтные работы и выводятся ремонтные\n\tбригады с котла, из района питательных\n\tтрубопроводов, главных паропроводов,\n\tперепускных труб острого пара, отм. 9\n\tм. турбины.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Сдаются\n\tвсе промежуточные наряды на производство\n\tработ в указанных местах.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Производство\n\tработ на остальных участках станции\n\tили блока разрешается. Работающие\n\tбригады должны быть предупреждены\n\tруководителем ремонта о растопке котла\n\tи недопустимости нахождения в\n\tперечисленных выше местах.        \n\t</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Непосредственно\n\tперед началом продувки паропроводов\n\tруководитель ремонта выставляет\n\tнаблюдающих и обеспечивает отсутствие\n\tперсонала на отм. 9 м. в пределах\n\tпродуваемого блока, выводятся козловые\n\tкраны в безопасную зону.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">На период\n\tзаполнения, растопки котла и продувки\n\tпаропроводов выделяется дежурная\n\tремонтная бригада во главе с мастером.</p></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\">Члены\n\tдежурной бригады должны быть\n\tпроинструктированы ответственным\n\tруководителем ремонта и руководством\n\tКТЦ-1,2 о соблюдении ПТБ при растопке\n\tкотла для продувки паропроводов с\n\tзаписью в журнале инструктажей.</p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по тепломеханической части Б.Р. Исмоилов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0022\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо тепломеханической части \t\t\t\tБ.Р.\nИсмоилов                                              </font>\n</p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "Начальник СНТБ Б.Б. Нурдинов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0023\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  СНТБ  \n                              \t\t\t\t\t\tБ.Б. Нурдинов</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "Ведущий инспектор по ОТ и ТБ Ф.М. Мирзахидова",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0024\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Ведущий  инспектор\nпо ОТ и ТБ                                                    \n        \tФ.М. Мирзахидова</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-1 У.Л. Мажлимов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0025\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник КТЦ-1   \n                                                                     \n \t\tУ.Л. Мажлимов</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-2 М.М. Махкамов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0026\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник КТЦ-2   \n                                                                     \n \t\tМ.М. Махкамов</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "Начальник ЦЦР Т.А. Валиев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0027\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник ЦЦР     \n                                                                     \n    \t\tТ.А. Валиев</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "Начальник ЦТКА Р. К. Байматов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0028\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник ЦТКА   \n                                                                     \n \t\tР. К. Байматов</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Начальник Эл.цеха М.Д. Кенжибаев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0029\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник Эл.цеха\n                                                                     \n  \t\tМ.Д. Кенжибаев</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Начальник лаб. металлов Л.У. Эшонкулов",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0030\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник лаб.\nметаллов                                                     \n          \t\tЛ.У. Эшонкулов</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Руководитель работ нач. уч-ка «УЭТ» М.М. Базаров",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0031\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">Руководитель\nработ нач. уч-ка «УЭТ»                              \n                         М.М. Базаров</font></font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "html": "<p align=\"left\" class=\"western\" data-block-id=\"block-0032\" lang=\"ru-RU\" style=\"line-height: 200%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо  электрооборудованию                         \n      \tА.А. Махмудходжаев</font></p>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "котла",
+    "паропроводов",
+    "пара",
+    "продувки",
+    "ремонт",
+    "острого",
+    "начальник",
+    "давление",
+    "работ",
+    "ктц-1",
+    "ремонта",
+    "давления",
+    "блока",
+    "работы",
+    "растопки",
+    "пределах",
+    "перепускных",
+    "труб",
+    "температура",
+    "барабане",
+    "промперегрева",
+    "руководитель",
+    "руководством",
+    "бригады",
+    "продувка",
+    "согласно",
+    "испытания",
+    "поузловая",
+    "приемка",
+    "трубопроводов",
+    "холодного",
+    "горячего",
+    "лестниц",
+    "площадок",
+    "тракту"
+  ],
+  "statistics": {
+    "blocks": 32,
+    "sections": 1,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "582c8945d3c371d1a3188caffc2140686e60dac10cf28915c207f7153c2beec0",
+    "sourceDocxStats": {
+      "paragraphs": 86,
+      "tables": 0,
+      "media": 0,
+      "textChars": 4877
+    },
+    "htmlTextChars": 4879,
+    "textLengthRatio": 1.0,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/produvka-paroprov-posle-rem-2026/"
+}

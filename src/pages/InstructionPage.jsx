@@ -1,5 +1,6 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import DocumentActions from "../components/DocumentActions.jsx";
+import RichDocumentRenderer from "../components/RichDocumentRenderer.jsx";
 import { getLocalizedDocument } from "../data/documentTranslations.js";
 import { loadDocument } from "../data/loadDocuments.js";
 import { useLanguage } from "../i18n/useLanguage.js";
@@ -59,6 +60,7 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
     const [highlightedBlockId, setHighlightedBlockId] = useState(null);
     const [printSelection, setPrintSelection] = useState({ mode: "all", blockId: null });
     const [isPrintRequested, setIsPrintRequested] = useState(false);
+    const [richRenderVersion, setRichRenderVersion] = useState(0);
     const navigationRef = useRef(null);
     const navigationItemRefs = useRef({});
 
@@ -66,11 +68,33 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
         () => getLocalizedDocument(sourceDocument, selectedLanguage),
         [sourceDocument, selectedLanguage],
     );
-    const tableOfContents = useMemo(() => documentData?.translationAvailable && documentData.blocks
-        ? documentData.blocks
-            .map((block) => ({ id: block.id, title: getNavigationTitle(block, messages.document.page) }))
-            .filter((item) => item.title)
-        : [], [documentData, messages.document.page]);
+    const tableOfContents = useMemo(() => {
+        if (!documentData?.translationAvailable || !documentData.blocks) return [];
+
+        if (documentData.sections?.length) {
+            const navigationItems = new Map();
+
+            documentData.sections.forEach((section) => {
+                const id = section.blockIds?.[0];
+                const anchorBlock = documentData.blocks.find((block) => block.id === id);
+                const title = [section.number, section.title].filter(Boolean).join(". ");
+
+                if (!id || !title || anchorBlock?.type === "table" || navigationItems.has(id)) return;
+                navigationItems.set(id, {
+                    id,
+                    sectionId: section.id,
+                    blockIds: section.blockIds || [],
+                    title,
+                });
+            });
+
+            return Array.from(navigationItems.values());
+        }
+
+        return documentData.blocks
+            .map((block) => ({ id: block.id, blockIds: [block.id], title: getNavigationTitle(block, messages.document.page) }))
+            .filter((item) => item.title);
+    }, [documentData, messages.document.page]);
     const targetBlock = useMemo(
         () => documentData?.blocks?.find((block) => block.id === targetBlockId) || null,
         [documentData, targetBlockId],
@@ -79,17 +103,49 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
         () => documentData?.blocks?.find((block) => block.id === printSelection.blockId) || null,
         [documentData, printSelection.blockId],
     );
-    const printContextBlockId = useMemo(
-        () => documentData?.blocks
+    const printSelectedBlockIds = useMemo(() => {
+        if (printSelection.mode === "all" || !printSelection.blockId) return new Set();
+        if (printSelection.mode === "section") {
+            const selectedSection = tableOfContents.find((item) => item.id === printSelection.blockId);
+            return new Set(selectedSection?.blockIds || [printSelection.blockId]);
+        }
+        return new Set([printSelection.blockId]);
+    }, [printSelection, tableOfContents]);
+    const printContextBlockIds = useMemo(() => {
+        if (printSelection.mode === "all" || !printSelection.blockId) return new Set();
+
+        if (tableOfContents.length) {
+            const parentSection = tableOfContents.find((section) => section.blockIds.includes(printSelection.blockId));
+            const contextBlockId = parentSection?.id;
+            return contextBlockId && contextBlockId !== printSelection.blockId
+                ? new Set([contextBlockId])
+                : new Set();
+        }
+
+        const contextBlockId = documentData?.blocks
             ? getParentSectionId(documentData.blocks, printSelection.blockId)
-            : null,
-        [documentData, printSelection.blockId],
-    );
+            : null;
+        return contextBlockId ? new Set([contextBlockId]) : new Set();
+    }, [documentData, printSelection, tableOfContents]);
+    const targetNavigationId = useMemo(() => {
+        const parentSection = tableOfContents.find((section) => section.blockIds.includes(targetBlockId));
+        return parentSection?.id || targetBlockId;
+    }, [tableOfContents, targetBlockId]);
     const searchResultLabel = getBlockPrintLabel(targetBlock, messages.document.page);
-    const printSelectionLabel = getBlockPrintLabel(printBlock, messages.document.page);
+    const printSelectionLabel = tableOfContents.find((item) => item.id === printSelection.blockId)?.title
+        || getBlockPrintLabel(printBlock, messages.document.page);
+    const handleRichReady = useCallback(() => {
+        setRichRenderVersion((version) => version + 1);
+    }, []);
 
     useEffect(() => {
         let isCurrent = true;
+
+        setIsLoading(true);
+        setSourceDocument(null);
+        setRichRenderVersion(0);
+        setActiveBlockId(targetBlockId);
+        setHighlightedBlockId(null);
 
         loadDocument(selectedDocumentId).then((loadedDocument) => {
             if (isCurrent) {
@@ -132,7 +188,7 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
 
         elements.forEach((element) => observer.observe(element));
         return () => observer.disconnect();
-    }, [documentData, tableOfContents]);
+    }, [documentData, richRenderVersion, tableOfContents]);
 
     useEffect(() => {
         if (!documentData?.translationAvailable || !targetBlockId) return undefined;
@@ -142,7 +198,7 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
 
         let highlightTimeoutId;
         const timeoutId = window.setTimeout(() => {
-            setActiveBlockId(targetBlockId);
+            setActiveBlockId(targetNavigationId);
             setHighlightedBlockId(targetBlockId);
             element.scrollIntoView({ behavior: "smooth", block: "start" });
             highlightTimeoutId = window.setTimeout(() => {
@@ -154,7 +210,7 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
             window.clearTimeout(timeoutId);
             window.clearTimeout(highlightTimeoutId);
         };
-    }, [documentData, targetBlockId]);
+    }, [documentData, richRenderVersion, targetBlockId, targetNavigationId]);
 
     useEffect(() => {
         const container = navigationRef.current;
@@ -238,10 +294,10 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
             "document-viewer__block",
             blockId === activeBlockId ? "document-viewer__block--active" : "",
             blockId === highlightedBlockId ? "document-viewer__block--search-highlight" : "",
-            printSelection.mode !== "all" && blockId === printSelection.blockId
+            printSelectedBlockIds.has(blockId)
                 ? "document-viewer__block--print-selected"
                 : "",
-            printSelection.mode !== "all" && blockId === printContextBlockId
+            printContextBlockIds.has(blockId)
                 ? "document-viewer__block--print-context"
                 : "",
         ].filter(Boolean).join(" ");
@@ -341,6 +397,18 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
                     </nav>
                 </aside>
 
+                {documentData.richContent ? (
+                    <RichDocumentRenderer
+                        documentPath={documentData.richContent.documentPath}
+                        activeBlockId={activeBlockId}
+                        highlightedBlockId={highlightedBlockId}
+                        printSelectedBlockIds={printSelectedBlockIds}
+                        printContextBlockIds={printContextBlockIds}
+                        onReady={handleRichReady}
+                        loadingLabel={messages.document.loading}
+                        errorLabel={messages.document.richLoadError}
+                    />
+                ) : (
                 <article className="document-viewer">
                     {documentData.blocks.map((block) => {
                         if (block.type === "heading") {
@@ -450,6 +518,7 @@ function InstructionPage({ selectedDocumentId, targetBlockId, navigate }) {
                         return null;
                     })}
                 </article>
+                )}
             </div>
 
             {isScrollButtonVisible && (

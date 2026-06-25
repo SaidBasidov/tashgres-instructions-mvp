@@ -1,0 +1,368 @@
+{
+  "id": "ppr-vosstanovl-him-rezhima-2026-g",
+  "code": "",
+  "title": "KIMYOVIY REJIMNI TIKLASH BO‘YICHA ISHLARNI BAJARISH LOYIHASI",
+  "summary": "Bloklarni ishga tushirish yoki ishlayotgan blokda tahlil yomonlashganda kimyoviy rejimni PTE normalariga qaytarish tartibi.",
+  "sourceLanguage": "ru",
+  "language": "uzLatn",
+  "sourceFile": "ППР - восстановл. хим.режима - 2026 г.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/ppr-vosstanovl-him-rezhima-2026-g/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th2 { margin-top: 0in; margin-bottom: 0in; widows: 2; text-align: left; color: #000000; orphans: 2; direction: ltr; background: transparent; page-break-after: avoid }\n\t\th2.western { font-weight: bold; so-language: ru-RU; font-size: 14pt; font-family: \"Times New Roman\", serif }\n\t\th2.cjk { font-weight: bold; so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 14pt }\n\t\th2.ctl { font-family: \"Times New Roman\"; font-size: 10pt; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "ППР - восстановл. хим.режима - 2026 г.doc",
+    "path": "documents/ppr-vosstanovl-him-rezhima-2026-g/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "ППР - восстановл. хим.режима - 2026 г.pdf",
+    "path": "documents/ppr-vosstanovl-him-rezhima-2026-g/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "ППР - восстановл. хим.режима - 2026 г.docx",
+    "path": "documents/ppr-vosstanovl-him-rezhima-2026-g/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость zarur",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022"
+      ],
+      "text": "1 отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость zarur\n10 мин.\nTexnik tarjima talab qilinadi: Общее время восстановления химического анализа на одной половине 140 мин.\nTexnik tarjima talab qilinadi: Столько же времени на другой половине или при повторном отключении.\nTexnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов\nBoshliq СНТБ Б.Б. Нурдинов\nBoshliqа КТЦ-1 У.Л. Мажлимов\nBoshliqа КТЦ-2 М.М. Махкамов\nBoshliq хим цеха Л.П. Хамракулова\nTexnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "keywords": [
+        "мин",
+        "анализа",
+        "половине",
+        "отбор",
+        "одной",
+        "химического",
+        "зам",
+        "тех",
+        "директора",
+        "начальник",
+        "начальника"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "html": "<div data-block-id=\"block-0001\"><p align=\"right\" lang=\"uz-Latn\">TASDIQLAYMAN</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Texnik direktor",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Latn\">Texnik direktor</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «Toshkent IES»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Latn\">AJ «Toshkent IES»</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Latn\">В.В. Пак</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ЭТА DASTUR НЕ НУЖНА",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"inherit\" lang=\"uz-Latn\">ЭТА DASTUR НЕ НУЖНА</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "list",
+      "text": "ПРОЕКТ ПРОИЗВОДСТВА РАБОТ ВОССТАНОВЛЕНИЕ KIMYOVIY REJIM В СООТВЕТСТВИИ С НОРМАМИ ПТЭ, ПРИ ПУСКЕ БЛОКОВ ИЗ РАЗЛИЧНЫХ СОСТОЯНИЙ ИЛИ ПРИ УХУДШЕНИИ АНАЛИЗА НА РАБОТАЮЩЕМ БЛОКЕ.",
+      "html": "<ol data-block-id=\"block-0006\"><li><p align=\"inherit\" lang=\"uz-Latn\">ПРОЕКТ ПРОИЗВОДСТВА РАБОТ ВОССТАНОВЛЕНИЕ KIMYOVIY REJIM В СООТВЕТСТВИИ С НОРМАМИ ПТЭ, ПРИ ПУСКЕ БЛОКОВ ИЗ РАЗЛИЧНЫХ СОСТОЯНИЙ ИЛИ ПРИ УХУДШЕНИИ АНАЛИЗА НА РАБОТАЮЩЕМ БЛОКЕ.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "list",
+      "text": "При пуске блоков из различных состояний могут быть анализы выше нормы ПТЭ, из-за присосов сырой воды через вальцовку или неплотности конденсаторных трубок. Для восстановления анализов до нормы zarur:",
+      "html": "<ol data-block-id=\"block-0007\"><li><p align=\"inherit\" lang=\"uz-Latn\">При пуске блоков из различных состояний могут быть анализы выше нормы ПТЭ, из-за присосов сырой воды через вальцовку или неплотности конденсаторных трубок. Для восстановления анализов до нормы zarur:</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "Перед пуском blok yoqish в работу конденсатный насос, ochish пар на хоз. эжектор, ochish задвижки с верхних точек сливных циркводоводов (левого и правого) на линию отсоса воздуха хоз. эжектора, натянуть сифон, yoqish ЦН в работу. Yopish пар на хоз. эжектор, продуть пробоотборные точки основного конденсата, отобрать анализ, повторно отобрать анализ основного конденсата через 20 мин. Основной конденсат без разрешения kimyo sexi в цикл не включать. Воду, не соответствующую нормам ПТЭ при переполнении kondensator ТГ откачивать в химический цех. После включение в работу БРОУ 1,2 отобрать анализ основного конденсата. Через 20 мин. повторить анализ. После включения в сеть генератора, ochish ГПЗ, убедиться, что оба ГПЗ полностью открылись (по расходомеру пара слева, справа) yopish БРОУ 1, 2. Осмотреть по месту открытие ГПЗ, продуть пробоотборные точки основного конденсата. Отобрать анализ. При не соответствии нормам ПТЭ, повторить анализ. При не соответствии анализа нормам ПТЭ, o‘chirish поочередно половины kondensator ТГ по отсосам. Остановить ЦН, разобрать эл.схему после опорожнения водяных камер, ochish лаз kondensator, отобрать анализ на отсутствие водорода неработающей половины kondensator и приступить к отысканию неплотных трубок kondensator ТГ. Параллельно отобрать анализ основного конденсата из работающей половины kondensator.",
+      "html": "<ol data-block-id=\"block-0008\"><li><p align=\"inherit\" lang=\"uz-Latn\">Перед пуском blok yoqish в работу конденсатный насос, ochish пар на хоз. эжектор, ochish задвижки с верхних точек сливных циркводоводов (левого и правого) на линию отсоса воздуха хоз. эжектора, натянуть сифон, yoqish ЦН в работу. Yopish пар на хоз. эжектор, продуть пробоотборные точки основного конденсата, отобрать анализ, повторно отобрать анализ основного конденсата через 20 мин. Основной конденсат без разрешения kimyo sexi в цикл не включать. Воду, не соответствующую нормам ПТЭ при переполнении kondensator ТГ откачивать в химический цех. После включение в работу БРОУ 1,2 отобрать анализ основного конденсата. Через 20 мин. повторить анализ. После включения в сеть генератора, ochish ГПЗ, убедиться, что оба ГПЗ полностью открылись (по расходомеру пара слева, справа) yopish БРОУ 1, 2. Осмотреть по месту открытие ГПЗ, продуть пробоотборные точки основного конденсата. Отобрать анализ. При не соответствии нормам ПТЭ, повторить анализ. При не соответствии анализа нормам ПТЭ, o‘chirish поочередно половины kondensator ТГ по отсосам. Остановить ЦН, разобрать эл.схему после опорожнения водяных камер, ochish лаз kondensator, отобрать анализ на отсутствие водорода неработающей половины kondensator и приступить к отысканию неплотных трубок kondensator ТГ. Параллельно отобрать анализ основного конденсата из работающей половины kondensator.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "list",
+      "text": "Отыскание неплотной трубки kondensator ТГ.",
+      "html": "<ol data-block-id=\"block-0009\"><li><p align=\"inherit\" lang=\"uz-Latn\">Отыскание неплотной трубки kondensator ТГ.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Неплотная трубка kondensator отыскивается с помощью свечки или куска полиэтилена. К трубкам подносится горящая свеча. Если трубка неплотная, то пламя свечи будет затягивать во внутрь трубки. При забивании пробки, отглушки неплотной трубки, подачей воздуха с одной стороны трубки и выхода воздуха с другой стороны, точно убедиться в неплотной трубке с обоих сторон, забить металлической пробкой неплотную трубку.",
+      "html": "<div data-block-id=\"block-0010\"><p align=\"justify\" lang=\"uz-Latn\">Неплотная трубка kondensator отыскивается с помощью свечки или куска полиэтилена. К трубкам подносится горящая свеча. Если трубка неплотная, то пламя свечи будет затягивать во внутрь трубки. При забивании пробки, отглушки неплотной трубки, подачей воздуха с одной стороны трубки и выхода воздуха с другой стороны, точно убедиться в неплотной трубке с обоих сторон, забить металлической пробкой неплотную трубку.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "list",
+      "text": "После отыскания неплотных трубок kondensator ТГ и забивки пробок, yopish лазы kondensator ТГ, собрать электрическую схему ЦН, yoqish в работу ЦН, подтянуть сифон, отобрать анализ основного конденсата при работе обоих ЦНов. При отрицательных анализах О.К. повторить пункты 5, 6 на этой же половине kondensator ТГ или на другой половине kondensator ТГ.",
+      "html": "<ol data-block-id=\"block-0011\"><li><p align=\"inherit\" lang=\"uz-Latn\">После отыскания неплотных трубок kondensator ТГ и забивки пробок, yopish лазы kondensator ТГ, собрать электрическую схему ЦН, yoqish в работу ЦН, подтянуть сифон, отобрать анализ основного конденсата при работе обоих ЦНов. При отрицательных анализах О.К. повторить пункты 5, 6 на этой же половине kondensator ТГ или на другой половине kondensator ТГ.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "При содержании S i O 2 в парах, больше 15 мкг/л. в парах, держать bosim в барабане не более 70 кг. При завышенном содержании S i О 2 в парах, строго следить за уровнем в барабане. Общее время восстановления анализов основного конденсата приблизительно при отыскании неплотных трубок kondensator ТГ на обеих половинах 280 мин.",
+      "html": "<ol data-block-id=\"block-0012\"><li><p align=\"inherit\" lang=\"uz-Latn\">При содержании S i O 2 в парах, больше 15 мкг/л. в парах, держать bosim в барабане не более 70 кг. При завышенном содержании S i О 2 в парах, строго следить за уровнем в барабане. Общее время восстановления анализов основного конденсата приблизительно при отыскании неплотных трубок kondensator ТГ на обеих половинах 280 мин.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "list",
+      "text": "1 отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость zarur",
+      "html": "<ol data-block-id=\"block-0013\"><li><p align=\"inherit\" lang=\"uz-Latn\">1 отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость zarur</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "10 мин.",
+      "html": "<div data-block-id=\"block-0014\"><p align=\"justify\" lang=\"uz-Latn\">10 мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "list",
+      "text": "Texnik tarjima talab qilinadi: Общее время восстановления химического анализа на одной половине 140 мин.",
+      "html": "<ol data-block-id=\"block-0015\"><li><p align=\"inherit\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: Общее время восстановления химического анализа на одной половине 140 мин.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "list",
+      "text": "Texnik tarjima talab qilinadi: Столько же времени на другой половине или при повторном отключении.",
+      "html": "<ol data-block-id=\"block-0016\"><li><p align=\"inherit\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: Столько же времени на другой половине или при повторном отключении.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов",
+      "html": "<div data-block-id=\"block-0017\"><p align=\"justify\" lang=\"uz-Latn\">Texnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "Boshliq СНТБ Б.Б. Нурдинов",
+      "html": "<div data-block-id=\"block-0018\"><p align=\"justify\" lang=\"uz-Latn\">Boshliq СНТБ Б.Б. Нурдинов</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "Boshliqа КТЦ-1 У.Л. Мажлимов",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"justify\" lang=\"uz-Latn\">Boshliqа КТЦ-1 У.Л. Мажлимов</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "Boshliqа КТЦ-2 М.М. Махкамов",
+      "html": "<div data-block-id=\"block-0020\"><p align=\"justify\" lang=\"uz-Latn\">Boshliqа КТЦ-2 М.М. Махкамов</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Boshliq хим цеха Л.П. Хамракулова",
+      "html": "<div data-block-id=\"block-0021\"><p align=\"justify\" lang=\"uz-Latn\">Boshliq хим цеха Л.П. Хамракулова</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "html": "<div data-block-id=\"block-0022\"><p align=\"justify\" lang=\"uz-Latn\">Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "конденсатора",
+    "анализ",
+    "мин",
+    "основного",
+    "конденсата",
+    "отобрать",
+    "анализа",
+    "птэ",
+    "половине",
+    "трубок",
+    "работу",
+    "открыть",
+    "трубки",
+    "соответствии",
+    "через",
+    "восстановления",
+    "включить",
+    "хоз",
+    "воздуха",
+    "закрыть",
+    "химического",
+    "нормам",
+    "повторить",
+    "гпз",
+    "половины",
+    "неплотных",
+    "неплотной",
+    "одной",
+    "другой",
+    "парах",
+    "хим",
+    "пуске",
+    "блоков",
+    "различных",
+    "состояний"
+  ],
+  "statistics": {
+    "blocks": 22,
+    "sections": 1,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "cf51eec8ef8914e8236e45dee1864ebd69a12909642b4c31997808bd3c035489",
+    "sourceDocxStats": {
+      "paragraphs": 70,
+      "tables": 0,
+      "media": 0,
+      "textChars": 3624
+    },
+    "htmlTextChars": 3630,
+    "textLengthRatio": 1.002,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/ppr-vosstanovl-him-rezhima-2026-g/",
+  "searchMetadata": {
+    "keywords": [
+      "kimyoviy rejimni tiklash",
+      "asosiy kondensat tahlili",
+      "kondensator quvuri zichsizligi",
+      "gidrazin",
+      "fosfat"
+    ],
+    "aliases": [
+      "suv-kimyo rejimi",
+      "kondensat tahlili yomonlashishi",
+      "kondensator trubkasi"
+    ],
+    "searchText": "KIMYOVIY REJIMNI TIKLASH BO‘YICHA ISHLARNI BAJARISH LOYIHASI Bloklarni ishga tushirish yoki ishlayotgan blokda tahlil yomonlashganda kimyoviy rejimni PTE normalariga qaytarish tartibi. TASDIQLAYMAN Texnik direktor AJ «Toshkent IES» В.В. Пак ЭТА DASTUR НЕ НУЖНА ПРОЕКТ ПРОИЗВОДСТВА РАБОТ ВОССТАНОВЛЕНИЕ KIMYOVIY REJIM В СООТВЕТСТВИИ С НОРМАМИ ПТЭ, ПРИ ПУСКЕ БЛОКОВ ИЗ РАЗЛИЧНЫХ СОСТОЯНИЙ ИЛИ ПРИ УХУДШЕНИИ АНАЛИЗА НА РАБОТАЮЩЕМ БЛОКЕ. При пуске блоков из различных состояний могут быть анализы выше нормы ПТЭ, из-за присосов сырой воды через вальцовку или неплотности конденсаторных трубок. Для восстановления анализов до нормы zarur: Перед пуском blok yoqish в работу конденсатный насос, ochish пар на хоз. эжектор, ochish задвижки с верхних точек сливных циркводоводов (левого и правого) на линию отсоса воздуха хоз. эжектора, натянуть сифон, yoqish ЦН в работу. Yopish пар на хоз. эжектор, продуть пробоотборные точки основного конденсата, отобрать анализ, повторно отобрать анализ основного конденсата через 20 мин. Основной конденсат без разрешения kimyo sexi в цикл не включать. Воду, не соответствующую нормам ПТЭ при переполнении kondensator ТГ откачивать в химический цех. После включение в работу БРОУ 1,2 отобрать анализ основного конденсата. Через 20 мин. повторить анализ. После включения в сеть генератора, ochish ГПЗ, убедиться, что оба ГПЗ полностью открылись (по расходомеру пара слева, справа) yopish БРОУ 1, 2. Осмотреть по месту открытие ГПЗ, продуть пробоотборные точки основного конденсата. Отобрать анализ. При не соответствии нормам ПТЭ, повторить анализ. При не соответствии анализа нормам ПТЭ, o‘chirish поочередно половины kondensator ТГ по отсосам. Остановить ЦН, разобрать эл.схему после опорожнения водяных камер, ochish лаз kondensator, отобрать анализ на отсутствие водорода неработающей половины kondensator и приступить к отысканию неплотных трубок kondensator ТГ. Параллельно отобрать анализ основного конденсата из работающей половины kondensator. Отыскание неплотной трубки kondensator ТГ. Неплотная трубка kondensator отыскивается с помощью свечки или куска полиэтилена. К трубкам подносится горящая свеча. Если трубка неплотная, то пламя свечи будет затягивать во внутрь трубки. При забивании пробки, отглушки неплотной трубки, подачей воздуха с одной стороны трубки и выхода воздуха с другой стороны, точно убедиться в неплотной трубке с обоих сторон, забить металлической пробкой неплотную трубку. После отыскания неплотных трубок kondensator ТГ и забивки пробок, yopish лазы kondensator ТГ, собрать электрическую схему ЦН, yoqish в работу ЦН, подтянуть сифон, отобрать анализ основного конденсата при работе обоих ЦНов. При отрицательных анализах О.К. повторить пункты 5, 6 на этой же половине kondensator ТГ или на другой половине kondensator ТГ. При содержании S i O 2 в парах, больше 15 мкг/л. в парах, держать bosim в барабане не более 70 кг. При завышенном содержании S i О 2 в парах, строго следить за уровнем в барабане. Общее время восстановления анализов основного конденсата приблизительно при отыскании неплотных трубок kondensator ТГ на обеих половинах 280 мин. 1 отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость zarur 10 мин. Texnik tarjima talab qilinadi: Общее время восстановления химического анализа на одной половине 140 мин. Texnik tarjima talab qilinadi: Столько же времени на другой половине или при повторном отключении. Texnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов Boshliq СНТБ Б.Б. Нурдинов Boshliqа КТЦ-1 У.Л. Мажлимов Boshliqа КТЦ-2 М.М. Махкамов Boshliq хим цеха Л.П. Хамракулова Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев"
+  }
+}

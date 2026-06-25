@@ -2,6 +2,9 @@ import { useEffect, useMemo, useState } from "react";
 import { getLocalizedDocument } from "../data/documentTranslations.js";
 import { loadAllDocuments } from "../data/loadDocuments.js";
 import { useLanguage } from "../i18n/useLanguage.js";
+import { isDocumentAvailableInLanguage } from "../utils/isDocumentAvailableInLanguage.js";
+
+const availabilityStorageKey = "library-show-only-available";
 
 const filterGroups = [
   {
@@ -37,6 +40,14 @@ function AdminPanel({ navigate }) {
   const [documents, setDocuments] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [selectedFilters, setSelectedFilters] = useState({ purpose: [], category: [] });
+  const [showOnlyAvailable, setShowOnlyAvailable] = useState(() => {
+    try {
+      const storedValue = localStorage.getItem(availabilityStorageKey);
+      return storedValue === null ? true : storedValue === "true";
+    } catch {
+      return true;
+    }
+  });
 
   useEffect(() => {
     let isCurrent = true;
@@ -51,9 +62,18 @@ function AdminPanel({ navigate }) {
     return () => { isCurrent = false; };
   }, []);
 
+  useEffect(() => {
+    try {
+      localStorage.setItem(availabilityStorageKey, String(showOnlyAvailable));
+    } catch {
+      // The filter still works when storage is unavailable.
+    }
+  }, [showOnlyAvailable]);
+
   const localizedDocuments = useMemo(() => documents.map((source) => ({
     source,
     localized: getLocalizedDocument(source, selectedLanguage),
+    available: isDocumentAvailableInLanguage(source, selectedLanguage),
   })), [documents, selectedLanguage]);
 
   function openDocument(documentData) {
@@ -74,15 +94,21 @@ function AdminPanel({ navigate }) {
 
   function resetFilters() {
     setSelectedFilters({ purpose: [], category: [] });
+    setShowOnlyAvailable(true);
   }
 
-  const filteredDocuments = localizedDocuments.filter(({ source }) => {
+  const categoryFilteredDocuments = localizedDocuments.filter(({ source }) => {
     const matchesPurpose = selectedFilters.purpose.length === 0 || selectedFilters.purpose.includes(source.purpose);
     const matchesCategory = selectedFilters.category.length === 0 || selectedFilters.category.includes(source.category);
     return matchesPurpose && matchesCategory;
   });
+  const availableDocumentsCount = categoryFilteredDocuments.filter(({ available }) => available).length;
+  const filteredDocuments = categoryFilteredDocuments.filter(({ available }) => (
+    !showOnlyAvailable || available
+  ));
 
   const activeFiltersCount = selectedFilters.purpose.length + selectedFilters.category.length;
+  const hasNonDefaultFilters = activeFiltersCount > 0 || !showOnlyAvailable;
   const visibleSectionCount = filteredDocuments.reduce(
     (total, { localized }) => total + (localized?.blocks?.length || 0), 0,
   );
@@ -92,12 +118,33 @@ function AdminPanel({ navigate }) {
       <aside className="library-sidebar">
         <div className="library-sidebar__header">
           <h2 className="library-sidebar__title">{messages.filters.title}</h2>
-          {activeFiltersCount > 0 && (
+          {hasNonDefaultFilters && (
             <button type="button" className="library-sidebar__reset" onClick={resetFilters}>
               {messages.filters.reset}
             </button>
           )}
         </div>
+
+        <section className="library-filter-group library-availability">
+          <h3 className="library-filter-group__title">{messages.filters.availability}</h3>
+          <label className="library-availability__option">
+            <input
+              type="checkbox"
+              checked={showOnlyAvailable}
+              onChange={(event) => setShowOnlyAvailable(event.target.checked)}
+              aria-label={messages.filters.onlyAvailable}
+            />
+            <span className="library-availability__switch" aria-hidden="true">
+              <span className="library-availability__thumb" />
+            </span>
+            <span className="library-availability__copy">
+              <span>{messages.filters.onlyAvailable}</span>
+              <small>
+                {messages.library.availableOnSelectedLanguage}: {availableDocumentsCount} {messages.library.availableOf} {categoryFilteredDocuments.length}
+              </small>
+            </span>
+          </label>
+        </section>
 
         {filterGroups.map((group) => (
           <section className="library-filter-group" key={group.key}>
@@ -138,16 +185,21 @@ function AdminPanel({ navigate }) {
               <h2 className="library-empty__title">{messages.library.emptyTitle}</h2>
               <p className="library-empty__description">{messages.library.emptyDescription}</p>
             </div>
-          ) : filteredDocuments.map(({ source, localized }) => {
-            const translationAvailable = localized?.translationAvailable;
+          ) : filteredDocuments.map(({ source, localized, available }) => {
+            const displayedTitle = available && localized?.title
+              ? localized.title
+              : (source.title || source.code || messages.meta.unspecified);
+            const displayedContentCount = localized?.blocks?.length || localized?.sections?.length || 0;
             return (
               <article className="library-card" key={source.id}>
                 <div className="library-card__header">
                   <div>
                     <p className="library-card__code">{source.code}</p>
-                    <h2 className="library-card__title">{translationAvailable ? localized.title : (source.title || source.code)}</h2>
+                    <h2 className="library-card__title">{displayedTitle}</h2>
                   </div>
-                  {translationAvailable && <span className="library-card__badge">{localized.blocks.length} {messages.library.sections}</span>}
+                  {available
+                    ? <span className="library-card__badge">{displayedContentCount} {messages.library.sections}</span>
+                    : <span className="library-card__badge library-card__badge--unavailable">{messages.library.noSelectedLanguageVersion}</span>}
                 </div>
 
                 <div className="library-card__tags">
@@ -165,8 +217,8 @@ function AdminPanel({ navigate }) {
                   <p><span>{messages.meta.pdfPreview}:</span> {source.previewFile?.path ? messages.meta.available : messages.meta.unavailable}</p>
                 </div>
 
-                <p className={translationAvailable ? "library-card__summary" : "library-card__translation-message"}>
-                  {translationAvailable
+                <p className={available ? "library-card__summary" : "library-card__translation-message"}>
+                  {available
                     ? (localized.summary || "")
                     : `${messages.library.translationUnavailable} ${messages.library.originalAvailable}: ${messages.languageNames[source.sourceLanguage] || messages.languageNames.unknown}.`}
                 </p>

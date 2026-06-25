@@ -1,0 +1,821 @@
+{
+  "status": "review_required",
+  "title": "TURBOAGREGAT VA ПЭН MOY TIZIMINI TOZALASH DASTURI",
+  "summary": "2-blok o‘rta ta’miri davrida ТГ va ПЭН moy tizimlarini mexanik aralashmalar va namlikdan tozalash tartibi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "4",
+      "title": "Tahlil nomi Uskuna nomi ПЭН 2 «А» ПЭН 2 «Б» Kislota soni 0,065 м g КОН/1 g moy 0,065 м g КОН/1 g moy Namlik bor bor Mexanik aralashmalar yo‘q yo‘q Rangi м.korichn. м.korichn. Deemulgatsiya tezligi 4 min. 12 sek. 6 min. 38 sek.",
+      "level": 1,
+      "blockIds": [
+        "block-0065"
+      ],
+      "text": "Tahlil nomi Uskuna nomi ПЭН 2 «А» ПЭН 2 «Б» Kislota soni 0,065 м g КОН/1 g moy 0,065 м g КОН/1 g moy Namlik bor bor Mexanik aralashmalar yo‘q yo‘q Rangi м.korichn. м.korichn. Deemulgatsiya tezligi 4 min. 12 sek. 6 min. 38 sek.",
+      "keywords": [
+        "наименование",
+        "пэн",
+        "кон",
+        "масла",
+        "прис",
+        "отс",
+        "коричн",
+        "мин",
+        "сек"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "6",
+      "title": "Tahlil nomi Uskuna nomi ПЭН 2 «А» ПЭН 2 «Б» Kislota soni 0,065 м g КОН/1 g moy 0,065 м g КОН/1 g moy Namlik bor bor Mexanik aralashmalar yo‘q yo‘q Rangi м.korichn. м.korichn. Deemulgatsiya tezligi 4 min. 12 sek. 6 min. 38 sek.",
+      "level": 1,
+      "blockIds": [
+        "block-0065",
+        "block-0066",
+        "block-0067"
+      ],
+      "text": "Tahlil nomi Uskuna nomi ПЭН 2 «А» ПЭН 2 «Б» Kislota soni 0,065 м g КОН/1 g moy 0,065 м g КОН/1 g moy Namlik bor bor Mexanik aralashmalar yo‘q yo‘q Rangi м.korichn. м.korichn. Deemulgatsiya tezligi 4 min. 12 sek. 6 min. 38 sek.\nРД 34.10.551 1.4-bandiga muvofiq, oziqlantiruvchi elektr nasoslardagi moyning xizmat muddati — 6 yil.\nHozirgi vaqtda moy moy xo‘jaligining №5 moy bakiga to‘kilgan. ПЭН-2А,Б moy baklarini ochish, mexanik usulda tozalash va dalolatnoma rasmiylashtirib tozaligi bo‘yicha kimyo sexiga topshirish. Moy quvurlarini mexanik usulda tozalash va dalolatnoma rasmiylashtirib tozaligi bo‘yicha kimyo sexiga topshirish. ПЭН–2«А» va ПЭН–2«Б» moy filtrlari mexanik usulda tozalanib, dalolatnoma rasmiylashtirib kimyo sexiga topshiriladi.",
+      "keywords": [
+        "пэн",
+        "масла",
+        "очистить",
+        "механически",
+        "сдать",
+        "чистоту",
+        "химическому",
+        "цеху",
+        "оформлением",
+        "акта",
+        "наименование",
+        "кон",
+        "прис",
+        "отс",
+        "коричн"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "6",
+      "title": "ПЭН–2«А» va ПЭН–2«Б» moy baklari hamda moy quvurlarini tozalashda birlamchi yong‘in o‘chirish vositalari mavjud bo‘lishi kerak.",
+      "level": 1,
+      "blockIds": [
+        "block-0068",
+        "block-0069",
+        "block-0070",
+        "block-0071",
+        "block-0072",
+        "block-0073",
+        "block-0074",
+        "block-0075",
+        "block-0076",
+        "block-0077",
+        "block-0078"
+      ],
+      "text": "6. ПЭН–2«А» va ПЭН–2«Б» moy baklari hamda moy quvurlarini tozalashda birlamchi yong‘in o‘chirish vositalari mavjud bo‘lishi kerak.\n7. Moy tizimi tozalanib, tozaligi bo‘yicha topshirilgandan so‘ng ПЭН–2«А» va ПЭН–2«Б» moy tizimiga moy xo‘jaligining №5 moy bakidan toza kollektor orqali yangi ТП-22С moyini haydash.\nISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV\nСНТБ BOSHLIG‘I B.B. NURDINOV\nКТЦ-1 BOSHLIG‘I U.L. MAJLIMOV\nKIMYO SEXI BOSHLIG‘I L.P. XAMRAQULOVA\nELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV\n«UET» UCHASTKASI ISHLARI RAHBARI A. MAMIROV\nELEKTR USKUNALARI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI A.A. MAXMUDXO‘JAYEV",
+      "keywords": [
+        "пэн",
+        "маслобака",
+        "тех",
+        "директора",
+        "начальник",
+        "ачальник",
+        "цеха"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "list",
+      "text": "DASTUR",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "TURBOAGREGAT MOY TIZIMINI TOZALASH",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "2-BLOK O‘RTA TA’MIRI DAVRIDA",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "DASTUR MAQSADI.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "O‘tkazilgan o‘rta ta’mirdan so‘ng turboagregat moy tizimidan mexanik aralashmalarni chiqarib tashlash.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "TAYYORGARLIK TADBIRLARI. Turboagregat podshipniklariga moylash moyini beruvchi napor moy quvurlaridagi drossel shaybalarni olib tashlash. Moy quvurlariga tiqinlar qo‘yish:",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "— rostlash va himoya tizimlari;",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "— bosh moy nasosining so‘rishi va naporida;",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "— val aylantirish qurilmasiga moy kirishida.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "2.3 Generator zichlovchi podshipniklariga napor quvuri vaqtinchalik peremichka bilan drenaj quvuriga ulanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "2.4 Yuvish boshlanishiga qadar ТГ va АМС moy tizimidagi barcha ta’mir ishlarini yakunlash.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "2.4.1. ТГ-1-8 podshipniklari karterlari, ТГ moy baki, ДМБ ТГni tozalash.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "2.4.2. Podshipnik qopqoqlarini yopish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "2.4.3. Ish joylarini yig‘ishtirish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "2.5 Shtat asboblarni o‘rnatish:",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "Manometrlar:",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "- ТГ moy sovitgichlarigacha bosim — 1 dona ТГ МЩda",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "- ТГ moy sovitgichlaridan keyingi bosim — 1 dona ТГ МЩda",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "- ТГ ishga tushirish moy nasosi (ПМН ТГ) naporidagi bosim — 1 dona БЩУda",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "2) Termoparalar:",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "- ТГ moy sovitgichlarigacha moy harorati — 1 dona БЩУda",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "- ТГ moy sovitgichlaridan keyingi moy harorati — 1 dona БЩУda",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "2.6 Ekspluatatsion turbina moyi ta’mirdan so‘ng 2022 yil may oyida ТГ-2 moy tizimiga quyilgan. Hozirgi vaqtda moy:",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "Kislota soni — 0,065 м g КОН/1 g moy",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Mex. aralashmalar — yo‘q",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Moydagi namlik — 3,2%",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Rangi — м. korichn.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "Deemulgatsiya tezligi — 5 min. 47 sek.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "(17.02.2026 yildagi tahlil)",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "2.7 Yuvish uchun yuvuvchi turbina moyini moy xo‘jaligining №5 bakidan turboagregat moy bakiga 20 м 3 miqdorda toza kollektor orqali haydash, oldindan mex. aralashmalar va namlik yo‘qligi bo‘yicha moy tahlilini olib.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "2.8 №1,2,3,4,5 podshipniklarga moy beruvchi moy quvurlari flaneslariga setkalar o‘rnatish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "2.9 Moy turbina moy bakiga quyilgandan so‘ng zaxira va avariya moylash moy nasoslari so‘rishidagi, ishga tushirish moy nasosi so‘rishidagi surma klapanlarni ochib moy tizimi to‘ldiriladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "2.10 Haydash sxemasi yig‘iladi: ishga tushirish moy nasosi — moylash injektori — ТГ podshipniklari karterlari — drenaj moy quvuri — ТГ moy baki.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "2.11 ТГ zaxira moylash moy nasosini yopiq napor surma klapaniga ishga tushirish. Napor surma klapanini sekin ochib napor moy quvurlarini to‘ldirish. Moy sizishi yo‘qligiga ishonch hosil qilish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "2.12 ТГ zaxira moy nasosini o‘chirish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "list",
+      "text": "YUVISHNI O‘TKAZISH.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "ТГ ishga tushirish moy nasosini yoqish. Naporidagi surma klapanni ochib, moy tizimida yuqori moy tezliklarini ta’minlaydigan zarur moy sarfini hosil qilish. Moy sizishi yo‘qligiga ishonch hosil qilish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "Moy sovitgichlaridan keyingi moy haroratini +60 0 С +65 0 С chegaralarida ushlab turish, ko‘rsatilgan chegaralardan oshishiga yoki pasayishiga yo‘l qo‘ymaslik. Moy haroratini ПМН ТГni o‘chirish orqali pasaytirish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "Haydash jarayonida ТГ bosh moy bakining toza va iflos bo‘limlari setkalari muntazam, 4 soat davriylikda, shuningdek toza va iflos bo‘limlar o‘rtasidagi sathlar farqi 100 мм ga oshganda tozalanadi. Kimyo sexi xodimlariga topshiriladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "list",
+      "text": "Moy haydash quyidagi jadvalga muvofiq konturlar bo‘yicha amalga oshiriladi:",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0045",
+      "type": "paragraph",
+      "text": "№ kontur Kontur nomi Haydash vaqti (soat) Bajarilganligi belgisi 1. №№ 1,2,3,4,5 podshipniklar; МО-А,Б,В; ФТО 8 2. №№ 4,5,6 podshipniklar, АМС; МО-А; ФТО 8 3. №№ 6,7,8 podshipniklar, АМС; МО-Б; ФТО 8 4. №№ 6,7,8 podshipniklar, rostlash va himoya tizimi; МО-В; ФТО 8",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0046",
+      "type": "list",
+      "text": "Flanes birikmalarida zichsizlik, podshipnik zichlamalaridan moy urib chiqishi yoki drenaj moy quvurlari to‘lib ketishi holatida nasos to‘xtatiladi va nosozliklar bartaraf etiladi. Turbina moy bakining toza bo‘limi setkasida haydashning oxirgi 2 soati davomida yaqqol ifloslanish kuzatilmasa, haydash tugallangan hisoblanadi. Barcha konturlar haydalgach, ГМБ ТГ va moy quvurlaridagi moy mex. aralashmalar borligi nazorat qilingandan so‘ng iflos kollektor orqali moy xo‘jaligiga chiqariladi. ТГ moy tizimi tozaligi bo‘yicha dalolatnoma bilan kimyo sexiga topshiriladi: bosh, drenaj, avariya moy baklari, АМС baki, АМС filtrlari va АМС dempfer moy baki, ФТО, МО АМС, drenaj moy quvurining gidrohalqasi, drenaj va napor kollektorlar, oldingi stul, №2÷8 podshipniklar karterlari. Yuvish ijobiy natija berganda barcha uzellar normal holatga keltiriladi, drossel shaybalar o‘rnatiladi. ТГ moy tizimi yuvilgandan so‘ng moy xo‘jaligiga chiqarilgan moy mexanik aralashmalar va namlikdan tozalanadi. Moy kimyoviy tahlilga olinadi. ТП-22С ekspluatatsion moyi toza kollektor orqali moy tizimiga haydaladi.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0047",
+      "type": "list",
+      "text": "XAVFSIZLIK TEXNIKASI.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0048",
+      "type": "list",
+      "text": "Moy haydash bo‘yicha barcha ishlar КТЦ-1 ta’mir bo‘yicha boshliq o‘rinbosari va turbina ta’miri ishlari rahbari bevosita rahbarligida amalga oshiriladi. Moy quvurlarini to‘ldirishdan oldin ТГ moy tizimidagi barcha ishlar to‘xtatiladi. ТГ moy tizimi bilan bog‘liq ishlar bo‘yicha barcha oraliq naryadlar topshiriladi. Ta’mir xodimlari rahbar tomonidan moy haydash boshlanishi haqida ogohlantirilishi kerak. Moyni to‘ldirish va haydashning butun davriga usta boshchiligida УЭТ navbatchi brigadasi ajratiladi. Brigada ro‘yxati КТЦ-1 rahbariyatiga beriladi. Navbatchi brigada a’zolari УЭТ, СРП va КТЦ-1 mas’ul rahbarlari tomonidan moy haydashda ПТБ, ППБga rioya qilish bo‘yicha yo‘riqnomadan o‘tkazilishi va bu yo‘riqnoma jurnaliga yozilishi kerak. Issiqlik va elektr sxemalaridagi barcha almashlab ulashlar berilgan arizalarga muvofiq КТЦ-1 va elektr sexi xodimlari tomonidan bajariladi. Ishlarni tashkil etish va ПТЭ, ПТБ, ППБga rioya etish uchun КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari, shuningdek ta’mir rahbari mas’uldir. КИП va А asboblarini o‘rnatish va ko‘rsatkichlarining ishonchliligi uchun ЦТКА boshlig‘i mas’ul. Shtatdan tashqari vaziyat yuzaga kelganda moy haydashda qatnashuvchi xodimlar amaldagi yo‘riqnomalarga muvofiq harakat qiladi. Haydash ishlari vaqtida xodimlar o‘zida shaxsiy himoya vositalariga ega bo‘lishi kerak.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0049",
+      "type": "list",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0050",
+      "type": "paragraph",
+      "text": "ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV",
+      "sectionIds": [],
+      "alignment": "left",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0051",
+      "type": "list",
+      "text": "СНТБ BOSHLIG‘I B.B. NURDINOV",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0052",
+      "type": "paragraph",
+      "text": "КТЦ-1 BOSHLIG‘I U.L. MAJLIMOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0053",
+      "type": "paragraph",
+      "text": "KIMYO SEXI BOSHLIG‘I L.P. XAMRAQULOVA",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0054",
+      "type": "paragraph",
+      "text": "ЦТКА BOSHLIG‘I R.K. BAYMATOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0055",
+      "type": "paragraph",
+      "text": "ELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0056",
+      "type": "paragraph",
+      "text": "«UET» UCHASTKASI ISHLARI RAHBARI A. MAMIROV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0057",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0058",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0059",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0060",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0061",
+      "type": "list",
+      "text": "DASTUR",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0062",
+      "type": "paragraph",
+      "text": "ПЭН - 2«А» va ПЭН -2 «Б» moy tizimini tozalash.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0063",
+      "type": "list",
+      "text": "ПЭН tizimiga moy 2022 yil may oyida quyilgan: 4500 тн. (ekspluatatsion).",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0064",
+      "type": "paragraph",
+      "text": "Hozirgi vaqtda:",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0065",
+      "type": "table",
+      "text": "Tahlil nomi Uskuna nomi ПЭН 2 «А» ПЭН 2 «Б» Kislota soni 0,065 м g КОН/1 g moy 0,065 м g КОН/1 g moy Namlik bor bor Mexanik aralashmalar yo‘q yo‘q Rangi м.korichn. м.korichn. Deemulgatsiya tezligi 4 min. 12 sek. 6 min. 38 sek.",
+      "sectionIds": [
+        "section-001",
+        "section-002"
+      ],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0066",
+      "type": "paragraph",
+      "text": "РД 34.10.551 1.4-bandiga muvofiq, oziqlantiruvchi elektr nasoslardagi moyning xizmat muddati — 6 yil.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0067",
+      "type": "list",
+      "text": "Hozirgi vaqtda moy moy xo‘jaligining №5 moy bakiga to‘kilgan. ПЭН-2А,Б moy baklarini ochish, mexanik usulda tozalash va dalolatnoma rasmiylashtirib tozaligi bo‘yicha kimyo sexiga topshirish. Moy quvurlarini mexanik usulda tozalash va dalolatnoma rasmiylashtirib tozaligi bo‘yicha kimyo sexiga topshirish. ПЭН–2«А» va ПЭН–2«Б» moy filtrlari mexanik usulda tozalanib, dalolatnoma rasmiylashtirib kimyo sexiga topshiriladi.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0068",
+      "type": "paragraph",
+      "text": "6. ПЭН–2«А» va ПЭН–2«Б» moy baklari hamda moy quvurlarini tozalashda birlamchi yong‘in o‘chirish vositalari mavjud bo‘lishi kerak.",
+      "sectionIds": [
+        "section-003"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0069",
+      "type": "paragraph",
+      "text": "7. Moy tizimi tozalanib, tozaligi bo‘yicha topshirilgandan so‘ng ПЭН–2«А» va ПЭН–2«Б» moy tizimiga moy xo‘jaligining №5 moy bakidan toza kollektor orqali yangi ТП-22С moyini haydash.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0070",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "left",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0071",
+      "type": "paragraph",
+      "text": "ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV",
+      "sectionIds": [],
+      "alignment": "left",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0072",
+      "type": "list",
+      "text": "СНТБ BOSHLIG‘I B.B. NURDINOV",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0073",
+      "type": "paragraph",
+      "text": "КТЦ-1 BOSHLIG‘I U.L. MAJLIMOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0074",
+      "type": "paragraph",
+      "text": "KIMYO SEXI BOSHLIG‘I L.P. XAMRAQULOVA",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0075",
+      "type": "paragraph",
+      "text": "ELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0076",
+      "type": "paragraph",
+      "text": "«UET» UCHASTKASI ISHLARI RAHBARI A. MAMIROV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0077",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0078",
+      "type": "list",
+      "text": "ELEKTR USKUNALARI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI A.A. MAXMUDXO‘JAYEV",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/ochistka-maslosistemy-2025/translations/uzLatn/document.json",
+    "assetBasePath": "documents/ochistka-maslosistemy-2025/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "moy tizimini tozalash",
+      "turboagregat moyi",
+      "ПЭН moy tizimi",
+      "mexanik aralashmalar",
+      "deemulgatsiya"
+    ],
+    "aliases": [
+      "moy haydash",
+      "moy tizimini yuvish",
+      "ТГ moy tizimi",
+      "ТП-22С moyi"
+    ],
+    "searchText": "TURBOAGREGAT VA ПЭН MOY TIZIMINI TOZALASH DASTURI 2-blok o‘rta ta’miri davrida ТГ va ПЭН moy tizimlarini mexanik aralashmalar va namlikdan tozalash tartibi. TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» V.V. Pak DASTUR TURBOAGREGAT MOY TIZIMINI TOZALASH 2-BLOK O‘RTA TA’MIRI DAVRIDA DASTUR MAQSADI. O‘tkazilgan o‘rta ta’mirdan so‘ng turboagregat moy tizimidan mexanik aralashmalarni chiqarib tashlash. TAYYORGARLIK TADBIRLARI. Turboagregat podshipniklariga moylash moyini beruvchi napor moy quvurlaridagi drossel shaybalarni olib tashlash. Moy quvurlariga tiqinlar qo‘yish: — rostlash va himoya tizimlari; — bosh moy nasosining so‘rishi va naporida; — val aylantirish qurilmasiga moy kirishida. 2.3 Generator zichlovchi podshipniklariga napor quvuri vaqtinchalik peremichka bilan drenaj quvuriga ulanadi. 2.4 Yuvish boshlanishiga qadar ТГ va АМС moy tizimidagi barcha ta’mir ishlarini yakunlash. 2.4.1. ТГ-1-8 podshipniklari karterlari, ТГ moy baki, ДМБ ТГni tozalash. 2.4.2. Podshipnik qopqoqlarini yopish. 2.4.3. Ish joylarini yig‘ishtirish. 2.5 Shtat asboblarni o‘rnatish: Manometrlar: - ТГ moy sovitgichlarigacha bosim — 1 dona ТГ МЩda - ТГ moy sovitgichlaridan keyingi bosim — 1 dona ТГ МЩda - ТГ ishga tushirish moy nasosi (ПМН ТГ) naporidagi bosim — 1 dona БЩУda 2) Termoparalar: - ТГ moy sovitgichlarigacha moy harorati — 1 dona БЩУda - ТГ moy sovitgichlaridan keyingi moy harorati — 1 dona БЩУda 2.6 Ekspluatatsion turbina moyi ta’mirdan so‘ng 2022 yil may oyida ТГ-2 moy tizimiga quyilgan. Hozirgi vaqtda moy: Kislota soni — 0,065 м g КОН/1 g moy Mex. aralashmalar — yo‘q Moydagi namlik — 3,2% Rangi — м. korichn. Deemulgatsiya tezligi — 5 min. 47 sek. (17.02.2026 yildagi tahlil) 2.7 Yuvish uchun yuvuvchi turbina moyini moy xo‘jaligining №5 bakidan turboagregat moy bakiga 20 м 3 miqdorda toza kollektor orqali haydash, oldindan mex. aralashmalar va namlik yo‘qligi bo‘yicha moy tahlilini olib. 2.8 №1,2,3,4,5 podshipniklarga moy beruvchi moy quvurlari flaneslariga setkalar o‘rnatish. 2.9 Moy turbina moy bakiga quyilgandan so‘ng zaxira va avariya moylash moy nasoslari so‘rishidagi, ishga tushirish moy nasosi so‘rishidagi surma klapanlarni ochib moy tizimi to‘ldiriladi. 2.10 Haydash sxemasi yig‘iladi: ishga tushirish moy nasosi — moylash injektori — ТГ podshipniklari karterlari — drenaj moy quvuri — ТГ moy baki. 2.11 ТГ zaxira moylash moy nasosini yopiq napor surma klapaniga ishga tushirish. Napor surma klapanini sekin ochib napor moy quvurlarini to‘ldirish. Moy sizishi yo‘qligiga ishonch hosil qilish. 2.12 ТГ zaxira moy nasosini o‘chirish. YUVISHNI O‘TKAZISH. ТГ ishga tushirish moy nasosini yoqish. Naporidagi surma klapanni ochib, moy tizimida yuqori moy tezliklarini ta’minlaydigan zarur moy sarfini hosil qilish. Moy sizishi yo‘qligiga ishonch hosil qilish. Moy sovitgichlaridan keyingi moy haroratini +60 0 С +65 0 С chegaralarida ushlab turish, ko‘rsatilgan chegaralardan oshishiga yoki pasayishiga yo‘l qo‘ymaslik. Moy haroratini ПМН ТГni o‘chirish orqali pasaytirish. Haydash jarayonida ТГ bosh moy bakining toza va iflos bo‘limlari setkalari muntazam, 4 soat davriylikda, shuningdek toza va iflos bo‘limlar o‘rtasidagi sathlar farqi 100 мм ga oshganda tozalanadi. Kimyo sexi xodimlariga topshiriladi. Moy haydash quyidagi jadvalga muvofiq konturlar bo‘yicha amalga oshiriladi: № kontur Kontur nomi Haydash vaqti (soat) Bajarilganligi belgisi 1. №№ 1,2,3,4,5 podshipniklar; МО-А,Б,В; ФТО 8 2. №№ 4,5,6 podshipniklar, АМС; МО-А; ФТО 8 3. №№ 6,7,8 podshipniklar, АМС; МО-Б; ФТО 8 4. №№ 6,7,8 podshipniklar, rostlash va himoya tizimi; МО-В; ФТО 8 Flanes birikmalarida zichsizlik, podshipnik zichlamalaridan moy urib chiqishi yoki drenaj moy quvurlari to‘lib ketishi holatida nasos to‘xtatiladi va nosozliklar bartaraf etiladi. Turbina moy bakining toza bo‘limi setkasida haydashning oxirgi 2 soati davomida yaqqol ifloslanish kuzatilmasa, haydash tugallangan hisoblanadi. Barcha konturlar haydalgach, ГМБ ТГ va moy quvurlaridagi moy mex. aralashmalar borligi nazorat qilingandan so‘ng iflos kollektor orqali moy xo‘jaligiga chiqariladi. ТГ moy tizimi tozaligi bo‘yicha dalolatnoma bilan kimyo sexiga topshiriladi: bosh, drenaj, avariya moy baklari, АМС baki, АМС filtrlari va АМС dempfer moy baki, ФТО, МО АМС, drenaj moy quvurining gidrohalqasi, drenaj va napor kollektorlar, oldingi stul, №2÷8 podshipniklar karterlari. Yuvish ijobiy natija berganda barcha uzellar normal holatga keltiriladi, drossel shaybalar o‘rnatiladi. ТГ moy tizimi yuvilgandan so‘ng moy xo‘jaligiga chiqarilgan moy mexanik aralashmalar va namlikdan tozalanadi. Moy kimyoviy tahlilga olinadi. ТП-22С ekspluatatsion moyi toza kollektor orqali moy tizimiga haydaladi. XAVFSIZLIK TEXNIKASI. Moy haydash bo‘yicha barcha ishlar КТЦ-1 ta’mir bo‘yicha boshliq o‘rinbosari va turbina ta’miri ishlari rahbari bevosita rahbarligida amalga oshiriladi. Moy quvurlarini to‘ldirishdan oldin ТГ moy tizimidagi barcha ishlar to‘xtatiladi. ТГ moy tizimi bilan bog‘liq ishlar bo‘yicha barcha oraliq naryadlar topshiriladi. Ta’mir xodimlari rahbar tomonidan moy haydash boshlanishi haqida ogohlantirilishi kerak. Moyni to‘ldirish va haydashning butun davriga usta boshchiligida УЭТ navbatchi brigadasi ajratiladi. Brigada ro‘yxati КТЦ-1 rahbariyatiga beriladi. Navbatchi brigada a’zolari УЭТ, СРП va КТЦ-1 mas’ul rahbarlari tomonidan moy haydashda ПТБ, ППБga rioya qilish bo‘yicha yo‘riqnomadan o‘tkazilishi va bu yo‘riqnoma jurnaliga yozilishi kerak. Issiqlik va elektr sxemalaridagi barcha almashlab ulashlar berilgan arizalarga muvofiq КТЦ-1 va elektr sexi xodimlari tomonidan bajariladi. Ishlarni tashkil etish va ПТЭ, ПТБ, ППБga rioya etish uchun КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari, shuningdek ta’mir rahbari mas’uldir. КИП va А asboblarini o‘rnatish va ko‘rsatkichlarining ishonchliligi uchun ЦТКА boshlig‘i mas’ul. Shtatdan tashqari vaziyat yuzaga kelganda moy haydashda qatnashuvchi xodimlar amaldagi yo‘riqnomalarga muvofiq harakat qiladi. Haydash ishlari vaqtida xodimlar o‘zida shaxsiy himoya vositalariga ega bo‘lishi kerak.  ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV СНТБ BOSHLIG‘I B.B. NURDINOV КТЦ-1 BOSHLIG‘I U.L. MAJLIMOV KIMYO SEXI BOSHLIG‘I L.P. XAMRAQULOVA ЦТКА BOSHLIG‘I R.K. BAYMATOV ELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV «UET» UCHASTKASI ISHLARI RAHBARI A. MAMIROV TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» V.V. Pak DASTUR ПЭН - 2«А» va ПЭН -2 «Б» moy tizimini tozalash. ПЭН tizimiga moy 2022 yil may oyida quyilgan: 4500 тн. (ekspluatatsion). Hozirgi vaqtda: Tahlil nomi Uskuna nomi ПЭН 2 «А» ПЭН 2 «Б» Kislota soni 0,065 м g КОН/1 g moy 0,065 м g КОН/1 g moy Namlik bor bor Mexanik aralashmalar yo‘q yo‘q Rangi м.korichn. м.korichn. Deemulgatsiya tezligi 4 min. 12 sek. 6 min. 38 sek. РД 34.10.551 1.4-bandiga muvofiq, oziqlantiruvchi elektr nasoslardagi moyning xizmat muddati — 6 yil. Hozirgi vaqtda moy moy xo‘jaligining №5 moy bakiga to‘kilgan. ПЭН-2А,Б moy baklarini ochish, mexanik usulda tozalash va dalolatnoma rasmiylashtirib tozaligi bo‘yicha kimyo sexiga topshirish. Moy quvurlarini mexanik usulda tozalash va dalolatnoma rasmiylashtirib tozaligi bo‘yicha kimyo sexiga topshirish. ПЭН–2«А» va ПЭН–2«Б» moy filtrlari mexanik usulda tozalanib, dalolatnoma rasmiylashtirib kimyo sexiga topshiriladi. 6. ПЭН–2«А» va ПЭН–2«Б» moy baklari hamda moy quvurlarini tozalashda birlamchi yong‘in o‘chirish vositalari mavjud bo‘lishi kerak. 7. Moy tizimi tozalanib, tozaligi bo‘yicha topshirilgandan so‘ng ПЭН–2«А» va ПЭН–2«Б» moy tizimiga moy xo‘jaligining №5 moy bakidan toza kollektor orqali yangi ТП-22С moyini haydash.  ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV СНТБ BOSHLIG‘I B.B. NURDINOV КТЦ-1 BOSHLIG‘I U.L. MAJLIMOV KIMYO SEXI BOSHLIG‘I L.P. XAMRAQULOVA ELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV «UET» UCHASTKASI ISHLARI RAHBARI A. MAMIROV  ELEKTR USKUNALARI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI A.A. MAXMUDXO‘JAYEV"
+  }
+}

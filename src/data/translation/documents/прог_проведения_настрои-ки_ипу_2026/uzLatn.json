@@ -1,0 +1,446 @@
+{
+  "status": "review_required",
+  "title": "QOZON IMPULS XAVFSIZLIK QURILMALARINI SOZLASH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "Ta’mirdan keyin qozon ИПУ sozlash, bug‘ sinovi va ТГni bo‘sh yurishga tayyorlash tartibi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "2",
+      "title": "ASOSIY VAZIFALAR",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039",
+        "block-0040"
+      ],
+      "text": "2. ASOSIY VAZIFALAR\nBosim ostida ishlaydigan qozon elementlari va oraliq qayta qizdirish tizimi zichligini tekshirish. Yuqori bosim va issiq oraliq qayta qizdirish xavfsizlik klapanlarini rostlash. Turbogeneratorni bo‘sh yurishga ishga tushirish.\n3. OPERATSIYALAR TARTIBI\n3.1. Qozonni yoqishda oziqlantirish ishlayotgan blokdan peremichka orqali, СУПdagi Ду-100 qozon oziqlantirish liniyalari orqali qozonga va zarurat bo‘lsa o‘z oziqlantiruvchi nasosi bilan bajariladi.\n3.2. Qozonni yoqish va bosimni ko‘tarish ekspluatatsion yo‘riqnomaga muvofiq bajariladi.\n3.3. Qozonni yoqish davrida bug‘ tashlash avval bug‘ quvurlarini puflash orqali, keyin esa БРОУ orqali turbina kondensatoriga amalga oshiriladi.\n3.4. Xavfsizlik klapanlarining elektr sxemasi ajratilgan holda qozon barabanidagi bosim 60-80 ата bo‘lganda impuls liniyalari puflanadi.\n3.5. ИПУ-1А va Б elektr sxemasi ajratilgan holda ishchi va nazorat klapanlarining ishlashi tekshiriladi.\n3.6. Qozon barabanidagi bosim 151 ати gacha ko‘tariladi va yuk tizimidan klapanlarning ishga tushishi rostlanadi.\n3.7. ИПУ-1 klapanlarining ЭКМdan ishga tushishi, Р=151 ати da klapanlarning ko‘tarilishi tekshiriladi. Buning uchun ИПУ-1А elektr sxemasi yig‘iladi. Р= 142 ати da o‘tirishi.\n3.8. Bosim 167 ати gacha ko‘tariladi va ИПУ-1 Б klapanlarining yuk tizimidan ishga tushishi rostlanadi.\n3.9. ИПУ-1 Б elektr sxemasi yig‘iladi va qozon barabanidagi bosimni ko‘tarish orqali ИПУ-1Бning ЭКМdan ishga tushishi tekshiriladi; Р=167 ати da klapanlar ko‘tarilishi va Р=157 ати da o‘tirishi.\n3.10. ИПУ-1 А, 1Б klapanlari tekshirilgandan so‘ng qozon barabanidagi bosim 50ати gacha tushiriladi.\n3.11. БРОУ-2ni sekin yopish orqali issiq oraliq qayta qizdirishdagi bosim 25 ати gacha oshiriladi, impuls liniyalari puflanadi.\n3.12. Bosim 31,5 ати gacha ko‘tariladi, sozlash bajariladi va ИПУ-2ning yuk tizimidan ishga tushishi tekshiriladi.\n3.13. ИПУ-2 elektr sxemasi yig‘iladi va ГПП hamda ХПП quvurlarida bosimni ko‘tarish orqali ИПУ-2ning ЭКМdan ishga tushishi tekshiriladi. 31,5 da ishlashi, 27 атм da o‘tirishi.\n3.14. Qozon xavfsizlik klapanlari sinovidan va ijobiy natijalardan keyin barabandagi bosim 30 ати gacha pasaytiriladi va xodimlar ekspluatatsion yo‘riqnomaga muvofiq turbinani bo‘sh yurishga ishga tushirishga tayyorlanadi.\n3.15. Turbina to‘liq aylanishlarga yetganda turbina bosh moy nasosining ishga yaroqliligi tekshiriladi, xavfsizlik avtomatlari moy bilan va razgon orqali sinovdan o‘tkaziladi, maxsus dastur bo‘yicha rostlash sozlanadi.\n3.16. Sinov ijobiy natija berganda turbogenerator generator elektr sinovlarini bajarish uchun bo‘sh yurishda ishda qoladi.\nТМО BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV\nКТЦ-1 BOSHLIG‘I M.M. MAJLIMOV\nКТЦ-2 BOSHLIG‘I M.M. MAXKAMOV\nЦТКА BOSHLIG‘I R.K. BAYMATOV\nELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV\nMETALLAR LABORATORIYASI BOSHLIG‘I L.U. ESHONQULOV\nЦЦР BOSHLIG‘I T.A. VALIYEV",
+      "keywords": [
+        "котла",
+        "клапанов",
+        "ати",
+        "срабатывание",
+        "давление",
+        "барабане",
+        "проверяется",
+        "системы",
+        "давления",
+        "турбины",
+        "ипу-1",
+        "начальник",
+        "предохранительных",
+        "через",
+        "поднимается"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. PAK",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "qozon impuls xavfsizlik qurilmalarini sozlashni o‘tkazish",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "energiya bloki ta’miridan keyin",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Sinovning maqsadi bosim ostida sinab ko‘rish va ТГni bo‘sh yurishga tayyorlashdan iborat.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "list",
+      "text": "TASHKILIY MASALALAR",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "Qozon impuls xavfsizlik qurilmalarini sozlash va ТГ bo‘sh yurishini o‘tkazish uchun uskunani uzellar bo‘yicha qabul qilish va uni ishda sinab ko‘rish zarur. Qozonni bug‘ bilan sinash va bo‘sh yurishga chiqarish davrida ta’mir tashkiloti quyidagilarni ta’minlaydi:",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "list",
+      "text": "texnik va ishchi xodimlarning sutka davomida navbatchiligi; uskunani sinash vaqtida aniqlangan nuqsonlarni bartaraf etish.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Ekspluatatsion xodimlar o‘z harakatlarida ПТЭ, ПТБ va amaldagi yo‘riqnomalarga amal qiladi. Bug‘ sinovi va turbina bo‘sh yurishi davrida ta’mir tashkilotlari barcha ishlarni to‘xtatadi, xodimlar energiya blokidan chiqarilishi, blok ta’miri bo‘yicha umumiy naryad КТЦ-1,2 smena boshlig‘iga topshirilishi kerak. Bug‘ sinovi va xavfsizlik klapanlarini sozlash, turbinani bo‘sh yurishga ishga tushirish ta’mir rahbari, КТЦ-1,2 boshlig‘i yoki uning o‘rinbosarlari bevosita rahbarligida bajariladi. Issiqlik va elektr sxemalaridagi barcha almashlab ulashlar КТЦ-2, elektr sexi va ЦТКА operativ xodimlari tomonidan bajariladi. Navbatchi brigada a’zolari va blok operativ xodimlari sxemalardagi o‘zgarishlar, ПТЭ, ПТБ, ППБ bo‘yicha yo‘riqnomadan o‘tkaziladi. Sinov ishlarini tashkil etish va ПТЭ, ГТГБga rioya qilish uchun КТЦ-1,2 boshlig‘i yoki uning o‘rinbosari va ta’mir rahbari mas’ul.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "2. ASOSIY VAZIFALAR",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "list",
+      "text": "Bosim ostida ishlaydigan qozon elementlari va oraliq qayta qizdirish tizimi zichligini tekshirish. Yuqori bosim va issiq oraliq qayta qizdirish xavfsizlik klapanlarini rostlash. Turbogeneratorni bo‘sh yurishga ishga tushirish.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "3. OPERATSIYALAR TARTIBI",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "3.1. Qozonni yoqishda oziqlantirish ishlayotgan blokdan peremichka orqali, СУПdagi Ду-100 qozon oziqlantirish liniyalari orqali qozonga va zarurat bo‘lsa o‘z oziqlantiruvchi nasosi bilan bajariladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "3.2. Qozonni yoqish va bosimni ko‘tarish ekspluatatsion yo‘riqnomaga muvofiq bajariladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "3.3. Qozonni yoqish davrida bug‘ tashlash avval bug‘ quvurlarini puflash orqali, keyin esa БРОУ orqali turbina kondensatoriga amalga oshiriladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "3.4. Xavfsizlik klapanlarining elektr sxemasi ajratilgan holda qozon barabanidagi bosim 60-80 ата bo‘lganda impuls liniyalari puflanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "3.5. ИПУ-1А va Б elektr sxemasi ajratilgan holda ishchi va nazorat klapanlarining ishlashi tekshiriladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "3.6. Qozon barabanidagi bosim 151 ати gacha ko‘tariladi va yuk tizimidan klapanlarning ishga tushishi rostlanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "3.7. ИПУ-1 klapanlarining ЭКМdan ishga tushishi, Р=151 ати da klapanlarning ko‘tarilishi tekshiriladi. Buning uchun ИПУ-1А elektr sxemasi yig‘iladi. Р= 142 ати da o‘tirishi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "3.8. Bosim 167 ати gacha ko‘tariladi va ИПУ-1 Б klapanlarining yuk tizimidan ishga tushishi rostlanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "3.9. ИПУ-1 Б elektr sxemasi yig‘iladi va qozon barabanidagi bosimni ko‘tarish orqali ИПУ-1Бning ЭКМdan ishga tushishi tekshiriladi; Р=167 ати da klapanlar ko‘tarilishi va Р=157 ати da o‘tirishi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "3.10. ИПУ-1 А, 1Б klapanlari tekshirilgandan so‘ng qozon barabanidagi bosim 50ати gacha tushiriladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "3.11. БРОУ-2ni sekin yopish orqali issiq oraliq qayta qizdirishdagi bosim 25 ати gacha oshiriladi, impuls liniyalari puflanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "3.12. Bosim 31,5 ати gacha ko‘tariladi, sozlash bajariladi va ИПУ-2ning yuk tizimidan ishga tushishi tekshiriladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "3.13. ИПУ-2 elektr sxemasi yig‘iladi va ГПП hamda ХПП quvurlarida bosimni ko‘tarish orqali ИПУ-2ning ЭКМdan ishga tushishi tekshiriladi. 31,5 da ishlashi, 27 атм da o‘tirishi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "3.14. Qozon xavfsizlik klapanlari sinovidan va ijobiy natijalardan keyin barabandagi bosim 30 ати gacha pasaytiriladi va xodimlar ekspluatatsion yo‘riqnomaga muvofiq turbinani bo‘sh yurishga ishga tushirishga tayyorlanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "3.15. Turbina to‘liq aylanishlarga yetganda turbina bosh moy nasosining ishga yaroqliligi tekshiriladi, xavfsizlik avtomatlari moy bilan va razgon orqali sinovdan o‘tkaziladi, maxsus dastur bo‘yicha rostlash sozlanadi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "3.16. Sinov ijobiy natija berganda turbogenerator generator elektr sinovlarini bajarish uchun bo‘sh yurishda ishda qoladi.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "ТМО BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "КТЦ-1 BOSHLIG‘I M.M. MAJLIMOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "КТЦ-2 BOSHLIG‘I M.M. MAXKAMOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "ЦТКА BOSHLIG‘I R.K. BAYMATOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "ELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "METALLAR LABORATORIYASI BOSHLIG‘I L.U. ESHONQULOV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "ЦЦР BOSHLIG‘I T.A. VALIYEV",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/prog-provedeniya-nastroyki-ipu-2026/translations/uzLatn/document.json",
+    "assetBasePath": "documents/prog-provedeniya-nastroyki-ipu-2026/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "ИПУ sozlash",
+      "impuls xavfsizlik qurilmasi",
+      "bo‘sh yurish",
+      "qozon bosimi",
+      "xavfsizlik klapani"
+    ],
+    "aliases": [
+      "ИПУ nastroyka",
+      "qozon klapanlarini sozlash",
+      "ТГ bo‘sh yurishga pusk"
+    ],
+    "searchText": "QOZON IMPULS XAVFSIZLIK QURILMALARINI SOZLASH BO‘YICHA NAMUNAVIY DASTUR Ta’mirdan keyin qozon ИПУ sozlash, bug‘ sinovi va ТГni bo‘sh yurishga tayyorlash tartibi. TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» V.V. PAK NAMUNAVIY DASTUR qozon impuls xavfsizlik qurilmalarini sozlashni o‘tkazish energiya bloki ta’miridan keyin Sinovning maqsadi bosim ostida sinab ko‘rish va ТГni bo‘sh yurishga tayyorlashdan iborat. TASHKILIY MASALALAR Qozon impuls xavfsizlik qurilmalarini sozlash va ТГ bo‘sh yurishini o‘tkazish uchun uskunani uzellar bo‘yicha qabul qilish va uni ishda sinab ko‘rish zarur. Qozonni bug‘ bilan sinash va bo‘sh yurishga chiqarish davrida ta’mir tashkiloti quyidagilarni ta’minlaydi: texnik va ishchi xodimlarning sutka davomida navbatchiligi; uskunani sinash vaqtida aniqlangan nuqsonlarni bartaraf etish. Ekspluatatsion xodimlar o‘z harakatlarida ПТЭ, ПТБ va amaldagi yo‘riqnomalarga amal qiladi. Bug‘ sinovi va turbina bo‘sh yurishi davrida ta’mir tashkilotlari barcha ishlarni to‘xtatadi, xodimlar energiya blokidan chiqarilishi, blok ta’miri bo‘yicha umumiy naryad КТЦ-1,2 smena boshlig‘iga topshirilishi kerak. Bug‘ sinovi va xavfsizlik klapanlarini sozlash, turbinani bo‘sh yurishga ishga tushirish ta’mir rahbari, КТЦ-1,2 boshlig‘i yoki uning o‘rinbosarlari bevosita rahbarligida bajariladi. Issiqlik va elektr sxemalaridagi barcha almashlab ulashlar КТЦ-2, elektr sexi va ЦТКА operativ xodimlari tomonidan bajariladi. Navbatchi brigada a’zolari va blok operativ xodimlari sxemalardagi o‘zgarishlar, ПТЭ, ПТБ, ППБ bo‘yicha yo‘riqnomadan o‘tkaziladi. Sinov ishlarini tashkil etish va ПТЭ, ГТГБga rioya qilish uchun КТЦ-1,2 boshlig‘i yoki uning o‘rinbosari va ta’mir rahbari mas’ul. 2. ASOSIY VAZIFALAR Bosim ostida ishlaydigan qozon elementlari va oraliq qayta qizdirish tizimi zichligini tekshirish. Yuqori bosim va issiq oraliq qayta qizdirish xavfsizlik klapanlarini rostlash. Turbogeneratorni bo‘sh yurishga ishga tushirish. 3. OPERATSIYALAR TARTIBI 3.1. Qozonni yoqishda oziqlantirish ishlayotgan blokdan peremichka orqali, СУПdagi Ду-100 qozon oziqlantirish liniyalari orqali qozonga va zarurat bo‘lsa o‘z oziqlantiruvchi nasosi bilan bajariladi. 3.2. Qozonni yoqish va bosimni ko‘tarish ekspluatatsion yo‘riqnomaga muvofiq bajariladi. 3.3. Qozonni yoqish davrida bug‘ tashlash avval bug‘ quvurlarini puflash orqali, keyin esa БРОУ orqali turbina kondensatoriga amalga oshiriladi. 3.4. Xavfsizlik klapanlarining elektr sxemasi ajratilgan holda qozon barabanidagi bosim 60-80 ата bo‘lganda impuls liniyalari puflanadi. 3.5. ИПУ-1А va Б elektr sxemasi ajratilgan holda ishchi va nazorat klapanlarining ishlashi tekshiriladi. 3.6. Qozon barabanidagi bosim 151 ати gacha ko‘tariladi va yuk tizimidan klapanlarning ishga tushishi rostlanadi. 3.7. ИПУ-1 klapanlarining ЭКМdan ishga tushishi, Р=151 ати da klapanlarning ko‘tarilishi tekshiriladi. Buning uchun ИПУ-1А elektr sxemasi yig‘iladi. Р= 142 ати da o‘tirishi. 3.8. Bosim 167 ати gacha ko‘tariladi va ИПУ-1 Б klapanlarining yuk tizimidan ishga tushishi rostlanadi. 3.9. ИПУ-1 Б elektr sxemasi yig‘iladi va qozon barabanidagi bosimni ko‘tarish orqali ИПУ-1Бning ЭКМdan ishga tushishi tekshiriladi; Р=167 ати da klapanlar ko‘tarilishi va Р=157 ати da o‘tirishi. 3.10. ИПУ-1 А, 1Б klapanlari tekshirilgandan so‘ng qozon barabanidagi bosim 50ати gacha tushiriladi. 3.11. БРОУ-2ni sekin yopish orqali issiq oraliq qayta qizdirishdagi bosim 25 ати gacha oshiriladi, impuls liniyalari puflanadi. 3.12. Bosim 31,5 ати gacha ko‘tariladi, sozlash bajariladi va ИПУ-2ning yuk tizimidan ishga tushishi tekshiriladi. 3.13. ИПУ-2 elektr sxemasi yig‘iladi va ГПП hamda ХПП quvurlarida bosimni ko‘tarish orqali ИПУ-2ning ЭКМdan ishga tushishi tekshiriladi. 31,5 da ishlashi, 27 атм da o‘tirishi. 3.14. Qozon xavfsizlik klapanlari sinovidan va ijobiy natijalardan keyin barabandagi bosim 30 ати gacha pasaytiriladi va xodimlar ekspluatatsion yo‘riqnomaga muvofiq turbinani bo‘sh yurishga ishga tushirishga tayyorlanadi. 3.15. Turbina to‘liq aylanishlarga yetganda turbina bosh moy nasosining ishga yaroqliligi tekshiriladi, xavfsizlik avtomatlari moy bilan va razgon orqali sinovdan o‘tkaziladi, maxsus dastur bo‘yicha rostlash sozlanadi. 3.16. Sinov ijobiy natija berganda turbogenerator generator elektr sinovlarini bajarish uchun bo‘sh yurishda ishda qoladi.  ТМО BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. ISMOILOV КТЦ-1 BOSHLIG‘I M.M. MAJLIMOV КТЦ-2 BOSHLIG‘I M.M. MAXKAMOV ЦТКА BOSHLIG‘I R.K. BAYMATOV ELEKTR SEXI BOSHLIG‘I M.D. KENJIBAYEV METALLAR LABORATORIYASI BOSHLIG‘I L.U. ESHONQULOV ЦЦР BOSHLIG‘I T.A. VALIYEV "
+  }
+}

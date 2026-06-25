@@ -1,0 +1,711 @@
+{
+  "id": "oprob-zaschity-ot-razgona-2026",
+  "code": "",
+  "title": "опробование защиты турбогенератора от разгона",
+  "summary": "опробование защиты турбогенератора от разгона",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "опроб.защиты от разгона - 2026.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/oprob-zaschity-ot-razgona-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.37in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "опроб.защиты от разгона - 2026.doc",
+    "path": "documents/oprob-zaschity-ot-razgona-2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "опроб.защиты от разгона - 2026.pdf",
+    "path": "documents/oprob-zaschity-ot-razgona-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "опроб.защиты от разгона - 2026.docx",
+    "path": "documents/oprob-zaschity-ot-razgona-2026/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "3",
+      "title": "Руководство испытанием по данной программе осуществляет начальник КТЦ-1,2 или его заместитель.",
+      "level": 1,
+      "blockIds": [
+        "block-0053",
+        "block-0054",
+        "block-0055",
+        "block-0056",
+        "block-0057",
+        "block-0058",
+        "block-0059"
+      ],
+      "text": "3. Руководство испытанием по данной программе осуществляет начальник КТЦ-1,2 или его заместитель.\nЗам тех. директора по ТМО Б.Р. Исмоилов\nНачальник СНТБ Б.Б. Нурдинов\nНачальник КТЦ-1 У.Л. Мажлимов\nНачальник КТЦ-2 М.М. Махкамов\nНачальник ЦТКА Р. К. Байматов\nНачальник Эл.цеха М. Кенж и баев",
+      "keywords": [
+        "начальник",
+        "ктц-1"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<ol data-block-id=\"block-0001\"><li><h1 align=\"right\" class=\"western\" lang=\"ru-RU\" style=\"line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">АО\n « ТАШКЕНТСКАЯ ТЭС»</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"uz-Cyrl-UZ\">В.В.\nПак</span></font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ПРОГРАММА",
+      "html": "<p align=\"center\" data-block-id=\"block-0005\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><b>ПРОГРАММА</b></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "опробование защиты турбогенератора от разгона",
+      "html": "<p align=\"center\" data-block-id=\"block-0006\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"4\" style=\"font-size: 14pt\"><b>опробование\nзащиты  турбогенератора от разгона </b></font></font>\n</p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "после ремонта блоков",
+      "html": "<p align=\"center\" data-block-id=\"block-0007\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"4\" style=\"font-size: 14pt\"><b>после\nремонта блоков</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ.",
+      "html": "<ol data-block-id=\"block-0008\">\n<li value=\"1\"><p lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><b>ПОДГОТОВИТЕЛЬНЫЕ\n\tРАБОТЫ.</b></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1.1. Давление водорода в корпусе генератора должно быть номинальным (3.0 кгс/см 2 ).",
+      "html": "<p align=\"justify\" data-block-id=\"block-0009\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.1. Давление водорода\nв корпусе генератора должно быть\nноминальным (3.0 кгс/см<sup>2</sup>).</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "1.2. Должны быть включены в работу НГО, НВОС.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0010\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.2. Должны быть\nвключены в работу НГО, НВОС.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "1.3. Вывести ТГ на холостой ход.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0011\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.3. Вывести ТГ на\nхолостой ход.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "1.4. Установить синхронизатором частоту вращения ротора 3000 об/мин. Зафиксировать положение сервомоторов ВД и ПП на холостом ходу.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0012\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.4. Установить\nсинхронизатором частоту вращения ротора\n3000 об/мин. Зафиксировать положение\nсервомоторов ВД и ПП на холостом ходу.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "1.5. Проверить срабатывание защиты воздействием на кнопку ручного отключения ГАБ при номинальной частоте вращения роторов ТГ, т.е. при 3000 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0013\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.5. Проверить\nсрабатывание защиты воздействием на\nкнопку ручного отключения ГАБ при\nноминальной частоте вращения роторов\nТГ, т.е. при 3000 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "1.5.1. Визуально по указателям положения определить полное закрытие сервомоторов высокого и среднего давления. Сервомоторы должны закрываться энергично без заеданий на полный ход.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0014\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.5.1. Визуально по\nуказателям положения определить полное\nзакрытие сервомоторов высокого и\nсреднего давления. Сервомоторы должны\nзакрываться энергично без заеданий на\nполный ход.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "1.5.2. После отключения обороты турбины должны резко понижаться.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0015\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.5.2. После отключения\nобороты  турбины должны резко понижаться.\n</font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "ПРИМЕЧАНИЕ: При ненадежном закрытии (медленном, неполном) хотя бы одного из элементов парораспределения и если обороты турбины не уменьшаются, производство дальнейших операций запрещается. Должны быть приняты меры по устранению выявленных дефектов.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0016\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><i><b>ПРИМЕЧАНИЕ:</b></i>\nПри ненадежном закрытии (медленном,\nнеполном) хотя бы одного из элементов\nпарораспределения и если обороты турбины\nне уменьшаются, производство дальнейших\nопераций запрещается. Должны быть\nприняты меры по устранению выявленных\nдефектов.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "1.6. Поднять частоту вращения ротора до 2900 об/мин., вывести при помощи рычага ЗРБ 1-е кольцо и подать масло. Указатель рычага в положении “1”, рукоятка трехходового крана в положении ”1”.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0017\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.6. Поднять частоту\nвращения ротора до 2900 об/мин., вывести\nпри помощи рычага ЗРБ 1-е кольцо и подать\nмасло. Указатель рычага в положении\n“1”, рукоятка трехходового крана в\nположении ”1”.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "1.6.1. Плавно повышая частоту вращения ротора добиться срабатывания кольца и посадки стопорных и регулирующих клапанов – при 3000 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0018\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.6.1. Плавно повышая\nчастоту вращения ротора добиться\nсрабатывания кольца и посадки стопорных\nи регулирующих клапанов – при 3000 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "1.6.2. По тахометру фиксируется значение частоты вращения, при которой сработало испытуемое кольцо.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.6.2. По тахометру\nфиксируется значение частоты вращения,\nпри которой сработало испытуемое кольцо.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "Аналогично испытывается кольцо №2.",
+      "html": "<ol data-block-id=\"block-0020\">\n<ol start=\"6\">\n<ol start=\"3\">\n<li value=\"3\"><p align=\"justify\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">Аналогично\n\t\t\tиспытывается кольцо №2.</font></p></li>\n</ol>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "ПРИМЕЧАНИЕ: При испытании маслом не поднимать частоту вращения выше 3100 об/мин. Если при этой частоте вращения кольцо не сработало при подаче на него масла, скорректировать настройку по заводским данным. Переключение рычага ЗРБ на 2-е кольцо производить только после посадки испытуемого кольца (контроль производить по указателю посадкой его в исходное положение).",
+      "html": "<p align=\"justify\" data-block-id=\"block-0021\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><i><b>ПРИМЕЧАНИЕ:</b></i>\nПри испытании маслом не поднимать\nчастоту вращения выше 3100 об/мин. Если\nпри этой частоте вращения кольцо не\nсработало при подаче на него масла,\nскорректировать настройку по заводским\nданным. Переключение рычага ЗРБ на 2-е\nкольцо производить только после посадки\nиспытуемого кольца (контроль производить\nпо указателю посадкой его в исходное\nположение).</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "1.7. Установить рычаг ЗРБ в среднее рабочее положение “0” и восстановить номинальную частоту вращения ротора ТГ, т.е. 3000 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0022\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">1.7. Установить\nрычаг ЗРБ в среднее рабочее положение\n“0” и восстановить номинальную частоту\nвращения ротора ТГ, т.е. 3000 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "list",
+      "text": "ИСПЫТАНИЕ НА РАЗГОН",
+      "html": "<ol data-block-id=\"block-0023\">\n<li><p lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><b>ИСПЫТАНИЕ\n\tНА РАЗГОН</b></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "Руководителю испытания с записью в журнале произвести инструктаж персоналу, участвующему в проведении испытания и его расстановку:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0024\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">Руководителю\nиспытания с записью в журнале произвести\nинструктаж персоналу, участвующему в\nпроведении испытания и его расстановку:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "- руководитель испытания находится у механизма управления турбиной;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0025\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- руководитель\nиспытания находится у механизма\nуправления турбиной;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "- один человек у клапана аварийного срыва вакуума;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0026\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- один человек у\nклапана аварийного срыва вакуума;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "- по одному человеку у каждого блока клапана СД;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0027\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- по одному человеку\nу каждого блока клапана СД;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "- машинист блока у ключей управления байпасами ГПЗ, БРОУ-1,2, продувки п.п. и маслонасосами турбины;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0028\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- машинист блока\nу ключей управления байпасами ГПЗ,\nБРОУ-1,2, продувки п.п. и маслонасосами\nтурбины;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "- один человек на связи местного щита с БЩУ;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0029\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- один человек на\nсвязи местного щита с БЩУ;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "- дежурный персонал электроцеха и ЦТКА находится на БЩУ;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0030\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- дежурный персонал\nэлектроцеха и ЦТКА находится на БЩУ;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "- удаляется с местного щита управления турбиной персонал, не участвующий в испытаниях, вывешиваются плаката: “Опасная зона”, “Проход закрыт”.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0031\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- удаляется с\nместного щита управления турбиной\nперсонал, не участвующий в испытаниях,\nвывешиваются плаката: “Опасная зона”,\n“Проход закрыт”.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "При повышении частоты вращения роторов ТГ свыше 3360 об/мин., прекратить доступ пара в турбину воздействием на механизм управления турбиной на убавить, подать импульс на защитные устройства дистанционно или по месту для закрытия стопорных и регулирующих клапанов ТГ, сорвать вакуум в конденсаторе и закрыть запорную арматуру перед турбиной. Отключить котел, открыть продувку пароперегревателя и закрыть БРОУ-2, остановить пусковой насос и пустить резервный насос.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0032\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">При повышении\nчастоты вращения роторов ТГ свыше 3360\nоб/мин., прекратить доступ пара в турбину\nвоздействием на механизм управления\nтурбиной на убавить, подать импульс на\nзащитные устройства дистанционно или\nпо месту для закрытия стопорных и\nрегулирующих клапанов ТГ, сорвать вакуум\nв конденсаторе и закрыть запорную\nарматуру перед турбиной. Отключить\nкотел, открыть продувку пароперегревателя\nи закрыть БРОУ-2, остановить пусковой\nнасос и пустить резервный насос.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "ПРИМЕЧАНИЕ: Персонал должен действовать самостоятельно, без команды руководителя испытаний, а также в случаях при:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0033\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><i><b>ПРИМЕЧАНИЕ:</b></i>\nПерсонал должен действовать самостоятельно,\nбез команды руководителя испытаний, а\nтакже в случаях при:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "- возрастания вибрации турбоагрегата и трубопроводов;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0034\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- возрастания\nвибрации турбоагрегата и трубопроводов;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "- появления посторонних шумов в турбине и генераторе;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0035\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- появления\nпосторонних шумов в турбине и генераторе;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "- нарушения плотности маслопроводов;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0036\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- нарушения плотности\nмаслопроводов;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "- воспламенения масла на турбоагрегате;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0037\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- воспламенения\nмасла на турбоагрегате;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "- при повышении частоты вращения более 3360 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0038\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- при повышении\nчастоты вращения более 3360 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "2.1. Установить следующие параметры:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0039\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.1. Установить\nследующие параметры:</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "paragraph",
+      "text": "- давление острого пара 25…30 кгс/см 2 ;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0040\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- давление острого\nпара  25…30 кгс/см<sup>2</sup>;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "- температуру острого пара на 100 0 С выше температуры I -го пояса металла ЦВД ТГ;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0041\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- температуру\nострого пара на 100 <sup>0</sup>С выше температуры\n<span lang=\"en-US\">I</span>-го пояса металла ЦВД ТГ;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "- температуру пара ГПП перед турбиной на 60 - 70 0 С выше температуры III -го пояса металла ЦВД ТГ;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0042\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- температуру пара\nГПП перед турбиной на 60 - 70 <sup>0</sup>С выше\nтемпературы <span lang=\"en-US\">III</span>-го пояса\nметалла ЦВД ТГ;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "- вакуум в конденсаторе максимально возможный, поддающийся регулировке;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0043\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- вакуум в конденсаторе\nмаксимально возможный, поддающийся\nрегулировке;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "paragraph",
+      "text": "- в работе БРОУ-1 открыт на 50 %, БРОУ-2 А,Б открыт на 100 %;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0044\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- в работе БРОУ-1\nоткрыт на 50 %, БРОУ-2 А,Б открыт на 100 %;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0045",
+      "type": "paragraph",
+      "text": "- частота вращения роторов ТГ 3000 об/мин;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0045\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- частота вращения\nроторов ТГ  3000 об/мин;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0046",
+      "type": "paragraph",
+      "text": "- рычаг ЗРБ находится в среднем положении «0»;",
+      "html": "<p align=\"justify\" data-block-id=\"block-0046\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">- рычаг ЗРБ находится\nв среднем положении «0»;</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0047",
+      "type": "paragraph",
+      "text": "2.2. Воздействием на механизм управления турбиной, повысить частоту вращения до 3200 об/мин. Зафиксировать положение регулирующих клапанов турбины и давление пара перед регулирующими клапанами ВД ТГ установить 10-15 кгс/см 2 .",
+      "html": "<p align=\"justify\" data-block-id=\"block-0047\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.2. Воздействием\nна механизм управления турбиной, повысить\nчастоту вращения до 3200 об/мин. Зафиксировать\nположение регулирующих клапанов турбины\nи давление пара перед регулирующими\nклапанами ВД ТГ установить 10-15 кгс/см<sup>2</sup>.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0048",
+      "type": "paragraph",
+      "text": "2.3. Плавно повышая частоту вращения, сначала механизмом управления турбиной до 3200 об/мин., а затем разгонным устройством до срабатывания одного из двух колец, фиксируется по тахометру частоты вращения, при которой сработало кольцо, обороты не более 3360 об/мин. обратной посадки кольца.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0048\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.3. Плавно повышая\nчастоту вращения, сначала механизмом\nуправления турбиной до 3200 об/мин., а\nзатем разгонным устройством до\nсрабатывания одного из двух колец,\nфиксируется по тахометру частоты\nвращения, при которой сработало кольцо,\nобороты не более 3360 об/мин.  обратной\nпосадки кольца.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0049",
+      "type": "paragraph",
+      "text": "2.4. Частоту вращения поднять до 3000 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0049\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.4. Частоту вращения\nподнять до 3000 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0050",
+      "type": "paragraph",
+      "text": "2.5. Рычаг ЗРБ выводится из-под проверенного кольца и повторяются операции по п.2.3 на другом кольце.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0050\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.5. Рычаг ЗРБ\nвыводится из-под проверенного кольца\nи повторяются операции по п.2.3 на другом\nкольце.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0051",
+      "type": "paragraph",
+      "text": "2.6. Настроить кольца регулятора безопасности на срабатывание при 3300-3360 об/мин.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0051\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.6. Настроить кольца\nрегулятора безопасности на срабатывание\nпри 3300-3360 об/мин.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0052",
+      "type": "paragraph",
+      "text": "2.7. Результаты настройки регулятора безопасности должны быть зафиксированы в оперативном журнале начальника смены КТЦ-1.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0052\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">2.7. Результаты\nнастройки регулятора безопасности\nдолжны быть зафиксированы в оперативном\nжурнале начальника смены КТЦ-1.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0053",
+      "type": "paragraph",
+      "text": "3. Руководство испытанием по данной программе осуществляет начальник КТЦ-1,2 или его заместитель.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0053\" data-section-level=\"1\" id=\"section-001\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\">3. Руководство\nиспытанием по данной программе\nосуществляет начальник КТЦ-1,2 или его\nзаместитель.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0054",
+      "type": "paragraph",
+      "text": "Зам тех. директора по ТМО Б.Р. Исмоилов",
+      "html": "<p data-block-id=\"block-0054\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\"><font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Зам\nтех. директора по ТМО                               \n                                        Б.Р. Исмоилов</font></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0055",
+      "type": "paragraph",
+      "text": "Начальник СНТБ Б.Б. Нурдинов",
+      "html": "<p class=\"western\" data-block-id=\"block-0055\" lang=\"ru-RU\" style=\"line-height: 250%\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n СНТБ                                 \t\t\t\t\t\tБ.Б. Нурдинов</font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0056",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-1 У.Л. Мажлимов",
+      "html": "<p class=\"western\" data-block-id=\"block-0056\" lang=\"ru-RU\" style=\"line-height: 200%\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\nКТЦ-1                                                             \n             \t\tУ.Л. Мажлимов</font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0057",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-2 М.М. Махкамов",
+      "html": "<p class=\"western\" data-block-id=\"block-0057\" lang=\"ru-RU\" style=\"line-height: 200%\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\nКТЦ-2                                                             \n             \t\tМ.М. Махкамов</font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0058",
+      "type": "paragraph",
+      "text": "Начальник ЦТКА Р. К. Байматов",
+      "html": "<p class=\"western\" data-block-id=\"block-0058\" lang=\"ru-RU\" style=\"line-height: 200%\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\nЦТКА                                                             \n             \t\tР. К. Байматов</font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0059",
+      "type": "paragraph",
+      "text": "Начальник Эл.цеха М. Кенж и баев",
+      "html": "<p class=\"western\" data-block-id=\"block-0059\" lang=\"ru-RU\" style=\"line-height: 200%\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\nЭл.цеха                                                        \n                \t\tМ. Кенж</font><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"uz-Cyrl-UZ\">и</span></font><font size=\"3\" style=\"font-size: 13pt\">баев</font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "вращения",
+    "мин",
+    "частоту",
+    "турбиной",
+    "кольцо",
+    "управления",
+    "начальник",
+    "зрб",
+    "кольца",
+    "пара",
+    "установить",
+    "ротора",
+    "положение",
+    "турбины",
+    "частоты",
+    "давление",
+    "кгс",
+    "воздействием",
+    "роторов",
+    "обороты",
+    "примечание",
+    "рычага",
+    "положении",
+    "посадки",
+    "регулирующих",
+    "клапанов",
+    "сработало",
+    "выше",
+    "рычаг",
+    "испытания",
+    "находится",
+    "персонал",
+    "ктц-1",
+    "защиты",
+    "вывести"
+  ],
+  "statistics": {
+    "blocks": 59,
+    "sections": 1,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 2
+  },
+  "integrity": {
+    "originalSha256": "f8af77fcb4e6b2e686fdfd44fcd2778339fec906a78589e6bbfebc9d8e637e7d",
+    "sourceDocxStats": {
+      "paragraphs": 66,
+      "tables": 0,
+      "media": 0,
+      "textChars": 5178
+    },
+    "htmlTextChars": 5190,
+    "textLengthRatio": 1.002,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/oprob-zaschity-ot-razgona-2026/"
+}

@@ -1,0 +1,483 @@
+{
+  "status": "review_required",
+  "title": "10-БЛОКДА КИМЁВИЙ РЕЖИМНИ ТИКЛАШ ИШЛАРИНИ БАЖАРИШ ДАСТУРИ",
+  "summary": "10-блокда кимёвий режимни тиклаш бўйича арматура, қозон барабани, фосфат ва гидразин линияларини текшириш дастури.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Блокни ўчириш, захирадан чиқариш.",
+      "level": 1,
+      "blockIds": [
+        "block-0007"
+      ],
+      "text": "1. Блокни ўчириш, захирадан чиқариш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "2",
+      "title": "РНПр, РПП ва қозон боғламаси арматурасини тафтиш қилиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0008"
+      ],
+      "text": "2 . РНПр, РПП ва қозон боғламаси арматурасини тафтиш қилиш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "3",
+      "title": "Қозон РНПсини ички кўрикдан ўтказиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0009"
+      ],
+      "text": "3. Қозон РНПсини ички кўрикдан ўтказиш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "4",
+      "title": "РПП ва РНПрдан сиркуляцион сув қувурларига борувчи Ду-100 линиясини тафтиш қилиш, аниқланган нуқсонларни бартараф этиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0010"
+      ],
+      "text": "4. РПП ва РНПрдан сиркуляцион сув қувурларига борувчи Ду-100 линиясини тафтиш қилиш, аниқланган нуқсонларни бартараф этиш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "5",
+      "title": "Қозон РНП қалқовичли ростлагичини тафтиш қилиш, кўрикдан ўтказиш ва таъмирлаш.",
+      "level": 1,
+      "blockIds": [
+        "block-0011"
+      ],
+      "text": "5. Қозон РНП қалқовичли ростлагичини тафтиш қилиш, кўрикдан ўтказиш ва таъмирлаш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "6",
+      "title": "Қозон барабанининг тузли бўлмаларини тафтиш қилиш ва аниқланган нуқсонларни бартараф этиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0012"
+      ],
+      "text": "6. Қозон барабанининг тузли бўлмаларини тафтиш қилиш ва аниқланган нуқсонларни бартараф этиш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-007",
+      "number": "7",
+      "title": "Қозон барабанини ички кўрикдан ўтказиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0013"
+      ],
+      "text": "7 . Қозон барабанини ички кўрикдан ўтказиш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-008",
+      "number": "8",
+      "title": "Қозон барабанига фосфат узатиш линиясини тафтиш қилиш ва чўкиндилардан тозалаш.",
+      "level": 1,
+      "blockIds": [
+        "block-0014"
+      ],
+      "text": "8. Қозон барабанига фосфат узатиш линиясини тафтиш қилиш ва чўкиндилардан тозалаш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-009",
+      "number": "9",
+      "title": "Қозоннинг фосфат бакини тозалаш.",
+      "level": 1,
+      "blockIds": [
+        "block-0015"
+      ],
+      "text": "9. Қозоннинг фосфат бакини тозалаш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-010",
+      "number": "10",
+      "title": "НДФ-А,Бни тафтиш қилиш ва таъмирлаш.",
+      "level": 1,
+      "blockIds": [
+        "block-0016"
+      ],
+      "text": "10. НДФ-А,Бни тафтиш қилиш ва таъмирлаш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-011",
+      "number": "11",
+      "title": "Турбина 120 0 С гача совигандан сўнг, ТГ конденсатори қувурлар тизимидаги зич бўлмаган жойларни топиш ва бартараф этиш учун конденсаторни 6,5 белгисигача тўлдириш.",
+      "level": 1,
+      "blockIds": [
+        "block-0017"
+      ],
+      "text": "11. Турбина 120 0 С гача совигандан сўнг, ТГ конденсатори қувурлар тизимидаги зич бўлмаган жойларни топиш ва бартараф этиш учун конденсаторни 6,5 белгисигача тўлдириш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-012",
+      "number": "12",
+      "title": "№10 қозоннинг туз бўйича тенглаштириш ва туз карралиги линиялари ўтказувчанлигини текшириш.",
+      "level": 1,
+      "blockIds": [
+        "block-0018"
+      ],
+      "text": "12. №10 қозоннинг туз бўйича тенглаштириш ва туз карралиги линиялари ўтказувчанлигини текшириш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-013",
+      "number": "13",
+      "title": "Қозоннинг чап ва ўнг ён экранлари дренажларини тафтиш қилиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0019"
+      ],
+      "text": "13. Қозоннинг чап ва ўнг ён экранлари дренажларини тафтиш қилиш.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-014",
+      "number": "14",
+      "title": "ПЭН-А,Б сўриш томонига гидразин узатишни тафтиш қилиш.",
+      "level": 1,
+      "blockIds": [
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026"
+      ],
+      "text": "14. ПЭН-А,Б сўриш томонига гидразин узатишни тафтиш қилиш.\nТАъМИРЛАШ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ ИНОЯТОВ М.М.\nИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ ИСМОИЛОВ Б.Р.\nКТЦ-1 БОШЛИҒИ МАЖЛИМОВ У.Л.\nКТЦ-2 БОШЛИҒИ МАХКАМОВ М.М.\nКИМЁ СЕХИ БОШЛИҒИ ХАМРАҚУЛОВА Л.П.\nЦЦР БОШЛИҒИ ИСАБАЕВ Б.Э.",
+      "keywords": [
+        "начальник",
+        "зам",
+        "технического",
+        "директора"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "ТАСДИҚЛАЙМАН",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИК ДИРЕКТОР",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АЖ «ТОШКЕНТ ИЕС»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "Д А С Т У Р",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Блокда кимёвий режимни тиклаш ишларини бажариш.",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "1. Блокни ўчириш, захирадан чиқариш.",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "2 . РНПр, РПП ва қозон боғламаси арматурасини тафтиш қилиш.",
+      "sectionIds": [
+        "section-002"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "3. Қозон РНПсини ички кўрикдан ўтказиш.",
+      "sectionIds": [
+        "section-003"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "4. РПП ва РНПрдан сиркуляцион сув қувурларига борувчи Ду-100 линиясини тафтиш қилиш, аниқланган нуқсонларни бартараф этиш.",
+      "sectionIds": [
+        "section-004"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "5. Қозон РНП қалқовичли ростлагичини тафтиш қилиш, кўрикдан ўтказиш ва таъмирлаш.",
+      "sectionIds": [
+        "section-005"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "6. Қозон барабанининг тузли бўлмаларини тафтиш қилиш ва аниқланган нуқсонларни бартараф этиш.",
+      "sectionIds": [
+        "section-006"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "7 . Қозон барабанини ички кўрикдан ўтказиш.",
+      "sectionIds": [
+        "section-007"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "8. Қозон барабанига фосфат узатиш линиясини тафтиш қилиш ва чўкиндилардан тозалаш.",
+      "sectionIds": [
+        "section-008"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "9. Қозоннинг фосфат бакини тозалаш.",
+      "sectionIds": [
+        "section-009"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "10. НДФ-А,Бни тафтиш қилиш ва таъмирлаш.",
+      "sectionIds": [
+        "section-010"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "11. Турбина 120 0 С гача совигандан сўнг, ТГ конденсатори қувурлар тизимидаги зич бўлмаган жойларни топиш ва бартараф этиш учун конденсаторни 6,5 белгисигача тўлдириш.",
+      "sectionIds": [
+        "section-011"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "12. №10 қозоннинг туз бўйича тенглаштириш ва туз карралиги линиялари ўтказувчанлигини текшириш.",
+      "sectionIds": [
+        "section-012"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "13. Қозоннинг чап ва ўнг ён экранлари дренажларини тафтиш қилиш.",
+      "sectionIds": [
+        "section-013"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "14. ПЭН-А,Б сўриш томонига гидразин узатишни тафтиш қилиш.",
+      "sectionIds": [
+        "section-014"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "ТАъМИРЛАШ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ ИНОЯТОВ М.М.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "ИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ ИСМОИЛОВ Б.Р.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "КТЦ-1 БОШЛИҒИ МАЖЛИМОВ У.Л.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "КТЦ-2 БОШЛИҒИ МАХКАМОВ М.М.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "КИМЁ СЕХИ БОШЛИҒИ ХАМРАҚУЛОВА Л.П.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "ЦЦР БОШЛИҒИ ИСАБАЕВ Б.Э.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/translations/uzCyrl/document.json",
+    "assetBasePath": "documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "10-блок кимёвий режим",
+      "қозон барабани",
+      "фосфат линияси",
+      "гидразин узатиш",
+      "РНП кўриги"
+    ],
+    "aliases": [
+      "кимёвий режим 10-блок",
+      "қозон сув-кимё режими",
+      "фосфат баки"
+    ],
+    "searchText": "10-БЛОКДА КИМЁВИЙ РЕЖИМНИ ТИКЛАШ ИШЛАРИНИ БАЖАРИШ ДАСТУРИ 10-блокда кимёвий режимни тиклаш бўйича арматура, қозон барабани, фосфат ва гидразин линияларини текшириш дастури. ТАСДИҚЛАЙМАН ТЕХНИК ДИРЕКТОР АЖ «ТОШКЕНТ ИЕС» В.В. Пак Д А С Т У Р Блокда кимёвий режимни тиклаш ишларини бажариш. 1. Блокни ўчириш, захирадан чиқариш. 2 . РНПр, РПП ва қозон боғламаси арматурасини тафтиш қилиш. 3. Қозон РНПсини ички кўрикдан ўтказиш. 4. РПП ва РНПрдан сиркуляцион сув қувурларига борувчи Ду-100 линиясини тафтиш қилиш, аниқланган нуқсонларни бартараф этиш. 5. Қозон РНП қалқовичли ростлагичини тафтиш қилиш, кўрикдан ўтказиш ва таъмирлаш. 6. Қозон барабанининг тузли бўлмаларини тафтиш қилиш ва аниқланган нуқсонларни бартараф этиш. 7 . Қозон барабанини ички кўрикдан ўтказиш. 8. Қозон барабанига фосфат узатиш линиясини тафтиш қилиш ва чўкиндилардан тозалаш. 9. Қозоннинг фосфат бакини тозалаш. 10. НДФ-А,Бни тафтиш қилиш ва таъмирлаш. 11. Турбина 120 0 С гача совигандан сўнг, ТГ конденсатори қувурлар тизимидаги зич бўлмаган жойларни топиш ва бартараф этиш учун конденсаторни 6,5 белгисигача тўлдириш. 12. №10 қозоннинг туз бўйича тенглаштириш ва туз карралиги линиялари ўтказувчанлигини текшириш. 13. Қозоннинг чап ва ўнг ён экранлари дренажларини тафтиш қилиш. 14. ПЭН-А,Б сўриш томонига гидразин узатишни тафтиш қилиш. ТАъМИРЛАШ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ ИНОЯТОВ М.М. ИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ ИСМОИЛОВ Б.Р. КТЦ-1 БОШЛИҒИ МАЖЛИМОВ У.Л. КТЦ-2 БОШЛИҒИ МАХКАМОВ М.М. КИМЁ СЕХИ БОШЛИҒИ ХАМРАҚУЛОВА Л.П. ЦЦР БОШЛИҒИ ИСАБАЕВ Б.Э."
+  }
+}

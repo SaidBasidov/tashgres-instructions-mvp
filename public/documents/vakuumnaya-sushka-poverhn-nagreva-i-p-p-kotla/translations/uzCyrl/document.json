@@ -1,0 +1,362 @@
+{
+  "id": "vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla",
+  "code": "",
+  "title": "ҚОЗОН ҚИЗДИРИШ ЮЗАЛАРИ ВА ОРАЛИҚ БУҒ ЎТА ҚИЗДИРГИЧИНИ ВАКУУМЛИ ҚУРИТИШ УСУЛИДА КОНСЕРВАЦИЯ ҚИЛИШ ДАСТУРИ",
+  "summary": "Блок уч суткадан ортиқ тўхтатилганда қозон қиздириш юзалари ва оралиқ буғ ўта қиздиргичини вакуумли қуритиш орқали консервация қилиш тартиби.",
+  "sourceLanguage": "ru",
+  "language": "uzCyrl",
+  "sourceFile": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.75in; margin-right: 0.39in; margin-top: 0.38in; margin-bottom: 0.25in }\n\t\tp { margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла.doc",
+    "path": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла.pdf",
+    "path": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "Вакуумная_сушка_поверхн_нагрева_и_п_п_котла.docx",
+    "path": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "60",
+      "title": "kP а (0,6 kgf /с m 2 ).",
+      "level": 1,
+      "blockIds": [
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022"
+      ],
+      "text": "60 kP а (0,6 kgf /с m 2 ).\nҚолган сувни буғлатиш учун БРОУ-1,2ни 20 - 30 min га улаш. 30 мин. ўтгач БРОУ-1ни ёпиш. БРОУ-2 оралиқ буғ ўта қиздиргичида қолган буғни конденсаторга сўриб олиш учун ишда қолади. Конденсаторда камида 60 k Pа (0,6 kgf /с m 2 ) вакуум сақланади. Оралиқ буғ ўта қиздиргичини қуритиш давомийлиги 15 - 20 min . Вакуумли қуритиш тугагач БРОУ-2ни ёпиш. ТГ конденсаторидаги вакуумни узиш, РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ беришни ёпиш. ЦН ва КНни ўчириш.\nИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ Б.Р. Исмоилов\nСНТБ БОШЛИҒИ Б.Б. Нурдинов\nМЕҲНАТНИ МУҲОФАЗА ҚИЛИШ ВА ХАВФСИЗЛИК ТЕХНИКАСИ БЎЙИЧА КАТТА ИНСПЕКТОР Ф.М. Мирзахидова\nКТЦ-1 БОШЛИҒИ В.Б. У.Л. Мажлимов\nКТЦ-2 БОШЛИҒИ М.М. Махкамов\nЭЛЕКТР УСКУНАЛАРИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ А.А. Махмудхўжаев\nКИМЁ СЕХИ БОШЛИҒИ Л.П. Хамрақулова",
+      "keywords": [
+        "закрыть",
+        "начальник",
+        "kgf",
+        "броу-1",
+        "min",
+        "броу-2",
+        "конденсаторе",
+        "вакуум",
+        "сушки",
+        "зам",
+        "тех",
+        "директора"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "ТАСДИҚЛАЙМАН",
+      "html": "<div data-block-id=\"block-0001\"><p align=\"right\" lang=\"uz-Cyrl\">ТАСДИҚЛАЙМАН</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Техник директор",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Cyrl\">Техник директор</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АЖ «ТОШКЕНТ ИЕС»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Cyrl\">АЖ «ТОШКЕНТ ИЕС»</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Cyrl\">В.В. Пак</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ДАСТУР",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"center\" lang=\"uz-Cyrl\">ДАСТУР</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "қозон уч суткадан ортиқ муддатга тўхтатилганда қиздириш юзалари ва оралиқ буғ ўта қиздиргичини вакуумли қуритиш усулида консервация қилиш",
+      "html": "<div data-block-id=\"block-0006\"><p align=\"center\" lang=\"uz-Cyrl\">қозон уч суткадан ортиқ муддатга тўхтатилганда қиздириш юзалари ва оралиқ буғ ўта қиздиргичини вакуумли қуритиш усулида консервация қилиш</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "ёки №1-12 блокларни таъмирлашга чиқариш.",
+      "html": "<div data-block-id=\"block-0007\"><p align=\"center\" lang=\"uz-Cyrl\">ёки №1-12 блокларни таъмирлашга чиқариш.</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "Дастур мақсади: Консервация блоклар захирага ёки таъмирлашга тўхтатилганда ҳамда КТЦ-1 ходимлари қозон барабанида ортиқча босимни сақлаб тура олмаганда тўхташ коррозиясининг олдини олиш учун бажарилади.",
+      "html": "<ol data-block-id=\"block-0008\"><li><p align=\"justify\" lang=\"uz-Cyrl\"><b>Дастур мақсади:</b> Консервация блоклар захирага ёки таъмирлашга тўхтатилганда ҳамда КТЦ-1 ходимлари қозон барабанида ортиқча босимни сақлаб тура олмаганда тўхташ коррозиясининг олдини олиш учун бажарилади.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "Оралиқ буғ ўта қиздиргичини консервация қилишнинг оддий ва етарлича ишончли усули вакуумли қуритиш усулидир.",
+      "html": "<div data-block-id=\"block-0009\"><p align=\"justify\" lang=\"uz-Cyrl\">Оралиқ буғ ўта қиздиргичини консервация қилишнинг оддий ва етарлича ишончли усули вакуумли қуритиш усулидир.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "Тайёргарлик тадбирлари. Қозон барабанидаги босимни нолгача тушириш. Қозонни тўлиқ бўшатиш. Операциялар кетма-кетлиги. КН ва ЦНни ишга тушириш. РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ бериш, ТГ конденсаторидаги вакуумни камида",
+      "html": "<ol data-block-id=\"block-0010\" start=\"2\"><li><p align=\"justify\" lang=\"uz-Cyrl\"><b>Тайёргарлик тадбирлари.</b></p><ol><li><p align=\"justify\" lang=\"uz-Cyrl\">Қозон барабанидаги босимни нолгача тушириш.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">Қозонни тўлиқ бўшатиш.</p></li></ol></li><li><p align=\"justify\" lang=\"uz-Cyrl\"><b>Операциялар кетма-кетлиги.</b></p><ol><li><p align=\"justify\" lang=\"uz-Cyrl\">КН ва ЦНни ишга тушириш.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ бериш, ТГ конденсаторидаги вакуумни камида</p></li></ol></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "60 kP а (0,6 kgf /с m 2 ).",
+      "html": "<div data-block-id=\"block-0011\"><p align=\"justify\" lang=\"uz-Cyrl\">60 kP а (0,6 kgf /с m 2 ).</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Қолган сувни буғлатиш учун БРОУ-1,2ни 20 - 30 min га улаш. 30 мин. ўтгач БРОУ-1ни ёпиш. БРОУ-2 оралиқ буғ ўта қиздиргичида қолган буғни конденсаторга сўриб олиш учун ишда қолади. Конденсаторда камида 60 k Pа (0,6 kgf /с m 2 ) вакуум сақланади. Оралиқ буғ ўта қиздиргичини қуритиш давомийлиги 15 - 20 min . Вакуумли қуритиш тугагач БРОУ-2ни ёпиш. ТГ конденсаторидаги вакуумни узиш, РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ беришни ёпиш. ЦН ва КНни ўчириш.",
+      "html": "<ol data-block-id=\"block-0012\"><ol start=\"3\"><li><p align=\"justify\" lang=\"uz-Cyrl\">Қолган сувни буғлатиш учун БРОУ-1,2ни 20 - 30 min га улаш.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">30 мин. ўтгач БРОУ-1ни ёпиш.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">БРОУ-2 оралиқ буғ ўта қиздиргичида қолган буғни конденсаторга сўриб олиш учун ишда қолади. Конденсаторда камида 60 k Pа (0,6 кгф /с м<sup>2</sup>) вакуум сақланади.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">Оралиқ буғ ўта қиздиргичини қуритиш давомийлиги 15 - 20 min.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">Вакуумли қуритиш тугагач БРОУ-2ни ёпиш.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">ТГ конденсаторидаги вакуумни узиш, РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ беришни ёпиш.</p></li><li><p align=\"justify\" lang=\"uz-Cyrl\">ЦН ва КНни ўчириш.</p></li></ol></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "ИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ Б.Р. Исмоилов",
+      "html": "<div data-block-id=\"block-0013\"><p align=\"justify\" lang=\"uz-Cyrl\">ИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ Б.Р. Исмоилов</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "СНТБ БОШЛИҒИ Б.Б. Нурдинов",
+      "html": "<div data-block-id=\"block-0014\"><p align=\"inherit\" lang=\"uz-Cyrl\">СНТБ БОШЛИҒИ Б.Б. Нурдинов</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "МЕҲНАТНИ МУҲОФАЗА ҚИЛИШ ВА ХАВФСИЗЛИК ТЕХНИКАСИ БЎЙИЧА КАТТА ИНСПЕКТОР Ф.М. Мирзахидова",
+      "html": "<div data-block-id=\"block-0015\"><p align=\"inherit\" lang=\"uz-Cyrl\">МЕҲНАТНИ МУҲОФАЗА ҚИЛИШ ВА ХАВФСИЗЛИК ТЕХНИКАСИ БЎЙИЧА КАТТА ИНСПЕКТОР Ф.М. Мирзахидова</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "КТЦ-1 БОШЛИҒИ В.Б. У.Л. Мажлимов",
+      "html": "<div data-block-id=\"block-0016\"><p align=\"inherit\" lang=\"uz-Cyrl\">КТЦ-1 БОШЛИҒИ В.Б. У.Л. Мажлимов</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "КТЦ-2 БОШЛИҒИ М.М. Махкамов",
+      "html": "<div data-block-id=\"block-0017\"><p align=\"inherit\" lang=\"uz-Cyrl\">КТЦ-2 БОШЛИҒИ М.М. Махкамов</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "ЭЛЕКТР УСКУНАЛАРИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ А.А. Махмудхўжаев",
+      "html": "<div data-block-id=\"block-0018\"><p align=\"justify\" lang=\"uz-Cyrl\">ЭЛЕКТР УСКУНАЛАРИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ А.А. Махмудхўжаев</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "КИМЁ СЕХИ БОШЛИҒИ Л.П. Хамрақулова",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"inherit\" lang=\"uz-Cyrl\">КИМЁ СЕХИ БОШЛИҒИ Л.П. Хамрақулова</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "image",
+      "text": "",
+      "html": "<p class=\"western\" data-block-id=\"block-0020\" lang=\"ru-RU\" style=\"line-height: 200%\"><img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%88%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD_%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B2%D0%B0_%D0%B8_%D0%BF_%D0%BF_%D0%BA%D0%BE%D1%82%D0%BB%D0%B0_html_a8e5c6ea.png\" height=\"1011\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-001.png\" width=\"684\"/>\n<img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%88%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD_%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B2%D0%B0_%D0%B8_%D0%BF_%D0%BF_%D0%BA%D0%BE%D1%82%D0%BB%D0%B0_html_d5489cd2.png\" height=\"1062\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-002.png\" width=\"683\"/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0021\" lang=\"ru-RU\"><img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%88%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD_%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B2%D0%B0_%D0%B8_%D0%BF_%D0%BF_%D0%BA%D0%BE%D1%82%D0%BB%D0%B0_html_610840ff.png\" height=\"1006\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-003.png\" width=\"683\"/>\n<img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%88%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD_%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B2%D0%B0_%D0%B8_%D0%BF_%D0%BF_%D0%BA%D0%BE%D1%82%D0%BB%D0%B0_html_662b49ed.png\" height=\"1017\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-004.png\" width=\"684\"/>\n</p>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0022\" lang=\"ru-RU\"><img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%88%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD_%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B2%D0%B0_%D0%B8_%D0%BF_%D0%BF_%D0%BA%D0%BE%D1%82%D0%BB%D0%B0_html_e699ffd7.png\" height=\"960\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-005.png\" width=\"691\"/>\n</p>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "сушки",
+    "вакуумной",
+    "промежуточного",
+    "пароперегревателя",
+    "котла",
+    "вакуум",
+    "конденсаторе",
+    "закрыть",
+    "начальник",
+    "консервации",
+    "методом",
+    "останове",
+    "блоков",
+    "ремонт",
+    "давление",
+    "барабане",
+    "ктц-1",
+    "пар",
+    "упл",
+    "менее",
+    "kgf",
+    "броу-1",
+    "min",
+    "броу-2",
+    "зам",
+    "тех",
+    "директора"
+  ],
+  "statistics": {
+    "blocks": 22,
+    "sections": 1,
+    "tables": 0,
+    "images": 5,
+    "pdfPages": 8
+  },
+  "integrity": {
+    "originalSha256": "0bf28715a4edc494272ccf5ecfd5bdc61e0a166c23adf039c86188c58fbcec87",
+    "sourceDocxStats": {
+      "paragraphs": 48,
+      "tables": 0,
+      "media": 5,
+      "textChars": 1607
+    },
+    "htmlTextChars": 1618,
+    "textLengthRatio": 1.007,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/",
+  "searchMetadata": {
+    "keywords": [
+      "вакуумли қуритиш",
+      "қозонни консервация қилиш",
+      "оралиқ буғ ўта қиздиргичи",
+      "тўхташ коррозияси"
+    ],
+    "aliases": [
+      "қозонни қуритиш",
+      "вакуум билан консервация",
+      "қозонни захирага чиқариш"
+    ],
+    "searchText": "ҚОЗОН ҚИЗДИРИШ ЮЗАЛАРИ ВА ОРАЛИҚ БУҒ ЎТА ҚИЗДИРГИЧИНИ ВАКУУМЛИ ҚУРИТИШ УСУЛИДА КОНСЕРВАЦИЯ ҚИЛИШ ДАСТУРИ Блок уч суткадан ортиқ тўхтатилганда қозон қиздириш юзалари ва оралиқ буғ ўта қиздиргичини вакуумли қуритиш орқали консервация қилиш тартиби. ТАСДИҚЛАЙМАН Техник директор АЖ «ТОШКЕНТ ИЕС» В.В. Пак ДАСТУР қозон уч суткадан ортиқ муддатга тўхтатилганда қиздириш юзалари ва оралиқ буғ ўта қиздиргичини вакуумли қуритиш усулида консервация қилиш ёки №1-12 блокларни таъмирлашга чиқариш. Дастур мақсади: Консервация блоклар захирага ёки таъмирлашга тўхтатилганда ҳамда КТЦ-1 ходимлари қозон барабанида ортиқча босимни сақлаб тура олмаганда тўхташ коррозиясининг олдини олиш учун бажарилади. Оралиқ буғ ўта қиздиргичини консервация қилишнинг оддий ва етарлича ишончли усули вакуумли қуритиш усулидир. Тайёргарлик тадбирлари. Қозон барабанидаги босимни нолгача тушириш. Қозонни тўлиқ бўшатиш. Операциялар кетма-кетлиги. КН ва ЦНни ишга тушириш. РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ бериш, ТГ конденсаторидаги вакуумни камида 60 kP а (0,6 kgf /с m 2 ). Қолган сувни буғлатиш учун БРОУ-1,2ни 20 - 30 min га улаш. 30 мин. ўтгач БРОУ-1ни ёпиш. БРОУ-2 оралиқ буғ ўта қиздиргичида қолган буғни конденсаторга сўриб олиш учун ишда қолади. Конденсаторда камида 60 k Pа (0,6 kgf /с m 2 ) вакуум сақланади. Оралиқ буғ ўта қиздиргичини қуритиш давомийлиги 15 - 20 min . Вакуумли қуритиш тугагач БРОУ-2ни ёпиш. ТГ конденсаторидаги вакуумни узиш, РОУ с.н.дан О.Э. ва ТГ зичламаларига буғ беришни ёпиш. ЦН ва КНни ўчириш. ИССИҚЛИК-МЕХАНИКА ҚИСМИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ Б.Р. Исмоилов СНТБ БОШЛИҒИ Б.Б. Нурдинов МЕҲНАТНИ МУҲОФАЗА ҚИЛИШ ВА ХАВФСИЗЛИК ТЕХНИКАСИ БЎЙИЧА КАТТА ИНСПЕКТОР Ф.М. Мирзахидова КТЦ-1 БОШЛИҒИ В.Б. У.Л. Мажлимов КТЦ-2 БОШЛИҒИ М.М. Махкамов ЭЛЕКТР УСКУНАЛАРИ БЎЙИЧА ТЕХНИК ДИРЕКТОР ЎРИНБОСАРИ А.А. Махмудхўжаев КИМЁ СЕХИ БОШЛИҒИ Л.П. Хамрақулова   "
+  }
+}

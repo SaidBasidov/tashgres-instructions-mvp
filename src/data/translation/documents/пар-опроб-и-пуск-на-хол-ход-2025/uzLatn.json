@@ -1,0 +1,330 @@
+{
+  "status": "review_required",
+  "title": "QOZONNI BUG‘ BILAN SINAB KO‘RISH VA KLAPANLARNI SOZLASH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "2-blok o‘rta ta’miridan keyin qozonni bug‘ bilan sinash, klapanlarni sozlash va ishga tayyorlash tartibi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Для проведения qozonni bug‘ bilan sinab ko‘rish zarur произвести поузловую приемку оборудования и опробования его в работе.",
+      "level": 1,
+      "blockIds": [
+        "block-0009",
+        "block-0010",
+        "block-0011",
+        "block-0012"
+      ],
+      "text": "1. Для проведения qozonni bug‘ bilan sinab ko‘rish zarur произвести поузловую приемку оборудования и опробования его в работе.\nНа период qozonni bug‘ bilan sinab ko‘rish ta’mirная организация обеспечивает: - круглосуточное дежурство технического и рабочего xodimlarа;\nTexnik tarjima talab qilinadi: - устранение дефектов, выявленных во время опробования оборудования.\nЭксплуатационный xodimlar в своих действиях руководствуется ПТЭ, ПТБ, ППБ, действующими инструкциями Таш ТЭС. На период проведения qozonni bug‘ bilan sinab ko‘rish ta’mirные бригады прекращают все работы, xodimlar должен быть выведен с энергоblok, общий наряд на ta’mir blok сдан boshliqу смены КТЦ-1. Паровое опробование и настройка предохранительных клапанов, bajariladi под непосредственным руководством руководителя ta’mirа и boshliqа смены КТЦ-1. Все переключения в тепловых и электрических схемах bajariladi оперативным xodimlarом КТЦ-1, эл. цеха, ЦТКА. Члены дежурной бригады и оперативный xodimlar blok bo‘lishi kerak проинструктированы об изменениях в схемах, ПТЭ, ПТБ, ППБ с записью в журнале yo‘riqnomaей. Выполнить мероприятия по пожарной безопасности и уборке рабочих мест от металлолома, мусора, лесов. Ответственные – ta’mirные организации. Ответственными за организацию работ по sinovlarм и за соблюдение ПТЭ, ПТБ, их выполнение является boshliq КТЦ-1 или его заместитель и руководитель ta’mirа.",
+      "keywords": [
+        "опробования",
+        "ктц-1",
+        "парового",
+        "котла",
+        "персонал",
+        "птэ",
+        "птб",
+        "проведения",
+        "оборудования",
+        "период",
+        "ппб",
+        "ремонтные",
+        "бригады",
+        "блока",
+        "смены"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "2",
+      "title": "OPERATSIYALAR TARTIBI.",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025"
+      ],
+      "text": "2. OPERATSIYALAR TARTIBI.\nПитание qozon при растопке bajariladi питательной водой по перемычке от работающего blok, а при zarurсти - собственным питательным насосом.\nРастопка qozon и подъем давления bajariladi muvofiq с эксплуатационной инструкцией. В период растопки qozon сброс пара осуществляется сначала через продувку bug‘ quvurlari в атмосферу, а затем через БРОУ – в конденсатор turbina. При разобранной электросхеме предохранительных клапанов bajariladi продувка импульсных линий при давлении в барабане qozon 60-80 ата. Проверяется срабатывание рабочих и контрольных клапанов при разобранной электросхеме ИПУ-А и Б. Поднимается bosim в барабане qozon до 151 ата и регулируется срабатывание клапанов от грузовой системы. Проверяется срабатывание клапанов ИПУ-1 от ЭКМ, подрыв клапанов при Р-151 ата. Для этого собирается электросхема ИПУ-А. Посадка при Р-142 ата. Поднимается bosim до 167 ата и регулируется срабатывание клапанов ИПУ-Б от грузовой системы. Собирается электросхема ИПУ-Б и подъемом давления в барабане qozon проверяется срабатывание ИПУ-Б от ЭКМ; подрыв клапанов при Р-167 ата и посадка Р-157 ата. После проверки клапанов ИПУ-А, Б снижается bosim в барабане qozon до 50 ата. Медленным прикрытием БРОУ-2 повышается bosim в горячем промперегреве до 25 ата. Продуваются импульсные линии. Поднимается bosim до 31,5 ата, осуществляется настройка и проверяется срабатывание ИПУ-2 от грузовой системы. Собирается электросхема ИПУ-2 и подъемом давления в трубопроводах ГПП и ХПП проверяется срабатывание ИПУ-2 от ЭКМ. Подрыв при Р=31,5 ата, посадка при Р=27 ата. После опробования предохранительных клапанов qozon и ijobiy natijalarda их опробования bosim в барабане понижается до 30 ата и xodimlar приступает к подготовке пуска turbina на х.х. muvofiq эксплуатационной инструкции. При достижении полных оборотов turbina (3000 об/мин) bajariladi проверка работоспособности главного маслонасоса turbina, sinov автоматов безопасности маслом и разгоном. При положительных результатах опробования, турбогенератор остается в работе на х.х. для производства электроиспытаний генератора.\nЗ ам. тех.директора issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов\nН ачальник СНТБ Б.Б. Нурдинов\nTexnik tarjima talab qilinadi: В едущий инспектор по ОТ и ТБ Ф.М. Мирзахидова\nН ачальник КТЦ-1 У.Л. Мажлимов\nН ачальник ЦЦР Т.А. Валиев Boshliq ЦТКА Р. К. Байматов\nBoshliq Эл.цеха М.Д. Кенжибаев\nTexnik tarjima talab qilinadi: Н ачальник лаб. металлов Л.У. Эшонкулов\nTexnik tarjima talab qilinadi: Рук. работ уч-ка «УЭТ» Ш.М. Турсунбаев\nTexnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "keywords": [
+        "ата",
+        "клапанов",
+        "котла",
+        "срабатывание",
+        "давление",
+        "барабане",
+        "проверяется",
+        "турбины",
+        "ачальник",
+        "давления",
+        "ипу-а",
+        "поднимается",
+        "грузовой",
+        "системы",
+        "экм"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "А О « ТАШКЕНТСКАЯ ТЭС»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Проведение qozonni bug‘ bilan sinab ko‘rish и klapanlarni sozlash",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "o‘rta ta’mirdan keyin №2 blok",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "TASHKILIY MASALALAR.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1. Для проведения qozonni bug‘ bilan sinab ko‘rish zarur произвести поузловую приемку оборудования и опробования его в работе.",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "На период qozonni bug‘ bilan sinab ko‘rish ta’mirная организация обеспечивает: - круглосуточное дежурство технического и рабочего xodimlarа;",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - устранение дефектов, выявленных во время опробования оборудования.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Эксплуатационный xodimlar в своих действиях руководствуется ПТЭ, ПТБ, ППБ, действующими инструкциями Таш ТЭС. На период проведения qozonni bug‘ bilan sinab ko‘rish ta’mirные бригады прекращают все работы, xodimlar должен быть выведен с энергоblok, общий наряд на ta’mir blok сдан boshliqу смены КТЦ-1. Паровое опробование и настройка предохранительных клапанов, bajariladi под непосредственным руководством руководителя ta’mirа и boshliqа смены КТЦ-1. Все переключения в тепловых и электрических схемах bajariladi оперативным xodimlarом КТЦ-1, эл. цеха, ЦТКА. Члены дежурной бригады и оперативный xodimlar blok bo‘lishi kerak проинструктированы об изменениях в схемах, ПТЭ, ПТБ, ППБ с записью в журнале yo‘riqnomaей. Выполнить мероприятия по пожарной безопасности и уборке рабочих мест от металлолома, мусора, лесов. Ответственные – ta’mirные организации. Ответственными за организацию работ по sinovlarм и за соблюдение ПТЭ, ПТБ, их выполнение является boshliq КТЦ-1 или его заместитель и руководитель ta’mirа.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "2. OPERATSIYALAR TARTIBI.",
+      "sectionIds": [
+        "section-002"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "list",
+      "text": "Питание qozon при растопке bajariladi питательной водой по перемычке от работающего blok, а при zarurсти - собственным питательным насосом.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "list",
+      "text": "Растопка qozon и подъем давления bajariladi muvofiq с эксплуатационной инструкцией. В период растопки qozon сброс пара осуществляется сначала через продувку bug‘ quvurlari в атмосферу, а затем через БРОУ – в конденсатор turbina. При разобранной электросхеме предохранительных клапанов bajariladi продувка импульсных линий при давлении в барабане qozon 60-80 ата. Проверяется срабатывание рабочих и контрольных клапанов при разобранной электросхеме ИПУ-А и Б. Поднимается bosim в барабане qozon до 151 ата и регулируется срабатывание клапанов от грузовой системы. Проверяется срабатывание клапанов ИПУ-1 от ЭКМ, подрыв клапанов при Р-151 ата. Для этого собирается электросхема ИПУ-А. Посадка при Р-142 ата. Поднимается bosim до 167 ата и регулируется срабатывание клапанов ИПУ-Б от грузовой системы. Собирается электросхема ИПУ-Б и подъемом давления в барабане qozon проверяется срабатывание ИПУ-Б от ЭКМ; подрыв клапанов при Р-167 ата и посадка Р-157 ата. После проверки клапанов ИПУ-А, Б снижается bosim в барабане qozon до 50 ата. Медленным прикрытием БРОУ-2 повышается bosim в горячем промперегреве до 25 ата. Продуваются импульсные линии. Поднимается bosim до 31,5 ата, осуществляется настройка и проверяется срабатывание ИПУ-2 от грузовой системы. Собирается электросхема ИПУ-2 и подъемом давления в трубопроводах ГПП и ХПП проверяется срабатывание ИПУ-2 от ЭКМ. Подрыв при Р=31,5 ата, посадка при Р=27 ата. После опробования предохранительных клапанов qozon и ijobiy natijalarda их опробования bosim в барабане понижается до 30 ата и xodimlar приступает к подготовке пуска turbina на х.х. muvofiq эксплуатационной инструкции. При достижении полных оборотов turbina (3000 об/мин) bajariladi проверка работоспособности главного маслонасоса turbina, sinov автоматов безопасности маслом и разгоном. При положительных результатах опробования, турбогенератор остается в работе на х.х. для производства электроиспытаний генератора.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "З ам. тех.директора issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "Н ачальник СНТБ Б.Б. Нурдинов",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: В едущий инспектор по ОТ и ТБ Ф.М. Мирзахидова",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "Н ачальник КТЦ-1 У.Л. Мажлимов",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Н ачальник ЦЦР Т.А. Валиев Boshliq ЦТКА Р. К. Байматов",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Boshliq Эл.цеха М.Д. Кенжибаев",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: Н ачальник лаб. металлов Л.У. Эшонкулов",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: Рук. работ уч-ка «УЭТ» Ш.М. Турсунбаев",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/par-oprob-i-pusk-na-hol-hod-2025/translations/uzLatn/document.json",
+    "assetBasePath": "documents/par-oprob-i-pusk-na-hol-hod-2025/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "bug‘ sinovi",
+      "qozonni sinab ko‘rish",
+      "klapanlarni sozlash",
+      "bo‘sh yurish",
+      "ta’mirdan keyingi pusk"
+    ],
+    "aliases": [
+      "qozon parovoy oproba",
+      "klapan nastroyka",
+      "blokni ishga tayyorlash"
+    ],
+    "searchText": "QOZONNI BUG‘ BILAN SINAB KO‘RISH VA KLAPANLARNI SOZLASH BO‘YICHA NAMUNAVIY DASTUR 2-blok o‘rta ta’miridan keyin qozonni bug‘ bilan sinash, klapanlarni sozlash va ishga tayyorlash tartibi. TASDIQLAYMAN TEXNIK DIREKTOR А О « ТАШКЕНТСКАЯ ТЭС» В.В. Пак NAMUNAVIY DASTUR Проведение qozonni bug‘ bilan sinab ko‘rish и klapanlarni sozlash o‘rta ta’mirdan keyin №2 blok TASHKILIY MASALALAR. 1. Для проведения qozonni bug‘ bilan sinab ko‘rish zarur произвести поузловую приемку оборудования и опробования его в работе. На период qozonni bug‘ bilan sinab ko‘rish ta’mirная организация обеспечивает: - круглосуточное дежурство технического и рабочего xodimlarа; Texnik tarjima talab qilinadi: - устранение дефектов, выявленных во время опробования оборудования. Эксплуатационный xodimlar в своих действиях руководствуется ПТЭ, ПТБ, ППБ, действующими инструкциями Таш ТЭС. На период проведения qozonni bug‘ bilan sinab ko‘rish ta’mirные бригады прекращают все работы, xodimlar должен быть выведен с энергоblok, общий наряд на ta’mir blok сдан boshliqу смены КТЦ-1. Паровое опробование и настройка предохранительных клапанов, bajariladi под непосредственным руководством руководителя ta’mirа и boshliqа смены КТЦ-1. Все переключения в тепловых и электрических схемах bajariladi оперативным xodimlarом КТЦ-1, эл. цеха, ЦТКА. Члены дежурной бригады и оперативный xodimlar blok bo‘lishi kerak проинструктированы об изменениях в схемах, ПТЭ, ПТБ, ППБ с записью в журнале yo‘riqnomaей. Выполнить мероприятия по пожарной безопасности и уборке рабочих мест от металлолома, мусора, лесов. Ответственные – ta’mirные организации. Ответственными за организацию работ по sinovlarм и за соблюдение ПТЭ, ПТБ, их выполнение является boshliq КТЦ-1 или его заместитель и руководитель ta’mirа. 2. OPERATSIYALAR TARTIBI. Питание qozon при растопке bajariladi питательной водой по перемычке от работающего blok, а при zarurсти - собственным питательным насосом. Растопка qozon и подъем давления bajariladi muvofiq с эксплуатационной инструкцией. В период растопки qozon сброс пара осуществляется сначала через продувку bug‘ quvurlari в атмосферу, а затем через БРОУ – в конденсатор turbina. При разобранной электросхеме предохранительных клапанов bajariladi продувка импульсных линий при давлении в барабане qozon 60-80 ата. Проверяется срабатывание рабочих и контрольных клапанов при разобранной электросхеме ИПУ-А и Б. Поднимается bosim в барабане qozon до 151 ата и регулируется срабатывание клапанов от грузовой системы. Проверяется срабатывание клапанов ИПУ-1 от ЭКМ, подрыв клапанов при Р-151 ата. Для этого собирается электросхема ИПУ-А. Посадка при Р-142 ата. Поднимается bosim до 167 ата и регулируется срабатывание клапанов ИПУ-Б от грузовой системы. Собирается электросхема ИПУ-Б и подъемом давления в барабане qozon проверяется срабатывание ИПУ-Б от ЭКМ; подрыв клапанов при Р-167 ата и посадка Р-157 ата. После проверки клапанов ИПУ-А, Б снижается bosim в барабане qozon до 50 ата. Медленным прикрытием БРОУ-2 повышается bosim в горячем промперегреве до 25 ата. Продуваются импульсные линии. Поднимается bosim до 31,5 ата, осуществляется настройка и проверяется срабатывание ИПУ-2 от грузовой системы. Собирается электросхема ИПУ-2 и подъемом давления в трубопроводах ГПП и ХПП проверяется срабатывание ИПУ-2 от ЭКМ. Подрыв при Р=31,5 ата, посадка при Р=27 ата. После опробования предохранительных клапанов qozon и ijobiy natijalarda их опробования bosim в барабане понижается до 30 ата и xodimlar приступает к подготовке пуска turbina на х.х. muvofiq эксплуатационной инструкции. При достижении полных оборотов turbina (3000 об/мин) bajariladi проверка работоспособности главного маслонасоса turbina, sinov автоматов безопасности маслом и разгоном. При положительных результатах опробования, турбогенератор остается в работе на х.х. для производства электроиспытаний генератора.  З ам. тех.директора issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов Н ачальник СНТБ Б.Б. Нурдинов Texnik tarjima talab qilinadi: В едущий инспектор по ОТ и ТБ Ф.М. Мирзахидова Н ачальник КТЦ-1 У.Л. Мажлимов Н ачальник ЦЦР Т.А. Валиев Boshliq ЦТКА Р. К. Байматов Boshliq Эл.цеха М.Д. Кенжибаев Texnik tarjima talab qilinadi: Н ачальник лаб. металлов Л.У. Эшонкулов Texnik tarjima talab qilinadi: Рук. работ уч-ка «УЭТ» Ш.М. Турсунбаев Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев"
+  }
+}

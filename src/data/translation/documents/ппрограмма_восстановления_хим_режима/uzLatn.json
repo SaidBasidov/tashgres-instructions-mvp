@@ -1,0 +1,503 @@
+{
+  "status": "review_required",
+  "title": "KIMYOVIY REJIMNI TIKLASH ISHLARINI BAJARISH DASTURI",
+  "summary": "Energiya blokida kimyoviy rejimni tiklash bo‘yicha tekshiruv, tozalash va ta’mirlash ishlari dasturi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Blokni o‘chirish, zaxiradan chiqarish.",
+      "level": 1,
+      "blockIds": [
+        "block-0007"
+      ],
+      "text": "1. Blokni o‘chirish, zaxiradan chiqarish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "2",
+      "title": "РНПр, РПП va qozon bog‘lamasi armaturasini taftish qilish.",
+      "level": 1,
+      "blockIds": [
+        "block-0008"
+      ],
+      "text": "2 . РНПр, РПП va qozon bog‘lamasi armaturasini taftish qilish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "3",
+      "title": "Qozon РНПsini ichki ko‘rikdan o‘tkazish.",
+      "level": 1,
+      "blockIds": [
+        "block-0009"
+      ],
+      "text": "3. Qozon РНПsini ichki ko‘rikdan o‘tkazish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "4",
+      "title": "РПП va РНПрdan sirkulyatsion suv quvurlariga boruvchi Ду-100 liniyasini taftish qilish, aniqlangan nuqsonlarni bartaraf etish.",
+      "level": 1,
+      "blockIds": [
+        "block-0010"
+      ],
+      "text": "4. РПП va РНПрdan sirkulyatsion suv quvurlariga boruvchi Ду-100 liniyasini taftish qilish, aniqlangan nuqsonlarni bartaraf etish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "5",
+      "title": "Qozon РНП qalqovichli rostlagichini taftish qilish, ko‘rikdan o‘tkazish va ta’mirlash.",
+      "level": 1,
+      "blockIds": [
+        "block-0011"
+      ],
+      "text": "5. Qozon РНП qalqovichli rostlagichini taftish qilish, ko‘rikdan o‘tkazish va ta’mirlash.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "6",
+      "title": "Qozon barabanining tuzli bo‘lmalarini taftish qilish va aniqlangan nuqsonlarni bartaraf etish.",
+      "level": 1,
+      "blockIds": [
+        "block-0012"
+      ],
+      "text": "6. Qozon barabanining tuzli bo‘lmalarini taftish qilish va aniqlangan nuqsonlarni bartaraf etish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-007",
+      "number": "7",
+      "title": "Qozon barabanini ichki ko‘rikdan o‘tkazish.",
+      "level": 1,
+      "blockIds": [
+        "block-0013"
+      ],
+      "text": "7 . Qozon barabanini ichki ko‘rikdan o‘tkazish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-008",
+      "number": "8",
+      "title": "Qozon barabaniga fosfat uzatish liniyasini taftish qilish va cho‘kindilardan tozalash.",
+      "level": 1,
+      "blockIds": [
+        "block-0014"
+      ],
+      "text": "8. Qozon barabaniga fosfat uzatish liniyasini taftish qilish va cho‘kindilardan tozalash.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-009",
+      "number": "9",
+      "title": "Qozonning fosfat bakini tozalash.",
+      "level": 1,
+      "blockIds": [
+        "block-0015"
+      ],
+      "text": "9. Qozonning fosfat bakini tozalash.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-010",
+      "number": "10",
+      "title": "НДФ-А,Бni taftish qilish va ta’mirlash.",
+      "level": 1,
+      "blockIds": [
+        "block-0016"
+      ],
+      "text": "10. НДФ-А,Бni taftish qilish va ta’mirlash.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-011",
+      "number": "11",
+      "title": "Turbina 120 0 С gacha sovigandan so‘ng, ТГ kondensatori quvurlar tizimidagi zich bo‘lmagan joylarni topish va bartaraf etish uchun kondensatorni 6,5 belgisigacha to‘ldirish.",
+      "level": 1,
+      "blockIds": [
+        "block-0017"
+      ],
+      "text": "11. Turbina 120 0 С gacha sovigandan so‘ng, ТГ kondensatori quvurlar tizimidagi zich bo‘lmagan joylarni topish va bartaraf etish uchun kondensatorni 6,5 belgisigacha to‘ldirish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-012",
+      "number": "12",
+      "title": "№10 qozonning tuz bo‘yicha tenglashtirish va tuz karraligi liniyalari o‘tkazuvchanligini tekshirish.",
+      "level": 1,
+      "blockIds": [
+        "block-0018"
+      ],
+      "text": "12. №10 qozonning tuz bo‘yicha tenglashtirish va tuz karraligi liniyalari o‘tkazuvchanligini tekshirish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-013",
+      "number": "13",
+      "title": "Qozonning chap va o‘ng yon ekranlari drenajlarini taftish qilish.",
+      "level": 1,
+      "blockIds": [
+        "block-0019"
+      ],
+      "text": "13. Qozonning chap va o‘ng yon ekranlari drenajlarini taftish qilish.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-014",
+      "number": "14",
+      "title": "ПЭН-А,Б so‘rish tomoniga gidrazin uzatishni taftish qilish.",
+      "level": 1,
+      "blockIds": [
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028"
+      ],
+      "text": "14. ПЭН-А,Б so‘rish tomoniga gidrazin uzatishni taftish qilish.\nTA’MIRLASH BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI INOYATOV M.M.\nISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI ISMOILOV B.R.\nКТЦ-1 BOSHLIG‘I MAJLIMOV U.L.\nКТЦ-2 BOSHLIG‘I MAXKAMOV M.M.\nKIMYO SEXI BOSHLIG‘I XAMRAQULOVA L.P.\nЦЦР BOSHLIG‘I ISABAYEV B.E.",
+      "keywords": [
+        "зам",
+        "технического",
+        "директора",
+        "ачальник",
+        "начальник"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "D A S T U R",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Blokda kimyoviy rejimni tiklash ishlarini bajarish.",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "1. Blokni o‘chirish, zaxiradan chiqarish.",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "2 . РНПр, РПП va qozon bog‘lamasi armaturasini taftish qilish.",
+      "sectionIds": [
+        "section-002"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "3. Qozon РНПsini ichki ko‘rikdan o‘tkazish.",
+      "sectionIds": [
+        "section-003"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "4. РПП va РНПрdan sirkulyatsion suv quvurlariga boruvchi Ду-100 liniyasini taftish qilish, aniqlangan nuqsonlarni bartaraf etish.",
+      "sectionIds": [
+        "section-004"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "5. Qozon РНП qalqovichli rostlagichini taftish qilish, ko‘rikdan o‘tkazish va ta’mirlash.",
+      "sectionIds": [
+        "section-005"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "6. Qozon barabanining tuzli bo‘lmalarini taftish qilish va aniqlangan nuqsonlarni bartaraf etish.",
+      "sectionIds": [
+        "section-006"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "7 . Qozon barabanini ichki ko‘rikdan o‘tkazish.",
+      "sectionIds": [
+        "section-007"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "8. Qozon barabaniga fosfat uzatish liniyasini taftish qilish va cho‘kindilardan tozalash.",
+      "sectionIds": [
+        "section-008"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "9. Qozonning fosfat bakini tozalash.",
+      "sectionIds": [
+        "section-009"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "10. НДФ-А,Бni taftish qilish va ta’mirlash.",
+      "sectionIds": [
+        "section-010"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "11. Turbina 120 0 С gacha sovigandan so‘ng, ТГ kondensatori quvurlar tizimidagi zich bo‘lmagan joylarni topish va bartaraf etish uchun kondensatorni 6,5 belgisigacha to‘ldirish.",
+      "sectionIds": [
+        "section-011"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "12. №10 qozonning tuz bo‘yicha tenglashtirish va tuz karraligi liniyalari o‘tkazuvchanligini tekshirish.",
+      "sectionIds": [
+        "section-012"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "13. Qozonning chap va o‘ng yon ekranlari drenajlarini taftish qilish.",
+      "sectionIds": [
+        "section-013"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "14. ПЭН-А,Б so‘rish tomoniga gidrazin uzatishni taftish qilish.",
+      "sectionIds": [
+        "section-014"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "TA’MIRLASH BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI INOYATOV M.M.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI ISMOILOV B.R.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "КТЦ-1 BOSHLIG‘I MAJLIMOV U.L.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "КТЦ-2 BOSHLIG‘I MAXKAMOV M.M.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "KIMYO SEXI BOSHLIG‘I XAMRAQULOVA L.P.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "ЦЦР BOSHLIG‘I ISABAYEV B.E.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/pprogramma-vosstanovleniya-him-rezhima/translations/uzLatn/document.json",
+    "assetBasePath": "documents/pprogramma-vosstanovleniya-him-rezhima/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "kimyoviy rejimni tiklash",
+      "qozon barabani",
+      "fosfat baki",
+      "gidrazin uzatish"
+    ],
+    "aliases": [
+      "kimyoviy rejim",
+      "РНП taftishi",
+      "qozon suv-kimyo rejimi"
+    ],
+    "searchText": "KIMYOVIY REJIMNI TIKLASH ISHLARINI BAJARISH DASTURI Energiya blokida kimyoviy rejimni tiklash bo‘yicha tekshiruv, tozalash va ta’mirlash ishlari dasturi. TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» V.V. Pak D A S T U R Blokda kimyoviy rejimni tiklash ishlarini bajarish. 1. Blokni o‘chirish, zaxiradan chiqarish. 2 . РНПр, РПП va qozon bog‘lamasi armaturasini taftish qilish. 3. Qozon РНПsini ichki ko‘rikdan o‘tkazish. 4. РПП va РНПрdan sirkulyatsion suv quvurlariga boruvchi Ду-100 liniyasini taftish qilish, aniqlangan nuqsonlarni bartaraf etish. 5. Qozon РНП qalqovichli rostlagichini taftish qilish, ko‘rikdan o‘tkazish va ta’mirlash. 6. Qozon barabanining tuzli bo‘lmalarini taftish qilish va aniqlangan nuqsonlarni bartaraf etish. 7 . Qozon barabanini ichki ko‘rikdan o‘tkazish. 8. Qozon barabaniga fosfat uzatish liniyasini taftish qilish va cho‘kindilardan tozalash. 9. Qozonning fosfat bakini tozalash. 10. НДФ-А,Бni taftish qilish va ta’mirlash. 11. Turbina 120 0 С gacha sovigandan so‘ng, ТГ kondensatori quvurlar tizimidagi zich bo‘lmagan joylarni topish va bartaraf etish uchun kondensatorni 6,5 belgisigacha to‘ldirish. 12. №10 qozonning tuz bo‘yicha tenglashtirish va tuz karraligi liniyalari o‘tkazuvchanligini tekshirish. 13. Qozonning chap va o‘ng yon ekranlari drenajlarini taftish qilish. 14. ПЭН-А,Б so‘rish tomoniga gidrazin uzatishni taftish qilish. TA’MIRLASH BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI INOYATOV M.M. ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI ISMOILOV B.R.  КТЦ-1 BOSHLIG‘I MAJLIMOV U.L. КТЦ-2 BOSHLIG‘I MAXKAMOV M.M.  KIMYO SEXI BOSHLIG‘I XAMRAQULOVA L.P. ЦЦР BOSHLIG‘I ISABAYEV B.E."
+  }
+}

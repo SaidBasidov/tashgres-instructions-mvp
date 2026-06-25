@@ -1,0 +1,1007 @@
+{
+  "id": "proverka-plotnosti-stop-i-reg-klap-tg-2025",
+  "code": "",
+  "title": "ТГ TO‘XTATISH VA ROSTLASH KLAPANLARI ZICHLIGINI TEKSHIRISH NAMUNAVIY DASTURI",
+  "summary": "2-blok o‘rta ta’miridan keyin ТГ yuqori va o‘rta bosimli to‘xtatish hamda rostlash klapanlari bug‘ zichligini tekshirish tartibi.",
+  "sourceLanguage": "ru",
+  "language": "uzLatn",
+  "sourceFile": "Проверка_плотности_стоп_и_рег_клап_ТГ_2025.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2025/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.49in; margin-top: 0.3in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "Проверка_плотности_стоп_и_рег_клап_ТГ_2025.doc",
+    "path": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "Проверка_плотности_стоп_и_рег_клап_ТГ_2025.pdf",
+    "path": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2025/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "Проверка_плотности_стоп_и_рег_клап_ТГ_2025.docx",
+    "path": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2025/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "2",
+      "title": "Uskunani ishlarni bajarishga tayyorlash tadbirlari:",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022"
+      ],
+      "text": "2. Uskunani ishlarni bajarishga tayyorlash tadbirlari:\n2.1. ВД va СД rostlash klapanlarining ravon harakatlanishini tekshirish.\n2.2. Olib ketish liniyalarining teskari klapanlarini (КОС) yopish.\n2.3. Zaxira va ishga tushirish moy nasoslarining ishga tushirishga tayyorligini tekshirish.\n2.4. ГПЗ va ularning baypaslari elektr yuritmasining soz ishlashini tekshirish.\n2.5. Rostlash va moylash tizimidagi moy haroratining zavod ma’lumotlariga muvofiqligini tekshirish. Moy harorati 40-43ºС bo‘lishi kerak.\n2.6. Sinovni o‘tkazish oldindan НСС bilan kelishiladi.\n2.7. Sinov boshlanishidan oldin sinovda qatnashuvchi xodimlarga yo‘riqnoma berish va yo‘riqnoma jurnaliga qayd etish.\nMas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari.\nKlapanlar zichligini tekshirish yangi bug‘ bosimi 65 кгс/см 2 bo‘lganda amalga oshiriladi.",
+      "keywords": [
+        "проверить",
+        "клапанов",
+        "масла",
+        "испытания"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "3",
+      "title": "Rostlash klapanlari zichligini tekshirish. Tekshirish tartibi:",
+      "level": 1,
+      "blockIds": [
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030"
+      ],
+      "text": "3. Rostlash klapanlari zichligini tekshirish. Tekshirish tartibi:\n3.1. ТГ ishga tushirish moy nasosi (ПМН) ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi. МУТga ta’sir qilib ТГ rotorlari aylanish chastotasini 3000 об/мин nominal qiymatgacha ko‘tarish.\n3.2. Nominal aylanish chastotasida qo‘lda yoki masofadan o‘chirish tugmasiga ta’sir qilish orqali ВД va СД to‘xtatish hamda rostlash klapanlari yopiladi. Bir vaqtda ГПЗ va ularning baypaslari yopiladi. To‘xtatish klapanigacha va undan keyingi drenajlar ochiladi, ХПП surma klapanlari yopiq.\n3.3. Rotor aylanish chastotasi 800 об/мин bo‘lganda БРОУ-2ni qisman yopish orqali o‘rta bosim blok-klapanlari oldidagi bug‘ bosimi 29 кгс/см 2 gacha ko‘tariladi.\n3.4. Agar rotor aylanish chastotasi 300 об/мин gacha pasaysa, o‘rta bosim to‘xtatish va rostlash klapanlari zich hisoblanadi.\n3.5. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2 gacha pasaytiriladi, СД to‘xtatish klapanlari va ВД to‘xtatish klapani ochiladi.\n3.6. ВД rostlash klapanlari zichligini tekshirishda turbinani boshqarish mexanizmiga (МУТ) ta’sir qilib СД rostlash klapanlarini qisqa muddat ochish orqali rotor aylanish chastotasi 400-500 об/мин gacha oshiriladi. СД klapanlari oldidagi bug‘ bosimi minimumgacha pasaytiriladi.\n3.7. ГПЗ baypaslari ochiladi va rostlash pog‘onasi kamerasi hamda taqsimlash diafragmasi oldidagi bosim nazorat qilinadi. Rostlash pog‘onasi kamerasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi, rostlash klapanlari zich emas deb hisoblanadi va tekshirish to‘xtatiladi. Rotor aylanish chastotasi 300 об/мин gacha pasaysa, ВД rostlash klapanlari zich hisoblanadi.",
+      "keywords": [
+        "вращения",
+        "мин",
+        "стопорные",
+        "регулирующие",
+        "клапана",
+        "регулирующих",
+        "клапанов",
+        "клапаны",
+        "гпз",
+        "байпасы",
+        "открываются",
+        "ротора",
+        "давление",
+        "пара",
+        "клапанами"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "4",
+      "title": "ВД to‘xtatish klapani zichligini sinashda quyidagilarni bajarish zarur:",
+      "level": 1,
+      "blockIds": [
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039"
+      ],
+      "text": "4. ВД to‘xtatish klapani zichligini sinashda quyidagilarni bajarish zarur:\n4.1. ТГ ПМН ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi.\n4.2. To‘xtatish klapanini to‘liq yuritish ventilini to‘liq ochish va uning to‘liq yopilganiga ishonch hosil qilish.\n4.3. СД ichki rostlash klapanlari servomotorlarining ish liniyalaridagi tiqinli kranlarni yopish.\n4.4. МУТga ta’sir qilib ВД rostlash klapanlari servomotorini 150 мм ga ochish.\n4.5. ГПЗ oldidagi bug‘ bosimi 65 кгс/см 2.\n4.6. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2.\n4.7. Tiqinli kranlar yordamida СД rostlash klapanlarini qisqa muddat 15-20 мм ga ochib, aylanish chastotasini 400-500 об/мин qilib o‘rnatish.\n4.8. ГПЗ baypaslarini ochish va rostlash pog‘onasi kamerasidagi bosimni nazorat qilish. Bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypasi yopiladi va to‘xtatish klapanlari zich emas deb hisoblanadi. Aylanish chastotasi 300 об/мин gacha pasaysa, to‘xtatish klapanlari zich hisoblanadi.",
+      "keywords": [
+        "клапана",
+        "стопорного",
+        "стопорные",
+        "открыть",
+        "регулирующих",
+        "клапанов",
+        "давление",
+        "гпз",
+        "кгс",
+        "клапаны",
+        "пара",
+        "вращения",
+        "мин",
+        "считаются"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "5",
+      "title": "To‘xtatish va rostlash klapanlari zichligini tekshirishda xavfsizlik texnikasi:",
+      "level": 1,
+      "blockIds": [
+        "block-0040",
+        "block-0041",
+        "block-0042",
+        "block-0043"
+      ],
+      "text": "5. To‘xtatish va rostlash klapanlari zichligini tekshirishda xavfsizlik texnikasi:\n5.1. Tekshirishda qatnashuvchi xodimlarga yo‘riqnoma berish va jurnalga qayd etish.\n5.2. Tekshirishda qatnashmaydigan xodimlarni turbinaning mahalliy boshqaruv shchitidan chiqarish.\nXavfsizlik texnikasi qoidalariga rioya etish uchun javobgarlik КТЦ-1 boshlig‘i yoki uning o‘rinbosariga yuklanadi.",
+      "keywords": [
+        "проверке"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "6",
+      "title": "Operativ xodimlarni joylarga taqsimlash.",
+      "level": 1,
+      "blockIds": [
+        "block-0044",
+        "block-0045",
+        "block-0046",
+        "block-0047",
+        "block-0048",
+        "block-0049",
+        "block-0050",
+        "block-0051",
+        "block-0052",
+        "block-0053"
+      ],
+      "text": "6. Operativ xodimlarni joylarga taqsimlash.\n6.1. ТГ ko‘rikchisi — 9 м belgisida va turbinaning mahalliy shchiti yonida.\n6.2. Qozon bo‘yicha ko‘rikchi — qozonning 2 yarusida.\n6.3. Blok mashinisti — БЩУda qozonni boshqarish kalitlari yonida.\n6.4. Katta mashinist — БЩУda turbinani boshqarish kalitlari yonida.\n6.5. Smena boshlig‘i — БЩУ aloqa pulti yonida.\n6.6. Sinovning mas’ul rahbari — ТГning 9 м belgisida.\nBlok katta mashinisti turbogenerator uskunasining ishlashini nazorat qiladi, mas’ul rahbar buyrug‘i bilan БРОУ-1,2ni, to‘xtatish klapani va blok-klapanlarni yuritish qurilmasini ishga tushiradi; blok mashinisti qozon parametrlarini nazorat qiladi va saqlab turadi.\nSmena boshlig‘i turbina aylanishlari qiymatini taxometr bo‘yicha qayd etadi. ТГ ko‘rikchisi kondensatordagi vakuumni saqlaydi. Mas’ul rahbar buyrug‘i bilan ТГ drenajlari va ГПЗ baypasini ochadi hamda yopadi.\nSinovlarning mas’ul rahbari turbinaning mahalliy shchitida bo‘ladi va turbina aylanishlarini kuzatadi.",
+      "keywords": [
+        "турбины",
+        "машинист",
+        "обходчик",
+        "блока",
+        "бщу",
+        "отм",
+        "котла",
+        "ключей",
+        "управления",
+        "старший",
+        "начальник",
+        "смены",
+        "ответственный",
+        "руководитель",
+        "производит"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "7",
+      "title": "Avariya vaziyatlarida operativ xodimlarning harakatlari:",
+      "level": 1,
+      "blockIds": [
+        "block-0054",
+        "block-0055",
+        "block-0056",
+        "block-0057",
+        "block-0058",
+        "block-0059",
+        "block-0060",
+        "block-0061"
+      ],
+      "text": "7. Avariya vaziyatlarida operativ xodimlarning harakatlari:\n— rotor aylanish chastotasi 3360 об/мин dan oshganda himoya qurilmasiga masofadan yoki joyida ta’sir qilib turbinaga bug‘ kirishini to‘xtatish;\n— tekshirish vaqtida ГПЗ baypasi ochilgach rostlash pog‘onasi kamerasi va ajratish diafragmasi oldidagi bosim nazorat qilinadi.\n— rostlash pog‘onasi kamerasi yoki ajratish diafragmasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi va БРОУ ochiladi.\n7.1. ТГ ko‘rikchisi turbinaga bug‘ kirishini to‘xtatadi va ТГ drenajlarini ochadi.\n7.2. Katta mashinist БРОУni ishga tushiradi, zarur bo‘lsa ИПУ-2ni ochadi.\n7.3. Sinovning mas’ul rahbari ГАБni urib o‘chiradi.\n7.4. Blok mashinisti qozonni o‘chiradi.",
+      "keywords": [
+        "доступ",
+        "пара",
+        "турбину",
+        "гпз",
+        "камере",
+        "регулирующей",
+        "ступени",
+        "разделительной",
+        "броу",
+        "открывает",
+        "машинист"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-007",
+      "number": "8",
+      "title": "Klapanlarning bug‘ zichligini aniqlash bo‘yicha 8-sinovga КТЦ-1 boshlig‘i yoki uning o‘rinbosari rahbarlik qiladi.",
+      "level": 1,
+      "blockIds": [
+        "block-0062",
+        "block-0063",
+        "block-0064",
+        "block-0065",
+        "block-0066",
+        "block-0067"
+      ],
+      "text": "Klapanlarning bug‘ zichligini aniqlash bo‘yicha 8-sinovga КТЦ-1 boshlig‘i yoki uning o‘rinbosari rahbarlik qiladi.\nIssiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov СНТБ boshlig‘i B.B. Nurdinov КТЦ-1 boshlig‘i U.L. Majlimov ЦТКА boshlig‘i R.K. Baymatov «UET» uchastkasi ishlari rahbari A. Mamirov «O‘zenergosozlash» yetakchi muhandisi F.F. Umerov\nElektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev",
+      "keywords": [
+        "ктц-1",
+        "тех",
+        "директора",
+        "ачальник"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "TASDIQLAYMAN",
+      "html": "<ol data-block-id=\"block-0001\"><li><p align=\"inherit\" lang=\"uz-Latn\">TASDIQLAYMAN</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Latn\">TEXNIK DIREKTOR</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Latn\">AJ «TOSHKENT IES»</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Latn\">V.V. Pak<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.gif\" width=\"62\"/></p></div>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"center\" lang=\"uz-Latn\">NAMUNAVIY DASTUR</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "ТГ to‘xtatish va rostlash klapanlari zichligini tekshirish",
+      "html": "<div data-block-id=\"block-0006\"><p align=\"center\" lang=\"uz-Latn\">ТГ to‘xtatish va rostlash klapanlari zichligini tekshirish</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "2-blok o‘rta ta’miridan keyin",
+      "html": "<div data-block-id=\"block-0007\"><p align=\"center\" lang=\"uz-Latn\">2-blok o‘rta ta’miridan keyin</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Sinovning maqsadi №2 blok o‘rta ta’miridan keyin ТГ yuqori bosim to‘xtatish klapani, yuqori bosim rostlash klapanlari hamda o‘rta bosim to‘xtatish va rostlash klapanlarining zichligini aniqlashdan iborat.",
+      "html": "<div data-block-id=\"block-0008\"><p align=\"justify\" lang=\"uz-Latn\">Sinovning maqsadi №2 blok o‘rta ta’miridan keyin ТГ yuqori bosim to‘xtatish klapani, yuqori bosim rostlash klapanlari hamda o‘rta bosim to‘xtatish va rostlash klapanlarining zichligini aniqlashdan iborat.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1. К-160-130 ХТГЗ turbinasida yuqori bosim (ВД) klapanlari zichligi ularning oldidagi yangi bug‘ bosimi 65-130 кгс/см 2 bo‘lganda, o‘rta bosim (СД) klapanlari esa ularning oldidagi bug‘ bosimi kamida 20 кгс/см 2 bo‘lganda tekshiriladi.",
+      "html": "<div data-block-id=\"block-0009\"><p align=\"justify\" lang=\"uz-Latn\">1. К-160-130 ХТГЗ turbinasida yuqori bosim (ВД) klapanlari zichligi ularning oldidagi yangi bug‘ bosimi 65-130 кгс/см 2 bo‘lganda, o‘rta bosim (СД) klapanlari esa ularning oldidagi bug‘ bosimi kamida 20 кгс/см 2 bo‘lganda tekshiriladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Avval СД klapanlarining, so‘ngra ВД klapanlarining zichligi tekshiriladi.",
+      "html": "<div data-block-id=\"block-0010\"><p align=\"justify\" lang=\"uz-Latn\">Avval СД klapanlarining, so‘ngra ВД klapanlarining zichligi tekshiriladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "Turbina СД klapanlarining bug‘ zichligini tekshirishda СД klapanlari oldidagi zarur bug‘ bosimi БРОУ-1ni ochish orqali ta’minlanadi.",
+      "html": "<div data-block-id=\"block-0011\"><p align=\"justify\" lang=\"uz-Latn\">Turbina СД klapanlarining bug‘ zichligini tekshirishda СД klapanlari oldidagi zarur bug‘ bosimi БРОУ-1ni ochish orqali ta’minlanadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "ВД klapanlari zichligini tekshirish uchun zarur yangi bug‘ bosimi qozonga beriladigan suv va yoqilg‘i sarfini tuzatish hisobiga o‘rnatiladi.",
+      "html": "<div data-block-id=\"block-0012\"><p align=\"justify\" lang=\"uz-Latn\">ВД klapanlari zichligini tekshirish uchun zarur yangi bug‘ bosimi qozonga beriladigan suv va yoqilg‘i sarfini tuzatish hisobiga o‘rnatiladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "2. Uskunani ishlarni bajarishga tayyorlash tadbirlari:",
+      "html": "<div data-block-id=\"block-0013\"><p align=\"justify\" lang=\"uz-Latn\">2. Uskunani ishlarni bajarishga tayyorlash tadbirlari:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "2.1. ВД va СД rostlash klapanlarining ravon harakatlanishini tekshirish.",
+      "html": "<div data-block-id=\"block-0014\"><p align=\"justify\" lang=\"uz-Latn\">2.1. ВД va СД rostlash klapanlarining ravon harakatlanishini tekshirish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "2.2. Olib ketish liniyalarining teskari klapanlarini (КОС) yopish.",
+      "html": "<div data-block-id=\"block-0015\"><p align=\"justify\" lang=\"uz-Latn\">2.2. Olib ketish liniyalarining teskari klapanlarini (КОС) yopish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "2.3. Zaxira va ishga tushirish moy nasoslarining ishga tushirishga tayyorligini tekshirish.",
+      "html": "<div data-block-id=\"block-0016\"><p align=\"justify\" lang=\"uz-Latn\">2.3. Zaxira va ishga tushirish moy nasoslarining ishga tushirishga tayyorligini tekshirish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "2.4. ГПЗ va ularning baypaslari elektr yuritmasining soz ishlashini tekshirish.",
+      "html": "<div data-block-id=\"block-0017\"><p align=\"justify\" lang=\"uz-Latn\">2.4. ГПЗ va ularning baypaslari elektr yuritmasining soz ishlashini tekshirish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "2.5. Rostlash va moylash tizimidagi moy haroratining zavod ma’lumotlariga muvofiqligini tekshirish. Moy harorati 40-43ºС bo‘lishi kerak.",
+      "html": "<div data-block-id=\"block-0018\"><p align=\"justify\" lang=\"uz-Latn\">2.5. Rostlash va moylash tizimidagi moy haroratining zavod ma’lumotlariga muvofiqligini tekshirish. Moy harorati 40-43ºС bo‘lishi kerak.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "2.6. Sinovni o‘tkazish oldindan НСС bilan kelishiladi.",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"justify\" lang=\"uz-Latn\">2.6. Sinovni o‘tkazish oldindan НСС bilan kelishiladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "2.7. Sinov boshlanishidan oldin sinovda qatnashuvchi xodimlarga yo‘riqnoma berish va yo‘riqnoma jurnaliga qayd etish.",
+      "html": "<div data-block-id=\"block-0020\"><p align=\"justify\" lang=\"uz-Latn\">2.7. Sinov boshlanishidan oldin sinovda qatnashuvchi xodimlarga yo‘riqnoma berish va yo‘riqnoma jurnaliga qayd etish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari.",
+      "html": "<div data-block-id=\"block-0021\"><p align=\"justify\" lang=\"uz-Latn\">Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Klapanlar zichligini tekshirish yangi bug‘ bosimi 65 кгс/см 2 bo‘lganda amalga oshiriladi.",
+      "html": "<div data-block-id=\"block-0022\"><p align=\"justify\" lang=\"uz-Latn\">Klapanlar zichligini tekshirish yangi bug‘ bosimi 65 кгс/см 2 bo‘lganda amalga oshiriladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "3. Rostlash klapanlari zichligini tekshirish. Tekshirish tartibi:",
+      "html": "<div data-block-id=\"block-0023\"><p align=\"justify\" lang=\"uz-Latn\">3. Rostlash klapanlari zichligini tekshirish. Tekshirish tartibi:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-002"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "3.1. ТГ ishga tushirish moy nasosi (ПМН) ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi. МУТga ta’sir qilib ТГ rotorlari aylanish chastotasini 3000 об/мин nominal qiymatgacha ko‘tarish.",
+      "html": "<div data-block-id=\"block-0024\"><p align=\"justify\" lang=\"uz-Latn\">3.1. ТГ ishga tushirish moy nasosi (ПМН) ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi. МУТga ta’sir qilib ТГ rotorlari aylanish chastotasini 3000 об/мин nominal qiymatgacha ko‘tarish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "3.2. Nominal aylanish chastotasida qo‘lda yoki masofadan o‘chirish tugmasiga ta’sir qilish orqali ВД va СД to‘xtatish hamda rostlash klapanlari yopiladi. Bir vaqtda ГПЗ va ularning baypaslari yopiladi. To‘xtatish klapanigacha va undan keyingi drenajlar ochiladi, ХПП surma klapanlari yopiq.",
+      "html": "<div data-block-id=\"block-0025\"><p align=\"justify\" lang=\"uz-Latn\">3.2. Nominal aylanish chastotasida qo‘lda yoki masofadan o‘chirish tugmasiga ta’sir qilish orqali ВД va СД to‘xtatish hamda rostlash klapanlari yopiladi. Bir vaqtda ГПЗ va ularning baypaslari yopiladi. To‘xtatish klapanigacha va undan keyingi drenajlar ochiladi, ХПП surma klapanlari yopiq.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "3.3. Rotor aylanish chastotasi 800 об/мин bo‘lganda БРОУ-2ni qisman yopish orqali o‘rta bosim blok-klapanlari oldidagi bug‘ bosimi 29 кгс/см 2 gacha ko‘tariladi.",
+      "html": "<div data-block-id=\"block-0026\"><p align=\"justify\" lang=\"uz-Latn\">3.3. Rotor aylanish chastotasi 800 об/мин bo‘lganda БРОУ-2ni qisman yopish orqali o‘rta bosim blok-klapanlari oldidagi bug‘ bosimi 29 кгс/см 2 gacha ko‘tariladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "3.4. Agar rotor aylanish chastotasi 300 об/мин gacha pasaysa, o‘rta bosim to‘xtatish va rostlash klapanlari zich hisoblanadi.",
+      "html": "<div data-block-id=\"block-0027\"><p align=\"justify\" lang=\"uz-Latn\">3.4. Agar rotor aylanish chastotasi 300 об/мин gacha pasaysa, o‘rta bosim to‘xtatish va rostlash klapanlari zich hisoblanadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "3.5. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2 gacha pasaytiriladi, СД to‘xtatish klapanlari va ВД to‘xtatish klapani ochiladi.",
+      "html": "<div data-block-id=\"block-0028\"><p align=\"justify\" lang=\"uz-Latn\">3.5. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2 gacha pasaytiriladi, СД to‘xtatish klapanlari va ВД to‘xtatish klapani ochiladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "3.6. ВД rostlash klapanlari zichligini tekshirishda turbinani boshqarish mexanizmiga (МУТ) ta’sir qilib СД rostlash klapanlarini qisqa muddat ochish orqali rotor aylanish chastotasi 400-500 об/мин gacha oshiriladi. СД klapanlari oldidagi bug‘ bosimi minimumgacha pasaytiriladi.",
+      "html": "<div data-block-id=\"block-0029\"><p align=\"justify\" lang=\"uz-Latn\">3.6. ВД rostlash klapanlari zichligini tekshirishda turbinani boshqarish mexanizmiga (МУТ) ta’sir qilib СД rostlash klapanlarini qisqa muddat ochish orqali rotor aylanish chastotasi 400-500 об/мин gacha oshiriladi. СД klapanlari oldidagi bug‘ bosimi minimumgacha pasaytiriladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "3.7. ГПЗ baypaslari ochiladi va rostlash pog‘onasi kamerasi hamda taqsimlash diafragmasi oldidagi bosim nazorat qilinadi. Rostlash pog‘onasi kamerasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi, rostlash klapanlari zich emas deb hisoblanadi va tekshirish to‘xtatiladi. Rotor aylanish chastotasi 300 об/мин gacha pasaysa, ВД rostlash klapanlari zich hisoblanadi.",
+      "html": "<div data-block-id=\"block-0030\"><p align=\"justify\" lang=\"uz-Latn\">3.7. ГПЗ baypaslari ochiladi va rostlash pog‘onasi kamerasi hamda taqsimlash diafragmasi oldidagi bosim nazorat qilinadi. Rostlash pog‘onasi kamerasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi, rostlash klapanlari zich emas deb hisoblanadi va tekshirish to‘xtatiladi. Rotor aylanish chastotasi 300 об/мин gacha pasaysa, ВД rostlash klapanlari zich hisoblanadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "4. ВД to‘xtatish klapani zichligini sinashda quyidagilarni bajarish zarur:",
+      "html": "<div data-block-id=\"block-0031\"><p align=\"justify\" lang=\"uz-Latn\">4. ВД to‘xtatish klapani zichligini sinashda quyidagilarni bajarish zarur:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-003"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "4.1. ТГ ПМН ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi.",
+      "html": "<div data-block-id=\"block-0032\"><p align=\"justify\" lang=\"uz-Latn\">4.1. ТГ ПМН ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "4.2. To‘xtatish klapanini to‘liq yuritish ventilini to‘liq ochish va uning to‘liq yopilganiga ishonch hosil qilish.",
+      "html": "<div data-block-id=\"block-0033\"><p align=\"justify\" lang=\"uz-Latn\">4.2. To‘xtatish klapanini to‘liq yuritish ventilini to‘liq ochish va uning to‘liq yopilganiga ishonch hosil qilish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "4.3. СД ichki rostlash klapanlari servomotorlarining ish liniyalaridagi tiqinli kranlarni yopish.",
+      "html": "<div data-block-id=\"block-0034\"><p align=\"justify\" lang=\"uz-Latn\">4.3. СД ichki rostlash klapanlari servomotorlarining ish liniyalaridagi tiqinli kranlarni yopish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "4.4. МУТga ta’sir qilib ВД rostlash klapanlari servomotorini 150 мм ga ochish.",
+      "html": "<div data-block-id=\"block-0035\"><p align=\"justify\" lang=\"uz-Latn\">4.4. МУТga ta’sir qilib ВД rostlash klapanlari servomotorini 150 мм ga ochish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "4.5. ГПЗ oldidagi bug‘ bosimi 65 кгс/см 2.",
+      "html": "<div data-block-id=\"block-0036\"><p align=\"justify\" lang=\"uz-Latn\">4.5. ГПЗ oldidagi bug‘ bosimi 65 кгс/см 2.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "4.6. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2.",
+      "html": "<div data-block-id=\"block-0037\"><p align=\"justify\" lang=\"uz-Latn\">4.6. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "4.7. Tiqinli kranlar yordamida СД rostlash klapanlarini qisqa muddat 15-20 мм ga ochib, aylanish chastotasini 400-500 об/мин qilib o‘rnatish.",
+      "html": "<div data-block-id=\"block-0038\"><p align=\"justify\" lang=\"uz-Latn\">4.7. Tiqinli kranlar yordamida СД rostlash klapanlarini qisqa muddat 15-20 мм ga ochib, aylanish chastotasini 400-500 об/мин qilib o‘rnatish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "4.8. ГПЗ baypaslarini ochish va rostlash pog‘onasi kamerasidagi bosimni nazorat qilish. Bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypasi yopiladi va to‘xtatish klapanlari zich emas deb hisoblanadi. Aylanish chastotasi 300 об/мин gacha pasaysa, to‘xtatish klapanlari zich hisoblanadi.",
+      "html": "<div data-block-id=\"block-0039\"><p align=\"justify\" lang=\"uz-Latn\">4.8. ГПЗ baypaslarini ochish va rostlash pog‘onasi kamerasidagi bosimni nazorat qilish. Bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypasi yopiladi va to‘xtatish klapanlari zich emas deb hisoblanadi. Aylanish chastotasi 300 об/мин gacha pasaysa, to‘xtatish klapanlari zich hisoblanadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "paragraph",
+      "text": "5. To‘xtatish va rostlash klapanlari zichligini tekshirishda xavfsizlik texnikasi:",
+      "html": "<div data-block-id=\"block-0040\"><p align=\"justify\" lang=\"uz-Latn\">5. To‘xtatish va rostlash klapanlari zichligini tekshirishda xavfsizlik texnikasi:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-004"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "5.1. Tekshirishda qatnashuvchi xodimlarga yo‘riqnoma berish va jurnalga qayd etish.",
+      "html": "<div data-block-id=\"block-0041\"><p align=\"justify\" lang=\"uz-Latn\">5.1. Tekshirishda qatnashuvchi xodimlarga yo‘riqnoma berish va jurnalga qayd etish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "5.2. Tekshirishda qatnashmaydigan xodimlarni turbinaning mahalliy boshqaruv shchitidan chiqarish.",
+      "html": "<div data-block-id=\"block-0042\"><p align=\"justify\" lang=\"uz-Latn\">5.2. Tekshirishda qatnashmaydigan xodimlarni turbinaning mahalliy boshqaruv shchitidan chiqarish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "Xavfsizlik texnikasi qoidalariga rioya etish uchun javobgarlik КТЦ-1 boshlig‘i yoki uning o‘rinbosariga yuklanadi.",
+      "html": "<div data-block-id=\"block-0043\"><p align=\"justify\" lang=\"uz-Latn\">Xavfsizlik texnikasi qoidalariga rioya etish uchun javobgarlik КТЦ-1 boshlig‘i yoki uning o‘rinbosariga yuklanadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "paragraph",
+      "text": "6. Operativ xodimlarni joylarga taqsimlash.",
+      "html": "<div data-block-id=\"block-0044\"><p align=\"justify\" lang=\"uz-Latn\">6. Operativ xodimlarni joylarga taqsimlash.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-005"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0045",
+      "type": "paragraph",
+      "text": "6.1. ТГ ko‘rikchisi — 9 м belgisida va turbinaning mahalliy shchiti yonida.",
+      "html": "<div data-block-id=\"block-0045\"><p align=\"justify\" lang=\"uz-Latn\">6.1. ТГ ko‘rikchisi — 9 м belgisida va turbinaning mahalliy shchiti yonida.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0046",
+      "type": "paragraph",
+      "text": "6.2. Qozon bo‘yicha ko‘rikchi — qozonning 2 yarusida.",
+      "html": "<div data-block-id=\"block-0046\"><p align=\"justify\" lang=\"uz-Latn\">6.2. Qozon bo‘yicha ko‘rikchi — qozonning 2 yarusida.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0047",
+      "type": "paragraph",
+      "text": "6.3. Blok mashinisti — БЩУda qozonni boshqarish kalitlari yonida.",
+      "html": "<div data-block-id=\"block-0047\"><p align=\"justify\" lang=\"uz-Latn\">6.3. Blok mashinisti — БЩУda qozonni boshqarish kalitlari yonida.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0048",
+      "type": "paragraph",
+      "text": "6.4. Katta mashinist — БЩУda turbinani boshqarish kalitlari yonida.",
+      "html": "<div data-block-id=\"block-0048\"><p align=\"justify\" lang=\"uz-Latn\">6.4. Katta mashinist — БЩУda turbinani boshqarish kalitlari yonida.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0049",
+      "type": "paragraph",
+      "text": "6.5. Smena boshlig‘i — БЩУ aloqa pulti yonida.",
+      "html": "<div data-block-id=\"block-0049\"><p align=\"justify\" lang=\"uz-Latn\">6.5. Smena boshlig‘i — БЩУ aloqa pulti yonida.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0050",
+      "type": "paragraph",
+      "text": "6.6. Sinovning mas’ul rahbari — ТГning 9 м belgisida.",
+      "html": "<div data-block-id=\"block-0050\"><p align=\"justify\" lang=\"uz-Latn\">6.6. Sinovning mas’ul rahbari — ТГning 9 м belgisida.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0051",
+      "type": "paragraph",
+      "text": "Blok katta mashinisti turbogenerator uskunasining ishlashini nazorat qiladi, mas’ul rahbar buyrug‘i bilan БРОУ-1,2ni, to‘xtatish klapani va blok-klapanlarni yuritish qurilmasini ishga tushiradi; blok mashinisti qozon parametrlarini nazorat qiladi va saqlab turadi.",
+      "html": "<div data-block-id=\"block-0051\"><p align=\"justify\" lang=\"uz-Latn\">Blok katta mashinisti turbogenerator uskunasining ishlashini nazorat qiladi, mas’ul rahbar buyrug‘i bilan БРОУ-1,2ni, to‘xtatish klapani va blok-klapanlarni yuritish qurilmasini ishga tushiradi; blok mashinisti qozon parametrlarini nazorat qiladi va saqlab turadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0052",
+      "type": "paragraph",
+      "text": "Smena boshlig‘i turbina aylanishlari qiymatini taxometr bo‘yicha qayd etadi. ТГ ko‘rikchisi kondensatordagi vakuumni saqlaydi. Mas’ul rahbar buyrug‘i bilan ТГ drenajlari va ГПЗ baypasini ochadi hamda yopadi.",
+      "html": "<div data-block-id=\"block-0052\"><p align=\"justify\" lang=\"uz-Latn\">Smena boshlig‘i turbina aylanishlari qiymatini taxometr bo‘yicha qayd etadi. ТГ ko‘rikchisi kondensatordagi vakuumni saqlaydi. Mas’ul rahbar buyrug‘i bilan ТГ drenajlari va ГПЗ baypasini ochadi hamda yopadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0053",
+      "type": "paragraph",
+      "text": "Sinovlarning mas’ul rahbari turbinaning mahalliy shchitida bo‘ladi va turbina aylanishlarini kuzatadi.",
+      "html": "<div data-block-id=\"block-0053\"><p align=\"justify\" lang=\"uz-Latn\">Sinovlarning mas’ul rahbari turbinaning mahalliy shchitida bo‘ladi va turbina aylanishlarini kuzatadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0054",
+      "type": "paragraph",
+      "text": "7. Avariya vaziyatlarida operativ xodimlarning harakatlari:",
+      "html": "<div data-block-id=\"block-0054\"><p align=\"justify\" lang=\"uz-Latn\">7. Avariya vaziyatlarida operativ xodimlarning harakatlari:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-006"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0055",
+      "type": "paragraph",
+      "text": "— rotor aylanish chastotasi 3360 об/мин dan oshganda himoya qurilmasiga masofadan yoki joyida ta’sir qilib turbinaga bug‘ kirishini to‘xtatish;",
+      "html": "<div data-block-id=\"block-0055\"><p align=\"justify\" lang=\"uz-Latn\">— rotor aylanish chastotasi 3360 об/мин dan oshganda himoya qurilmasiga masofadan yoki joyida ta’sir qilib turbinaga bug‘ kirishini to‘xtatish;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0056",
+      "type": "paragraph",
+      "text": "— tekshirish vaqtida ГПЗ baypasi ochilgach rostlash pog‘onasi kamerasi va ajratish diafragmasi oldidagi bosim nazorat qilinadi.",
+      "html": "<div data-block-id=\"block-0056\"><p align=\"justify\" lang=\"uz-Latn\">— tekshirish vaqtida ГПЗ baypasi ochilgach rostlash pog‘onasi kamerasi va ajratish diafragmasi oldidagi bosim nazorat qilinadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0057",
+      "type": "paragraph",
+      "text": "— rostlash pog‘onasi kamerasi yoki ajratish diafragmasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi va БРОУ ochiladi.",
+      "html": "<div data-block-id=\"block-0057\"><p align=\"justify\" lang=\"uz-Latn\">— rostlash pog‘onasi kamerasi yoki ajratish diafragmasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi va БРОУ ochiladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0058",
+      "type": "paragraph",
+      "text": "7.1. ТГ ko‘rikchisi turbinaga bug‘ kirishini to‘xtatadi va ТГ drenajlarini ochadi.",
+      "html": "<div data-block-id=\"block-0058\"><p align=\"justify\" lang=\"uz-Latn\">7.1. ТГ ko‘rikchisi turbinaga bug‘ kirishini to‘xtatadi va ТГ drenajlarini ochadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0059",
+      "type": "paragraph",
+      "text": "7.2. Katta mashinist БРОУni ishga tushiradi, zarur bo‘lsa ИПУ-2ni ochadi.",
+      "html": "<div data-block-id=\"block-0059\"><p align=\"justify\" lang=\"uz-Latn\">7.2. Katta mashinist БРОУni ishga tushiradi, zarur bo‘lsa ИПУ-2ni ochadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0060",
+      "type": "paragraph",
+      "text": "7.3. Sinovning mas’ul rahbari ГАБni urib o‘chiradi.",
+      "html": "<div data-block-id=\"block-0060\"><p align=\"justify\" lang=\"uz-Latn\">7.3. Sinovning mas’ul rahbari ГАБni urib o‘chiradi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0061",
+      "type": "paragraph",
+      "text": "7.4. Blok mashinisti qozonni o‘chiradi.",
+      "html": "<div data-block-id=\"block-0061\"><p align=\"justify\" lang=\"uz-Latn\">7.4. Blok mashinisti qozonni o‘chiradi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0062",
+      "type": "paragraph",
+      "text": "Klapanlarning bug‘ zichligini aniqlash bo‘yicha 8-sinovga КТЦ-1 boshlig‘i yoki uning o‘rinbosari rahbarlik qiladi.",
+      "html": "<div data-block-id=\"block-0062\"><p align=\"justify\" lang=\"uz-Latn\">Klapanlarning bug‘ zichligini aniqlash bo‘yicha 8-sinovga КТЦ-1 boshlig‘i yoki uning o‘rinbosari rahbarlik qiladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-007"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0063",
+      "type": "image",
+      "text": "",
+      "html": "<p data-block-id=\"block-0063\" style=\"margin-bottom: 0in\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_31ddd917.gif\" height=\"58\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-002.gif\" width=\"147\"/>\n<br/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0064",
+      "type": "paragraph",
+      "text": "Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov СНТБ boshlig‘i B.B. Nurdinov КТЦ-1 boshlig‘i U.L. Majlimov ЦТКА boshlig‘i R.K. Baymatov «UET» uchastkasi ishlari rahbari A. Mamirov «O‘zenergosozlash» yetakchi muhandisi F.F. Umerov",
+      "html": "<div align=\"right\" data-block-id=\"block-0064\">\n<table cellpadding=\"7\" cellspacing=\"0\" width=\"691\">\n<col width=\"456\"/>\n<col width=\"207\"/>\n<tr valign=\"top\">\n<td height=\"36\" style=\"border: none; padding: 0in\" width=\"456\"><p class=\"western\" lang=\"uz-Latn\">\n<font size=\"3\" style=\"font-size: 13pt\">З<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_64e44389.gif\" height=\"67\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-003.gif\" width=\"88\"/>\nам.\n\t\t\t\tтех.директора по тепломеханической\n\t\t\t\tчасти</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"uz-Latn\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">Б.Р. Исмоилов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"uz-Latn\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_50379ea0.png\" height=\"53\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-004.png\" width=\"86\"/>\nачальник\n\t\t\t\tСНТБ</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"uz-Latn\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">Б.Б. Нурдинов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"uz-Latn\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_563ac4f5.jpg\" height=\"47\" loading=\"lazy\" name=\"Рисунок 13\" src=\"assets/image-005.jpg\" width=\"109\"/>\nачальник\n\t\t\t\tКТЦ-1</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"uz-Latn\" style=\"text-indent: 0.43in; margin-left: 0.01in\">\n<font size=\"3\" style=\"font-size: 13pt\">У.Л. Мажлимов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"uz-Latn\">\n<font size=\"3\" style=\"font-size: 13pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_dc635daa.gif\" height=\"65\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-006.gif\" width=\"98\"/>\nачальника\n\t\t\t\tЦТКА</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"uz-Latn\" style=\"text-indent: 0.43in; margin-left: 0.03in\">\n<font size=\"3\" style=\"font-size: 13pt\">Р. К. Байматов</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td height=\"33\" style=\"border: none; padding: 0in\" width=\"456\"><p align=\"justify\" class=\"western\" lang=\"uz-Latn\" style=\"margin-right: -0.04in\">\n<font size=\"3\" style=\"font-size: 13pt\">Руководитель\n\t\t\t\tработ. уч-ка «УЭТ»</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p align=\"justify\" class=\"western\" lang=\"uz-Latn\" style=\"margin-right: -0.04in\">\n<font size=\"3\" style=\"font-size: 13pt\">А. Мамиров</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td height=\"33\" style=\"border: none; padding: 0in\" width=\"456\"><p class=\"western\" lang=\"uz-Latn\">\n<font size=\"3\" style=\"font-size: 13pt\">Ведущий инженер\n\t\t\t\t«Узэнергосозлаш»</font></p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"uz-Latn\">\n<font size=\"3\" style=\"font-size: 13pt\">Ф.Ф.Умеров</font></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td height=\"33\" style=\"border: none; padding: 0in\" width=\"456\"><p class=\"western\" lang=\"uz-Latn\">\n<br/>\n</p>\n</td>\n<td style=\"border: none; padding: 0in\" width=\"207\"><p class=\"western\" lang=\"uz-Latn\">\n<br/>\n</p>\n</td>\n</tr>\n</table>\n</div>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0065",
+      "type": "paragraph",
+      "text": "Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev",
+      "html": "<div data-block-id=\"block-0065\"><p align=\"inherit\" lang=\"uz-Latn\">Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0066",
+      "type": "image",
+      "text": "",
+      "html": "<p data-block-id=\"block-0066\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><img align=\"bottom\" alt=\"Shape1\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_78f2f4e4.gif\" height=\"973\" loading=\"lazy\" name=\"Shape1\" src=\"assets/image-007.gif\" width=\"811\"/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0067",
+      "type": "image",
+      "text": "",
+      "html": "<p data-block-id=\"block-0067\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><img align=\"bottom\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D0%BF_%D0%B8_%D1%80%D0%B5%D0%B3_%D0%BA%D0%BB%D0%B0%D0%BF_%D0%A2%D0%93_2025_html_9e0aee27.gif\" height=\"921\" loading=\"lazy\" name=\"Image6\" src=\"assets/image-008.gif\" width=\"652\"/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "клапанов",
+    "пара",
+    "плотности",
+    "регулирующих",
+    "клапана",
+    "давления",
+    "кгс",
+    "гпз",
+    "давление",
+    "вращения",
+    "мин",
+    "стопорные",
+    "среднего",
+    "блока",
+    "стопорного",
+    "проверке",
+    "турбины",
+    "клапаны",
+    "машинист",
+    "проверка",
+    "испытания",
+    "клапанами",
+    "байпасы",
+    "считаются",
+    "камере",
+    "регулирующей",
+    "ступени",
+    "проверить",
+    "ответственный",
+    "начальник",
+    "ктц-1",
+    "воздействием",
+    "регулирующие",
+    "ротора",
+    "частота"
+  ],
+  "statistics": {
+    "blocks": 67,
+    "sections": 7,
+    "tables": 1,
+    "images": 8,
+    "pdfPages": 6
+  },
+  "integrity": {
+    "originalSha256": "aa635581512a0fb73fa3fb55187e91c6bcea60f79fedf491ff0a94fe1797fcba",
+    "sourceDocxStats": {
+      "paragraphs": 133,
+      "tables": 1,
+      "media": 8,
+      "textChars": 6424
+    },
+    "htmlTextChars": 6683,
+    "textLengthRatio": 1.04,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/proverka-plotnosti-stop-i-reg-klap-tg-2025/",
+  "searchMetadata": {
+    "keywords": [
+      "klapan zichligini tekshirish",
+      "to‘xtatish klapani",
+      "rostlash klapani",
+      "bug‘ zichligi",
+      "rotor aylanish chastotasi"
+    ],
+    "aliases": [
+      "ТГ klapanlari",
+      "ВД klapanlari",
+      "СД klapanlari",
+      "klapan germetikligi"
+    ],
+    "searchText": "ТГ TO‘XTATISH VA ROSTLASH KLAPANLARI ZICHLIGINI TEKSHIRISH NAMUNAVIY DASTURI 2-blok o‘rta ta’miridan keyin ТГ yuqori va o‘rta bosimli to‘xtatish hamda rostlash klapanlari bug‘ zichligini tekshirish tartibi. TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» V.V. Pak NAMUNAVIY DASTUR ТГ to‘xtatish va rostlash klapanlari zichligini tekshirish 2-blok o‘rta ta’miridan keyin Sinovning maqsadi №2 blok o‘rta ta’miridan keyin ТГ yuqori bosim to‘xtatish klapani, yuqori bosim rostlash klapanlari hamda o‘rta bosim to‘xtatish va rostlash klapanlarining zichligini aniqlashdan iborat. 1. К-160-130 ХТГЗ turbinasida yuqori bosim (ВД) klapanlari zichligi ularning oldidagi yangi bug‘ bosimi 65-130 кгс/см 2 bo‘lganda, o‘rta bosim (СД) klapanlari esa ularning oldidagi bug‘ bosimi kamida 20 кгс/см 2 bo‘lganda tekshiriladi. Avval СД klapanlarining, so‘ngra ВД klapanlarining zichligi tekshiriladi. Turbina СД klapanlarining bug‘ zichligini tekshirishda СД klapanlari oldidagi zarur bug‘ bosimi БРОУ-1ni ochish orqali ta’minlanadi. ВД klapanlari zichligini tekshirish uchun zarur yangi bug‘ bosimi qozonga beriladigan suv va yoqilg‘i sarfini tuzatish hisobiga o‘rnatiladi. 2. Uskunani ishlarni bajarishga tayyorlash tadbirlari: 2.1. ВД va СД rostlash klapanlarining ravon harakatlanishini tekshirish. 2.2. Olib ketish liniyalarining teskari klapanlarini (КОС) yopish. 2.3. Zaxira va ishga tushirish moy nasoslarining ishga tushirishga tayyorligini tekshirish. 2.4. ГПЗ va ularning baypaslari elektr yuritmasining soz ishlashini tekshirish. 2.5. Rostlash va moylash tizimidagi moy haroratining zavod ma’lumotlariga muvofiqligini tekshirish. Moy harorati 40-43ºС bo‘lishi kerak. 2.6. Sinovni o‘tkazish oldindan НСС bilan kelishiladi. 2.7. Sinov boshlanishidan oldin sinovda qatnashuvchi xodimlarga yo‘riqnoma berish va yo‘riqnoma jurnaliga qayd etish. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari. Klapanlar zichligini tekshirish yangi bug‘ bosimi 65 кгс/см 2 bo‘lganda amalga oshiriladi. 3. Rostlash klapanlari zichligini tekshirish. Tekshirish tartibi: 3.1. ТГ ishga tushirish moy nasosi (ПМН) ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi. МУТga ta’sir qilib ТГ rotorlari aylanish chastotasini 3000 об/мин nominal qiymatgacha ko‘tarish. 3.2. Nominal aylanish chastotasida qo‘lda yoki masofadan o‘chirish tugmasiga ta’sir qilish orqali ВД va СД to‘xtatish hamda rostlash klapanlari yopiladi. Bir vaqtda ГПЗ va ularning baypaslari yopiladi. To‘xtatish klapanigacha va undan keyingi drenajlar ochiladi, ХПП surma klapanlari yopiq. 3.3. Rotor aylanish chastotasi 800 об/мин bo‘lganda БРОУ-2ni qisman yopish orqali o‘rta bosim blok-klapanlari oldidagi bug‘ bosimi 29 кгс/см 2 gacha ko‘tariladi. 3.4. Agar rotor aylanish chastotasi 300 об/мин gacha pasaysa, o‘rta bosim to‘xtatish va rostlash klapanlari zich hisoblanadi. 3.5. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2 gacha pasaytiriladi, СД to‘xtatish klapanlari va ВД to‘xtatish klapani ochiladi. 3.6. ВД rostlash klapanlari zichligini tekshirishda turbinani boshqarish mexanizmiga (МУТ) ta’sir qilib СД rostlash klapanlarini qisqa muddat ochish orqali rotor aylanish chastotasi 400-500 об/мин gacha oshiriladi. СД klapanlari oldidagi bug‘ bosimi minimumgacha pasaytiriladi. 3.7. ГПЗ baypaslari ochiladi va rostlash pog‘onasi kamerasi hamda taqsimlash diafragmasi oldidagi bosim nazorat qilinadi. Rostlash pog‘onasi kamerasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi, rostlash klapanlari zich emas deb hisoblanadi va tekshirish to‘xtatiladi. Rotor aylanish chastotasi 300 об/мин gacha pasaysa, ВД rostlash klapanlari zich hisoblanadi. 4. ВД to‘xtatish klapani zichligini sinashda quyidagilarni bajarish zarur: 4.1. ТГ ПМН ishga tushiriladi va ВД hamda СД to‘xtatish klapanlari ish holatiga keltiriladi. 4.2. To‘xtatish klapanini to‘liq yuritish ventilini to‘liq ochish va uning to‘liq yopilganiga ishonch hosil qilish. 4.3. СД ichki rostlash klapanlari servomotorlarining ish liniyalaridagi tiqinli kranlarni yopish. 4.4. МУТga ta’sir qilib ВД rostlash klapanlari servomotorini 150 мм ga ochish. 4.5. ГПЗ oldidagi bug‘ bosimi 65 кгс/см 2. 4.6. СД klapanlari oldidagi bug‘ bosimi 11 кгс/см 2. 4.7. Tiqinli kranlar yordamida СД rostlash klapanlarini qisqa muddat 15-20 мм ga ochib, aylanish chastotasini 400-500 об/мин qilib o‘rnatish. 4.8. ГПЗ baypaslarini ochish va rostlash pog‘onasi kamerasidagi bosimni nazorat qilish. Bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypasi yopiladi va to‘xtatish klapanlari zich emas deb hisoblanadi. Aylanish chastotasi 300 об/мин gacha pasaysa, to‘xtatish klapanlari zich hisoblanadi. 5. To‘xtatish va rostlash klapanlari zichligini tekshirishda xavfsizlik texnikasi: 5.1. Tekshirishda qatnashuvchi xodimlarga yo‘riqnoma berish va jurnalga qayd etish. 5.2. Tekshirishda qatnashmaydigan xodimlarni turbinaning mahalliy boshqaruv shchitidan chiqarish. Xavfsizlik texnikasi qoidalariga rioya etish uchun javobgarlik КТЦ-1 boshlig‘i yoki uning o‘rinbosariga yuklanadi. 6. Operativ xodimlarni joylarga taqsimlash. 6.1. ТГ ko‘rikchisi — 9 м belgisida va turbinaning mahalliy shchiti yonida. 6.2. Qozon bo‘yicha ko‘rikchi — qozonning 2 yarusida. 6.3. Blok mashinisti — БЩУda qozonni boshqarish kalitlari yonida. 6.4. Katta mashinist — БЩУda turbinani boshqarish kalitlari yonida. 6.5. Smena boshlig‘i — БЩУ aloqa pulti yonida. 6.6. Sinovning mas’ul rahbari — ТГning 9 м belgisida. Blok katta mashinisti turbogenerator uskunasining ishlashini nazorat qiladi, mas’ul rahbar buyrug‘i bilan БРОУ-1,2ni, to‘xtatish klapani va blok-klapanlarni yuritish qurilmasini ishga tushiradi; blok mashinisti qozon parametrlarini nazorat qiladi va saqlab turadi. Smena boshlig‘i turbina aylanishlari qiymatini taxometr bo‘yicha qayd etadi. ТГ ko‘rikchisi kondensatordagi vakuumni saqlaydi. Mas’ul rahbar buyrug‘i bilan ТГ drenajlari va ГПЗ baypasini ochadi hamda yopadi. Sinovlarning mas’ul rahbari turbinaning mahalliy shchitida bo‘ladi va turbina aylanishlarini kuzatadi. 7. Avariya vaziyatlarida operativ xodimlarning harakatlari: — rotor aylanish chastotasi 3360 об/мин dan oshganda himoya qurilmasiga masofadan yoki joyida ta’sir qilib turbinaga bug‘ kirishini to‘xtatish; — tekshirish vaqtida ГПЗ baypasi ochilgach rostlash pog‘onasi kamerasi va ajratish diafragmasi oldidagi bosim nazorat qilinadi. — rostlash pog‘onasi kamerasi yoki ajratish diafragmasidagi bosim 4 кгс/см 2 gacha ko‘tarilsa, ГПЗ baypaslari yopiladi va БРОУ ochiladi. 7.1. ТГ ko‘rikchisi turbinaga bug‘ kirishini to‘xtatadi va ТГ drenajlarini ochadi. 7.2. Katta mashinist БРОУni ishga tushiradi, zarur bo‘lsa ИПУ-2ni ochadi. 7.3. Sinovning mas’ul rahbari ГАБni urib o‘chiradi. 7.4. Blok mashinisti qozonni o‘chiradi. Klapanlarning bug‘ zichligini aniqlash bo‘yicha 8-sinovga КТЦ-1 boshlig‘i yoki uning o‘rinbosari rahbarlik qiladi.  Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov СНТБ boshlig‘i B.B. Nurdinov КТЦ-1 boshlig‘i U.L. Majlimov ЦТКА boshlig‘i R.K. Baymatov «UET» uchastkasi ishlari rahbari A. Mamirov «O‘zenergosozlash» yetakchi muhandisi F.F. Umerov Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev  "
+  }
+}

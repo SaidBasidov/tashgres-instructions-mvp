@@ -1,0 +1,551 @@
+{
+  "id": "prog-provedeniya-nastroyki-ipu-2026",
+  "code": "",
+  "title": "ТИПОВАЯ-ПРОГРАММА",
+  "summary": "ТИПОВАЯ-ПРОГРАММА\nпроведения настройки импульсных предохранительных устройств котла\nэнергоблока после ремонта\nЦелью испытания является опробование под давлением и подготовка ТГ на холостой ход.\nОРГАНИЗАЦИОННЫЕ ВОПРОСЫ\nДля проведения настройки импульсных предохранительных устройств котла и холостого хода ТГ необходимо произвести поузловую приемку оборудования и опробование его в работе. На период парового опробования котла и пуска на холостой ход ремонтная организация обеспечивает:\nкруглосуточное",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "прог_проведения_настройки_ИПУ_2026.docx",
+  "sourceFormat": "docx",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/prog-provedeniya-nastroyki-ipu-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 1in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }\n\t\tp { direction: ltr; margin-bottom: 0.1in; orphans: 2; text-align: left; line-height: 115%; widows: 2; font-size: 11pt; background: transparent }\n\t",
+  "originalFile": {
+    "name": "прог_проведения_настройки_ИПУ_2026.docx",
+    "path": "documents/prog-provedeniya-nastroyki-ipu-2026/original.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "extension": "docx"
+  },
+  "previewFile": {
+    "name": "прог_проведения_настройки_ИПУ_2026.pdf",
+    "path": "documents/prog-provedeniya-nastroyki-ipu-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": null,
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "2",
+      "title": "ОСНОВНЫЕ ЗАДАЧИ",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036",
+        "block-0037",
+        "block-0038",
+        "block-0039",
+        "block-0040"
+      ],
+      "text": "2. ОСНОВНЫЕ ЗАДАЧИ\nПроверка плотности элементов котла и системы промперегрева, работающих под давлением. Регулировка предохранительных клапанов высокого давления и горячего промперегрева. Пуск турбогенератора на холостой ход.\n3.ПОРЯДОК ОПЕРАЦИИ\n3.1. Питание котла при растопке производится питательной водой по перемычке от работающего блока, через линии питания котла Ду-100 на СУПе на котёл и при необходимости собственным питательным насосом.\n3.2. Растопка котла и подъем давления производится в соответствии с эксплуатационной инструкцией.\n3.3. В период растопки котла сброс пара осуществляется сначала через продувку паропроводов, а затем через БРОУ в конденсатор турбины.\n3.4. При разобранной электросхеме предохранительных клапанов производится продувка импульсных линий при давлении в барабане котла 60-80 ата.\n3.5. Проверяется срабатывание рабочих и контрольных клапанов при разобранной электросхеме ИПУ-1А и Б.\n3.6. Поднимается давление в барабане котла до 151 ати и регулируется срабатывание клапанов от грузовой системы.\n3.7. Проверяется срабатывание клапанов ИПУ-1 от ЭКМ, подрыв клапанов при Р=151 ати. Для этого собирается электросхема ИПУ-1А. Посадка при Р= 142 ати.\n3.8. Поднимается давление до 167 ати и регулируется срабатывание клапанов ИПУ-1 Б от грузовой системы.\n3.9. Собирается электросхема ИПУ-1 Б и подъемом давления в барабане котла проверяется срабатывание ИПУ-1Б от ЭКМ; подрыв клапанов при Р=167 ати и посадка Р=157 ати.\n3.10. После проверки клапанов ИПУ-1 А, 1Б снижается давление в барабане котла до 50ати.\n3.11. Медленным прикрытием БРОУ-2 повышается давление в горячем промперегреве до 25 ати, продуваются импульсные линии.\n3.12. Поднимается давление до 31,5 ати, осуществляется настройка и проверяется срабатывание ИПУ-2 от грузовой системы.\n3.13. Собирается электросхема ИПУ-2 и подъемом давления в трубопроводах ГПП и ХПП проверяется срабатывание ИПУ-2 от ЭКМ. С работы в 31,5 посадка при 27 атм.\n3.14. После опробования предохранительных клапанов котла и при положительных результатах их опробования, давление в барабане понижается до 30 ати и персонал приступает к подготовке пуска турбины на холостой ход согласно эксплуатационной инструкции.\n3.15. При достижении полных оборотов турбины, производится проверка работоспособности главного маслонасоса турбины, испытание автоматов безопасности маслом и разгоном, наладка регулирования по специальной программе.\n3.16. При положительных результатах опробования, турбогенератор остается в работе на холостом ходу для производства электроиспытаний генератора.\nЗАМ.ТЕХНИЧЕСКОГО ДИРЕКТОРА ПО ТМО Б.Р. ИСМОИЛОВ\nН АЧАЛЬНИК КТЦ-1 М.М. МАЖЛИМОВ\nНАЧАЛЬНИК КТЦ-2 М.М. МАХКАМОВ\nНАЧАЛЬНИК ЦТКА Р.К. БАЙМАТОВ\nНАЧАЛЬНИК ЭЛЕКТРОЦЕХА М.Д. КЕНЖИБАЕВ\nНАЧАЛЬНИК ЛАБ.МЕТАЛЛОВ Л.У. ЭШОНКУЛОВ\nН АЧАЛЬНИК ЦЦР Т.А. ВАЛИЕВ",
+      "keywords": [
+        "котла",
+        "клапанов",
+        "ати",
+        "срабатывание",
+        "давление",
+        "барабане",
+        "проверяется",
+        "системы",
+        "давления",
+        "турбины",
+        "ипу-1",
+        "начальник",
+        "предохранительных",
+        "через",
+        "поднимается"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<p align=\"right\" data-block-id=\"block-0001\" style=\"margin-bottom: 0in\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">УТВЕРЖДАЮ</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" data-block-id=\"block-0002\" style=\"margin-bottom: 0in\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО «ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" data-block-id=\"block-0003\" style=\"margin-bottom: 0in\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">АО\n«ТАШКЕНТСКАЯ ТЭС»\t</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. ПАК",
+      "html": "<p align=\"right\" data-block-id=\"block-0004\" style=\"margin-bottom: 0in\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">В.В.\nПАК</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ТИПОВАЯ-ПРОГРАММА",
+      "html": "<p align=\"center\" data-block-id=\"block-0005\" style=\"margin-bottom: 0in; line-height: 100%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>ТИПОВАЯ-ПРОГРАММА</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "проведения настройки импульсных предохранительных устройств котла",
+      "html": "<p align=\"center\" data-block-id=\"block-0006\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><b>проведения\nнастройки импульсных предохранительных\nустройств котла     </b></font></font>\n</p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "энергоблока после ремонта",
+      "html": "<p align=\"center\" data-block-id=\"block-0007\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\">\n<font face=\"Times New Roman, serif\"><b>энергоблока     \nпосле ремонта</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Целью испытания является опробование под давлением и подготовка ТГ на холостой ход.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0008\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Целью\nиспытания является опробование под\nдавлением и подготовка ТГ на</font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\n</font></font><font color=\"#000000\"><font face=\"Times New Roman, serif\">холостой\nход.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "list",
+      "text": "ОРГАНИЗАЦИОННЫЕ ВОПРОСЫ",
+      "html": "<ol data-block-id=\"block-0009\">\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">ОРГАНИЗАЦИОННЫЕ\n\tВОПРОСЫ</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "Для проведения настройки импульсных предохранительных устройств котла и холостого хода ТГ необходимо произвести поузловую приемку оборудования и опробование его в работе. На период парового опробования котла и пуска на холостой ход ремонтная организация обеспечивает:",
+      "html": "<ol data-block-id=\"block-0010\">\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Для\n\tпроведения настройки импульсных\n\tпредохранительных устройств</font></font><font color=\"#000000\"><font face=\"Times New Roman, serif\"><b>\n</b></font></font><font color=\"#000000\"><font face=\"Times New Roman, serif\">котла\n\tи холостого хода ТГ необходимо произвести\n\tпоузловую приемку оборудования и\n\tопробование его в работе.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">На\n\tпериод парового опробования котла и\n\tпуска на холостой ход ремонтная\n\tорганизация обеспечивает:</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "list",
+      "text": "круглосуточное дежурство технического и рабочего персонала; устранение дефектов, выявленных во время опробования оборудования.",
+      "html": "<ul data-block-id=\"block-0011\">\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">круглосуточное\n\tдежурство технического и рабочего\n\tперсонала;</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">устранение\n\tдефектов, выявленных во время опробования\n\tоборудования.</font></font></p></li>\n</ul>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Эксплуатационный персонал в своих действиях руководствуется ПТЭ, ПТБ и действующими инструкциями. На период проведения парового опробования и холостого хода ремонтные организации прекращают все работы, персонал должен быть выведен с энергоблока, общий наряд на ремонт блока сдан начальнику смены КТЦ-1,2. Паровое опробование и настройка предохранительных клапанов, пуск турбины на холостой ход производится под непосредственным руководством руководителя ремонта, начальника КТЦ-1,2 или его заместителя. Все переключения в тепловых и электрических схемах производятся оперативным персоналом КТЦ-2, электроцеха, ЦТКА. Члены дежурной бригады и оперативный персонал блока должен быть проинструктирован об изменениях в схемах, ПТЭ, ПТБ, ППБ с записью в журнале инструктажей. Выполнить мероприятия по пожарной безопасности и уборка рабочих мест от металлолома, мусора, лесов. Ответственные - руководители ремонта. Ответственными за организацию работ по испытаниям и за соблюдение ПТЭ, ГТГБ - является начальник КТЦ-1,2 или его заместитель и руководитель ремонта.",
+      "html": "<ol data-block-id=\"block-0012\" start=\"3\">\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Эксплуатационный\n\tперсонал в своих действиях руководствуется\n\tПТЭ, ПТБ и действующими инструкциями.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">На\n\tпериод проведения парового опробования\n\tи холостого хода ремонтные организации\n\tпрекращают все работы, персонал должен\n\tбыть выведен с энергоблока, общий наряд\n\tна ремонт блока сдан начальнику смены\n\tКТЦ-1,2.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Паровое\n\tопробование и настройка предохранительных\n\tклапанов, пуск турбины на холостой ход\n\tпроизводится под непосредственным\n\tруководством руководителя ремонта,\n\tначальника КТЦ-1,2 или его заместителя.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Все\n\tпереключения в тепловых и электрических\n\tсхемах производятся оперативным\n\tперсоналом КТЦ-2, электроцеха, ЦТКА.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Члены\n\tдежурной бригады и оперативный персонал\n\tблока должен быть проинструктирован\n\tоб изменениях в схемах, ПТЭ, ПТБ, ППБ с\n\tзаписью в журнале инструктажей.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Выполнить\n\tмероприятия по пожарной безопасности\n\tи уборка рабочих мест от металлолома,\n\tмусора, лесов. Ответственные - руководители\n\tремонта.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Ответственными\n\tза организацию работ по испытаниям и\n\tза соблюдение ПТЭ, ГТГБ - является\n\tначальник КТЦ-1,2 или его заместитель и\n\tруководитель ремонта.</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "2. ОСНОВНЫЕ ЗАДАЧИ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0013\" data-section-level=\"1\" id=\"section-001\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">\t2.\nОСНОВНЫЕ ЗАДАЧИ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "list",
+      "text": "Проверка плотности элементов котла и системы промперегрева, работающих под давлением. Регулировка предохранительных клапанов высокого давления и горячего промперегрева. Пуск турбогенератора на холостой ход.",
+      "html": "<ol data-block-id=\"block-0014\">\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Проверка\n\tплотности элементов котла и системы\n\tпромперегрева, работающих под давлением.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Регулировка\n\tпредохранительных клапанов высокого\n\tдавления и горячего промперегрева.</font></font></p></li>\n<li><p align=\"justify\" style=\"margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">Пуск\n\tтурбогенератора на холостой ход.</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "3.ПОРЯДОК ОПЕРАЦИИ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0015\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 100%\">\n<font color=\"#000000\"><font face=\"Times New Roman, serif\">3.ПОРЯДОК\nОПЕРАЦИИ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "3.1. Питание котла при растопке производится питательной водой по перемычке от работающего блока, через линии питания котла Ду-100 на СУПе на котёл и при необходимости собственным питательным насосом.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0016\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">3.1.\nПитание котла при растопке производится\nпитательной водой по перемычке от\nработающего блока, через линии питания\nкотла Ду-100 на СУПе на котёл и при\nнеобходимости собственным питательным\nнасосом.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "3.2. Растопка котла и подъем давления производится в соответствии с эксплуатационной инструкцией.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0017\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">3.2.\nРастопка котла и подъем давления\nпроизводится в соответствии с\nэксплуатационной инструкцией.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "3.3. В период растопки котла сброс пара осуществляется сначала через продувку паропроводов, а затем через БРОУ в конденсатор турбины.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0018\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\">3.3.\nВ период растопки котла сброс пара\nосуществляется сначала через продувку\nпаропроводов, а затем через БРОУ в\nконденсатор турбины.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "3.4. При разобранной электросхеме предохранительных клапанов производится продувка импульсных линий при давлении в барабане котла 60-80 ата.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0019\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.4.\nПри разобранной электросхеме\nпредохранительных клапанов производится\nпродувка импульсных линий при давлении\nв барабане котла 60-80 ата.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "3.5. Проверяется срабатывание рабочих и контрольных клапанов при разобранной электросхеме ИПУ-1А и Б.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0020\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.5.\nПроверяется срабатывание рабочих и\nконтрольных клапанов при разобранной\nэлектросхеме ИПУ-1А и Б.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "3.6. Поднимается давление в барабане котла до 151 ати и регулируется срабатывание клапанов от грузовой системы.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0021\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.6.\nПоднимается давление в барабане котла\nдо 151 ати и регулируется срабатывание\nклапанов от грузовой системы.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "3.7. Проверяется срабатывание клапанов ИПУ-1 от ЭКМ, подрыв клапанов при Р=151 ати. Для этого собирается электросхема ИПУ-1А. Посадка при Р= 142 ати.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0022\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.7.\n Проверяется срабатывание клапанов\nИПУ-1 от ЭКМ, подрыв клапанов при Р=151\nати. Для этого собирается электросхема\nИПУ-1А. Посадка при Р= 142 ати.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "3.8. Поднимается давление до 167 ати и регулируется срабатывание клапанов ИПУ-1 Б от грузовой системы.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0023\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.8.\n Поднимается давление до 167 ати и\nрегулируется срабатывание клапанов\nИПУ-1 Б от грузовой системы.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "3.9. Собирается электросхема ИПУ-1 Б и подъемом давления в барабане котла проверяется срабатывание ИПУ-1Б от ЭКМ; подрыв клапанов при Р=167 ати и посадка Р=157 ати.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0024\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.9.\n Собирается электросхема ИПУ-1 Б и\nподъемом давления в барабане котла\nпроверяется срабатывание ИПУ-1Б от ЭКМ;\nподрыв клапанов при Р=167 ати и посадка\nР=157 ати.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "3.10. После проверки клапанов ИПУ-1 А, 1Б снижается давление в барабане котла до 50ати.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0025\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.10.\n После проверки клапанов ИПУ-1 А, 1Б\nснижается давление в барабане котла до\n50ати.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "3.11. Медленным прикрытием БРОУ-2 повышается давление в горячем промперегреве до 25 ати, продуваются импульсные линии.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0026\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.11.\n Медленным прикрытием БРОУ-2 повышается\nдавление в горячем промперегреве до 25\nати, продуваются импульсные линии.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "3.12. Поднимается давление до 31,5 ати, осуществляется настройка и проверяется срабатывание ИПУ-2 от грузовой системы.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0027\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.12.\n Поднимается давление до 31,5 ати,\nосуществляется настройка и проверяется\nсрабатывание ИПУ-2 от грузовой системы.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "3.13. Собирается электросхема ИПУ-2 и подъемом давления в трубопроводах ГПП и ХПП проверяется срабатывание ИПУ-2 от ЭКМ. С работы в 31,5 посадка при 27 атм.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0028\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.13.\n Собирается электросхема ИПУ-2 и подъемом\nдавления в трубопроводах ГПП и ХПП\nпроверяется срабатывание ИПУ-2 от ЭКМ.\nС работы в 31,5 посадка при 27 атм.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "3.14. После опробования предохранительных клапанов котла и при положительных результатах их опробования, давление в барабане понижается до 30 ати и персонал приступает к подготовке пуска турбины на холостой ход согласно эксплуатационной инструкции.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0029\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.14.\n После опробования предохранительных\nклапанов котла и при положительных\nрезультатах их опробования, давление\nв барабане понижается до 30 ати и персонал\nприступает к подготовке пуска турбины\nна холостой ход согласно эксплуатационной\nинструкции.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "3.15. При достижении полных оборотов турбины, производится проверка работоспособности главного маслонасоса турбины, испытание автоматов безопасности маслом и разгоном, наладка регулирования по специальной программе.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0030\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.15.\n При достижении полных оборотов турбины,\nпроизводится проверка работоспособности\nглавного маслонасоса турбины, испытание\nавтоматов безопасности маслом и разгоном,\nналадка регулирования по специальной\nпрограмме.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "3.16. При положительных результатах опробования, турбогенератор остается в работе на холостом ходу для производства электроиспытаний генератора.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0031\" style=\"margin-bottom: 0in; line-height: 100%\"><font color=\"#000000\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">3.16.\n При положительных результатах\nопробования, турбогенератор остается\nв работе на холостом ходу для производства\nэлектроиспытаний генератора.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"justify\" data-block-id=\"block-0032\" style=\"margin-bottom: 0.14in; line-height: 150%\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 4\" src=\"assets/image-001.png\" width=\"124\"/>\n<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 5\" src=\"assets/image-002.png\" width=\"124\"/>\n<br/>\n<br/>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "ЗАМ.ТЕХНИЧЕСКОГО ДИРЕКТОРА ПО ТМО Б.Р. ИСМОИЛОВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0033\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">ЗАМ.ТЕХНИЧЕСКОГО\nДИРЕКТОРА ПО ТМО\t\t\t\t\tБ.Р. ИСМОИЛОВ </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "Н АЧАЛЬНИК КТЦ-1 М.М. МАЖЛИМОВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0034\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 1\" src=\"assets/image-003.png\" width=\"124\"/>\nАЧАЛЬНИК\nКТЦ-1\t\t\t\t\t\t\t\tМ.М. МАЖЛИМОВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК КТЦ-2 М.М. МАХКАМОВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0035\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nКТЦ-2\t\t\t\t\t\t\t\tМ.М. МАХКАМОВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК ЦТКА Р.К. БАЙМАТОВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0036\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nЦТКА\t\t\t\t\t\t\t\tР.К. БАЙМАТОВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК ЭЛЕКТРОЦЕХА М.Д. КЕНЖИБАЕВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0037\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nЭЛЕКТРОЦЕХА\t\t\t\t\t\t          М.Д. КЕНЖИБАЕВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК ЛАБ.МЕТАЛЛОВ Л.У. ЭШОНКУЛОВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0038\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nЛАБ.МЕТАЛЛОВ\t\t\t\t\t\t\tЛ.У. ЭШОНКУЛОВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "Н АЧАЛЬНИК ЦЦР Т.А. ВАЛИЕВ",
+      "html": "<p align=\"justify\" data-block-id=\"block-0039\" style=\"margin-bottom: 0.14in; line-height: 200%\"><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Н<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 2\" src=\"assets/image-004.png\" width=\"124\"/>\nАЧАЛЬНИК\nЦЦР\t\t\t\t\t\t\t\t\tТ.А. ВАЛИЕВ</font></font></p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "image",
+      "text": "",
+      "html": "<p align=\"justify\" data-block-id=\"block-0040\" style=\"margin-bottom: 0.14in; line-height: 200%\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 3\" src=\"assets/image-005.png\" width=\"124\"/>\n<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 6\" src=\"assets/image-006.png\" width=\"124\"/>\n<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B3_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%98%D0%9F%D0%A3_2026_html_50379ea0.png\" height=\"77\" loading=\"lazy\" name=\"Рисунок 7\" src=\"assets/image-007.png\" width=\"124\"/>\n<br/>\n<br/>\n</p>",
+      "alignment": "justify",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "котла",
+    "клапанов",
+    "ати",
+    "срабатывание",
+    "предохранительных",
+    "опробования",
+    "давление",
+    "холостой",
+    "ход",
+    "турбины",
+    "начальник",
+    "барабане",
+    "проверяется",
+    "ремонта",
+    "персонал",
+    "ктц-1",
+    "системы",
+    "давления",
+    "ипу-1",
+    "проведения",
+    "импульсных",
+    "опробование",
+    "период",
+    "птэ",
+    "блока",
+    "через",
+    "поднимается",
+    "грузовой",
+    "экм",
+    "собирается",
+    "электросхема",
+    "посадка",
+    "ипу-2",
+    "настройки",
+    "устройств"
+  ],
+  "statistics": {
+    "blocks": 40,
+    "sections": 1,
+    "tables": 0,
+    "images": 7,
+    "pdfPages": 2
+  },
+  "integrity": {
+    "originalSha256": "8f20fafa908354a57db7ec7f6083811ff2ab59de4c09263998f868cfa70d1a27",
+    "sourceDocxStats": {
+      "paragraphs": 58,
+      "tables": 0,
+      "media": 1,
+      "textChars": 4512
+    },
+    "htmlTextChars": 4514,
+    "textLengthRatio": 1.0,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/prog-provedeniya-nastroyki-ipu-2026/"
+}

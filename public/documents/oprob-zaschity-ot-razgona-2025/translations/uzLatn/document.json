@@ -1,0 +1,750 @@
+{
+  "id": "oprob-zaschity-ot-razgona-2025",
+  "code": "",
+  "title": "TURBOGENERATORNING RAZGONDAN HIMOYASINI SINAB KO‘RISH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "Turbogenerator razgondan himoyasini sinash bo‘yicha 2025 yilgi dastur; tasvirlar umumiy asset sifatida saqlanadi.",
+  "sourceLanguage": "ru",
+  "language": "uzLatn",
+  "sourceFile": "опроб.защиты от разгона - 2025.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/oprob-zaschity-ot-razgona-2025/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.37in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "опроб.защиты от разгона - 2025.doc",
+    "path": "documents/oprob-zaschity-ot-razgona-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "опроб.защиты от разгона - 2025.pdf",
+    "path": "documents/oprob-zaschity-ot-razgona-2025/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "опроб.защиты от разгона - 2025.docx",
+    "path": "documents/oprob-zaschity-ot-razgona-2025/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "3",
+      "title": "Руководство испытанием по данной программе осуществляет boshliq КТЦ-1 или его заместитель.",
+      "level": 1,
+      "blockIds": [
+        "block-0053",
+        "block-0054",
+        "block-0055",
+        "block-0056",
+        "block-0057",
+        "block-0058",
+        "block-0059",
+        "block-0060",
+        "block-0061"
+      ],
+      "text": "3. Руководство испытанием по данной программе осуществляет boshliq КТЦ-1 или его заместитель.\nTexnik tarjima talab qilinadi: З ам тех. директора по ТМО Б.Р. Исмоилов\nН ачальник СНТБ Б.Б. Нурдинов\nН ачальник КТЦ-1 У.Л. Мажлимов\nН ачальник ЦТКА Р. К. Байматов\nTexnik tarjima talab qilinadi: Н ачальник Эл.цеха М. Кенж и баев\nIshlar rahbari. уч-ка «УЭТ» А. Мамиров\nTexnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "keywords": [
+        "ачальник",
+        "ктц-1",
+        "тех",
+        "директора"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "TASDIQLAYMAN",
+      "html": "<ol data-block-id=\"block-0001\"><li><p align=\"inherit\" lang=\"uz-Latn\">TASDIQLAYMAN</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Latn\">TEXNIK DIREKTOR</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "А О « ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Latn\">А О « ТАШКЕНТСКАЯ ТЭС»<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.gif\" width=\"62\"/></p></div>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Latn\">В.В. Пак</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "DASTUR",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"center\" lang=\"uz-Latn\">DASTUR</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "turbogeneratorning razgondan himoyasini sinab ko‘rish",
+      "html": "<div data-block-id=\"block-0006\"><p align=\"center\" lang=\"uz-Latn\">turbogeneratorning razgondan himoyasini sinab ko‘rish</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "после среднего ta’mirа блока №2",
+      "html": "<div data-block-id=\"block-0007\"><p align=\"center\" lang=\"uz-Latn\">после среднего ta’mirа блока №2</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "TAYYORGARLIK ISHLARI.",
+      "html": "<ol data-block-id=\"block-0008\"><li><p align=\"inherit\" lang=\"uz-Latn\">TAYYORGARLIK ISHLARI.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "1.1. Bosim водорода в корпусе генератора должно быть номинальным (3.0 кгс/см 2 ).",
+      "html": "<div data-block-id=\"block-0009\"><p align=\"justify\" lang=\"uz-Latn\">1.1. Bosim водорода в корпусе генератора должно быть номинальным (3.0 кгс/см 2 ).</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.2. Должны быть включены в работу НГО, НВОС.",
+      "html": "<div data-block-id=\"block-0010\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.2. Должны быть включены в работу НГО, НВОС.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "1.3. Вывести ТГ на bo‘sh yurish.",
+      "html": "<div data-block-id=\"block-0011\"><p align=\"justify\" lang=\"uz-Latn\">1.3. Вывести ТГ на bo‘sh yurish.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.4. Установить синхронизатором частоту вращения ротора 3000 об/мин. Зафиксировать положение сервомоторов ВД и ПП на холостом ходу.",
+      "html": "<div data-block-id=\"block-0012\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.4. Установить синхронизатором частоту вращения ротора 3000 об/мин. Зафиксировать положение сервомоторов ВД и ПП на холостом ходу.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "1.5. Tekshirish срабатывание защиты воздействием на кнопку ручного отключения ГАБ при номинальной частоте вращения роторов ТГ, т.е. при 3000 об/мин.",
+      "html": "<div data-block-id=\"block-0013\"><p align=\"justify\" lang=\"uz-Latn\">1.5. Tekshirish срабатывание защиты воздействием на кнопку ручного отключения ГАБ при номинальной частоте вращения роторов ТГ, т.е. при 3000 об/мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.5.1. Визуально по указателям положения определить полное закрытие сервомоторов высокого и среднего давления. Сервомоторы должны закрываться энергично без заеданий на полный ход.",
+      "html": "<div data-block-id=\"block-0014\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.5.1. Визуально по указателям положения определить полное закрытие сервомоторов высокого и среднего давления. Сервомоторы должны закрываться энергично без заеданий на полный ход.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "1.5.2. После отключения обороты turbina должны резко понижаться.",
+      "html": "<div data-block-id=\"block-0015\"><p align=\"justify\" lang=\"uz-Latn\">1.5.2. После отключения обороты turbina должны резко понижаться.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "ПРИМЕЧАНИЕ: При ненадежном закрытии (медленном, неполном) хотя бы одного из элементов парораспределения и если обороты turbina не уменьшаются, производство дальнейших операций taqiqlanadi. Должны быть приняты меры по устранению выявленных nuqsonlar.",
+      "html": "<div data-block-id=\"block-0016\"><p align=\"justify\" lang=\"uz-Latn\">ПРИМЕЧАНИЕ: При ненадежном закрытии (медленном, неполном) хотя бы одного из элементов парораспределения и если обороты turbina не уменьшаются, производство дальнейших операций taqiqlanadi. Должны быть приняты меры по устранению выявленных nuqsonlar.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.6. Поднять частоту вращения ротора до 2900 об/мин., вывести при помощи рычага ЗРБ 1-е кольцо и подать масло. Указатель рычага в положении “1”, рукоятка трехходового крана в положении ”1”.",
+      "html": "<div data-block-id=\"block-0017\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.6. Поднять частоту вращения ротора до 2900 об/мин., вывести при помощи рычага ЗРБ 1-е кольцо и подать масло. Указатель рычага в положении “1”, рукоятка трехходового крана в положении ”1”.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.6.1. Плавно повышая частоту вращения ротора добиться срабатывания кольца и посадки стопорных и регулирующих клапанов – при 3000 об/мин.",
+      "html": "<div data-block-id=\"block-0018\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.6.1. Плавно повышая частоту вращения ротора добиться срабатывания кольца и посадки стопорных и регулирующих клапанов – при 3000 об/мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.6.2. По тахометру фиксируется значение частоты вращения, при которой сработало испытуемое кольцо.",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.6.2. По тахометру фиксируется значение частоты вращения, при которой сработало испытуемое кольцо.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "Texnik tarjima talab qilinadi: Аналогично испытывается кольцо №2.",
+      "html": "<ol data-block-id=\"block-0020\"><li><p align=\"inherit\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: Аналогично испытывается кольцо №2.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: ПРИМЕЧАНИЕ: При испытании маслом не поднимать частоту вращения выше 3100 об/мин. Если при этой частоте вращения кольцо не сработало при подаче на него масла, скорректировать настройку по заводским данным. Переключение рычага ЗРБ на 2-е кольцо производить только после посадки испытуемого кольца (контроль производить по указателю посадкой его в исходное положение).",
+      "html": "<div data-block-id=\"block-0021\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: ПРИМЕЧАНИЕ: При испытании маслом не поднимать частоту вращения выше 3100 об/мин. Если при этой частоте вращения кольцо не сработало при подаче на него масла, скорректировать настройку по заводским данным. Переключение рычага ЗРБ на 2-е кольцо производить только после посадки испытуемого кольца (контроль производить по указателю посадкой его в исходное положение).</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 1.7. Установить рычаг ЗРБ в среднее рабочее положение “0” и восстановить номинальную частоту вращения ротора ТГ, т.е. 3000 об/мин.",
+      "html": "<div data-block-id=\"block-0022\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 1.7. Установить рычаг ЗРБ в среднее рабочее положение “0” и восстановить номинальную частоту вращения ротора ТГ, т.е. 3000 об/мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "list",
+      "text": "ИСПЫТАНИЕ НА РАЗГОН",
+      "html": "<ol data-block-id=\"block-0023\"><li><p align=\"inherit\" lang=\"uz-Latn\">ИСПЫТАНИЕ НА РАЗГОН</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "Руководителю испытания с записью в журнале произвести инструктаж xodimlarу, участвующему в проведении испытания и его расстановку:",
+      "html": "<div data-block-id=\"block-0024\"><p align=\"justify\" lang=\"uz-Latn\">Руководителю испытания с записью в журнале произвести инструктаж xodimlarу, участвующему в проведении испытания и его расстановку:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - руководитель испытания находится у механизма управления турбиной;",
+      "html": "<div data-block-id=\"block-0025\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - руководитель испытания находится у механизма управления турбиной;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - один человек у клапана аварийного срыва вакуума;",
+      "html": "<div data-block-id=\"block-0026\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - один человек у клапана аварийного срыва вакуума;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - по одному человеку у каждого блока клапана СД;",
+      "html": "<div data-block-id=\"block-0027\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - по одному человеку у каждого блока клапана СД;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "- машинист блока у ключей управления байпасами ГПЗ, БРОУ-1,2, продувки п.п. и маслонасосами turbina;",
+      "html": "<div data-block-id=\"block-0028\"><p align=\"justify\" lang=\"uz-Latn\">- машинист блока у ключей управления байпасами ГПЗ, БРОУ-1,2, продувки п.п. и маслонасосами turbina;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - один человек на связи местного щита с БЩУ;",
+      "html": "<div data-block-id=\"block-0029\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - один человек на связи местного щита с БЩУ;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "- дежурный xodimlar электроцеха и ЦТКА находится на БЩУ;",
+      "html": "<div data-block-id=\"block-0030\"><p align=\"justify\" lang=\"uz-Latn\">- дежурный xodimlar электроцеха и ЦТКА находится на БЩУ;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "- удаляется с местного щита управления турбиной xodimlar, не участвующий в испытаниях, вывешиваются плаката: “Опасная зона”, “Проход закрыт”.",
+      "html": "<div data-block-id=\"block-0031\"><p align=\"justify\" lang=\"uz-Latn\">- удаляется с местного щита управления турбиной xodimlar, не участвующий в испытаниях, вывешиваются плаката: “Опасная зона”, “Проход закрыт”.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "При повышении частоты вращения роторов ТГ свыше 3360 об/мин., прекратить доступ пара в турбину воздействием на механизм управления турбиной на убавить, подать импульс на защитные устройства дистанционно или по месту для закрытия стопорных и регулирующих клапанов ТГ, сорвать вакуум в конденсаторе и yopish запорную арматуру перед турбиной. O‘chirish котел, ochish продувку пароперегревателя и yopish БРОУ-2, to‘xtatishить пусковой насос и пустить резервный насос.",
+      "html": "<div data-block-id=\"block-0032\"><p align=\"justify\" lang=\"uz-Latn\">При повышении частоты вращения роторов ТГ свыше 3360 об/мин., прекратить доступ пара в турбину воздействием на механизм управления турбиной на убавить, подать импульс на защитные устройства дистанционно или по месту для закрытия стопорных и регулирующих клапанов ТГ, сорвать вакуум в конденсаторе и yopish запорную арматуру перед турбиной. O‘chirish котел, ochish продувку пароперегревателя и yopish БРОУ-2, to‘xtatishить пусковой насос и пустить резервный насос.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "ПРИМЕЧАНИЕ: Xodimlar должен действовать самостоятельно, без команды руководителя испытаний, а также в случаях при:",
+      "html": "<div data-block-id=\"block-0033\"><p align=\"justify\" lang=\"uz-Latn\">ПРИМЕЧАНИЕ: Xodimlar должен действовать самостоятельно, без команды руководителя испытаний, а также в случаях при:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "- возрастания вибрации турбоагрегата и quvurlar;",
+      "html": "<div data-block-id=\"block-0034\"><p align=\"justify\" lang=\"uz-Latn\">- возрастания вибрации турбоагрегата и quvurlar;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - появления посторонних шумов в турбине и генераторе;",
+      "html": "<div data-block-id=\"block-0035\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - появления посторонних шумов в турбине и генераторе;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - нарушения плотности маслопроводов;",
+      "html": "<div data-block-id=\"block-0036\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - нарушения плотности маслопроводов;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0037",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - воспламенения масла на турбоагрегате;",
+      "html": "<div data-block-id=\"block-0037\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - воспламенения масла на турбоагрегате;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0038",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - при повышении частоты вращения более 3360 об/мин.",
+      "html": "<div data-block-id=\"block-0038\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - при повышении частоты вращения более 3360 об/мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0039",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 2.1. Установить следующие параметры:",
+      "html": "<div data-block-id=\"block-0039\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 2.1. Установить следующие параметры:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0040",
+      "type": "paragraph",
+      "text": "- bosim острого пара 25…30 кгс/см 2 ;",
+      "html": "<div data-block-id=\"block-0040\"><p align=\"justify\" lang=\"uz-Latn\">- bosim острого пара 25…30 кгс/см 2 ;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0041",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - температуру острого пара на 100 0 С выше температуры I -го пояса металла ЦВД ТГ;",
+      "html": "<div data-block-id=\"block-0041\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - температуру острого пара на 100 0 С выше температуры I -го пояса металла ЦВД ТГ;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0042",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - температуру пара ГПП перед турбиной на 60 - 70 0 С выше температуры III -го пояса металла ЦВД ТГ;",
+      "html": "<div data-block-id=\"block-0042\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - температуру пара ГПП перед турбиной на 60 - 70 0 С выше температуры III -го пояса металла ЦВД ТГ;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0043",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - вакуум в конденсаторе максимально возможный, поддающийся регулировке;",
+      "html": "<div data-block-id=\"block-0043\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - вакуум в конденсаторе максимально возможный, поддающийся регулировке;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0044",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - в работе БРОУ-1 открыт на 50 %, БРОУ-2 А,Б открыт на 100 %;",
+      "html": "<div data-block-id=\"block-0044\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - в работе БРОУ-1 открыт на 50 %, БРОУ-2 А,Б открыт на 100 %;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0045",
+      "type": "paragraph",
+      "text": "- aylanish chastotasi роторов ТГ 3000 об/мин;",
+      "html": "<div data-block-id=\"block-0045\"><p align=\"justify\" lang=\"uz-Latn\">- aylanish chastotasi роторов ТГ 3000 об/мин;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0046",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: - рычаг ЗРБ находится в среднем положении «0»;",
+      "html": "<div data-block-id=\"block-0046\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: - рычаг ЗРБ находится в среднем положении «0»;</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0047",
+      "type": "paragraph",
+      "text": "2.2. Воздействием на механизм управления турбиной, повысить частоту вращения до 3200 об/мин. Зафиксировать положение регулирующих клапанов turbina и bosim пара перед регулирующими клапанами ВД ТГ установить 10-15 кгс/см 2 .",
+      "html": "<div data-block-id=\"block-0047\"><p align=\"justify\" lang=\"uz-Latn\">2.2. Воздействием на механизм управления турбиной, повысить частоту вращения до 3200 об/мин. Зафиксировать положение регулирующих клапанов turbina и bosim пара перед регулирующими клапанами ВД ТГ установить 10-15 кгс/см 2 .</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0048",
+      "type": "paragraph",
+      "text": "2.3. Aylanish chastotasini avval turbina boshqaruv mexanizmi bilan 3200 об/мин. gacha, so‘ng razgon qurilmasi bilan ikkita halqadan biri ishga tushguncha ravon oshirib borish; halqa ishga tushgan chastota taxometr bo‘yicha qayd etiladi, aylanishlar 3360 об/мин. dan oshmasligi kerak. Halqaning qayta o‘tirishi nazorat qilinadi.",
+      "html": "<div data-block-id=\"block-0048\"><p align=\"justify\" lang=\"uz-Latn\">2.3. Aylanish chastotasini avval turbina boshqaruv mexanizmi bilan 3200 об/мин. gacha, so‘ng razgon qurilmasi bilan ikkita halqadan biri ishga tushguncha ravon oshirib borish; halqa ishga tushgan chastota taxometr bo‘yicha qayd etiladi, aylanishlar 3360 об/мин. dan oshmasligi kerak. Halqaning qayta o‘tirishi nazorat qilinadi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0049",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 2.4. Частоту вращения поднять до 3000 об/мин.",
+      "html": "<div data-block-id=\"block-0049\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 2.4. Частоту вращения поднять до 3000 об/мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0050",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 2.5. Рычаг ЗРБ выводится из-под проверенного кольца и повторяются операции по п.2.3 на другом кольце.",
+      "html": "<div data-block-id=\"block-0050\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 2.5. Рычаг ЗРБ выводится из-под проверенного кольца и повторяются операции по п.2.3 на другом кольце.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0051",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: 2.6. Настроить кольца регулятора безопасности на срабатывание при 3300-3360 об/мин.",
+      "html": "<div data-block-id=\"block-0051\"><p align=\"justify\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: 2.6. Настроить кольца регулятора безопасности на срабатывание при 3300-3360 об/мин.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0052",
+      "type": "paragraph",
+      "text": "2.7. Результаты настройки регулятора безопасности bo‘lishi kerak зафиксированы в оперативном журнале boshliqа смены КТЦ-1.",
+      "html": "<div data-block-id=\"block-0052\"><p align=\"justify\" lang=\"uz-Latn\">2.7. Результаты настройки регулятора безопасности bo‘lishi kerak зафиксированы в оперативном журнале boshliqа смены КТЦ-1.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0053",
+      "type": "paragraph",
+      "text": "3. Руководство испытанием по данной программе осуществляет boshliq КТЦ-1 или его заместитель.",
+      "html": "<div data-block-id=\"block-0053\"><p align=\"justify\" lang=\"uz-Latn\">3. Руководство испытанием по данной программе осуществляет boshliq КТЦ-1 или его заместитель.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0054",
+      "type": "image",
+      "text": "",
+      "html": "<p data-block-id=\"block-0054\" style=\"line-height: 150%; margin-bottom: 0in\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_31ddd917.gif\" height=\"56\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-002.gif\" width=\"141\"/>\n<br/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0055",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: З ам тех. директора по ТМО Б.Р. Исмоилов",
+      "html": "<div data-block-id=\"block-0055\"><p align=\"inherit\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: З ам тех. директора по ТМО Б.Р. Исмоилов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_64e44389.gif\" height=\"60\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-003.gif\" width=\"79\"/></p></div>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0056",
+      "type": "paragraph",
+      "text": "Н ачальник СНТБ Б.Б. Нурдинов",
+      "html": "<div data-block-id=\"block-0056\"><p align=\"inherit\" lang=\"uz-Latn\">Н ачальник СНТБ Б.Б. Нурдинов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_50379ea0.png\" height=\"56\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-004.png\" width=\"90\"/></p></div>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0057",
+      "type": "paragraph",
+      "text": "Н ачальник КТЦ-1 У.Л. Мажлимов",
+      "html": "<div data-block-id=\"block-0057\"><p align=\"inherit\" lang=\"uz-Latn\">Н ачальник КТЦ-1 У.Л. Мажлимов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_563ac4f5.jpg\" height=\"48\" loading=\"lazy\" name=\"Рисунок 13\" src=\"assets/image-005.jpg\" width=\"112\"/></p></div>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0058",
+      "type": "paragraph",
+      "text": "Н ачальник ЦТКА Р. К. Байматов",
+      "html": "<div data-block-id=\"block-0058\"><p align=\"inherit\" lang=\"uz-Latn\">Н ачальник ЦТКА Р. К. Байматов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_ba50ff54.gif\" height=\"33\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-006.gif\" width=\"109\"/></p></div>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0059",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: Н ачальник Эл.цеха М. Кенж и баев",
+      "html": "<div data-block-id=\"block-0059\"><p align=\"inherit\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: Н ачальник Эл.цеха М. Кенж и баев<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BE%D0%BF%D1%80%D0%BE%D0%B1.%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%BD%D0%B0%20-%202025_html_dc635daa.gif\" height=\"65\" loading=\"lazy\" name=\"Image6\" src=\"assets/image-007.gif\" width=\"98\"/></p></div>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0060",
+      "type": "paragraph",
+      "text": "Ishlar rahbari. уч-ка «УЭТ» А. Мамиров",
+      "html": "<div data-block-id=\"block-0060\"><p align=\"justify\" lang=\"uz-Latn\">Ishlar rahbari. уч-ка «УЭТ» А. Мамиров</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0061",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "html": "<div data-block-id=\"block-0061\"><p align=\"inherit\" lang=\"uz-Latn\">Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев</p></div>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "вращения",
+    "мин",
+    "частоту",
+    "турбиной",
+    "кольцо",
+    "управления",
+    "зрб",
+    "кольца",
+    "пара",
+    "установить",
+    "ротора",
+    "положение",
+    "турбины",
+    "частоты",
+    "ачальник",
+    "блока",
+    "давление",
+    "кгс",
+    "воздействием",
+    "роторов",
+    "обороты",
+    "примечание",
+    "рычага",
+    "положении",
+    "посадки",
+    "регулирующих",
+    "клапанов",
+    "сработало",
+    "выше",
+    "рычаг",
+    "испытания",
+    "находится",
+    "персонал",
+    "ктц-1",
+    "защиты"
+  ],
+  "statistics": {
+    "blocks": 61,
+    "sections": 1,
+    "tables": 0,
+    "images": 7,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "765abeac78b5741406adf22204c91d1512af20e44032e62773a856a9312c9f31",
+    "sourceDocxStats": {
+      "paragraphs": 70,
+      "tables": 0,
+      "media": 7,
+      "textChars": 5262
+    },
+    "htmlTextChars": 5280,
+    "textLengthRatio": 1.003,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/oprob-zaschity-ot-razgona-2025/",
+  "searchMetadata": {
+    "keywords": [
+      "razgondan himoya 2025",
+      "turbogenerator himoyasi",
+      "xavfsizlik avtomati",
+      "rotor aylanish chastotasi",
+      "ТГ sinovi"
+    ],
+    "aliases": [
+      "oprobovanie zashchity 2025",
+      "razgon himoyasi",
+      "ТГ avtomat xavfsizlik"
+    ],
+    "searchText": "TURBOGENERATORNING RAZGONDAN HIMOYASINI SINAB KO‘RISH BO‘YICHA NAMUNAVIY DASTUR Turbogenerator razgondan himoyasini sinash bo‘yicha 2025 yilgi dastur; tasvirlar umumiy asset sifatida saqlanadi. TASDIQLAYMAN TEXNIK DIREKTOR А О « ТАШКЕНТСКАЯ ТЭС» В.В. Пак DASTUR turbogeneratorning razgondan himoyasini sinab ko‘rish после среднего ta’mirа блока №2 TAYYORGARLIK ISHLARI. 1.1. Bosim водорода в корпусе генератора должно быть номинальным (3.0 кгс/см 2 ). Texnik tarjima talab qilinadi: 1.2. Должны быть включены в работу НГО, НВОС. 1.3. Вывести ТГ на bo‘sh yurish. Texnik tarjima talab qilinadi: 1.4. Установить синхронизатором частоту вращения ротора 3000 об/мин. Зафиксировать положение сервомоторов ВД и ПП на холостом ходу. 1.5. Tekshirish срабатывание защиты воздействием на кнопку ручного отключения ГАБ при номинальной частоте вращения роторов ТГ, т.е. при 3000 об/мин. Texnik tarjima talab qilinadi: 1.5.1. Визуально по указателям положения определить полное закрытие сервомоторов высокого и среднего давления. Сервомоторы должны закрываться энергично без заеданий на полный ход. 1.5.2. После отключения обороты turbina должны резко понижаться. ПРИМЕЧАНИЕ: При ненадежном закрытии (медленном, неполном) хотя бы одного из элементов парораспределения и если обороты turbina не уменьшаются, производство дальнейших операций taqiqlanadi. Должны быть приняты меры по устранению выявленных nuqsonlar. Texnik tarjima talab qilinadi: 1.6. Поднять частоту вращения ротора до 2900 об/мин., вывести при помощи рычага ЗРБ 1-е кольцо и подать масло. Указатель рычага в положении “1”, рукоятка трехходового крана в положении ”1”. Texnik tarjima talab qilinadi: 1.6.1. Плавно повышая частоту вращения ротора добиться срабатывания кольца и посадки стопорных и регулирующих клапанов – при 3000 об/мин. Texnik tarjima talab qilinadi: 1.6.2. По тахометру фиксируется значение частоты вращения, при которой сработало испытуемое кольцо. Texnik tarjima talab qilinadi: Аналогично испытывается кольцо №2. Texnik tarjima talab qilinadi: ПРИМЕЧАНИЕ: При испытании маслом не поднимать частоту вращения выше 3100 об/мин. Если при этой частоте вращения кольцо не сработало при подаче на него масла, скорректировать настройку по заводским данным. Переключение рычага ЗРБ на 2-е кольцо производить только после посадки испытуемого кольца (контроль производить по указателю посадкой его в исходное положение). Texnik tarjima talab qilinadi: 1.7. Установить рычаг ЗРБ в среднее рабочее положение “0” и восстановить номинальную частоту вращения ротора ТГ, т.е. 3000 об/мин. ИСПЫТАНИЕ НА РАЗГОН Руководителю испытания с записью в журнале произвести инструктаж xodimlarу, участвующему в проведении испытания и его расстановку: Texnik tarjima talab qilinadi: - руководитель испытания находится у механизма управления турбиной; Texnik tarjima talab qilinadi: - один человек у клапана аварийного срыва вакуума; Texnik tarjima talab qilinadi: - по одному человеку у каждого блока клапана СД; - машинист блока у ключей управления байпасами ГПЗ, БРОУ-1,2, продувки п.п. и маслонасосами turbina; Texnik tarjima talab qilinadi: - один человек на связи местного щита с БЩУ; - дежурный xodimlar электроцеха и ЦТКА находится на БЩУ; - удаляется с местного щита управления турбиной xodimlar, не участвующий в испытаниях, вывешиваются плаката: “Опасная зона”, “Проход закрыт”. При повышении частоты вращения роторов ТГ свыше 3360 об/мин., прекратить доступ пара в турбину воздействием на механизм управления турбиной на убавить, подать импульс на защитные устройства дистанционно или по месту для закрытия стопорных и регулирующих клапанов ТГ, сорвать вакуум в конденсаторе и yopish запорную арматуру перед турбиной. O‘chirish котел, ochish продувку пароперегревателя и yopish БРОУ-2, to‘xtatishить пусковой насос и пустить резервный насос. ПРИМЕЧАНИЕ: Xodimlar должен действовать самостоятельно, без команды руководителя испытаний, а также в случаях при: - возрастания вибрации турбоагрегата и quvurlar; Texnik tarjima talab qilinadi: - появления посторонних шумов в турбине и генераторе; Texnik tarjima talab qilinadi: - нарушения плотности маслопроводов; Texnik tarjima talab qilinadi: - воспламенения масла на турбоагрегате; Texnik tarjima talab qilinadi: - при повышении частоты вращения более 3360 об/мин. Texnik tarjima talab qilinadi: 2.1. Установить следующие параметры: - bosim острого пара 25…30 кгс/см 2 ; Texnik tarjima talab qilinadi: - температуру острого пара на 100 0 С выше температуры I -го пояса металла ЦВД ТГ; Texnik tarjima talab qilinadi: - температуру пара ГПП перед турбиной на 60 - 70 0 С выше температуры III -го пояса металла ЦВД ТГ; Texnik tarjima talab qilinadi: - вакуум в конденсаторе максимально возможный, поддающийся регулировке; Texnik tarjima talab qilinadi: - в работе БРОУ-1 открыт на 50 %, БРОУ-2 А,Б открыт на 100 %; - aylanish chastotasi роторов ТГ 3000 об/мин; Texnik tarjima talab qilinadi: - рычаг ЗРБ находится в среднем положении «0»; 2.2. Воздействием на механизм управления турбиной, повысить частоту вращения до 3200 об/мин. Зафиксировать положение регулирующих клапанов turbina и bosim пара перед регулирующими клапанами ВД ТГ установить 10-15 кгс/см 2 . 2.3. Aylanish chastotasini avval turbina boshqaruv mexanizmi bilan 3200 об/мин. gacha, so‘ng razgon qurilmasi bilan ikkita halqadan biri ishga tushguncha ravon oshirib borish; halqa ishga tushgan chastota taxometr bo‘yicha qayd etiladi, aylanishlar 3360 об/мин. dan oshmasligi kerak. Halqaning qayta o‘tirishi nazorat qilinadi. Texnik tarjima talab qilinadi: 2.4. Частоту вращения поднять до 3000 об/мин. Texnik tarjima talab qilinadi: 2.5. Рычаг ЗРБ выводится из-под проверенного кольца и повторяются операции по п.2.3 на другом кольце. Texnik tarjima talab qilinadi: 2.6. Настроить кольца регулятора безопасности на срабатывание при 3300-3360 об/мин. 2.7. Результаты настройки регулятора безопасности bo‘lishi kerak зафиксированы в оперативном журнале boshliqа смены КТЦ-1. 3. Руководство испытанием по данной программе осуществляет boshliq КТЦ-1 или его заместитель.  Texnik tarjima talab qilinadi: З ам тех. директора по ТМО Б.Р. Исмоилов Н ачальник СНТБ Б.Б. Нурдинов Н ачальник КТЦ-1 У.Л. Мажлимов Н ачальник ЦТКА Р. К. Байматов Texnik tarjima talab qilinadi: Н ачальник Эл.цеха М. Кенж и баев Ishlar rahbari. уч-ка «УЭТ» А. Мамиров Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев"
+  }
+}

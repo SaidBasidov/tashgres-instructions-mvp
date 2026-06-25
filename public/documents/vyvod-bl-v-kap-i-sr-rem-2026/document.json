@@ -1,0 +1,589 @@
+{
+  "id": "vyvod-bl-v-kap-i-sr-rem-2026",
+  "code": "",
+  "title": "ТИПОВАЯ ПРОГРАММА",
+  "summary": "ТИПОВАЯ ПРОГРАММА\nвывод энергоблоков в капитальные и средние ремонты энергоблоков Таш ТЭС.\n1. Не позднее, чем за 5 дней до вывода в ремонт провести эксплуатационные мероприятия для определения технико-экономических показателей по программе ЦНИ.\nОтветственный – начальник ОПТО.\n2. Перед остановом в ремонт пропарить и отключить мазутопроводы в пределах котла согласно действующих производственных инструкций. Длительность – 6 часов.\n3. После отключения энергоблока от сети провести проверку плотности",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "вывод бл.в кап. и ср. рем. 2026.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/vyvod-bl-v-kap-i-sr-rem-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "вывод бл.в кап. и ср. рем. 2026.doc",
+    "path": "documents/vyvod-bl-v-kap-i-sr-rem-2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "вывод бл.в кап. и ср. рем. 2026.pdf",
+    "path": "documents/vyvod-bl-v-kap-i-sr-rem-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "вывод бл.в кап. и ср. рем. 2026.docx",
+    "path": "documents/vyvod-bl-v-kap-i-sr-rem-2026/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Не позднее, чем за 5 дней до вывода в ремонт провести эксплуатационные мероприятия для определения технико-экономических показателей по программе ЦНИ.",
+      "level": 1,
+      "blockIds": [
+        "block-0007",
+        "block-0008"
+      ],
+      "text": "1. Не позднее, чем за 5 дней до вывода в ремонт провести эксплуатационные мероприятия для определения технико-экономических показателей по программе ЦНИ.\nОтветственный – начальник ОПТО.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "2",
+      "title": "Перед остановом в ремонт пропарить и отключить мазутопроводы в пределах котла согласно действующих производственных инструкций. Длительность – 6 часов.",
+      "level": 1,
+      "blockIds": [
+        "block-0009"
+      ],
+      "text": "2. Перед остановом в ремонт пропарить и отключить мазутопроводы в пределах котла согласно действующих производственных инструкций. Длительность – 6 часов.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "3",
+      "title": "После отключения энергоблока от сети провести проверку плотности стопорных клапанов ВД и СД турбины. Длительность – 7 ч.",
+      "level": 1,
+      "blockIds": [
+        "block-0010",
+        "block-0011"
+      ],
+      "text": "3. После отключения энергоблока от сети провести проверку плотности стопорных клапанов ВД и СД турбины. Длительность – 7 ч.\nОтветственный – начальник КТЦ-1 или его заместители.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "4",
+      "title": "После останова блока провести консервацию поверхностей нагрева котла по специальной программе. Длительность – 88 часов.",
+      "level": 1,
+      "blockIds": [
+        "block-0012",
+        "block-0013"
+      ],
+      "text": "4. После останова блока провести консервацию поверхностей нагрева котла по специальной программе. Длительность – 88 часов.\nОтветственный – начальник КТЦ-1 или его заместители, начальник химического цеха.",
+      "keywords": [
+        "начальник"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "5",
+      "title": "Расхолодить котел и турбину согласно действующих производственных инструкций. Длительность – 48 часов.",
+      "level": 1,
+      "blockIds": [
+        "block-0014",
+        "block-0015"
+      ],
+      "text": "5. Расхолодить котел и турбину согласно действующих производственных инструкций. Длительность – 48 часов.\nОтветственный – начальник КТЦ-1 или его заместители.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "6",
+      "title": "Вывести в ремонт энергоблок:",
+      "level": 1,
+      "blockIds": [
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036"
+      ],
+      "text": "6. Вывести в ремонт энергоблок:\n6.1. Опорожнить, обеспарить котлоагрегат, деаэратор, дренажный бак котла, расширитель непрерывной и периодической продувки, БНТ, ПВД, ПНД, ПЭН, конденсатор с системой уплотнений трубных досок, паропроводы и трубопроводы (ОП, ГПП, ХПП, БРОУ-1,2 , отборы ТГ, коллектор уплотнения ТГ, дренажных коллекторов, питательной воды, узла впрысков, основного конденсата, ПОТ и др.) в пределах котла, маслосистему турбины, ГМБ, ПЭН-А,Б.\n6.2. Установить заглушки – на общем газопроводе к котлу, на эстакаде, на напорном и обратном мазутопроводе котла и паропровода от РОУ с/н на блок; на маслопроводах заполнения емкостей турбины и ПЭН со стороны маслохозяйства и доливочного маслобака; на трубопроводах тех.воды от напора ЦН – А, Б на всасы смывных насосов БНС.\n6.3. Отключить потоки со стороны других блоков и цехов – по основному конденсату, питательной воде, подпитки блока от ХОВ и БЗК; на подаче тех.воды к подшипникам ЦН –А,Б, перемычка по тех.воде охлаждения м/о ТГ и вращающихся механизмов ТДМ.\n6.4. Снять напряжение – со схем приводов запорной, регулирующей, предохранительной, защитной арматуры, отсоединить концы кабеля от электроприводов и концевых выключателей, снять ТС, вибродатчики, согласно условий работ по общему наряду.\n6.5. Перевести генератор на атмосферный воздух.\n6.6. Отшандорить и откачать камеры циркуляционных насосов А и Б.\n6.7. Снять напряжение, отсоединить и заземлить питающие кабели электродвигателей – дымососов, дутьевых вентиляторов, вентиляторов горячего дутья, регенеративных вращающихся воздухоподогревателей, фосфатных и гидразинных насосов, дренажных насосов котла и турбины, питательных насосов и их пускоостановочных маслонасосов, циркуляционных насосов, насосов газоохладителей генератора, конденсатных насосов, сливных насосов ПНД, пускового, резервного и аварийного маслонасосов ТГ, резервного и аварийного маслонасосов АМС генератора, ВПУ – валоповорота устройства, насосов водяного охлаждения генератора, ВОС, НГО.\n6.8. Выдача общего наряда. Срок 48 часов после останова блока. Ответственный – начальник КТЦ-1 или его заместители.\n6.9. Передача блока в ремонт по акту с противопожарными средствами. Ответственный – начальник КТЦ-1 или его заместитель.\nПРИМЕЧАНИЕ: До остывания турбины, откачки масла и зашандоривания аванкамер ЦН остаются в работе (резерве) – маслосистема ТГ и ПЭН, ВПУ, ЦН А,Б, напорными и сливными циркводами, термоконтроль турбины, конденсатор турбины.\nОтветственные: начальник КТЦ-1, начальник электроцеха, начальник ЦТКА, руководитель ремонта.\nЗам. тех.директора по тепломеханической части Б.Р. Исмоилов\nНачальник СНТБ Б.Б. Нурдинов\nНачальник ОПТО Б.С. Айтмуратов\nНачальник Электроцеха М.Д. Кенжибаев\nНачальник ЦТКА Р.К. Байматов\nНачальник Хим.цеха Л.П. Хамракулова\nНачальник КТЦ-2 М.М. Махкамов\nНачальник КТЦ-1 У.Л. Мажлимов\nЗам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "keywords": [
+        "начальник",
+        "насосов",
+        "турбины",
+        "тех",
+        "котла",
+        "ктц-1",
+        "пэн",
+        "воды",
+        "блока",
+        "снять",
+        "маслонасосов",
+        "генератора",
+        "ремонт",
+        "пнд",
+        "конденсатор"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0001\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Технический директор",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">\t\t                            \n    \t\t\t\t  Технический директор</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО «Ташкентская ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">АО «Ташкентская\nТЭС»</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">\t\t\t\t\t\t\t\t\t\tВ.В. Пак</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ТИПОВАЯ ПРОГРАММА",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0005\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 13pt\"><b>ТИПОВАЯ ПРОГРАММА</b></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "вывод энергоблоков в капитальные и средние ремонты энергоблоков Таш ТЭС.",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0006\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 13pt\"><b>вывод энергоблоков\nв капитальные и средние ремонты\nэнергоблоков Таш  ТЭС.</b></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "1. Не позднее, чем за 5 дней до вывода в ремонт провести эксплуатационные мероприятия для определения технико-экономических показателей по программе ЦНИ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0007\" data-section-level=\"1\" id=\"section-001\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">1.\nНе позднее, чем за 5 дней до вывода в\nремонт провести эксплуатационные\nмероприятия для определения\nтехнико-экономических показателей по\nпрограмме ЦНИ. </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Ответственный – начальник ОПТО.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0008\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Ответственный\n– начальник ОПТО.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "2. Перед остановом в ремонт пропарить и отключить мазутопроводы в пределах котла согласно действующих производственных инструкций. Длительность – 6 часов.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0009\" data-section-level=\"1\" id=\"section-002\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">2.\nПеред остановом в ремонт пропарить и\nотключить мазутопроводы в пределах\nкотла согласно действующих производственных\nинструкций. Длительность – 6 часов.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-002"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "3. После отключения энергоблока от сети провести проверку плотности стопорных клапанов ВД и СД турбины. Длительность – 7 ч.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0010\" data-section-level=\"1\" id=\"section-003\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">3.\nПосле отключения энергоблока от сети\nпровести проверку плотности стопорных\nклапанов ВД и СД турбины. Длительность\n– 7 ч.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-003"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "Ответственный – начальник КТЦ-1 или его заместители.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0011\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Ответственный\n– начальник КТЦ-1 или его заместители.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "4. После останова блока провести консервацию поверхностей нагрева котла по специальной программе. Длительность – 88 часов.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0012\" data-section-level=\"1\" id=\"section-004\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">4.\nПосле останова блока провести консервацию\nповерхностей нагрева котла по специальной\nпрограмме. Длительность – 88 часов.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-004"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "Ответственный – начальник КТЦ-1 или его заместители, начальник химического цеха.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0013\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Ответственный\n– начальник КТЦ-1 или его заместители,\nначальник химического цеха.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "5. Расхолодить котел и турбину согласно действующих производственных инструкций. Длительность – 48 часов.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0014\" data-section-level=\"1\" id=\"section-005\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">5.\nРасхолодить котел и турбину согласно\nдействующих производственных инструкций.\nДлительность – 48 часов.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-005"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "Ответственный – начальник КТЦ-1 или его заместители.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0015\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Ответственный\n– начальник КТЦ-1 или его заместители.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "6. Вывести в ремонт энергоблок:",
+      "html": "<p align=\"justify\" data-block-id=\"block-0016\" data-section-level=\"1\" id=\"section-006\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.\nВывести в ремонт энергоблок:</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-006"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "6.1. Опорожнить, обеспарить котлоагрегат, деаэратор, дренажный бак котла, расширитель непрерывной и периодической продувки, БНТ, ПВД, ПНД, ПЭН, конденсатор с системой уплотнений трубных досок, паропроводы и трубопроводы (ОП, ГПП, ХПП, БРОУ-1,2 , отборы ТГ, коллектор уплотнения ТГ, дренажных коллекторов, питательной воды, узла впрысков, основного конденсата, ПОТ и др.) в пределах котла, маслосистему турбины, ГМБ, ПЭН-А,Б.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0017\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.1.\nОпорожнить, обеспарить  котлоагрегат,\nдеаэратор, дренажный бак котла, расширитель\nнепрерывной и периодической продувки,\nБНТ, ПВД, ПНД, ПЭН, конденсатор с системой\nуплотнений трубных досок, паропроводы\nи трубопроводы (ОП, ГПП, ХПП, </font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">БРОУ-1,2</font></font><font size=\"3\" style=\"font-size: 13pt\">,\nотборы ТГ, коллектор уплотнения ТГ,\nдренажных коллекторов, питательной\nводы, узла впрысков, основного конденсата,\nПОТ и др.) в пределах котла, </font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">маслосистему</font></font><font size=\"3\" style=\"font-size: 13pt\">\nтурбины, </font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">ГМБ,\nПЭН-А,Б.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "6.2. Установить заглушки – на общем газопроводе к котлу, на эстакаде, на напорном и обратном мазутопроводе котла и паропровода от РОУ с/н на блок; на маслопроводах заполнения емкостей турбины и ПЭН со стороны маслохозяйства и доливочного маслобака; на трубопроводах тех.воды от напора ЦН – А, Б на всасы смывных насосов БНС.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0018\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.2.\nУстановить заглушки – на общем газопроводе\nк котлу, на эстакаде, на напорном и\nобратном мазутопроводе котла и паропровода\nот РОУ с/н на блок; на маслопроводах\nзаполнения емкостей турбины и ПЭН со\nстороны маслохозяйства и доливочного\nмаслобака; на трубопроводах тех.воды\nот напора ЦН – А, Б на всасы смывных\nнасосов БНС.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "6.3. Отключить потоки со стороны других блоков и цехов – по основному конденсату, питательной воде, подпитки блока от ХОВ и БЗК; на подаче тех.воды к подшипникам ЦН –А,Б, перемычка по тех.воде охлаждения м/о ТГ и вращающихся механизмов ТДМ.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.3.\nОтключить потоки со стороны других\nблоков и цехов – по </font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">основному</font></font><font size=\"3\" style=\"font-size: 13pt\">\nконденсату, питательной воде, подпитки\nблока от ХОВ и БЗК; на подаче тех.воды к\nподшипникам ЦН –А,Б, </font><font color=\"#ff0000\"><font size=\"3\" style=\"font-size: 13pt\">перемычка\nпо тех.воде охлаждения м/о ТГ и вращающихся\nмеханизмов ТДМ.</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "6.4. Снять напряжение – со схем приводов запорной, регулирующей, предохранительной, защитной арматуры, отсоединить концы кабеля от электроприводов и концевых выключателей, снять ТС, вибродатчики, согласно условий работ по общему наряду.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0020\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.4.\nСнять напряжение – со схем приводов\nзапорной, регулирующей, предохранительной,\nзащитной арматуры, отсоединить концы\nкабеля от электроприводов и концевых\nвыключателей, снять ТС, вибродатчики,\nсогласно условий работ по общему наряду.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "6.5. Перевести генератор на атмосферный воздух.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0021\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.5.\nПеревести генератор на атмосферный\nвоздух.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "6.6. Отшандорить и откачать камеры циркуляционных насосов А и Б.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0022\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.6.\nОтшандорить и откачать камеры\nциркуляционных насосов А и Б.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "6.7. Снять напряжение, отсоединить и заземлить питающие кабели электродвигателей – дымососов, дутьевых вентиляторов, вентиляторов горячего дутья, регенеративных вращающихся воздухоподогревателей, фосфатных и гидразинных насосов, дренажных насосов котла и турбины, питательных насосов и их пускоостановочных маслонасосов, циркуляционных насосов, насосов газоохладителей генератора, конденсатных насосов, сливных насосов ПНД, пускового, резервного и аварийного маслонасосов ТГ, резервного и аварийного маслонасосов АМС генератора, ВПУ – валоповорота устройства, насосов водяного охлаждения генератора, ВОС, НГО.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0023\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.7.\nСнять напряжение, отсоединить и заземлить\nпитающие кабели электродвигателей –\nдымососов, дутьевых вентиляторов,\nвентиляторов горячего дутья, регенеративных\nвращающихся воздухоподогревателей,\nфосфатных и гидразинных насосов,\nдренажных насосов котла и турбины,\nпитательных насосов и их пускоостановочных\nмаслонасосов, циркуляционных насосов,\nнасосов газоохладителей генератора,\nконденсатных насосов, сливных насосов\nПНД, пускового, резервного и аварийного\nмаслонасосов ТГ, резервного и аварийного\nмаслонасосов АМС генератора, ВПУ –\nвалоповорота устройства, насосов\nводяного охлаждения генератора, ВОС,\nНГО.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "6.8. Выдача общего наряда. Срок 48 часов после останова блока. Ответственный – начальник КТЦ-1 или его заместители.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0024\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.8.\nВыдача общего наряда. Срок 48 часов после\nостанова блока. Ответственный – начальник\nКТЦ-1 или его заместители.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "6.9. Передача блока в ремонт по акту с противопожарными средствами. Ответственный – начальник КТЦ-1 или его заместитель.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0025\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">6.9.\nПередача блока в ремонт по акту с\nпротивопожарными средствами. Ответственный\n– начальник КТЦ-1 или его заместитель.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "ПРИМЕЧАНИЕ: До остывания турбины, откачки масла и зашандоривания аванкамер ЦН остаются в работе (резерве) – маслосистема ТГ и ПЭН, ВПУ, ЦН А,Б, напорными и сливными циркводами, термоконтроль турбины, конденсатор турбины.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0026\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><b>ПРИМЕЧАНИЕ:</b>\nДо остывания турбины, откачки масла и\nзашандоривания аванкамер ЦН остаются\nв работе (резерве) – маслосистема ТГ и\nПЭН, ВПУ, ЦН А,Б, напорными и сливными\nциркводами, термоконтроль турбины,\nконденсатор турбины.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "Ответственные: начальник КТЦ-1, начальник электроцеха, начальник ЦТКА, руководитель ремонта.",
+      "html": "<p align=\"justify\" data-block-id=\"block-0027\" lang=\"ru-RU\" style=\"text-indent: 0.59in; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Ответственные:\nначальник КТЦ-1, начальник электроцеха,\nначальник ЦТКА, руководитель ремонта.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по тепломеханической части Б.Р. Исмоилов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0028\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо тепломеханической части \t\t\t\t Б.Р.\nИсмоилов                                              </font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Начальник СНТБ Б.Б. Нурдинов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0029\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  СНТБ  \n                              \t\t\t\t\t\t   Б.Б. Нурдинов</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Начальник ОПТО Б.С. Айтмуратов",
+      "html": "<p align=\"justify\" data-block-id=\"block-0030\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n ОПТО           \t\t\t\t\t\t\t\tБ.С. Айтмуратов </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Начальник Электроцеха М.Д. Кенжибаев",
+      "html": "<p align=\"justify\" data-block-id=\"block-0031\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n Электроцеха                     \t\t\t\t\t\tМ.Д. Кенжибаев\n</font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "Начальник ЦТКА Р.К. Байматов",
+      "html": "<p align=\"justify\" data-block-id=\"block-0032\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n ЦТКА       \t\t\t\t\t\t\t\t   Р.К. Байматов </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "Начальник Хим.цеха Л.П. Хамракулова",
+      "html": "<p align=\"justify\" data-block-id=\"block-0033\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n Хим.цеха               \t\t\t\t\t\t       Л.П. Хамракулова</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-2 М.М. Махкамов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0034\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  КТЦ-2\t\t\n         \t\t\t\t    \t\t\tМ.М. Махкамов</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "Начальник КТЦ-1 У.Л. Мажлимов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0035\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Начальник  КТЦ-1\t\t\n         \t\t\t\t    \t\t\tУ.Л. Мажлимов</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0036\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо  электрооборудованию                         \n       \tА.А. Махмудходжаев</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "начальник",
+    "насосов",
+    "турбины",
+    "ктц-1",
+    "ответственный",
+    "котла",
+    "тех",
+    "ремонт",
+    "длительность",
+    "часов",
+    "заместители",
+    "блока",
+    "провести",
+    "согласно",
+    "пэн",
+    "воды",
+    "снять",
+    "маслонасосов",
+    "генератора",
+    "тэс",
+    "энергоблоков",
+    "программе",
+    "опто",
+    "отключить",
+    "пределах",
+    "действующих",
+    "производственных",
+    "инструкций",
+    "останова",
+    "цеха",
+    "пнд",
+    "конденсатор",
+    "дренажных",
+    "питательной",
+    "стороны"
+  ],
+  "statistics": {
+    "blocks": 36,
+    "sections": 6,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "826ff3335699f4c0fdb212d6da3748b433764123885df13b5faa53953d603d8c",
+    "sourceDocxStats": {
+      "paragraphs": 57,
+      "tables": 0,
+      "media": 0,
+      "textChars": 3908
+    },
+    "htmlTextChars": 3909,
+    "textLengthRatio": 1.0,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/vyvod-bl-v-kap-i-sr-rem-2026/"
+}

@@ -1,0 +1,459 @@
+{
+  "id": "proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026",
+  "code": "",
+  "title": "ИПУ-2 VA ХПП XAVFSIZLIK KLAPANLARI ISHGA YAROQLILIGINI TEKSHIRISH DASTURI",
+  "summary": "Blok to‘xtatilishi vaqtida ИПУ-2 va ХПП xavfsizlik klapanlarini sinab ko‘rish tartibi.",
+  "sourceLanguage": "ru",
+  "language": "uzLatn",
+  "sourceFile": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.49in; margin-top: 0.49in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026.doc",
+    "path": "documents/proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026.pdf",
+    "path": "documents/proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "проверка_работоспособности_пр_кл_ИПУ_2,ХПП_2026.docx",
+    "path": "documents/proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "",
+      "title": "TASDIQLAYMAN",
+      "level": 1,
+      "blockIds": [
+        "block-0001",
+        "block-0002",
+        "block-0003",
+        "block-0004",
+        "block-0005",
+        "block-0006",
+        "block-0007",
+        "block-0008",
+        "block-0009",
+        "block-0010",
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029"
+      ],
+      "text": "TASDIQLAYMAN\nTexnik direktor\nAJ «Toshkent IES»\nV.V. Pak\nDASTUR\nИПУ-2 xavfsizlik klapanlari ishga yaroqliligini tekshirish.\nAJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ИПУ-2 xavfsizlik klapanining ishini tekshirish va sinab ko‘rish blok to‘xtatilishi vaqtida bajariladi. ИПУ-2 xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ИПУ-2 xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. Sinovdan oldin katta mashinist joyida impuls va bosh xavfsizlik klapanini klapandagi plombalar, ГПК prujinalari, ИПУ shtoklarining soz holati bo‘yicha ko‘zdan kechiradi. Xodimlarni joylashtirish:\n- БЩУda КТЦ-1 smena boshlig‘i, ЦТКА smena boshlig‘i, energiya bloki mashinisti bo‘ladi\n- qozonda ГПК klapani yonida: chapda — katta mashinist, o‘ngda — qozon ko‘rikchisi\nEnergiya bloki mashinisti БЩУda kalitdan impulsno-xavfsizlik qurilmasini ochishga impuls beradi va lampalar yonishini kuzatadi. Katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi ochilganda joyida shtok yurishini, klapanning ochilishi va yopilishini ko‘rikdan o‘tkazadi. Bosh xavfsizlik klapani o‘tirmagan taqdirda katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi richagini bosish orqali uni qo‘lda o‘tqazadi. Agar bosh xavfsizlik klapani o‘tirmasa, blok to‘xtatishga olib boriladi. ИПУ-2 sinovi tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish.\nТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov\nКТЦ-1 boshlig‘i U.L. Majlimov\nКТЦ-2 boshlig‘i M.M. Maxkamov\nЦТКА boshlig‘i R.K. Baymatov\nTASDIQLAYMAN\nTexnik direktor\nAJ «Toshkent IES»\nV.V. Pak\nDASTUR\nХПП xavfsizlik klapanlari ishga yaroqliligini tekshirish.\nAJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ХПП ishini tekshirish va sinab ko‘rish blok to‘xtatilishidan oldin bajariladi. ХПП xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ХПП xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. ТГning 9м belgisidan sinovda qatnashmaydigan begona xodimlarni chiqarish. Xodimlarni joylashtirish:\n- БЩУda КТЦ-1 smena boshlig‘i va ЦТКА smena boshlig‘i bo‘ladi.\n- ХПП xavfsizlik klapanlari maydonchasida — katta mashinist va turbina ko‘rikchisi.\nХПП xavfsizlik klapanlarini sinashdan oldin katta mashinist klapanlarni va ularning soz holatini joyida ko‘z bilan tekshiradi. E’tirozlar bo‘lmasa, ketma-ket ХПП ИПУ ПК-1 richagini ko‘tarib joyiga qo‘yadi, so‘ng ХПП ИПУ ПК-2 va ХПП ИПУ ПК-3 bilan shu amalni bajaradi. Xavfsizlik klapani o‘tirmagan taqdirda blok to‘xtatishga olib boriladi. ХПП xavfsizlik klapanlarini sinash tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish.\nТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov\nКТЦ-1 boshlig‘i U.L. Majlimov\nКТЦ-2 boshlig‘i M.M. Maxkamov\nЦТКА boshlig‘i R.K. Baymatov",
+      "keywords": [
+        "предохранительных",
+        "клапанов",
+        "начальник",
+        "хпп",
+        "машинист",
+        "тэс",
+        "клапана",
+        "старший",
+        "журнале",
+        "ипу-2",
+        "ташкентская",
+        "опробование",
+        "блок",
+        "опробованием",
+        "ипу"
+      ],
+      "confidence": 0.2,
+      "detectionSource": "fallback"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "html": "<div data-block-id=\"block-0001\"><p align=\"right\" lang=\"uz-Latn\">TASDIQLAYMAN</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Texnik direktor",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Latn\">Texnik direktor</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «Toshkent IES»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Latn\">AJ «Toshkent IES»</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Latn\">V.V. Pak</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "DASTUR",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"center\" lang=\"uz-Latn\">DASTUR</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "ИПУ-2 xavfsizlik klapanlari ishga yaroqliligini tekshirish.",
+      "html": "<div data-block-id=\"block-0006\"><p align=\"center\" lang=\"uz-Latn\">ИПУ-2 xavfsizlik klapanlari ishga yaroqliligini tekshirish.</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "list",
+      "text": "AJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ИПУ-2 xavfsizlik klapanining ishini tekshirish va sinab ko‘rish blok to‘xtatilishi vaqtida bajariladi. ИПУ-2 xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ИПУ-2 xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. Sinovdan oldin katta mashinist joyida impuls va bosh xavfsizlik klapanini klapandagi plombalar, ГПК prujinalari, ИПУ shtoklarining soz holati bo‘yicha ko‘zdan kechiradi. Xodimlarni joylashtirish:",
+      "html": "<ol data-block-id=\"block-0007\"><li><p align=\"inherit\" lang=\"uz-Latn\">AJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ИПУ-2 xavfsizlik klapanining ishini tekshirish va sinab ko‘rish blok to‘xtatilishi vaqtida bajariladi. ИПУ-2 xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ИПУ-2 xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. Sinovdan oldin katta mashinist joyida impuls va bosh xavfsizlik klapanini klapandagi plombalar, ГПК prujinalari, ИПУ shtoklarining soz holati bo‘yicha ko‘zdan kechiradi. Xodimlarni joylashtirish:</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "- БЩУda КТЦ-1 smena boshlig‘i, ЦТКА smena boshlig‘i, energiya bloki mashinisti bo‘ladi",
+      "html": "<div data-block-id=\"block-0008\"><p align=\"justify\" lang=\"uz-Latn\">- БЩУda КТЦ-1 smena boshlig‘i, ЦТКА smena boshlig‘i, energiya bloki mashinisti bo‘ladi</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "- qozonda ГПК klapani yonida: chapda — katta mashinist, o‘ngda — qozon ko‘rikchisi",
+      "html": "<div data-block-id=\"block-0009\"><p align=\"justify\" lang=\"uz-Latn\">- qozonda ГПК klapani yonida: chapda — katta mashinist, o‘ngda — qozon ko‘rikchisi</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "Energiya bloki mashinisti БЩУda kalitdan impulsno-xavfsizlik qurilmasini ochishga impuls beradi va lampalar yonishini kuzatadi. Katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi ochilganda joyida shtok yurishini, klapanning ochilishi va yopilishini ko‘rikdan o‘tkazadi. Bosh xavfsizlik klapani o‘tirmagan taqdirda katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi richagini bosish orqali uni qo‘lda o‘tqazadi. Agar bosh xavfsizlik klapani o‘tirmasa, blok to‘xtatishga olib boriladi. ИПУ-2 sinovi tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish.",
+      "html": "<ol data-block-id=\"block-0010\"><li><p align=\"inherit\" lang=\"uz-Latn\">Energiya bloki mashinisti БЩУda kalitdan impulsno-xavfsizlik qurilmasini ochishga impuls beradi va lampalar yonishini kuzatadi. Katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi ochilganda joyida shtok yurishini, klapanning ochilishi va yopilishini ko‘rikdan o‘tkazadi. Bosh xavfsizlik klapani o‘tirmagan taqdirda katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi richagini bosish orqali uni qo‘lda o‘tqazadi. Agar bosh xavfsizlik klapani o‘tirmasa, blok to‘xtatishga olib boriladi. ИПУ-2 sinovi tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "ТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov",
+      "html": "<div data-block-id=\"block-0011\"><p align=\"justify\" lang=\"uz-Latn\">ТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "КТЦ-1 boshlig‘i U.L. Majlimov",
+      "html": "<div data-block-id=\"block-0012\"><p align=\"justify\" lang=\"uz-Latn\">КТЦ-1 boshlig‘i U.L. Majlimov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "КТЦ-2 boshlig‘i M.M. Maxkamov",
+      "html": "<div data-block-id=\"block-0013\"><p align=\"justify\" lang=\"uz-Latn\">КТЦ-2 boshlig‘i M.M. Maxkamov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "ЦТКА boshlig‘i R.K. Baymatov",
+      "html": "<div data-block-id=\"block-0014\"><p align=\"justify\" lang=\"uz-Latn\">ЦТКА boshlig‘i R.K. Baymatov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "html": "<div data-block-id=\"block-0015\"><p align=\"right\" lang=\"uz-Latn\">TASDIQLAYMAN</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "Texnik direktor",
+      "html": "<div data-block-id=\"block-0016\"><p align=\"right\" lang=\"uz-Latn\">Texnik direktor</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "AJ «Toshkent IES»",
+      "html": "<div data-block-id=\"block-0017\"><p align=\"right\" lang=\"uz-Latn\">AJ «Toshkent IES»</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "html": "<div data-block-id=\"block-0018\"><p align=\"right\" lang=\"uz-Latn\">V.V. Pak</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "DASTUR",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"center\" lang=\"uz-Latn\">DASTUR</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "ХПП xavfsizlik klapanlari ishga yaroqliligini tekshirish.",
+      "html": "<div data-block-id=\"block-0020\"><p align=\"center\" lang=\"uz-Latn\">ХПП xavfsizlik klapanlari ishga yaroqliligini tekshirish.</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "list",
+      "text": "AJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ХПП ishini tekshirish va sinab ko‘rish blok to‘xtatilishidan oldin bajariladi. ХПП xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ХПП xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. ТГning 9м belgisidan sinovda qatnashmaydigan begona xodimlarni chiqarish. Xodimlarni joylashtirish:",
+      "html": "<ol data-block-id=\"block-0021\"><li><p align=\"inherit\" lang=\"uz-Latn\">AJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ХПП ishini tekshirish va sinab ko‘rish blok to‘xtatilishidan oldin bajariladi. ХПП xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ХПП xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. ТГning 9м belgisidan sinovda qatnashmaydigan begona xodimlarni chiqarish. Xodimlarni joylashtirish:</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "- БЩУda КТЦ-1 smena boshlig‘i va ЦТКА smena boshlig‘i bo‘ladi.",
+      "html": "<div data-block-id=\"block-0022\"><p align=\"justify\" lang=\"uz-Latn\">- БЩУda КТЦ-1 smena boshlig‘i va ЦТКА smena boshlig‘i bo‘ladi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "- ХПП xavfsizlik klapanlari maydonchasida — katta mashinist va turbina ko‘rikchisi.",
+      "html": "<div data-block-id=\"block-0023\"><p align=\"justify\" lang=\"uz-Latn\">- ХПП xavfsizlik klapanlari maydonchasida — katta mashinist va turbina ko‘rikchisi.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "list",
+      "text": "ХПП xavfsizlik klapanlarini sinashdan oldin katta mashinist klapanlarni va ularning soz holatini joyida ko‘z bilan tekshiradi. E’tirozlar bo‘lmasa, ketma-ket ХПП ИПУ ПК-1 richagini ko‘tarib joyiga qo‘yadi, so‘ng ХПП ИПУ ПК-2 va ХПП ИПУ ПК-3 bilan shu amalni bajaradi. Xavfsizlik klapani o‘tirmagan taqdirda blok to‘xtatishga olib boriladi. ХПП xavfsizlik klapanlarini sinash tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish.",
+      "html": "<ol data-block-id=\"block-0024\"><li><p align=\"inherit\" lang=\"uz-Latn\">ХПП xavfsizlik klapanlarini sinashdan oldin katta mashinist klapanlarni va ularning soz holatini joyida ko‘z bilan tekshiradi. E’tirozlar bo‘lmasa, ketma-ket ХПП ИПУ ПК-1 richagini ko‘tarib joyiga qo‘yadi, so‘ng ХПП ИПУ ПК-2 va ХПП ИПУ ПК-3 bilan shu amalni bajaradi. Xavfsizlik klapani o‘tirmagan taqdirda blok to‘xtatishga olib boriladi. ХПП xavfsizlik klapanlarini sinash tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "ТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov",
+      "html": "<div data-block-id=\"block-0025\"><p align=\"justify\" lang=\"uz-Latn\">ТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "КТЦ-1 boshlig‘i U.L. Majlimov",
+      "html": "<div data-block-id=\"block-0026\"><p align=\"justify\" lang=\"uz-Latn\">КТЦ-1 boshlig‘i U.L. Majlimov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "КТЦ-2 boshlig‘i M.M. Maxkamov",
+      "html": "<div data-block-id=\"block-0027\"><p align=\"justify\" lang=\"uz-Latn\">КТЦ-2 boshlig‘i M.M. Maxkamov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "ЦТКА boshlig‘i R.K. Baymatov",
+      "html": "<div data-block-id=\"block-0028\"><p align=\"justify\" lang=\"uz-Latn\">ЦТКА boshlig‘i R.K. Baymatov</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "image",
+      "text": "",
+      "html": "<p class=\"western\" data-block-id=\"block-0029\" style=\"margin-bottom: 0in\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D1%80_%D0%BA%D0%BB_%D0%98%D0%9F%D0%A3_2,%D0%A5%D0%9F%D0%9F_2026_html_3f3af2.jpg\" height=\"45\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.jpg\" width=\"105\"/>\n<br/>\n</p>",
+      "alignment": "inherit",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "предохранительных",
+    "клапанов",
+    "начальник",
+    "хпп",
+    "машинист",
+    "тэс",
+    "клапана",
+    "старший",
+    "журнале",
+    "ипу-2",
+    "ташкентская",
+    "опробование",
+    "блок",
+    "опробованием",
+    "ипу",
+    "смены",
+    "ктц-1",
+    "цтка",
+    "обходчик",
+    "опробования",
+    "предохранительного",
+    "месту",
+    "бщу",
+    "котла",
+    "импульсно-предохранительного",
+    "устройства",
+    "рычаг",
+    "утверждаю",
+    "технический",
+    "директор",
+    "пак",
+    "проверки",
+    "работоспособности",
+    "согласовать",
+    "руководством"
+  ],
+  "statistics": {
+    "blocks": 29,
+    "sections": 1,
+    "tables": 0,
+    "images": 1,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "6194f8cdea839da463500bea084774b80db4773c148e3a3e0075ff55b2d54ea1",
+    "sourceDocxStats": {
+      "paragraphs": 97,
+      "tables": 0,
+      "media": 1,
+      "textChars": 3192
+    },
+    "htmlTextChars": 3192,
+    "textLengthRatio": 1,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/proverka-rabotosposobnosti-pr-kl-ipu-2-hpp-2026/",
+  "searchMetadata": {
+    "keywords": [
+      "ИПУ-2 sinovi",
+      "ХПП xavfsizlik klapani",
+      "klapan ishga yaroqliligi",
+      "ГПК klapani",
+      "blokni to‘xtatish"
+    ],
+    "aliases": [
+      "predoxranitel klapanni tekshirish",
+      "ИПУ tekshiruvi",
+      "ХПП klapanlarini sinash"
+    ],
+    "searchText": "ИПУ-2 VA ХПП XAVFSIZLIK KLAPANLARI ISHGA YAROQLILIGINI TEKSHIRISH DASTURI Blok to‘xtatilishi vaqtida ИПУ-2 va ХПП xavfsizlik klapanlarini sinab ko‘rish tartibi. TASDIQLAYMAN Texnik direktor AJ «Toshkent IES» V.V. Pak DASTUR ИПУ-2 xavfsizlik klapanlari ishga yaroqliligini tekshirish. AJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ИПУ-2 xavfsizlik klapanining ishini tekshirish va sinab ko‘rish blok to‘xtatilishi vaqtida bajariladi. ИПУ-2 xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ИПУ-2 xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. Sinovdan oldin katta mashinist joyida impuls va bosh xavfsizlik klapanini klapandagi plombalar, ГПК prujinalari, ИПУ shtoklarining soz holati bo‘yicha ko‘zdan kechiradi. Xodimlarni joylashtirish: - БЩУda КТЦ-1 smena boshlig‘i, ЦТКА smena boshlig‘i, energiya bloki mashinisti bo‘ladi - qozonda ГПК klapani yonida: chapda — katta mashinist, o‘ngda — qozon ko‘rikchisi Energiya bloki mashinisti БЩУda kalitdan impulsno-xavfsizlik qurilmasini ochishga impuls beradi va lampalar yonishini kuzatadi. Katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi ochilganda joyida shtok yurishini, klapanning ochilishi va yopilishini ko‘rikdan o‘tkazadi. Bosh xavfsizlik klapani o‘tirmagan taqdirda katta mashinist va qozon ko‘rikchisi impulsno-xavfsizlik qurilmasi richagini bosish orqali uni qo‘lda o‘tqazadi. Agar bosh xavfsizlik klapani o‘tirmasa, blok to‘xtatishga olib boriladi. ИПУ-2 sinovi tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish. ТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov КТЦ-1 boshlig‘i U.L. Majlimov КТЦ-2 boshlig‘i M.M. Maxkamov ЦТКА boshlig‘i R.K. Baymatov TASDIQLAYMAN Texnik direktor AJ «Toshkent IES» V.V. Pak DASTUR ХПП xavfsizlik klapanlari ishga yaroqliligini tekshirish. AJ «Toshkent IES» stansiyasi rahbariyati (AJ «Tosh. IES» texnik direktori) bilan kelishish. ХПП ishini tekshirish va sinab ko‘rish blok to‘xtatilishidan oldin bajariladi. ХПП xavfsizlik klapanlarini sinab ko‘rish uchun ЦПУga ariza berish. Blok yuklamasini 100 МВт gacha kamaytirish. ДИС ruxsati bilan sinovga kirishish. ХПП xavfsizlik klapanlarini sinashdan oldin xodimlarga yo‘riqnoma berish. ТГning 9м belgisidan sinovda qatnashmaydigan begona xodimlarni chiqarish. Xodimlarni joylashtirish: - БЩУda КТЦ-1 smena boshlig‘i va ЦТКА smena boshlig‘i bo‘ladi. - ХПП xavfsizlik klapanlari maydonchasida — katta mashinist va turbina ko‘rikchisi. ХПП xavfsizlik klapanlarini sinashdan oldin katta mashinist klapanlarni va ularning soz holatini joyida ko‘z bilan tekshiradi. E’tirozlar bo‘lmasa, ketma-ket ХПП ИПУ ПК-1 richagini ko‘tarib joyiga qo‘yadi, so‘ng ХПП ИПУ ПК-2 va ХПП ИПУ ПК-3 bilan shu amalni bajaradi. Xavfsizlik klapani o‘tirmagan taqdirda blok to‘xtatishga olib boriladi. ХПП xavfsizlik klapanlarini sinash tugagach, operativ jurnalga va xavfsizlik klapanlari sinovini hisobga olish jurnaliga, aniqlangan e’tirozlar bo‘lsa — nuqsonlar jurnaliga yozib qo‘yish. ТМО bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov КТЦ-1 boshlig‘i U.L. Majlimov КТЦ-2 boshlig‘i M.M. Maxkamov ЦТКА boshlig‘i R.K. Baymatov "
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "id": "produvka-paroprov-posle-rem-2025",
+  "code": "",
+  "title": "BLOK BUG‘ QUVURLARINI TA’MIRDAN KEYIN PUFLASH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "Blok ta’miridan keyin bug‘ quvurlaridan begona jismlarni chiqarish uchun puflash ishlari tartibi; tasvirlar alohida lokalizatsiya qilinmaydi.",
+  "sourceLanguage": "ru",
+  "language": "uzLatn",
+  "sourceFile": "продувка паропров. после рем - 2025.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/produvka-paroprov-posle-rem-2025/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.38in; margin-bottom: 0.25in }\n\t\tp { margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: center; background: transparent }\n\t\tp.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "продувка паропров. после рем - 2025.doc",
+    "path": "documents/produvka-paroprov-posle-rem-2025/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "продувка паропров. после рем - 2025.pdf",
+    "path": "documents/produvka-paroprov-posle-rem-2025/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "продувка паропров. после рем - 2025.docx",
+    "path": "documents/produvka-paroprov-posle-rem-2025/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Гидравлические sinovlar qozon и bug‘ quvurlari.",
+      "level": 1,
+      "blockIds": [
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032"
+      ],
+      "text": "1. Гидравлические sinovlar qozon и bug‘ quvurlari.\nTa’mir и поузловая приемка в пределах программ гидравлического sinovlar. Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ. Ta’mir газовоздуховодов и гарнитуры qozon. Ta’mir обмуровки qozon Ta’mir и опробование 3-х ярусов приводов горелок. Ta’mir газопроводов в пределах qozon с проверкой защиты по газу. Обмуровка qozon и тепловая изоляция трубопроводов в пределах qozon, bug‘ quvurlari острого пара, перепускных труб острого пара, bug‘ quvurlari «холодного» и «горячего» промперегрева, барабана qozon. Ta’mir лестниц и площадок qozon. Уборка мусора со всех площадок, отметок, лестниц qozon и СУП. Снятие лесов и подмостей, где возможно их загорание. Ta’mir и включение в работу контрольно-измерительных приборов:\nРазряжение в топке и газоходах. Bosim холодного и горячего воздуха. Harorat по газовоздушному тракту qozon. Harorat пара по всему тракту qozon. Harorat острого пара и пара промперегрева. Bosim в барабане qozon. Bosim острого пара и пара промперегрева. Bosim в Д-6ата. Bosim oziqlantiruvchi suv. Уровень в барабане qozon. Уровень в Д-6ата.\nTexnik tarjima talab qilinadi: Снято сито стопорного клапана острого пара, установлены заглушки на регулирующих\nклапанах.\nTa’mir и поузловая приемка armatura в объеме программы гидравлических испытаний. Дать отписку на ЦПУ.\nBUG‘ QUVURLARINI PUFLASH\nПосле выполнения перечисленных подготовительных работ и исправности узлов руководитель ta’mirа подает заявку на qozonni yoqish для продувки bug‘ quvurlari. После разрешения заявки руководством КТЦ-1 и НСС котел заполняется kimyoviy tuzsizlantirilgan suv bilan до растопочного уровня. Растопка qozon для продувки bug‘ quvurlari bajariladi согласно эксплуатационных инструкций. Пароперегреватели первичного тракта qozon во время растопки охлаждается через линию продувки в атмосферу. Harorat дымовых газов после вторичного п/перегревателя не должна превышать 400 0 С. При достижении давления 10, 26, 50ата tekshirish работоспособность реперов теплового перемещения элементов qozon. В работе находятся 2; 6 горелки 1 яруса qozon. При достижении давления в барабане qozon 25-30ати, начинается прогрев перепускных труб высокого давления. После прогрева перепускных труб высокого давления поднимается bosim в барабане qozon до 50ати, открываются ГПЗ и их байпасы и продуваются bug‘ quvurlari острого пара в течение 15 мин. После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности. Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих\nклапанах.\nISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR\nОперативно-техническое руководство продувкой осуществляет boshliq КТЦ-1 или его заместитель. Оперативные переключения основного и вспомогательного оборудования осуществляет xodimlar КТЦ-1. Все работы по продувке bug‘ quvurlari осуществляются под непосредственным руководством boshliqа смены КТЦ-1,2 и руководителя ta’mirных работ по котлу. На время qozonni yoqish, подъема давления, продувки bug‘ quvurlari, прекращаются ta’mirные работы и выводятся ta’mirные бригады с qozon, из района питательных quvurlar, главных bug‘ quvurlari, перепускных труб острого пара, отм. 9 м. turbina. Сдаются все промежуточные наряды на производство работ в указанных местах. Производство работ на остальных участках станции или блока разрешается. Работающие бригады bo‘lishi kerak предупреждены руководителем ta’mirа о растопке qozon и недопустимости нахождения в перечисленных выше местах. Непосредственно перед началом продувки bug‘ quvurlari руководитель ta’mirа выставляет наблюдающих и обеспечивает отсутствие xodimlarа на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону. На период заполнения, qozonni yoqish и продувки bug‘ quvurlari выделяется дежурная ta’mirная бригада во главе с мастером. Члены дежурной бригады bo‘lishi kerak проинструктированы ответственным руководителем ta’mirа и руководством КТЦ-1 о соблюдении ПТБ при растопке qozon для продувки bug‘ quvurlari с записью в журнале инструктажей.\nTexnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов\nBoshliq СНТБ Б.Б. Нурдинов\nСНТБ boshlig‘i B.B. Nurdinov\nММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova\nКТЦ-1 boshlig‘i U.L. Majlimov\nBoshliq ЦЦР Т.А. Валиев\nBoshliq ЦТКА Р. К. Байматов\nBoshliq Эл.цеха М.Д. Кенжибаев\nBoshliq лаб. металлов Л.У. Эшонкулов\nIshlar rahbari нач. уч-ка «УЭТ» М.М. Базаров\nTexnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "keywords": [
+        "котла",
+        "паропроводов",
+        "пара",
+        "ремонт",
+        "острого",
+        "продувки",
+        "давление",
+        "работ",
+        "ктц-1",
+        "давления",
+        "ачальник",
+        "пределах",
+        "перепускных",
+        "труб",
+        "температура"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "list",
+      "text": "TASDIQLAYMAN",
+      "html": "<ol data-block-id=\"block-0001\"><li><p align=\"inherit\" lang=\"uz-Latn\">TASDIQLAYMAN</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "TEXNIK DIREKTOR",
+      "html": "<div data-block-id=\"block-0002\"><p align=\"right\" lang=\"uz-Latn\">TEXNIK DIREKTOR</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "html": "<div data-block-id=\"block-0003\"><p align=\"right\" lang=\"uz-Latn\">AJ «TOSHKENT IES»<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_47716ac7.gif\" height=\"81\" loading=\"lazy\" name=\"Image1\" src=\"assets/image-001.gif\" width=\"62\"/></p></div>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<div data-block-id=\"block-0004\"><p align=\"right\" lang=\"uz-Latn\">В.В. Пак</p></div>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "html": "<div data-block-id=\"block-0005\"><p align=\"center\" lang=\"uz-Latn\">NAMUNAVIY DASTUR</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Texnik tarjima talab qilinadi: ПРОВЕДЕНИЯ ПРОДУВКИ ПАРОПРОВОДОВ БЛОКА",
+      "html": "<div data-block-id=\"block-0006\"><p align=\"center\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: ПРОВЕДЕНИЯ ПРОДУВКИ ПАРОПРОВОДОВ БЛОКА</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "ПОСЛЕ РЕМОНТА БЛОКА",
+      "html": "<div data-block-id=\"block-0007\"><p align=\"center\" lang=\"uz-Latn\">ПОСЛЕ РЕМОНТА БЛОКА</p></div>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Продувка bug‘ quvurlari bajariladi с целью удаления из них посторонних предметов muvofiq «Справочник монтажника тепловых электростанции», раздел 4.",
+      "html": "<div data-block-id=\"block-0008\"><p align=\"left\" lang=\"uz-Latn\">Продувка bug‘ quvurlari bajariladi с целью удаления из них посторонних предметов muvofiq «Справочник монтажника тепловых электростанции», раздел 4.</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "list",
+      "text": "TAYYORGARLIK ISHLARI.",
+      "html": "<ol data-block-id=\"block-0009\"><li><p align=\"inherit\" lang=\"uz-Latn\">TAYYORGARLIK ISHLARI.</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "До растопки qozon для bug‘ quvurlarini puflash bo‘lishi kerak выполнены следующие работы:",
+      "html": "<div data-block-id=\"block-0010\"><p align=\"justify\" lang=\"uz-Latn\">До растопки qozon для bug‘ quvurlarini puflash bo‘lishi kerak выполнены следующие работы:</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "1. Гидравлические sinovlar qozon и bug‘ quvurlari.",
+      "html": "<div data-block-id=\"block-0011\"><p align=\"justify\" lang=\"uz-Latn\">1. Гидравлические sinovlar qozon и bug‘ quvurlari.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Ta’mir и поузловая приемка в пределах программ гидравлического sinovlar. Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ. Ta’mir газовоздуховодов и гарнитуры qozon. Ta’mir обмуровки qozon Ta’mir и опробование 3-х ярусов приводов горелок. Ta’mir газопроводов в пределах qozon с проверкой защиты по газу. Обмуровка qozon и тепловая изоляция трубопроводов в пределах qozon, bug‘ quvurlari острого пара, перепускных труб острого пара, bug‘ quvurlari «холодного» и «горячего» промперегрева, барабана qozon. Ta’mir лестниц и площадок qozon. Уборка мусора со всех площадок, отметок, лестниц qozon и СУП. Снятие лесов и подмостей, где возможно их загорание. Ta’mir и включение в работу контрольно-измерительных приборов:",
+      "html": "<ol data-block-id=\"block-0012\"><li><p align=\"inherit\" lang=\"uz-Latn\">Ta’mir и поузловая приемка в пределах программ гидравлического sinovlar. Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ. Ta’mir газовоздуховодов и гарнитуры qozon. Ta’mir обмуровки qozon Ta’mir и опробование 3-х ярусов приводов горелок. Ta’mir газопроводов в пределах qozon с проверкой защиты по газу. Обмуровка qozon и тепловая изоляция трубопроводов в пределах qozon, bug‘ quvurlari острого пара, перепускных труб острого пара, bug‘ quvurlari «холодного» и «горячего» промперегрева, барабана qozon. Ta’mir лестниц и площадок qozon. Уборка мусора со всех площадок, отметок, лестниц qozon и СУП. Снятие лесов и подмостей, где возможно их загорание. Ta’mir и включение в работу контрольно-измерительных приборов:</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "list",
+      "text": "Разряжение в топке и газоходах. Bosim холодного и горячего воздуха. Harorat по газовоздушному тракту qozon. Harorat пара по всему тракту qozon. Harorat острого пара и пара промперегрева. Bosim в барабане qozon. Bosim острого пара и пара промперегрева. Bosim в Д-6ата. Bosim oziqlantiruvchi suv. Уровень в барабане qozon. Уровень в Д-6ата.",
+      "html": "<ol data-block-id=\"block-0013\"><li><p align=\"inherit\" lang=\"uz-Latn\">Разряжение в топке и газоходах. Bosim холодного и горячего воздуха. Harorat по газовоздушному тракту qozon. Harorat пара по всему тракту qozon. Harorat острого пара и пара промперегрева. Bosim в барабане qozon. Bosim острого пара и пара промперегрева. Bosim в Д-6ата. Bosim oziqlantiruvchi suv. Уровень в барабане qozon. Уровень в Д-6ата.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "list",
+      "text": "Texnik tarjima talab qilinadi: Снято сито стопорного клапана острого пара, установлены заглушки на регулирующих",
+      "html": "<ol data-block-id=\"block-0014\"><li><p align=\"inherit\" lang=\"uz-Latn\">Texnik tarjima talab qilinadi: Снято сито стопорного клапана острого пара, установлены заглушки на регулирующих</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "клапанах.",
+      "html": "<div data-block-id=\"block-0015\"><p align=\"justify\" lang=\"uz-Latn\">клапанах.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "list",
+      "text": "Ta’mir и поузловая приемка armatura в объеме программы гидравлических испытаний. Дать отписку на ЦПУ.",
+      "html": "<ol data-block-id=\"block-0016\"><li><p align=\"inherit\" lang=\"uz-Latn\">Ta’mir и поузловая приемка armatura в объеме программы гидравлических испытаний. Дать отписку на ЦПУ.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "list",
+      "text": "BUG‘ QUVURLARINI PUFLASH",
+      "html": "<ol data-block-id=\"block-0017\"><li><p align=\"inherit\" lang=\"uz-Latn\">BUG‘ QUVURLARINI PUFLASH</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "list",
+      "text": "После выполнения перечисленных подготовительных работ и исправности узлов руководитель ta’mirа подает заявку на qozonni yoqish для продувки bug‘ quvurlari. После разрешения заявки руководством КТЦ-1 и НСС котел заполняется kimyoviy tuzsizlantirilgan suv bilan до растопочного уровня. Растопка qozon для продувки bug‘ quvurlari bajariladi согласно эксплуатационных инструкций. Пароперегреватели первичного тракта qozon во время растопки охлаждается через линию продувки в атмосферу. Harorat дымовых газов после вторичного п/перегревателя не должна превышать 400 0 С. При достижении давления 10, 26, 50ата tekshirish работоспособность реперов теплового перемещения элементов qozon. В работе находятся 2; 6 горелки 1 яруса qozon. При достижении давления в барабане qozon 25-30ати, начинается прогрев перепускных труб высокого давления. После прогрева перепускных труб высокого давления поднимается bosim в барабане qozon до 50ати, открываются ГПЗ и их байпасы и продуваются bug‘ quvurlari острого пара в течение 15 мин. После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности. Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих",
+      "html": "<ol data-block-id=\"block-0018\"><li><p align=\"inherit\" lang=\"uz-Latn\">После выполнения перечисленных подготовительных работ и исправности узлов руководитель ta’mirа подает заявку на qozonni yoqish для продувки bug‘ quvurlari. После разрешения заявки руководством КТЦ-1 и НСС котел заполняется kimyoviy tuzsizlantirilgan suv bilan до растопочного уровня. Растопка qozon для продувки bug‘ quvurlari bajariladi согласно эксплуатационных инструкций. Пароперегреватели первичного тракта qozon во время растопки охлаждается через линию продувки в атмосферу. Harorat дымовых газов после вторичного п/перегревателя не должна превышать 400 0 С. При достижении давления 10, 26, 50ата tekshirish работоспособность реперов теплового перемещения элементов qozon. В работе находятся 2; 6 горелки 1 яруса qozon. При достижении давления в барабане qozon 25-30ати, начинается прогрев перепускных труб высокого давления. После прогрева перепускных труб высокого давления поднимается bosim в барабане qozon до 50ати, открываются ГПЗ и их байпасы и продуваются bug‘ quvurlari острого пара в течение 15 мин. После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности. Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "клапанах.",
+      "html": "<div data-block-id=\"block-0019\"><p align=\"justify\" lang=\"uz-Latn\">клапанах.</p></div>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "list",
+      "text": "ISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR",
+      "html": "<ol data-block-id=\"block-0020\"><li><p align=\"inherit\" lang=\"uz-Latn\">ISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR</p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "list",
+      "text": "Оперативно-техническое руководство продувкой осуществляет boshliq КТЦ-1 или его заместитель. Оперативные переключения основного и вспомогательного оборудования осуществляет xodimlar КТЦ-1. Все работы по продувке bug‘ quvurlari осуществляются под непосредственным руководством boshliqа смены КТЦ-1,2 и руководителя ta’mirных работ по котлу. На время qozonni yoqish, подъема давления, продувки bug‘ quvurlari, прекращаются ta’mirные работы и выводятся ta’mirные бригады с qozon, из района питательных quvurlar, главных bug‘ quvurlari, перепускных труб острого пара, отм. 9 м. turbina. Сдаются все промежуточные наряды на производство работ в указанных местах. Производство работ на остальных участках станции или блока разрешается. Работающие бригады bo‘lishi kerak предупреждены руководителем ta’mirа о растопке qozon и недопустимости нахождения в перечисленных выше местах. Непосредственно перед началом продувки bug‘ quvurlari руководитель ta’mirа выставляет наблюдающих и обеспечивает отсутствие xodimlarа на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону. На период заполнения, qozonni yoqish и продувки bug‘ quvurlari выделяется дежурная ta’mirная бригада во главе с мастером. Члены дежурной бригады bo‘lishi kerak проинструктированы ответственным руководителем ta’mirа и руководством КТЦ-1 о соблюдении ПТБ при растопке qozon для продувки bug‘ quvurlari с записью в журнале инструктажей.",
+      "html": "<ol data-block-id=\"block-0021\"><li><p align=\"inherit\" lang=\"uz-Latn\">Оперативно-техническое руководство продувкой осуществляет boshliq КТЦ-1 или его заместитель. Оперативные переключения основного и вспомогательного оборудования осуществляет xodimlar КТЦ-1. Все работы по продувке bug‘ quvurlari осуществляются под непосредственным руководством boshliqа смены КТЦ-1,2 и руководителя ta’mirных работ по котлу. На время qozonni yoqish, подъема давления, продувки bug‘ quvurlari, прекращаются ta’mirные работы и выводятся ta’mirные бригады с qozon, из района питательных quvurlar, главных bug‘ quvurlari, перепускных труб острого пара, отм. 9 м. turbina. Сдаются все промежуточные наряды на производство работ в указанных местах. Производство работ на остальных участках станции или блока разрешается. Работающие бригады bo‘lishi kerak предупреждены руководителем ta’mirа о растопке qozon и недопустимости нахождения в перечисленных выше местах. Непосредственно перед началом продувки bug‘ quvurlari руководитель ta’mirа выставляет наблюдающих и обеспечивает отсутствие xodimlarа на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону. На период заполнения, qozonni yoqish и продувки bug‘ quvurlari выделяется дежурная ta’mirная бригада во главе с мастером. Члены дежурной бригады bo‘lishi kerak проинструктированы ответственным руководителем ta’mirа и руководством КТЦ-1 о соблюдении ПТБ при растопке qozon для продувки bug‘ quvurlari с записью в журнале инструктажей.</p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li><li><p align=\"inherit\" lang=\"uz-Latn\"></p></li></ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "image",
+      "text": "Texnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0022\"><img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_31ddd917.gif\" height=\"51\" loading=\"lazy\" name=\"Image2\" src=\"assets/image-002.gif\" width=\"128\"/>\n<br/>\n</p>",
+      "alignment": "right",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "Boshliq СНТБ Б.Б. Нурдинов",
+      "html": "<div data-block-id=\"block-0023\"><p align=\"left\" lang=\"uz-Latn\">Boshliq СНТБ Б.Б. Нурдинов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_64e44389.gif\" height=\"60\" loading=\"lazy\" name=\"Image3\" src=\"assets/image-003.gif\" width=\"58\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "СНТБ boshlig‘i B.B. Nurdinov",
+      "html": "<div data-block-id=\"block-0024\"><p align=\"left\" lang=\"uz-Latn\">СНТБ boshlig‘i B.B. Nurdinov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_9e13de95.png\" height=\"70\" loading=\"lazy\" name=\"Image4\" src=\"assets/image-004.png\" width=\"57\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "ММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova",
+      "html": "<div data-block-id=\"block-0025\"><p align=\"left\" lang=\"uz-Latn\">ММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_50379ea0.png\" height=\"52\" loading=\"lazy\" name=\"Image5\" src=\"assets/image-005.png\" width=\"84\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "КТЦ-1 boshlig‘i U.L. Majlimov",
+      "html": "<div data-block-id=\"block-0026\"><p align=\"left\" lang=\"uz-Latn\">КТЦ-1 boshlig‘i U.L. Majlimov<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_7375950f.gif\" height=\"84\" loading=\"lazy\" name=\"Image6\" src=\"assets/image-006.gif\" width=\"72\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "Boshliq ЦЦР Т.А. Валиев",
+      "html": "<div data-block-id=\"block-0027\"><p align=\"left\" lang=\"uz-Latn\">Boshliq ЦЦР Т.А. Валиев<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_563ac4f5.jpg\" height=\"46\" loading=\"lazy\" name=\"Рисунок 13\" src=\"assets/image-007.jpg\" width=\"107\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "Boshliq ЦТКА Р. К. Байматов",
+      "html": "<div data-block-id=\"block-0028\"><p align=\"left\" lang=\"uz-Latn\">Boshliq ЦТКА Р. К. Байматов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_ba50ff54.gif\" height=\"83\" loading=\"lazy\" name=\"Image7\" src=\"assets/image-008.gif\" width=\"109\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "Boshliq Эл.цеха М.Д. Кенжибаев",
+      "html": "<div data-block-id=\"block-0029\"><p align=\"left\" lang=\"uz-Latn\">Boshliq Эл.цеха М.Д. Кенжибаев</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "Boshliq лаб. металлов Л.У. Эшонкулов",
+      "html": "<div data-block-id=\"block-0030\"><p align=\"left\" lang=\"uz-Latn\">Boshliq лаб. металлов Л.У. Эшонкулов<img align=\"left\" border=\"0\" class=\"rich-document__image\" data-original-src=\"%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2.%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B5%D0%BC%20-%202025_html_dc635daa.gif\" height=\"58\" loading=\"lazy\" name=\"Image8\" src=\"assets/image-009.gif\" width=\"88\"/></p></div>",
+      "alignment": "left",
+      "hasImages": true,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Ishlar rahbari нач. уч-ка «УЭТ» М.М. Базаров",
+      "html": "<div data-block-id=\"block-0031\"><p align=\"left\" lang=\"uz-Latn\">Ishlar rahbari нач. уч-ка «УЭТ» М.М. Базаров</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев",
+      "html": "<div data-block-id=\"block-0032\"><p align=\"left\" lang=\"uz-Latn\">Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев</p></div>",
+      "alignment": "left",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "котла",
+    "паропроводов",
+    "пара",
+    "продувки",
+    "ремонт",
+    "острого",
+    "давление",
+    "работ",
+    "ктц-1",
+    "ремонта",
+    "давления",
+    "ачальник",
+    "блока",
+    "работы",
+    "растопки",
+    "пределах",
+    "перепускных",
+    "труб",
+    "температура",
+    "барабане",
+    "промперегрева",
+    "руководитель",
+    "руководством",
+    "бригады",
+    "продувка",
+    "согласно",
+    "испытания",
+    "поузловая",
+    "приемка",
+    "трубопроводов",
+    "холодного",
+    "горячего",
+    "лестниц",
+    "площадок",
+    "тракту"
+  ],
+  "statistics": {
+    "blocks": 32,
+    "sections": 1,
+    "tables": 0,
+    "images": 9,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "e6f5d1a205be1203ea780e7eed51d232a320282c5fe2fdd2a8a75ee806974047",
+    "sourceDocxStats": {
+      "paragraphs": 85,
+      "tables": 0,
+      "media": 9,
+      "textChars": 4839
+    },
+    "htmlTextChars": 4849,
+    "textLengthRatio": 1.002,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/produvka-paroprov-posle-rem-2025/",
+  "searchMetadata": {
+    "keywords": [
+      "bug‘ quvurlarini puflash",
+      "ta’mirdan keyingi puflash",
+      "qozonni yoqish",
+      "БРОУ",
+      "xavfsizlik tadbirlari"
+    ],
+    "aliases": [
+      "paroprovod puflash",
+      "bug‘ quvuri tozalash",
+      "blok puflash"
+    ],
+    "searchText": "BLOK BUG‘ QUVURLARINI TA’MIRDAN KEYIN PUFLASH BO‘YICHA NAMUNAVIY DASTUR Blok ta’miridan keyin bug‘ quvurlaridan begona jismlarni chiqarish uchun puflash ishlari tartibi; tasvirlar alohida lokalizatsiya qilinmaydi. TASDIQLAYMAN TEXNIK DIREKTOR AJ «TOSHKENT IES» В.В. Пак NAMUNAVIY DASTUR Texnik tarjima talab qilinadi: ПРОВЕДЕНИЯ ПРОДУВКИ ПАРОПРОВОДОВ БЛОКА ПОСЛЕ РЕМОНТА БЛОКА Продувка bug‘ quvurlari bajariladi с целью удаления из них посторонних предметов muvofiq «Справочник монтажника тепловых электростанции», раздел 4. TAYYORGARLIK ISHLARI. До растопки qozon для bug‘ quvurlarini puflash bo‘lishi kerak выполнены следующие работы: 1. Гидравлические sinovlar qozon и bug‘ quvurlari. Ta’mir и поузловая приемка в пределах программ гидравлического sinovlar. Сдача и обкатка ДС, ДВ-А,Б; РВП-А, Б, В их направляющих аппаратов и КДУ. Ta’mir газовоздуховодов и гарнитуры qozon. Ta’mir обмуровки qozon Ta’mir и опробование 3-х ярусов приводов горелок. Ta’mir газопроводов в пределах qozon с проверкой защиты по газу. Обмуровка qozon и тепловая изоляция трубопроводов в пределах qozon, bug‘ quvurlari острого пара, перепускных труб острого пара, bug‘ quvurlari «холодного» и «горячего» промперегрева, барабана qozon. Ta’mir лестниц и площадок qozon. Уборка мусора со всех площадок, отметок, лестниц qozon и СУП. Снятие лесов и подмостей, где возможно их загорание. Ta’mir и включение в работу контрольно-измерительных приборов: Разряжение в топке и газоходах. Bosim холодного и горячего воздуха. Harorat по газовоздушному тракту qozon. Harorat пара по всему тракту qozon. Harorat острого пара и пара промперегрева. Bosim в барабане qozon. Bosim острого пара и пара промперегрева. Bosim в Д-6ата. Bosim oziqlantiruvchi suv. Уровень в барабане qozon. Уровень в Д-6ата. Texnik tarjima talab qilinadi: Снято сито стопорного клапана острого пара, установлены заглушки на регулирующих клапанах. Ta’mir и поузловая приемка armatura в объеме программы гидравлических испытаний. Дать отписку на ЦПУ. BUG‘ QUVURLARINI PUFLASH После выполнения перечисленных подготовительных работ и исправности узлов руководитель ta’mirа подает заявку на qozonni yoqish для продувки bug‘ quvurlari. После разрешения заявки руководством КТЦ-1 и НСС котел заполняется kimyoviy tuzsizlantirilgan suv bilan до растопочного уровня. Растопка qozon для продувки bug‘ quvurlari bajariladi согласно эксплуатационных инструкций. Пароперегреватели первичного тракта qozon во время растопки охлаждается через линию продувки в атмосферу. Harorat дымовых газов после вторичного п/перегревателя не должна превышать 400 0 С. При достижении давления 10, 26, 50ата tekshirish работоспособность реперов теплового перемещения элементов qozon. В работе находятся 2; 6 горелки 1 яруса qozon. При достижении давления в барабане qozon 25-30ати, начинается прогрев перепускных труб высокого давления. После прогрева перепускных труб высокого давления поднимается bosim в барабане qozon до 50ати, открываются ГПЗ и их байпасы и продуваются bug‘ quvurlari острого пара в течение 15 мин. После окончания продувки котел гасится и расхолаживается, готовится к паровой плотности. Установить сито стопорного клапана острого пара. Снять заглушки на регулирующих клапанах. ISHLAR XAVFSIZLIGINI TA’MINLAYDIGAN TASHKILIY TADBIRLAR Оперативно-техническое руководство продувкой осуществляет boshliq КТЦ-1 или его заместитель. Оперативные переключения основного и вспомогательного оборудования осуществляет xodimlar КТЦ-1. Все работы по продувке bug‘ quvurlari осуществляются под непосредственным руководством boshliqа смены КТЦ-1,2 и руководителя ta’mirных работ по котлу. На время qozonni yoqish, подъема давления, продувки bug‘ quvurlari, прекращаются ta’mirные работы и выводятся ta’mirные бригады с qozon, из района питательных quvurlar, главных bug‘ quvurlari, перепускных труб острого пара, отм. 9 м. turbina. Сдаются все промежуточные наряды на производство работ в указанных местах. Производство работ на остальных участках станции или блока разрешается. Работающие бригады bo‘lishi kerak предупреждены руководителем ta’mirа о растопке qozon и недопустимости нахождения в перечисленных выше местах. Непосредственно перед началом продувки bug‘ quvurlari руководитель ta’mirа выставляет наблюдающих и обеспечивает отсутствие xodimlarа на отм. 9 м. в пределах продуваемого блока, выводятся козловые краны в безопасную зону. На период заполнения, qozonni yoqish и продувки bug‘ quvurlari выделяется дежурная ta’mirная бригада во главе с мастером. Члены дежурной бригады bo‘lishi kerak проинструктированы ответственным руководителем ta’mirа и руководством КТЦ-1 о соблюдении ПТБ при растопке qozon для продувки bug‘ quvurlari с записью в журнале инструктажей. Texnik direktor o‘rinbosari issiqlik-mexanika qismi bo‘yicha Б.Р. Исмоилов Boshliq СНТБ Б.Б. Нурдинов СНТБ boshlig‘i B.B. Nurdinov ММ va XT bo‘yicha yetakchi inspektor F.M. Mirzaxidova КТЦ-1 boshlig‘i U.L. Majlimov Boshliq ЦЦР Т.А. Валиев Boshliq ЦТКА Р. К. Байматов Boshliq Эл.цеха М.Д. Кенжибаев Boshliq лаб. металлов Л.У. Эшонкулов Ishlar rahbari нач. уч-ка «УЭТ» М.М. Базаров Texnik direktor o‘rinbosari elektr uskunalari bo‘yicha А.А. Махмудходжаев"
+  }
+}

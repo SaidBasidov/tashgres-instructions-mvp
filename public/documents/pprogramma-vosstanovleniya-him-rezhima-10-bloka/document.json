@@ -1,0 +1,557 @@
+{
+  "id": "pprogramma-vosstanovleniya-him-rezhima-10-bloka",
+  "code": "",
+  "title": "П Р О Г Р А М М А",
+  "summary": "П Р О Г Р А М М А\nПроизводства работ по восстановлению химического режима на блоке.\n1. Отключить блок, вывести из резерва.\n2 . Произвести ревизию арматуры обвязки РНПр, РПП, котла.\n3. Произвести внутренний осмотр РНП котла.\n4. Произвести ревизию линию Ду-100 от РПП, РНПр в циркводоводов обнаруженные дефекты устранить.\n5. Произвести ревизию осмотр и ремонт поплавкового регулятора РНП котла.\n6. Ревизия с устранением обнаруженных дефектов солевых отсеков барабана котла.\n7 . Произвести внутренний ос",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "Ппрограмма_восстановления_ХИМ_РЕЖИМА_10_БЛОКА.docx",
+  "sourceFormat": "docx",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.3in; margin-right: 0.39in; margin-top: 0.39in }\n\t\tp { direction: ltr; margin-bottom: 0.1in; orphans: 2; text-align: left; widows: 2; line-height: 115%; background: transparent }\n\t\tp.western { font-size: 11pt }\n\t\tp.cjk { font-size: 11pt; so-language: en-US }\n\t\tp.ctl { font-size: 11pt }\n\t",
+  "originalFile": {
+    "name": "Ппрограмма_восстановления_ХИМ_РЕЖИМА_10_БЛОКА.docx",
+    "path": "documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/original.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "extension": "docx"
+  },
+  "previewFile": {
+    "name": "Ппрограмма_восстановления_ХИМ_РЕЖИМА_10_БЛОКА.pdf",
+    "path": "documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": null,
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Отключить блок, вывести из резерва.",
+      "level": 1,
+      "blockIds": [
+        "block-0007"
+      ],
+      "text": "1. Отключить блок, вывести из резерва.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "2",
+      "title": ". Произвести ревизию арматуры обвязки РНПр, РПП, котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0008"
+      ],
+      "text": "2 . Произвести ревизию арматуры обвязки РНПр, РПП, котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "3",
+      "title": "Произвести внутренний осмотр РНП котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0009"
+      ],
+      "text": "3. Произвести внутренний осмотр РНП котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "4",
+      "title": "Произвести ревизию линию Ду-100 от РПП, РНПр в циркводоводов обнаруженные дефекты устранить.",
+      "level": 1,
+      "blockIds": [
+        "block-0010"
+      ],
+      "text": "4. Произвести ревизию линию Ду-100 от РПП, РНПр в циркводоводов обнаруженные дефекты устранить.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "5",
+      "title": "Произвести ревизию осмотр и ремонт поплавкового регулятора РНП котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0011"
+      ],
+      "text": "5. Произвести ревизию осмотр и ремонт поплавкового регулятора РНП котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "6",
+      "title": "Ревизия с устранением обнаруженных дефектов солевых отсеков барабана котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0012"
+      ],
+      "text": "6. Ревизия с устранением обнаруженных дефектов солевых отсеков барабана котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-007",
+      "number": "7",
+      "title": ". Произвести внутренний осмотр барабана котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0013"
+      ],
+      "text": "7 . Произвести внутренний осмотр барабана котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-008",
+      "number": "8",
+      "title": "Ревизия линии подачи фосфата на барабан котла, очистка от отложений.",
+      "level": 1,
+      "blockIds": [
+        "block-0014"
+      ],
+      "text": "8. Ревизия линии подачи фосфата на барабан котла, очистка от отложений.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-009",
+      "number": "9",
+      "title": "Произвести чистку фосфатного бака котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0015"
+      ],
+      "text": "9. Произвести чистку фосфатного бака котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-010",
+      "number": "10",
+      "title": "Произвести ревизию и ремонт НДФ-А,Б.",
+      "level": 1,
+      "blockIds": [
+        "block-0016"
+      ],
+      "text": "10. Произвести ревизию и ремонт НДФ-А,Б.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-011",
+      "number": "11",
+      "title": "После остывания турбины до 120 0 С заполнить конденсатор до отм.6,5 для отыскания и устранения неплотностей трубой системы конденсатора ТГ.",
+      "level": 1,
+      "blockIds": [
+        "block-0017"
+      ],
+      "text": "11. После остывания турбины до 120 0 С заполнить конденсатор до отм.6,5 для отыскания и устранения неплотностей трубой системы конденсатора ТГ.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-012",
+      "number": "12",
+      "title": "Проверить на проходимость линии солевого выравнивания и солевой кратности котла №10",
+      "level": 1,
+      "blockIds": [
+        "block-0018"
+      ],
+      "text": "12. Проверить на проходимость линии солевого выравнивания и солевой кратности котла №10",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-013",
+      "number": "13",
+      "title": "Произвести ревизию дренажей левого и правого бокового экрана котла.",
+      "level": 1,
+      "blockIds": [
+        "block-0019"
+      ],
+      "text": "13. Произвести ревизию дренажей левого и правого бокового экрана котла.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-014",
+      "number": "14",
+      "title": "Произвести ревизию подачи гидразина всасе ПЭН-А,Б.",
+      "level": 1,
+      "blockIds": [
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026"
+      ],
+      "text": "14. Произвести ревизию подачи гидразина всасе ПЭН-А,Б.\nЗАМ.ТЕХНИЧЕСКОГО ДИРЕКТОРА ПО РЕМОНТУ ИНОЯТОВ М.М.\nЗАМ.ТЕХНИЧЕСКОГО ДИРЕКТОРА ПО ТМЧ ИСМОИЛОВ Б.Р.\nНАЧАЛЬНИК КТЦ-1 МАЖЛИМОВ У.Л.\nНАЧАЛЬНИК КТЦ-2 МАХКАМОВ М.М.\nНАЧАЛЬНИК ХИМИЧЕСКОГО ЦЕХА ХАМРАКУЛОВА Л.П.\nНАЧАЛЬНИК ЦЦР ИСАБАЕВ Б.Э.",
+      "keywords": [
+        "начальник",
+        "зам",
+        "технического",
+        "директора"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0001\" style=\"margin-bottom: 0in; margin-left: 5.12in\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">УТВЕРЖДАЮ\t\t</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "ТЕХНИЧЕСКИЙ ДИРЕКТОР",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" style=\"margin-bottom: 0in; margin-left: 5.12in\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">ТЕХНИЧЕСКИЙ\nДИРЕКТОР \t</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО «ТАШКЕНТСКАЯ ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" style=\"margin-bottom: 0in; margin-left: 5.12in\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">АО\n«ТАШКЕНТСКАЯ ТЭС»\t</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" style=\"margin-right: 0.29in; margin-bottom: 0in; margin-left: 5.12in\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">В.В.\nПак</font></font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "П Р О Г Р А М М А",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0005\" style=\"margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>П\nР О Г Р А М М А</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Производства работ по восстановлению химического режима на блоке.",
+      "html": "<p align=\"center\" class=\"western\" data-block-id=\"block-0006\" style=\"margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>Производства\nработ по восстановлению химического\nрежима на блоке.</b></font></font></p>",
+      "alignment": "center",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "1. Отключить блок, вывести из резерва.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0007\" data-section-level=\"1\" id=\"section-001\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>1.\n</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Отключить\nблок, вывести из резерва.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "2 . Произвести ревизию арматуры обвязки РНПр, РПП, котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0008\" data-section-level=\"1\" id=\"section-002\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>2</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">.\nПроизвести ревизию арматуры обвязки\nРНПр, РПП, котла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-002"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "3. Произвести внутренний осмотр РНП котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0009\" data-section-level=\"1\" id=\"section-003\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>3.</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\nПроизвести внутренний осмотр РНП котла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-003"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "4. Произвести ревизию линию Ду-100 от РПП, РНПр в циркводоводов обнаруженные дефекты устранить.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0010\" data-section-level=\"1\" id=\"section-004\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>4.</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\nПроизвести ревизию линию Ду-100 от РПП,\nРНПр в циркводоводов обнаруженные\nдефекты устранить.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-004"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "5. Произвести ревизию осмотр и ремонт поплавкового регулятора РНП котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0011\" data-section-level=\"1\" id=\"section-005\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>5.</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\nПроизвести ревизию осмотр и ремонт\nпоплавкового регулятора РНП котла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-005"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "6. Ревизия с устранением обнаруженных дефектов солевых отсеков барабана котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0012\" data-section-level=\"1\" id=\"section-006\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>6.</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\nРевизия с устранением обнаруженных\nдефектов солевых отсеков барабана\nкотла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-006"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "7 . Произвести внутренний осмотр барабана котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0013\" data-section-level=\"1\" id=\"section-007\" style=\"text-indent: 0.49in; margin-bottom: 0in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>7</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">.\nПроизвести внутренний осмотр барабана\nкотла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-007"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "8. Ревизия линии подачи фосфата на барабан котла, очистка от отложений.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0014\" data-section-level=\"1\" id=\"section-008\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>8.</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\nРевизия линии подачи фосфата на барабан\nкотла, очистка от отложений.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-008"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "9. Произвести чистку фосфатного бака котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0015\" data-section-level=\"1\" id=\"section-009\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>9.\n</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Произвести\nчистку фосфатного бака котла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-009"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "10. Произвести ревизию и ремонт НДФ-А,Б.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0016\" data-section-level=\"1\" id=\"section-010\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>10.\n</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Произвести\nревизию и ремонт НДФ-А,Б.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-010"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "11. После остывания турбины до 120 0 С заполнить конденсатор до отм.6,5 для отыскания и устранения неплотностей трубой системы конденсатора ТГ.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0017\" data-section-level=\"1\" id=\"section-011\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>11.\n</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">После\nостывания турбины до 120</font></font><sup><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">0</font></font></sup><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">С\nзаполнить конденсатор до отм.6,5 для\nотыскания и устранения неплотностей\nтрубой системы конденсатора ТГ.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-011"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "12. Проверить на проходимость линии солевого выравнивания и солевой кратности котла №10",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0018\" data-section-level=\"1\" id=\"section-012\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>12.\n</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Проверить\nна проходимость линии солевого\nвыравнивания и солевой кратности котла\n№10</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-012"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "13. Произвести ревизию дренажей левого и правого бокового экрана котла.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0019\" data-section-level=\"1\" id=\"section-013\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>13.</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">\nПроизвести ревизию дренажей левого и\nправого бокового экрана котла.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-013"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "14. Произвести ревизию подачи гидразина всасе ПЭН-А,Б.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0020\" data-section-level=\"1\" id=\"section-014\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\"><b>14.\n</b></font></font><font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">Произвести\nревизию подачи гидразина всасе ПЭН-А,Б.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [
+        "section-014"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "ЗАМ.ТЕХНИЧЕСКОГО ДИРЕКТОРА ПО РЕМОНТУ ИНОЯТОВ М.М.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0021\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">ЗАМ.ТЕХНИЧЕСКОГО\nДИРЕКТОРА ПО РЕМОНТУ\t\t\t\tИНОЯТОВ М.М.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "ЗАМ.ТЕХНИЧЕСКОГО ДИРЕКТОРА ПО ТМЧ ИСМОИЛОВ Б.Р.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0022\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">ЗАМ.ТЕХНИЧЕСКОГО\nДИРЕКТОРА ПО ТМЧ\t\t\t\t\tИСМОИЛОВ Б.Р.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК КТЦ-1 МАЖЛИМОВ У.Л.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0023\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nКТЦ-1\t\t\t\t\t\t\t\tМАЖЛИМОВ У.Л.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК КТЦ-2 МАХКАМОВ М.М.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0024\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nКТЦ-2\t\t\t\t\t\t\t\tМАХКАМОВ М.М.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК ХИМИЧЕСКОГО ЦЕХА ХАМРАКУЛОВА Л.П.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0025\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nХИМИЧЕСКОГО ЦЕХА\t\t\t\t\t\tХАМРАКУЛОВА Л.П.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "НАЧАЛЬНИК ЦЦР ИСАБАЕВ Б.Э.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0026\" style=\"margin-bottom: 0in; margin-left: 0.49in; line-height: 150%\">\n<font face=\"Times New Roman, serif\"><font size=\"3\" style=\"font-size: 12pt\">НАЧАЛЬНИК\nЦЦР\t\t\t\t\t\t\t\t\tИСАБАЕВ Б.Э.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "произвести",
+    "котла",
+    "ревизию",
+    "начальник",
+    "осмотр",
+    "химического",
+    "рнпр",
+    "рпп",
+    "внутренний",
+    "рнп",
+    "ремонт",
+    "ревизия",
+    "барабана",
+    "линии",
+    "подачи",
+    "зам",
+    "технического",
+    "директора"
+  ],
+  "statistics": {
+    "blocks": 26,
+    "sections": 14,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 2
+  },
+  "integrity": {
+    "originalSha256": "d16ec877490175dfc26af5a8f238003210ec018b4e7f22ada3f27cdbbb4d9888",
+    "sourceDocxStats": {
+      "paragraphs": 42,
+      "tables": 0,
+      "media": 0,
+      "textChars": 1324
+    },
+    "htmlTextChars": 1328,
+    "textLengthRatio": 1.003,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/pprogramma-vosstanovleniya-him-rezhima-10-bloka/"
+}

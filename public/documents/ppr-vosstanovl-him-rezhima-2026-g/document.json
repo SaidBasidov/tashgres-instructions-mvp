@@ -1,0 +1,353 @@
+{
+  "id": "ppr-vosstanovl-him-rezhima-2026-g",
+  "code": "",
+  "title": "ППР - восстановл. хим.режима - 2026 г",
+  "summary": "УТВЕРЖДАЮ\nТехнический директор\nАО «Ташкентская ТЭС»\nВ.В. Пак\nЭТА ПРОГРАММА НЕ НУЖНА\nПРОЕКТ ПРОИЗВОДСТВА РАБОТ ВОССТАНОВЛЕНИЕ ХИМ.РЕЖИМА В СООТВЕТСТВИИ С НОРМАМИ ПТЭ, ПРИ ПУСКЕ БЛОКОВ ИЗ РАЗЛИЧНЫХ СОСТОЯНИЙ ИЛИ ПРИ УХУДШЕНИИ АНАЛИЗА НА РАБОТАЮЩЕМ БЛОКЕ.\nПри пуске блоков из различных состояний могут быть анализы выше нормы ПТЭ, из-за присосов сырой воды через вальцовку или неплотности конденсаторных трубок. Для восстановления анализов до нормы необходимо:\nПеред пуском блока включить в работу конде",
+  "sourceLanguage": "ru",
+  "language": "ru",
+  "sourceFile": "ППР - восстановл. хим.режима - 2026 г.doc",
+  "sourceFormat": "doc",
+  "contentModel": "rich-html-v1",
+  "contentPath": "documents/ppr-vosstanovl-him-rezhima-2026-g/content.html",
+  "styleCss": "\n\t\t@page { size: 8.27in 11.69in; margin-left: 0.98in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }\n\t\tp { margin-bottom: 0.08in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent }\n\t\tp.western { font-size: 10pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\tp.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 10pt }\n\t\tp.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th1 { margin-top: 0in; margin-bottom: 0in; widows: 2; color: #000000; direction: ltr; orphans: 2; text-align: left; background: transparent; page-break-after: avoid }\n\t\th1.western { font-size: 12pt; so-language: ru-RU; font-family: \"Times New Roman\", serif }\n\t\th1.cjk { so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 12pt }\n\t\th1.ctl { font-size: 10pt; font-family: \"Times New Roman\"; so-language: ar-SA }\n\t\th2 { margin-top: 0in; margin-bottom: 0in; widows: 2; text-align: left; color: #000000; orphans: 2; direction: ltr; background: transparent; page-break-after: avoid }\n\t\th2.western { font-weight: bold; so-language: ru-RU; font-size: 14pt; font-family: \"Times New Roman\", serif }\n\t\th2.cjk { font-weight: bold; so-language: zh-CN; font-family: \"Times New Roman\"; font-size: 14pt }\n\t\th2.ctl { font-family: \"Times New Roman\"; font-size: 10pt; so-language: ar-SA }\n\t",
+  "originalFile": {
+    "name": "ППР - восстановл. хим.режима - 2026 г.doc",
+    "path": "documents/ppr-vosstanovl-him-rezhima-2026-g/original.doc",
+    "mimeType": "application/msword",
+    "extension": "doc"
+  },
+  "previewFile": {
+    "name": "ППР - восстановл. хим.режима - 2026 г.pdf",
+    "path": "documents/ppr-vosstanovl-him-rezhima-2026-g/preview.pdf",
+    "mimeType": "application/pdf"
+  },
+  "convertedFile": {
+    "name": "ППР - восстановл. хим.режима - 2026 г.docx",
+    "path": "documents/ppr-vosstanovl-him-rezhima-2026-g/converted.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "отбор анализа занимает 10 мин.",
+      "level": 1,
+      "blockIds": [
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022"
+      ],
+      "text": "1 отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость необходимо\n10 мин.\nОбщее время восстановления химического анализа на одной половине 140 мин.\nСтолько же времени на другой половине или при повторном отключении.\nЗам. тех.директора по тепломеханической части Б.Р. Исмоилов\nНачальник СНТБ Б.Б. Нурдинов\nНачальника КТЦ-1 У.Л. Мажлимов\nНачальника КТЦ-2 М.М. Махкамов\nНачальник хим цеха Л.П. Хамракулова\nЗам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "keywords": [
+        "мин",
+        "анализа",
+        "половине",
+        "отбор",
+        "одной",
+        "химического",
+        "зам",
+        "тех",
+        "директора",
+        "начальник",
+        "начальника"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "УТВЕРЖДАЮ",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0001\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">УТВЕРЖДАЮ</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Технический директор",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0002\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">\t\t                            \n    \t\t\tТехнический  директор</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "АО «Ташкентская ТЭС»",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0003\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">АО «Ташкентская\nТЭС»</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "В.В. Пак",
+      "html": "<p align=\"right\" class=\"western\" data-block-id=\"block-0004\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 115%\">\n<font size=\"3\" style=\"font-size: 13pt\">\t\t\t\t\t\t\t\t\t\tВ.В. Пак</font></p>",
+      "alignment": "right",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "ЭТА ПРОГРАММА НЕ НУЖНА",
+      "html": "<p class=\"western\" data-block-id=\"block-0005\" lang=\"ru-RU\" style=\"margin-bottom: 0in\"><font color=\"#ffffff\"><b>ЭТА\nПРОГРАММА НЕ НУЖНА</b></font></p>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "list",
+      "text": "ПРОЕКТ ПРОИЗВОДСТВА РАБОТ ВОССТАНОВЛЕНИЕ ХИМ.РЕЖИМА В СООТВЕТСТВИИ С НОРМАМИ ПТЭ, ПРИ ПУСКЕ БЛОКОВ ИЗ РАЗЛИЧНЫХ СОСТОЯНИЙ ИЛИ ПРИ УХУДШЕНИИ АНАЛИЗА НА РАБОТАЮЩЕМ БЛОКЕ.",
+      "html": "<ol data-block-id=\"block-0006\">\n<ol start=\"2\">\n<li><h2 align=\"center\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 12pt\">ПРОЕКТ\n\t\tПРОИЗВОДСТВА РАБОТ</font></h2></li>\n</ol>\n<li><h1 align=\"center\" class=\"western\" lang=\"ru-RU\"><b>ВОССТАНОВЛЕНИЕ\n\tХИМ.РЕЖИМА В СООТВЕТСТВИИ</b></h1></li>\n<li><h1 align=\"center\" class=\"western\" lang=\"ru-RU\"><b>С НОРМАМИ\n\tПТЭ, ПРИ ПУСКЕ БЛОКОВ ИЗ РАЗЛИЧНЫХ\n\tСОСТОЯНИЙ ИЛИ</b></h1></li>\n<li><h1 align=\"center\" class=\"western\" lang=\"ru-RU\"><b>ПРИ\n\tУХУДШЕНИИ АНАЛИЗА НА РАБОТАЮЩЕМ БЛОКЕ.</b></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "list",
+      "text": "При пуске блоков из различных состояний могут быть анализы выше нормы ПТЭ, из-за присосов сырой воды через вальцовку или неплотности конденсаторных трубок. Для восстановления анализов до нормы необходимо:",
+      "html": "<ol data-block-id=\"block-0007\" start=\"5\">\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">При\n\tпуске блоков из различных состояний\n\tмогут быть анализы выше нормы ПТЭ, из-за\n\tприсосов сырой воды через вальцовку\n\tили неплотности конденсаторных трубок.\n\tДля восстановления анализов до нормы\n\tнеобходимо:</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "Перед пуском блока включить в работу конденсатный насос, открыть пар на хоз. эжектор, открыть задвижки с верхних точек сливных циркводоводов (левого и правого) на линию отсоса воздуха хоз. эжектора, натянуть сифон, включить ЦН в работу. Закрыть пар на хоз. эжектор, продуть пробоотборные точки основного конденсата, отобрать анализ, повторно отобрать анализ основного конденсата через 20 мин. Основной конденсат без разрешения химического цеха в цикл не включать. Воду, не соответствующую нормам ПТЭ при переполнении конденсатора ТГ откачивать в химический цех. После включение в работу БРОУ 1,2 отобрать анализ основного конденсата. Через 20 мин. повторить анализ. После включения в сеть генератора, открыть ГПЗ, убедиться, что оба ГПЗ полностью открылись (по расходомеру пара слева, справа) закрыть БРОУ 1, 2. Осмотреть по месту открытие ГПЗ, продуть пробоотборные точки основного конденсата. Отобрать анализ. При не соответствии нормам ПТЭ, повторить анализ. При не соответствии анализа нормам ПТЭ, отключить поочередно половины конденсатора ТГ по отсосам. Остановить ЦН, разобрать эл.схему после опорожнения водяных камер, открыть лаз конденсатора, отобрать анализ на отсутствие водорода неработающей половины конденсатора и приступить к отысканию неплотных трубок конденсатора ТГ. Параллельно отобрать анализ основного конденсата из работающей половины конденсатора.",
+      "html": "<ol data-block-id=\"block-0008\">\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">Перед\n\tпуском блока включить в работу\n\tконденсатный насос, открыть пар на хоз.\n\tэжектор, открыть задвижки с верхних\n\tточек сливных циркводоводов (левого и\n\tправого) на линию отсоса воздуха хоз.\n\tэжектора, натянуть сифон, включить ЦН\n\tв работу. </font>\n</h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">Закрыть\n\tпар на хоз. эжектор, продуть пробоотборные\n\tточки основного конденсата, отобрать\n\tанализ, повторно отобрать анализ\n\tосновного конденсата через 20 мин.\n\tОсновной конденсат без разрешения\n\tхимического цеха в цикл не включать.\n\tВоду, не соответствующую нормам ПТЭ\n\tпри переполнении конденсатора ТГ\n\tоткачивать в химический цех.</font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">После\n\tвключение в работу БРОУ 1,2  отобрать\n\tанализ основного конденсата. Через 20\n\tмин. повторить анализ.</font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">После\n\tвключения в сеть генератора, открыть\n\tГПЗ, убедиться, что оба ГПЗ полностью\n\tоткрылись (по расходомеру пара слева,\n\tсправа) закрыть БРОУ 1, 2. Осмотреть по\n\tместу открытие ГПЗ, продуть пробоотборные\n\tточки основного конденсата. Отобрать\n\tанализ. При не соответствии нормам ПТЭ,\n\t повторить анализ.</font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">При\n\tне соответствии анализа нормам ПТЭ, \n\tотключить поочередно половины\n\tконденсатора ТГ по отсосам. Остановить\n\tЦН, разобрать эл.схему после опорожнения\n\tводяных камер, открыть лаз конденсатора,\n\tотобрать анализ на отсутствие водорода\n\tнеработающей половины конденсатора и\n\tприступить к отысканию неплотных трубок\n\tконденсатора ТГ. Параллельно отобрать\n\tанализ основного конденсата из работающей\n\tполовины конденсатора.</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "list",
+      "text": "Отыскание неплотной трубки конденсатора ТГ.",
+      "html": "<ol data-block-id=\"block-0009\" start=\"5\">\n<ol>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 13pt\">Отыскание\n\t\tнеплотной трубки конденсатора ТГ.</font></p></li>\n</ol>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "Неплотная трубка конденсатора отыскивается с помощью свечки или куска полиэтилена. К трубкам подносится горящая свеча. Если трубка неплотная, то пламя свечи будет затягивать во внутрь трубки. При забивании пробки, отглушки неплотной трубки, подачей воздуха с одной стороны трубки и выхода воздуха с другой стороны, точно убедиться в неплотной трубке с обоих сторон, забить металлической пробкой неплотную трубку.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0010\" lang=\"ru-RU\" style=\"margin-bottom: 0in; margin-left: 0.3in\">\n<font size=\"3\" style=\"font-size: 13pt\">Неплотная трубка\nконденсатора отыскивается с помощью\nсвечки или куска полиэтилена. К трубкам\nподносится горящая свеча. Если трубка\nнеплотная, то пламя свечи будет затягивать\nво внутрь трубки. При забивании пробки,\nотглушки неплотной трубки, подачей\nвоздуха с одной стороны трубки и выхода\nвоздуха с другой стороны, точно убедиться\nв неплотной трубке с обоих сторон, забить\nметаллической пробкой неплотную трубку.</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "list",
+      "text": "После отыскания неплотных трубок конденсатора ТГ и забивки пробок, закрыть лазы конденсатора ТГ, собрать электрическую схему ЦН, включить в работу ЦН, подтянуть сифон, отобрать анализ основного конденсата при работе обоих ЦНов. При отрицательных анализах О.К. повторить пункты 5, 6 на этой же половине конденсатора ТГ или на другой половине конденсатора ТГ.",
+      "html": "<ol data-block-id=\"block-0011\" start=\"6\">\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font size=\"3\" style=\"font-size: 13pt\">После\n\tотыскания неплотных трубок конденсатора\n\tТГ и забивки пробок, закрыть лазы\n\tконденсатора ТГ, собрать электрическую\n\tсхему ЦН, включить в работу ЦН, подтянуть\n\tсифон, отобрать анализ основного\n\tконденсата при работе обоих ЦНов.  При\n\tотрицательных анализах О.К. повторить\n\tпункты 5, 6 на этой же половине конденсатора\n\tТГ или на другой половине конденсатора\n\tТГ.</font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "При содержании S i O 2 в парах, больше 15 мкг/л. в парах, держать давление в барабане не более 70 кг. При завышенном содержании S i О 2 в парах, строго следить за уровнем в барабане. Общее время восстановления анализов основного конденсата приблизительно при отыскании неплотных трубок конденсатора ТГ на обеих половинах 280 мин.",
+      "html": "<ol data-block-id=\"block-0012\" start=\"7\">\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">При\n\tсодержании </font></font><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"en-US\">S</span></font></font><font color=\"#000000\"><sub><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"en-US\">i</span></font></sub></font><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"en-US\">O</span></font></font><font color=\"#000000\"><sub><font size=\"3\" style=\"font-size: 13pt\">2</font></sub></font><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">\n\t в парах, больше 15 мкг/л. в парах, держать\n\tдавление в барабане не более 70 кг.  При\n\tзавышенном содержании </font></font><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"en-US\">S</span></font></font><font color=\"#000000\"><sub><font size=\"3\" style=\"font-size: 13pt\"><span lang=\"en-US\">i</span></font></sub></font><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">О</font></font><font color=\"#000000\"><sub><font size=\"3\" style=\"font-size: 13pt\">2\n\t</font></sub></font><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">в\n\tпарах, строго следить за уровнем в\n\tбарабане.</font></font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Общее\n\tвремя восстановления анализов основного\n\tконденсата приблизительно при отыскании\n\tнеплотных трубок конденсатора ТГ на\n\tобеих половинах  280 мин.                          \n\t                                                                    \n\t                                                                    \n\t                </font></font>\n</h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "list",
+      "text": "1 отбор анализа занимает 10 мин. Отключение по отсосам (одна половина) 20 мин. Разборка электрической схемы, отбор анализа на водород 20 мин. Отыскание неплотности на одной половине 90 мин. Для проведения химического анализа пробы ОК на жесткость необходимо",
+      "html": "<ol data-block-id=\"block-0013\">\n<li data-section-level=\"1\" id=\"section-001\"><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">1\n\tотбор анализа занимает  10 мин.</font></font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Отключение\n\tпо отсосам  (одна половина)  20 мин.</font></font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Разборка\n\tэлектрической схемы, отбор анализа на\n\tводород  20 мин.</font></font></h1></li>\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Отыскание\n\tнеплотности на одной половине  90 мин.</font></font></h1></li>\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Для\n\tпроведения химического анализа пробы\n\tОК на жесткость необходимо  </font></font>\n</p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [
+        "section-001"
+      ],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "10 мин.",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0014\" lang=\"ru-RU\" style=\"margin-bottom: 0in; margin-left: 0.3in\">\n<font color=\"#000000\"> <font size=\"3\" style=\"font-size: 13pt\">10\nмин.</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "list",
+      "text": "Общее время восстановления химического анализа на одной половине 140 мин.",
+      "html": "<ol data-block-id=\"block-0015\" start=\"6\">\n<li><p align=\"justify\" class=\"western\" lang=\"ru-RU\" style=\"margin-bottom: 0in\">\n<font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Общее\n\tвремя восстановления химического\n\tанализа на одной половине  140 мин.</font></font></p></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "list",
+      "text": "Столько же времени на другой половине или при повторном отключении.",
+      "html": "<ol data-block-id=\"block-0016\" start=\"6\">\n<li><h1 align=\"justify\" class=\"western\" lang=\"ru-RU\"><font color=\"#000000\">\n<font size=\"3\" style=\"font-size: 13pt\">Столько же\n\tвремени на другой половине или при\n\tповторном отключении.</font></font></h1></li>\n</ol>",
+      "alignment": "inherit",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по тепломеханической части Б.Р. Исмоилов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0017\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Зам.\nтех.директора по тепломеханической\nчасти \t\t\t\t Б.Р. Исмоилов                              \n               </font></font>\n</p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "Начальник СНТБ Б.Б. Нурдинов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0018\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n СНТБ                                 \t\t\t\t\t\t   Б.Б. Нурдинов</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "Начальника КТЦ-1 У.Л. Мажлимов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0019\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Начальника\n КТЦ-1\t\t\t\t\t          \t\t\tУ.Л. Мажлимов</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "Начальника КТЦ-2 М.М. Махкамов",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0020\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font color=\"#000000\"> <font size=\"3\" style=\"font-size: 13pt\">Начальника\n КТЦ-2\t\t\t\t\t          \t\t\tМ.М. Махкамов</font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "Начальник хим цеха Л.П. Хамракулова",
+      "html": "<p align=\"justify\" data-block-id=\"block-0021\" lang=\"ru-RU\" style=\"line-height: 250%; margin-bottom: 0in\">\n<font size=\"3\" style=\"font-size: 12pt\"><font color=\"#000000\"><font size=\"3\" style=\"font-size: 13pt\">Начальник\n хим цеха               \t\t\t\t\t\t       Л.П. Хамракулова</font></font></font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "Зам. тех.директора по электрооборудованию А.А. Махмудходжаев",
+      "html": "<p align=\"justify\" class=\"western\" data-block-id=\"block-0022\" lang=\"ru-RU\" style=\"margin-bottom: 0in; line-height: 250%\">\n<font size=\"3\" style=\"font-size: 13pt\">Зам. тех.директора\nпо  электрооборудованию                         \n       \tА.А. Махмудходжаев</font></p>",
+      "alignment": "justify",
+      "hasImages": false,
+      "sectionIds": [],
+      "pageBreak": false
+    }
+  ],
+  "keywords": [
+    "конденсатора",
+    "анализ",
+    "мин",
+    "основного",
+    "конденсата",
+    "отобрать",
+    "анализа",
+    "птэ",
+    "половине",
+    "трубок",
+    "работу",
+    "открыть",
+    "трубки",
+    "соответствии",
+    "через",
+    "восстановления",
+    "включить",
+    "хоз",
+    "воздуха",
+    "закрыть",
+    "химического",
+    "нормам",
+    "повторить",
+    "гпз",
+    "половины",
+    "неплотных",
+    "неплотной",
+    "одной",
+    "другой",
+    "парах",
+    "хим",
+    "пуске",
+    "блоков",
+    "различных",
+    "состояний"
+  ],
+  "statistics": {
+    "blocks": 22,
+    "sections": 1,
+    "tables": 0,
+    "images": 0,
+    "pdfPages": 3
+  },
+  "integrity": {
+    "originalSha256": "cf51eec8ef8914e8236e45dee1864ebd69a12909642b4c31997808bd3c035489",
+    "sourceDocxStats": {
+      "paragraphs": 70,
+      "tables": 0,
+      "media": 0,
+      "textChars": 3624
+    },
+    "htmlTextChars": 3630,
+    "textLengthRatio": 1.002,
+    "status": "ok",
+    "warnings": []
+  },
+  "navigationQuality": {
+    "tocDetected": false,
+    "tocEntries": 0,
+    "matchedEntries": 0,
+    "method": "formatting"
+  },
+  "assetBasePath": "documents/ppr-vosstanovl-him-rezhima-2026-g/"
+}

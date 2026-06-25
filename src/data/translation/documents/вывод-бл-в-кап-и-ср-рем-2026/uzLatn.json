@@ -1,0 +1,484 @@
+{
+  "status": "review_required",
+  "title": "ENERGIYA BLOKLARINI KAPITAL VA O‘RTA TA’MIRGA CHIQARISH BO‘YICHA NAMUNAVIY DASTUR",
+  "summary": "Toshkent IES energiya bloklarini kapital va o‘rta ta’mirga chiqarishdan oldingi ekspluatatsion tadbirlar tartibi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "1",
+      "title": "Ta’mirga chiqarishdan kamida 5 kun oldin ЦНИ dasturi bo‘yicha texnik-iqtisodiy ko‘rsatkichlarni aniqlash uchun ekspluatatsion tadbirlarni o‘tkazish.",
+      "level": 1,
+      "blockIds": [
+        "block-0007",
+        "block-0008"
+      ],
+      "text": "1. Ta’mirga chiqarishdan kamida 5 kun oldin ЦНИ dasturi bo‘yicha texnik-iqtisodiy ko‘rsatkichlarni aniqlash uchun ekspluatatsion tadbirlarni o‘tkazish.\nMas’ul — ОПТО boshlig‘i.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-002",
+      "number": "2",
+      "title": "Ta’mirga to‘xtatishdan oldin amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon chegarasidagi mazut quvurlarini bug‘ bilan puflash va o‘chirish. Davomiyligi — 6 soat.",
+      "level": 1,
+      "blockIds": [
+        "block-0009"
+      ],
+      "text": "2. Ta’mirga to‘xtatishdan oldin amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon chegarasidagi mazut quvurlarini bug‘ bilan puflash va o‘chirish. Davomiyligi — 6 soat.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-003",
+      "number": "3",
+      "title": "Energiya bloki tarmoqdan uzilgandan so‘ng turbina ВД va СД to‘xtatish klapanlari zichligini tekshirish. Davomiyligi — 7 soat.",
+      "level": 1,
+      "blockIds": [
+        "block-0010",
+        "block-0011"
+      ],
+      "text": "3. Energiya bloki tarmoqdan uzilgandan so‘ng turbina ВД va СД to‘xtatish klapanlari zichligini tekshirish. Davomiyligi — 7 soat.\nMas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-004",
+      "number": "4",
+      "title": "Blok to‘xtatilgandan so‘ng maxsus dastur bo‘yicha qozon qizdirish yuzalarini konservatsiya qilish. Davomiyligi — 88 soat.",
+      "level": 1,
+      "blockIds": [
+        "block-0012",
+        "block-0013"
+      ],
+      "text": "4. Blok to‘xtatilgandan so‘ng maxsus dastur bo‘yicha qozon qizdirish yuzalarini konservatsiya qilish. Davomiyligi — 88 soat.\nMas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari, kimyo sexi boshlig‘i.",
+      "keywords": [
+        "начальник"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-005",
+      "number": "5",
+      "title": "Amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon va turbinani sovitish. Davomiyligi — 48 soat.",
+      "level": 1,
+      "blockIds": [
+        "block-0014",
+        "block-0015"
+      ],
+      "text": "5. Amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon va turbinani sovitish. Davomiyligi — 48 soat.\nMas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari.",
+      "keywords": [],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    },
+    {
+      "id": "section-006",
+      "number": "6",
+      "title": "Energiya blokini ta’mirga chiqarish:",
+      "level": 1,
+      "blockIds": [
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022",
+        "block-0023",
+        "block-0024",
+        "block-0025",
+        "block-0026",
+        "block-0027",
+        "block-0028",
+        "block-0029",
+        "block-0030",
+        "block-0031",
+        "block-0032",
+        "block-0033",
+        "block-0034",
+        "block-0035",
+        "block-0036"
+      ],
+      "text": "6. Energiya blokini ta’mirga chiqarish:\n6.1. Qozon agregati, deaerator, qozon drenaj baki, uzluksiz va davriy puflash kengaytirgichi, БНТ, ПВД, ПНД, ПЭН, quvur doskalari zichlash tizimiga ega kondensator, bug‘ quvurlari va quvurlarni (ОП, ГПП, ХПП, БРОУ-1,2, ТГ otborlari, ТГ zichlash kollektori, drenaj kollektorlari, oziqlantiruvchi suv, purkash uzeli, asosiy kondensat, ПОТ va boshqalar) qozon chegarasida, turbina moy tizimi, ГМБ, ПЭН-А,Бni bo‘shatish va bug‘sizlantirish.\n6.2. Qozonga umumiy gaz quvurida, estakadada, qozonning napor va qaytish mazut quvurida hamda РОУ s/n dan blokka boruvchi bug‘ quvurida; moy xo‘jaligi va to‘ldirish moy bakidan turbina va ПЭН sig‘imlarini to‘ldirish moy quvurlarida; ЦН – А, Б naporidan БНС yuvish nasoslari so‘rishlariga texnik suv quvurlarida tiqinlar o‘rnatish.\n6.3. Boshqa bloklar va sexlar tomonidan oqimlarni o‘chirish — asosiy kondensat, oziqlantiruvchi suv, blokni ХОВ va БЗКdan qo‘shimcha to‘ldirish bo‘yicha; ЦН –А,Б podshipniklariga texnik suv berishda, ТГ м/о va ТДМ aylanuvchi mexanizmlarini sovitish texnik suv peremichkasida.\n6.4. Berkituvchi, rostlovchi, himoya va xavfsizlik armaturasi yuritmalari sxemalaridan kuchlanishni olish, kabel uchlarini elektr yuritmalar va chegara o‘chirgichlardan ajratish, umumiy naryad bo‘yicha ish shartlariga muvofiq ТС va vibratsiya datchiklarini yechish.\n6.5. Generatorni atmosfera havosiga o‘tkazish.\n6.6. Sirkulyatsion nasoslar А va Б kameralarini shandorlash va suvini chiqarish.\n6.7. Tutun so‘rgichlar, havo puflash ventilyatorlari, issiq puflash ventilyatorlari, regenerativ aylanuvchi havo qizdirgichlar, fosfat va gidrazin nasoslari, qozon va turbina drenaj nasoslari, oziqlantiruvchi nasoslar va ularning ishga tushirish-to‘xtatish moy nasoslari, sirkulyatsion nasoslar, generator gaz sovitgichlari nasoslari, kondensat nasoslari, ПНД drenaj nasoslari, ТГ ishga tushirish, zaxira va avariya moy nasoslari, zaxira va avariya uskunalari elektr dvigatellari oziqlantiruvchi kabellaridan kuchlanishni olish, ajratish va yerga ulash.\n6.8. Umumiy naryadni berish. Muddat — blok to‘xtaganidan keyin 48 soat. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari.\n6.9. Blokni yong‘inga qarshi vositalar bilan dalolatnoma bo‘yicha ta’mirga topshirish. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari.\nESLATMA: turbina soviguncha, moy chiqarilguncha va ЦН avankameralari shandorlanguncha ishda (zaxirada) qoladi — ТГ va ПЭН moy tizimi, ВПУ, ЦН А,Б, napor va drenaj sirkulyatsion suvlar, turbina termonazorati, turbina kondensatori.\nMas’ullar: КТЦ-1 boshlig‘i, elektr sexi boshlig‘i, ЦТКА boshlig‘i, ta’mir rahbari.\nIssiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov\nСНТБ boshlig‘i B.B. Nurdinov\nОПТО boshlig‘i B.S. Aytmuratov\nElektr sexi boshlig‘i M.D. Kenjibayev\nЦТКА boshlig‘i R.K. Baymatov\nKimyo sexi boshlig‘i L.P. Xamraqulova\nКТЦ-2 boshlig‘i M.M. Maxkamov\nКТЦ-1 boshlig‘i U.L. Majlimov\nElektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev",
+      "keywords": [
+        "начальник",
+        "насосов",
+        "турбины",
+        "тех",
+        "котла",
+        "ктц-1",
+        "пэн",
+        "воды",
+        "блока",
+        "снять",
+        "маслонасосов",
+        "генератора",
+        "ремонт",
+        "пнд",
+        "конденсатор"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Texnik direktor",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «Toshkent IES»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "NAMUNAVIY DASTUR",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "Tosh IES energiya bloklarini kapital va o‘rta ta’mirlarga chiqarish.",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "1. Ta’mirga chiqarishdan kamida 5 kun oldin ЦНИ dasturi bo‘yicha texnik-iqtisodiy ko‘rsatkichlarni aniqlash uchun ekspluatatsion tadbirlarni o‘tkazish.",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "paragraph",
+      "text": "Mas’ul — ОПТО boshlig‘i.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "2. Ta’mirga to‘xtatishdan oldin amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon chegarasidagi mazut quvurlarini bug‘ bilan puflash va o‘chirish. Davomiyligi — 6 soat.",
+      "sectionIds": [
+        "section-002"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "paragraph",
+      "text": "3. Energiya bloki tarmoqdan uzilgandan so‘ng turbina ВД va СД to‘xtatish klapanlari zichligini tekshirish. Davomiyligi — 7 soat.",
+      "sectionIds": [
+        "section-003"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "paragraph",
+      "text": "4. Blok to‘xtatilgandan so‘ng maxsus dastur bo‘yicha qozon qizdirish yuzalarini konservatsiya qilish. Davomiyligi — 88 soat.",
+      "sectionIds": [
+        "section-004"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari, kimyo sexi boshlig‘i.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "5. Amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon va turbinani sovitish. Davomiyligi — 48 soat.",
+      "sectionIds": [
+        "section-005"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "6. Energiya blokini ta’mirga chiqarish:",
+      "sectionIds": [
+        "section-006"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "6.1. Qozon agregati, deaerator, qozon drenaj baki, uzluksiz va davriy puflash kengaytirgichi, БНТ, ПВД, ПНД, ПЭН, quvur doskalari zichlash tizimiga ega kondensator, bug‘ quvurlari va quvurlarni (ОП, ГПП, ХПП, БРОУ-1,2, ТГ otborlari, ТГ zichlash kollektori, drenaj kollektorlari, oziqlantiruvchi suv, purkash uzeli, asosiy kondensat, ПОТ va boshqalar) qozon chegarasida, turbina moy tizimi, ГМБ, ПЭН-А,Бni bo‘shatish va bug‘sizlantirish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "6.2. Qozonga umumiy gaz quvurida, estakadada, qozonning napor va qaytish mazut quvurida hamda РОУ s/n dan blokka boruvchi bug‘ quvurida; moy xo‘jaligi va to‘ldirish moy bakidan turbina va ПЭН sig‘imlarini to‘ldirish moy quvurlarida; ЦН – А, Б naporidan БНС yuvish nasoslari so‘rishlariga texnik suv quvurlarida tiqinlar o‘rnatish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "6.3. Boshqa bloklar va sexlar tomonidan oqimlarni o‘chirish — asosiy kondensat, oziqlantiruvchi suv, blokni ХОВ va БЗКdan qo‘shimcha to‘ldirish bo‘yicha; ЦН –А,Б podshipniklariga texnik suv berishda, ТГ м/о va ТДМ aylanuvchi mexanizmlarini sovitish texnik suv peremichkasida.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "paragraph",
+      "text": "6.4. Berkituvchi, rostlovchi, himoya va xavfsizlik armaturasi yuritmalari sxemalaridan kuchlanishni olish, kabel uchlarini elektr yuritmalar va chegara o‘chirgichlardan ajratish, umumiy naryad bo‘yicha ish shartlariga muvofiq ТС va vibratsiya datchiklarini yechish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "paragraph",
+      "text": "6.5. Generatorni atmosfera havosiga o‘tkazish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "paragraph",
+      "text": "6.6. Sirkulyatsion nasoslar А va Б kameralarini shandorlash va suvini chiqarish.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0023",
+      "type": "paragraph",
+      "text": "6.7. Tutun so‘rgichlar, havo puflash ventilyatorlari, issiq puflash ventilyatorlari, regenerativ aylanuvchi havo qizdirgichlar, fosfat va gidrazin nasoslari, qozon va turbina drenaj nasoslari, oziqlantiruvchi nasoslar va ularning ishga tushirish-to‘xtatish moy nasoslari, sirkulyatsion nasoslar, generator gaz sovitgichlari nasoslari, kondensat nasoslari, ПНД drenaj nasoslari, ТГ ishga tushirish, zaxira va avariya moy nasoslari, zaxira va avariya uskunalari elektr dvigatellari oziqlantiruvchi kabellaridan kuchlanishni olish, ajratish va yerga ulash.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0024",
+      "type": "paragraph",
+      "text": "6.8. Umumiy naryadni berish. Muddat — blok to‘xtaganidan keyin 48 soat. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0025",
+      "type": "paragraph",
+      "text": "6.9. Blokni yong‘inga qarshi vositalar bilan dalolatnoma bo‘yicha ta’mirga topshirish. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0026",
+      "type": "paragraph",
+      "text": "ESLATMA: turbina soviguncha, moy chiqarilguncha va ЦН avankameralari shandorlanguncha ishda (zaxirada) qoladi — ТГ va ПЭН moy tizimi, ВПУ, ЦН А,Б, napor va drenaj sirkulyatsion suvlar, turbina termonazorati, turbina kondensatori.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0027",
+      "type": "paragraph",
+      "text": "Mas’ullar: КТЦ-1 boshlig‘i, elektr sexi boshlig‘i, ЦТКА boshlig‘i, ta’mir rahbari.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0028",
+      "type": "paragraph",
+      "text": "Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0029",
+      "type": "paragraph",
+      "text": "СНТБ boshlig‘i B.B. Nurdinov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0030",
+      "type": "paragraph",
+      "text": "ОПТО boshlig‘i B.S. Aytmuratov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0031",
+      "type": "paragraph",
+      "text": "Elektr sexi boshlig‘i M.D. Kenjibayev",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0032",
+      "type": "paragraph",
+      "text": "ЦТКА boshlig‘i R.K. Baymatov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0033",
+      "type": "paragraph",
+      "text": "Kimyo sexi boshlig‘i L.P. Xamraqulova",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0034",
+      "type": "paragraph",
+      "text": "КТЦ-2 boshlig‘i M.M. Maxkamov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0035",
+      "type": "paragraph",
+      "text": "КТЦ-1 boshlig‘i U.L. Majlimov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0036",
+      "type": "paragraph",
+      "text": "Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/vyvod-bl-v-kap-i-sr-rem-2026/translations/uzLatn/document.json",
+    "assetBasePath": "documents/vyvod-bl-v-kap-i-sr-rem-2026/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "ta’mirga chiqarish",
+      "kapital ta’mir",
+      "o‘rta ta’mir",
+      "blokni konservatsiya qilish",
+      "stop klapan zichligi"
+    ],
+    "aliases": [
+      "blokni ta’mirga topshirish",
+      "energiya blokini o‘chirish",
+      "qozonni sovitish"
+    ],
+    "searchText": "ENERGIYA BLOKLARINI KAPITAL VA O‘RTA TA’MIRGA CHIQARISH BO‘YICHA NAMUNAVIY DASTUR Toshkent IES energiya bloklarini kapital va o‘rta ta’mirga chiqarishdan oldingi ekspluatatsion tadbirlar tartibi. TASDIQLAYMAN Texnik direktor AJ «Toshkent IES» V.V. Pak NAMUNAVIY DASTUR Tosh IES energiya bloklarini kapital va o‘rta ta’mirlarga chiqarish. 1. Ta’mirga chiqarishdan kamida 5 kun oldin ЦНИ dasturi bo‘yicha texnik-iqtisodiy ko‘rsatkichlarni aniqlash uchun ekspluatatsion tadbirlarni o‘tkazish. Mas’ul — ОПТО boshlig‘i. 2. Ta’mirga to‘xtatishdan oldin amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon chegarasidagi mazut quvurlarini bug‘ bilan puflash va o‘chirish. Davomiyligi — 6 soat. 3. Energiya bloki tarmoqdan uzilgandan so‘ng turbina ВД va СД to‘xtatish klapanlari zichligini tekshirish. Davomiyligi — 7 soat. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari. 4. Blok to‘xtatilgandan so‘ng maxsus dastur bo‘yicha qozon qizdirish yuzalarini konservatsiya qilish. Davomiyligi — 88 soat. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari, kimyo sexi boshlig‘i. 5. Amaldagi ishlab chiqarish yo‘riqnomalariga muvofiq qozon va turbinani sovitish. Davomiyligi — 48 soat. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari. 6. Energiya blokini ta’mirga chiqarish: 6.1. Qozon agregati, deaerator, qozon drenaj baki, uzluksiz va davriy puflash kengaytirgichi, БНТ, ПВД, ПНД, ПЭН, quvur doskalari zichlash tizimiga ega kondensator, bug‘ quvurlari va quvurlarni (ОП, ГПП, ХПП, БРОУ-1,2, ТГ otborlari, ТГ zichlash kollektori, drenaj kollektorlari, oziqlantiruvchi suv, purkash uzeli, asosiy kondensat, ПОТ va boshqalar) qozon chegarasida, turbina moy tizimi, ГМБ, ПЭН-А,Бni bo‘shatish va bug‘sizlantirish. 6.2. Qozonga umumiy gaz quvurida, estakadada, qozonning napor va qaytish mazut quvurida hamda РОУ s/n dan blokka boruvchi bug‘ quvurida; moy xo‘jaligi va to‘ldirish moy bakidan turbina va ПЭН sig‘imlarini to‘ldirish moy quvurlarida; ЦН – А, Б naporidan БНС yuvish nasoslari so‘rishlariga texnik suv quvurlarida tiqinlar o‘rnatish. 6.3. Boshqa bloklar va sexlar tomonidan oqimlarni o‘chirish — asosiy kondensat, oziqlantiruvchi suv, blokni ХОВ va БЗКdan qo‘shimcha to‘ldirish bo‘yicha; ЦН –А,Б podshipniklariga texnik suv berishda, ТГ м/о va ТДМ aylanuvchi mexanizmlarini sovitish texnik suv peremichkasida. 6.4. Berkituvchi, rostlovchi, himoya va xavfsizlik armaturasi yuritmalari sxemalaridan kuchlanishni olish, kabel uchlarini elektr yuritmalar va chegara o‘chirgichlardan ajratish, umumiy naryad bo‘yicha ish shartlariga muvofiq ТС va vibratsiya datchiklarini yechish. 6.5. Generatorni atmosfera havosiga o‘tkazish. 6.6. Sirkulyatsion nasoslar А va Б kameralarini shandorlash va suvini chiqarish. 6.7. Tutun so‘rgichlar, havo puflash ventilyatorlari, issiq puflash ventilyatorlari, regenerativ aylanuvchi havo qizdirgichlar, fosfat va gidrazin nasoslari, qozon va turbina drenaj nasoslari, oziqlantiruvchi nasoslar va ularning ishga tushirish-to‘xtatish moy nasoslari, sirkulyatsion nasoslar, generator gaz sovitgichlari nasoslari, kondensat nasoslari, ПНД drenaj nasoslari, ТГ ishga tushirish, zaxira va avariya moy nasoslari, zaxira va avariya uskunalari elektr dvigatellari oziqlantiruvchi kabellaridan kuchlanishni olish, ajratish va yerga ulash. 6.8. Umumiy naryadni berish. Muddat — blok to‘xtaganidan keyin 48 soat. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosarlari. 6.9. Blokni yong‘inga qarshi vositalar bilan dalolatnoma bo‘yicha ta’mirga topshirish. Mas’ul — КТЦ-1 boshlig‘i yoki uning o‘rinbosari. ESLATMA: turbina soviguncha, moy chiqarilguncha va ЦН avankameralari shandorlanguncha ishda (zaxirada) qoladi — ТГ va ПЭН moy tizimi, ВПУ, ЦН А,Б, napor va drenaj sirkulyatsion suvlar, turbina termonazorati, turbina kondensatori. Mas’ullar: КТЦ-1 boshlig‘i, elektr sexi boshlig‘i, ЦТКА boshlig‘i, ta’mir rahbari. Issiqlik-mexanika qismi bo‘yicha texnik direktor o‘rinbosari B.R. Ismoilov СНТБ boshlig‘i B.B. Nurdinov ОПТО boshlig‘i B.S. Aytmuratov Elektr sexi boshlig‘i M.D. Kenjibayev ЦТКА boshlig‘i R.K. Baymatov Kimyo sexi boshlig‘i L.P. Xamraqulova КТЦ-2 boshlig‘i M.M. Maxkamov КТЦ-1 boshlig‘i U.L. Majlimov Elektr uskunalari bo‘yicha texnik direktor o‘rinbosari A.A. Maxmudxo‘jayev"
+  }
+}

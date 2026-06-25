@@ -1,0 +1,264 @@
+{
+  "status": "review_required",
+  "title": "QOZON QIZDIRISH YUZALARI VA ORALIQ BUG‘ O‘TA QIZDIRGICHINI VAKUUMLI QURITISH USULIDA KONSERVATSIYA QILISH DASTURI",
+  "summary": "Blok uch sutkadan ortiq to‘xtatilganda qozon qizdirish yuzalari va oraliq bug‘ o‘ta qizdirgichini vakuumli quritish orqali konservatsiya qilish tartibi.",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "60",
+      "title": "kP а (0,6 kgf /с m 2 ).",
+      "level": 1,
+      "blockIds": [
+        "block-0011",
+        "block-0012",
+        "block-0013",
+        "block-0014",
+        "block-0015",
+        "block-0016",
+        "block-0017",
+        "block-0018",
+        "block-0019",
+        "block-0020",
+        "block-0021",
+        "block-0022"
+      ],
+      "text": "60 kP а (0,6 kgf /с m 2 ).\nQolgan suvni bug‘latish uchun БРОУ-1,2ni 20 - 30 min ga ulash. 30 мин. o‘tgach БРОУ-1ni yopish. БРОУ-2 oraliq bug‘ o‘ta qizdirgichida qolgan bug‘ni kondensatorga so‘rib olish uchun ishda qoladi. Kondensatorda kamida 60 k Pа (0,6 kgf /с m 2 ) vakuum saqlanadi. Oraliq bug‘ o‘ta qizdirgichini quritish davomiyligi 15 - 20 min . Vakuumli quritish tugagach БРОУ-2ni yopish. ТГ kondensatoridagi vakuumni uzish, РОУ s.n.dan О.Э. va ТГ zichlamalariga bug‘ berishni yopish. ЦН va КНni o‘chirish.\nISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. Ismoilov\nСНТБ BOSHLIG‘I B.B. Nurdinov\nMEHNATNI MUHOFAZA QILISH VA XAVFSIZLIK TEXNIKASI BO‘YICHA KATTA INSPEKTOR F.M. Mirzaxidova\nКТЦ-1 BOSHLIG‘I V.B. U.L. Majlimov\nКТЦ-2 BOSHLIG‘I M.M. Maxkamov\nELEKTR USKUNALARI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI A.A. Maxmudxo‘jayev\nKIMYO SEXI BOSHLIG‘I L.P. Xamraqulova",
+      "keywords": [
+        "закрыть",
+        "начальник",
+        "kgf",
+        "броу-1",
+        "min",
+        "броу-2",
+        "конденсаторе",
+        "вакуум",
+        "сушки",
+        "зам",
+        "тех",
+        "директора"
+      ],
+      "confidence": 0.68,
+      "detectionSource": "formatting"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "paragraph",
+      "text": "TASDIQLAYMAN",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0002",
+      "type": "paragraph",
+      "text": "Texnik direktor",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0003",
+      "type": "paragraph",
+      "text": "AJ «TOSHKENT IES»",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0004",
+      "type": "paragraph",
+      "text": "V.V. Pak",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0005",
+      "type": "paragraph",
+      "text": "DASTUR",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0006",
+      "type": "paragraph",
+      "text": "qozon uch sutkadan ortiq muddatga to‘xtatilganda qizdirish yuzalari va oraliq bug‘ o‘ta qizdirgichini vakuumli quritish usulida konservatsiya qilish",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0007",
+      "type": "paragraph",
+      "text": "yoki №1-12 bloklarni ta’mirlashga chiqarish.",
+      "sectionIds": [],
+      "alignment": "center",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0008",
+      "type": "list",
+      "text": "Dastur maqsadi: Konservatsiya bloklar zaxiraga yoki ta’mirlashga to‘xtatilganda hamda КТЦ-1 xodimlari qozon barabanida ortiqcha bosimni saqlab tura olmaganda to‘xtash korroziyasining oldini olish uchun bajariladi.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0009",
+      "type": "paragraph",
+      "text": "Oraliq bug‘ o‘ta qizdirgichini konservatsiya qilishning oddiy va yetarlicha ishonchli usuli vakuumli quritish usulidir.",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0010",
+      "type": "list",
+      "text": "Tayyorgarlik tadbirlari. Qozon barabanidagi bosimni nolgacha tushirish. Qozonni to‘liq bo‘shatish. Operatsiyalar ketma-ketligi. КН va ЦНni ishga tushirish. РОУ s.n.dan О.Э. va ТГ zichlamalariga bug‘ berish, ТГ kondensatoridagi vakuumni kamida",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0011",
+      "type": "paragraph",
+      "text": "60 kP а (0,6 kgf /с m 2 ).",
+      "sectionIds": [
+        "section-001"
+      ],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0012",
+      "type": "list",
+      "text": "Qolgan suvni bug‘latish uchun БРОУ-1,2ni 20 - 30 min ga ulash. 30 мин. o‘tgach БРОУ-1ni yopish. БРОУ-2 oraliq bug‘ o‘ta qizdirgichida qolgan bug‘ni kondensatorga so‘rib olish uchun ishda qoladi. Kondensatorda kamida 60 k Pа (0,6 kgf /с m 2 ) vakuum saqlanadi. Oraliq bug‘ o‘ta qizdirgichini quritish davomiyligi 15 - 20 min . Vakuumli quritish tugagach БРОУ-2ni yopish. ТГ kondensatoridagi vakuumni uzish, РОУ s.n.dan О.Э. va ТГ zichlamalariga bug‘ berishni yopish. ЦН va КНni o‘chirish.",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0013",
+      "type": "paragraph",
+      "text": "ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. Ismoilov",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0014",
+      "type": "paragraph",
+      "text": "СНТБ BOSHLIG‘I B.B. Nurdinov",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0015",
+      "type": "paragraph",
+      "text": "MEHNATNI MUHOFAZA QILISH VA XAVFSIZLIK TEXNIKASI BO‘YICHA KATTA INSPEKTOR F.M. Mirzaxidova",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0016",
+      "type": "paragraph",
+      "text": "КТЦ-1 BOSHLIG‘I V.B. U.L. Majlimov",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0017",
+      "type": "paragraph",
+      "text": "КТЦ-2 BOSHLIG‘I M.M. Maxkamov",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0018",
+      "type": "paragraph",
+      "text": "ELEKTR USKUNALARI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI A.A. Maxmudxo‘jayev",
+      "sectionIds": [],
+      "alignment": "justify",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0019",
+      "type": "paragraph",
+      "text": "KIMYO SEXI BOSHLIG‘I L.P. Xamraqulova",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": false,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0020",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "inherit",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0021",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": true,
+      "pageBreak": false
+    },
+    {
+      "id": "block-0022",
+      "type": "image",
+      "text": "",
+      "sectionIds": [],
+      "alignment": "right",
+      "hasImages": true,
+      "pageBreak": false
+    }
+  ],
+  "richContent": {
+    "documentPath": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/translations/uzLatn/document.json",
+    "assetBasePath": "documents/vakuumnaya-sushka-poverhn-nagreva-i-p-p-kotla/"
+  },
+  "searchMetadata": {
+    "keywords": [
+      "vakuumli quritish",
+      "qozonni konservatsiya qilish",
+      "oraliq bug‘ o‘ta qizdirgichi",
+      "to‘xtash korroziyasi"
+    ],
+    "aliases": [
+      "qozonni quritish",
+      "vakuum bilan konservatsiya",
+      "qozonni zaxiraga chiqarish"
+    ],
+    "searchText": "QOZON QIZDIRISH YUZALARI VA ORALIQ BUG‘ O‘TA QIZDIRGICHINI VAKUUMLI QURITISH USULIDA KONSERVATSIYA QILISH DASTURI Blok uch sutkadan ortiq to‘xtatilganda qozon qizdirish yuzalari va oraliq bug‘ o‘ta qizdirgichini vakuumli quritish orqali konservatsiya qilish tartibi. TASDIQLAYMAN Texnik direktor AJ «TOSHKENT IES» V.V. Pak DASTUR qozon uch sutkadan ortiq muddatga to‘xtatilganda qizdirish yuzalari va oraliq bug‘ o‘ta qizdirgichini vakuumli quritish usulida konservatsiya qilish yoki №1-12 bloklarni ta’mirlashga chiqarish. Dastur maqsadi: Konservatsiya bloklar zaxiraga yoki ta’mirlashga to‘xtatilganda hamda КТЦ-1 xodimlari qozon barabanida ortiqcha bosimni saqlab tura olmaganda to‘xtash korroziyasining oldini olish uchun bajariladi. Oraliq bug‘ o‘ta qizdirgichini konservatsiya qilishning oddiy va yetarlicha ishonchli usuli vakuumli quritish usulidir. Tayyorgarlik tadbirlari. Qozon barabanidagi bosimni nolgacha tushirish. Qozonni to‘liq bo‘shatish. Operatsiyalar ketma-ketligi. КН va ЦНni ishga tushirish. РОУ s.n.dan О.Э. va ТГ zichlamalariga bug‘ berish, ТГ kondensatoridagi vakuumni kamida 60 kP а (0,6 kgf /с m 2 ). Qolgan suvni bug‘latish uchun БРОУ-1,2ni 20 - 30 min ga ulash. 30 мин. o‘tgach БРОУ-1ni yopish. БРОУ-2 oraliq bug‘ o‘ta qizdirgichida qolgan bug‘ni kondensatorga so‘rib olish uchun ishda qoladi. Kondensatorda kamida 60 k Pа (0,6 kgf /с m 2 ) vakuum saqlanadi. Oraliq bug‘ o‘ta qizdirgichini quritish davomiyligi 15 - 20 min . Vakuumli quritish tugagach БРОУ-2ni yopish. ТГ kondensatoridagi vakuumni uzish, РОУ s.n.dan О.Э. va ТГ zichlamalariga bug‘ berishni yopish. ЦН va КНni o‘chirish. ISSIQLIK-MEXANIKA QISMI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI B.R. Ismoilov СНТБ BOSHLIG‘I B.B. Nurdinov MEHNATNI MUHOFAZA QILISH VA XAVFSIZLIK TEXNIKASI BO‘YICHA KATTA INSPEKTOR F.M. Mirzaxidova КТЦ-1 BOSHLIG‘I V.B. U.L. Majlimov КТЦ-2 BOSHLIG‘I M.M. Maxkamov ELEKTR USKUNALARI BO‘YICHA TEXNIK DIREKTOR O‘RINBOSARI A.A. Maxmudxo‘jayev KIMYO SEXI BOSHLIG‘I L.P. Xamraqulova   "
+  }
+}
