@@ -1,0 +1,192 @@
+export const documentTaxonomyMap = {
+  "ппрограмма_восстановления_хим_режима": {
+    primaryGroup: "water-chemistry",
+    groups: ["water-chemistry", "repair-maintenance"],
+    workTypes: ["maintenance", "operation"],
+    topics: ["chemical-regime", "recovery", "block-cleaning"],
+  },
+  "kн-131-2026-y-к-k-160-130": {
+    primaryGroup: "accident-response",
+    groups: ["accident-response", "turbine-equipment"],
+    workTypes: ["emergency", "operation"],
+    topics: ["turbine-accidents", "vacuum", "oil-system", "load-shedding"],
+  },
+  "проверка_плотности_стоп_и_рег_клап_тг_2025": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "turbine-equipment"],
+    workTypes: ["testing", "maintenance"],
+    topics: ["stop-valves", "control-valves", "valve-tightness"],
+  },
+  "kн-132-2023-лотинча-февраль-2025-doc": {
+    primaryGroup: "accident-response",
+    groups: ["accident-response", "boiler-equipment"],
+    workTypes: ["emergency", "operation"],
+    topics: ["boiler-accidents", "drum-level", "furnace", "feedwater"],
+  },
+  "очистка-маслосистемы-2025": {
+    primaryGroup: "turbine-equipment",
+    groups: ["turbine-equipment", "repair-maintenance"],
+    workTypes: ["maintenance"],
+    topics: ["oil-system", "flushing", "filters"],
+  },
+  "продувка-паропров-после-рем-2025": {
+    primaryGroup: "boiler-equipment",
+    groups: ["boiler-equipment", "repair-maintenance"],
+    workTypes: ["maintenance", "testing"],
+    topics: ["steam-lines", "blowing", "after-repair"],
+  },
+  "программа_паровои-_продувки_котла_no1_новая_уэт_2024": {
+    primaryGroup: "boiler-equipment",
+    groups: ["boiler-equipment", "startup-shutdown"],
+    workTypes: ["testing", "operation"],
+    topics: ["boiler-blowing", "steam-lines", "commissioning"],
+  },
+  "программа_паровои-_продувки_котла_no1_новая_уэт_2024_образец": {
+    primaryGroup: "boiler-equipment",
+    groups: ["boiler-equipment", "startup-shutdown"],
+    workTypes: ["testing", "operation"],
+    topics: ["boiler-blowing", "steam-lines", "sample-program"],
+  },
+  "прог_проведения_настрои-ки_ипу_2026": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "boiler-equipment"],
+    workTypes: ["testing", "maintenance"],
+    topics: ["ipu", "safety-valves", "boiler-protection"],
+  },
+  "пар-опроб-и-пуск-на-хол-ход-2025": {
+    primaryGroup: "startup-shutdown",
+    groups: ["startup-shutdown", "boiler-equipment"],
+    workTypes: ["startup-shutdown", "testing"],
+    topics: ["steam-testing", "idle-run", "valve-adjustment"],
+  },
+  "гидравлич-испытание-бл-2025": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "boiler-equipment"],
+    workTypes: ["testing", "maintenance"],
+    topics: ["hydraulic-test", "boiler", "pressure"],
+  },
+  "перевод-сар-2026": {
+    primaryGroup: "turbine-equipment",
+    groups: ["turbine-equipment", "startup-shutdown"],
+    workTypes: ["operation"],
+    topics: ["sar", "steam-parameters", "control-system"],
+  },
+  "проверка_работоспособности_пр_кл_ипу_2-хпп_2026": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "boiler-equipment"],
+    workTypes: ["testing"],
+    topics: ["ipu-2", "hpp", "safety-valves"],
+  },
+  "опроб-защиты-от-разгона-2026": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "turbine-equipment"],
+    workTypes: ["testing", "emergency"],
+    topics: ["overspeed-protection", "safety-automaton", "turbogenerator"],
+  },
+  "вакуумная_сушка_поверхн_нагрева_и_п_п_котла": {
+    primaryGroup: "water-chemistry",
+    groups: ["water-chemistry", "boiler-equipment"],
+    workTypes: ["maintenance"],
+    topics: ["vacuum-drying", "conservation", "superheater"],
+  },
+  "kн-205-140-2025-лотин-февраль-2025": {
+    primaryGroup: "fuel-gas-safety",
+    groups: ["fuel-gas-safety", "boiler-equipment"],
+    workTypes: ["safety", "operation"],
+    topics: ["natural-gas", "mazut", "combustion", "fuel-safety"],
+  },
+  "ппр-восстановл-хим-режима-2026-г": {
+    primaryGroup: "water-chemistry",
+    groups: ["water-chemistry", "repair-maintenance"],
+    workTypes: ["maintenance", "operation"],
+    topics: ["chemical-regime", "recovery", "work-project"],
+  },
+  "программа_гидравлич_испытание_бл_2026": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "boiler-equipment"],
+    workTypes: ["testing", "maintenance"],
+    topics: ["hydraulic-test", "boiler", "pressure"],
+  },
+  "программа_пуск_турб_из_холодн_сост": {
+    primaryGroup: "startup-shutdown",
+    groups: ["startup-shutdown", "turbine-equipment"],
+    workTypes: ["startup-shutdown", "operation"],
+    topics: ["hot-start", "gpp-valve-block", "idle-run"],
+  },
+  "пров-опрес-первичн-тракта-2026": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "boiler-equipment"],
+    workTypes: ["testing"],
+    topics: ["primary-tract", "pressure-test", "boiler"],
+  },
+  "проверка_плотности_стоп_и_рег_клап_тг_2026": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "turbine-equipment"],
+    workTypes: ["testing", "maintenance"],
+    topics: ["stop-valves", "control-valves", "valve-tightness"],
+  },
+  "останов_турбиннои-_установки_no8_в_режим_холост_ход": {
+    primaryGroup: "startup-shutdown",
+    groups: ["startup-shutdown", "turbine-equipment"],
+    workTypes: ["startup-shutdown", "operation"],
+    topics: ["unit-8", "idle-run", "shutdown"],
+  },
+  "kн-205-138-2025-лотин-февраль-2025": {
+    primaryGroup: "turbine-equipment",
+    groups: ["turbine-equipment", "tests-protections"],
+    workTypes: ["operation"],
+    topics: ["control-system", "sar", "servomotor", "impeller"],
+  },
+  "кн-143-2026-и-лотин": {
+    primaryGroup: "turbine-equipment",
+    groups: ["turbine-equipment", "boiler-equipment"],
+    workTypes: ["operation"],
+    topics: ["k-160-130", "pvk-150", "tgm-94", "block-operation"],
+  },
+  "продувка-паропров-после-рем-2026": {
+    primaryGroup: "boiler-equipment",
+    groups: ["boiler-equipment", "repair-maintenance"],
+    workTypes: ["maintenance", "testing"],
+    topics: ["steam-lines", "blowing", "after-repair"],
+  },
+  "пуск_на_холостои-_ход_и_пров_авт_безопасн_2026": {
+    primaryGroup: "startup-shutdown",
+    groups: ["startup-shutdown", "tests-protections", "turbine-equipment"],
+    workTypes: ["startup-shutdown", "testing"],
+    topics: ["idle-run", "safety-automaton", "turbogenerator"],
+  },
+  "ппрограмма_восстановления_хим_режима_10_блока": {
+    primaryGroup: "water-chemistry",
+    groups: ["water-chemistry", "repair-maintenance"],
+    workTypes: ["maintenance", "operation"],
+    topics: ["chemical-regime", "block-10", "recovery"],
+  },
+  "kн-145-2025-лотин-февраль-2025": {
+    primaryGroup: "turbine-equipment",
+    groups: ["turbine-equipment", "repair-maintenance"],
+    workTypes: ["operation", "maintenance"],
+    topics: ["0m-equipment", "condensate-pumps", "oil-coolers", "turbine-auxiliaries"],
+  },
+  "хим_очистка_экран_труб_котла_солян_кислотои-_2026": {
+    primaryGroup: "water-chemistry",
+    groups: ["water-chemistry", "boiler-equipment", "repair-maintenance"],
+    workTypes: ["maintenance", "safety"],
+    topics: ["chemical-cleaning", "screen-tubes", "hydrochloric-acid"],
+  },
+  "опроб-защиты-от-разгона-2025": {
+    primaryGroup: "tests-protections",
+    groups: ["tests-protections", "turbine-equipment"],
+    workTypes: ["testing", "emergency"],
+    topics: ["overspeed-protection", "safety-automaton", "turbogenerator"],
+  },
+  "вывод-бл-в-кап-и-ср-рем-2026": {
+    primaryGroup: "repair-maintenance",
+    groups: ["repair-maintenance", "startup-shutdown"],
+    workTypes: ["maintenance", "startup-shutdown"],
+    topics: ["capital-repair", "medium-repair", "work-permit"],
+  },
+};
+
+export function getDocumentTaxonomy(documentId) {
+  return documentTaxonomyMap[documentId] || null;
+}

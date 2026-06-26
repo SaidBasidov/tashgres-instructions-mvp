@@ -1,45 +1,18 @@
 import { useEffect, useMemo, useState } from "react";
 import { getLocalizedDocument } from "../data/documentTranslations.js";
+import { getDocumentTaxonomy } from "../data/documentTaxonomyMap.js";
 import { loadAllDocuments } from "../data/loadDocuments.js";
+import { getLocalizedTaxonomyItem, libraryGroups, workTypeFilters } from "../data/libraryTaxonomy.js";
 import { useLanguage } from "../i18n/useLanguage.js";
 import { isDocumentAvailableInLanguage } from "../utils/isDocumentAvailableInLanguage.js";
 
 const availabilityStorageKey = "library-show-only-available";
 
-const filterGroups = [
-  {
-    titleKey: "purpose",
-    key: "purpose",
-    options: [
-      { value: "accident-response", labelKey: "accidentResponse" },
-      { value: "reference", labelKey: "reference" },
-      { value: "operation-rules", labelKey: "operationRules" },
-      { value: "other", labelKey: "other" },
-    ],
-  },
-  {
-    titleKey: "category",
-    key: "category",
-    options: [
-      { value: "boiler", labelKey: "boiler" },
-      { value: "turbine", labelKey: "turbine" },
-      { value: "electrical", labelKey: "electrical" },
-      { value: "auxiliary-power", labelKey: "auxiliaryPower" },
-      { value: "pgu", labelKey: "pgu" },
-      { value: "pte", labelKey: "pte" },
-      { value: "other", labelKey: "other" },
-    ],
-  },
-];
-
-const purposeLabelKeys = Object.fromEntries(filterGroups[0].options.map(({ value, labelKey }) => [value, labelKey]));
-const categoryLabelKeys = Object.fromEntries(filterGroups[1].options.map(({ value, labelKey }) => [value, labelKey]));
-
 function AdminPanel({ navigate }) {
   const { selectedLanguage, messages } = useLanguage();
   const [documents, setDocuments] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [selectedFilters, setSelectedFilters] = useState({ purpose: [], category: [] });
+  const [selectedFilters, setSelectedFilters] = useState({ groups: [], workTypes: [] });
   const [showOnlyAvailable, setShowOnlyAvailable] = useState(() => {
     try {
       const storedValue = localStorage.getItem(availabilityStorageKey);
@@ -74,6 +47,7 @@ function AdminPanel({ navigate }) {
     source,
     localized: getLocalizedDocument(source, selectedLanguage),
     available: isDocumentAvailableInLanguage(source, selectedLanguage),
+    taxonomy: getDocumentTaxonomy(source.id),
   })), [documents, selectedLanguage]);
 
   function openDocument(documentData) {
@@ -93,25 +67,45 @@ function AdminPanel({ navigate }) {
   }
 
   function resetFilters() {
-    setSelectedFilters({ purpose: [], category: [] });
+    setSelectedFilters({ groups: [], workTypes: [] });
     setShowOnlyAvailable(true);
   }
 
-  const categoryFilteredDocuments = localizedDocuments.filter(({ source }) => {
-    const matchesPurpose = selectedFilters.purpose.length === 0 || selectedFilters.purpose.includes(source.purpose);
-    const matchesCategory = selectedFilters.category.length === 0 || selectedFilters.category.includes(source.category);
-    return matchesPurpose && matchesCategory;
+  const categoryFilteredDocuments = localizedDocuments.filter(({ taxonomy }) => {
+    const matchesGroups = selectedFilters.groups.length === 0
+      || selectedFilters.groups.some((groupId) => taxonomy?.groups?.includes(groupId));
+    const matchesWorkTypes = selectedFilters.workTypes.length === 0
+      || selectedFilters.workTypes.some((workTypeId) => taxonomy?.workTypes?.includes(workTypeId));
+    return matchesGroups && matchesWorkTypes;
   });
   const availableDocumentsCount = categoryFilteredDocuments.filter(({ available }) => available).length;
   const filteredDocuments = categoryFilteredDocuments.filter(({ available }) => (
     !showOnlyAvailable || available
   ));
 
-  const activeFiltersCount = selectedFilters.purpose.length + selectedFilters.category.length;
+  const activeFiltersCount = selectedFilters.groups.length + selectedFilters.workTypes.length;
   const hasNonDefaultFilters = activeFiltersCount > 0 || !showOnlyAvailable;
   const visibleSectionCount = filteredDocuments.reduce(
     (total, { localized }) => total + (localized?.blocks?.length || 0), 0,
   );
+  const groupCounts = useMemo(() => Object.fromEntries(
+    libraryGroups.map((group) => [
+      group.id,
+      localizedDocuments.filter(({ taxonomy, available }) => (
+        taxonomy?.groups?.includes(group.id) && (!showOnlyAvailable || available)
+      )).length,
+    ]),
+  ), [localizedDocuments, showOnlyAvailable]);
+  const workTypeCounts = useMemo(() => Object.fromEntries(
+    workTypeFilters.map((workType) => [
+      workType.id,
+      localizedDocuments.filter(({ taxonomy, available }) => (
+        taxonomy?.workTypes?.includes(workType.id) && (!showOnlyAvailable || available)
+      )).length,
+    ]),
+  ), [localizedDocuments, showOnlyAvailable]);
+  const visibleGroupFilters = libraryGroups.filter((group) => groupCounts[group.id] > 0);
+  const visibleWorkTypeFilters = workTypeFilters.filter((workType) => workTypeCounts[workType.id] > 0);
 
   return (
     <main className="library-layout">
@@ -146,23 +140,45 @@ function AdminPanel({ navigate }) {
           </label>
         </section>
 
-        {filterGroups.map((group) => (
-          <section className="library-filter-group" key={group.key}>
-            <h3 className="library-filter-group__title">{messages.filters[group.titleKey]}</h3>
-            <div className="library-filter-group__options">
-              {group.options.map((option) => (
-                <label className="library-filter-option" key={option.value}>
+        <section className="library-filter-group">
+          <h3 className="library-filter-group__title">{messages.filters.topic}</h3>
+          <div className="library-filter-group__options">
+            {visibleGroupFilters.map((group) => {
+              const localizedGroup = getLocalizedTaxonomyItem(libraryGroups, group.id, selectedLanguage);
+              return (
+                <label className="library-filter-option" key={group.id} title={localizedGroup.description}>
                   <input
                     type="checkbox"
-                    checked={selectedFilters[group.key].includes(option.value)}
-                    onChange={() => toggleFilter(group.key, option.value)}
+                    checked={selectedFilters.groups.includes(group.id)}
+                    onChange={() => toggleFilter("groups", group.id)}
                   />
-                  <span>{messages.filters[option.labelKey]}</span>
+                  <span>{localizedGroup.label}</span>
+                  <small>{groupCounts[group.id]}</small>
                 </label>
-              ))}
+              );
+            })}
+          </div>
+        </section>
+
+        <section className="library-filter-group">
+          <h3 className="library-filter-group__title">{messages.filters.workType}</h3>
+            <div className="library-filter-group__options">
+              {visibleWorkTypeFilters.map((workType) => {
+                const localizedWorkType = getLocalizedTaxonomyItem(workTypeFilters, workType.id, selectedLanguage);
+                return (
+                <label className="library-filter-option" key={workType.id}>
+                  <input
+                    type="checkbox"
+                    checked={selectedFilters.workTypes.includes(workType.id)}
+                    onChange={() => toggleFilter("workTypes", workType.id)}
+                  />
+                  <span>{localizedWorkType.label}</span>
+                  <small>{workTypeCounts[workType.id]}</small>
+                </label>
+                );
+              })}
             </div>
-          </section>
-        ))}
+        </section>
       </aside>
 
       <section className="library-page">
@@ -185,11 +201,15 @@ function AdminPanel({ navigate }) {
               <h2 className="library-empty__title">{messages.library.emptyTitle}</h2>
               <p className="library-empty__description">{messages.library.emptyDescription}</p>
             </div>
-          ) : filteredDocuments.map(({ source, localized, available }) => {
+          ) : filteredDocuments.map(({ source, localized, available, taxonomy }) => {
             const displayedTitle = available && localized?.title
               ? localized.title
               : (source.title || source.code || messages.meta.unspecified);
             const displayedContentCount = localized?.blocks?.length || localized?.sections?.length || 0;
+            const primaryGroup = getLocalizedTaxonomyItem(libraryGroups, taxonomy?.primaryGroup, selectedLanguage);
+            const secondaryWorkTypes = (taxonomy?.workTypes || [])
+              .map((workTypeId) => getLocalizedTaxonomyItem(workTypeFilters, workTypeId, selectedLanguage))
+              .filter(Boolean);
             return (
               <article className="library-card" key={source.id}>
                 <div className="library-card__header">
@@ -203,8 +223,10 @@ function AdminPanel({ navigate }) {
                 </div>
 
                 <div className="library-card__tags">
-                  <span>{messages.filters[purposeLabelKeys[source.purpose]] || source.purposeLabel}</span>
-                  <span>{messages.filters[categoryLabelKeys[source.category]] || source.categoryLabel}</span>
+                  {primaryGroup && <span>{primaryGroup.label}</span>}
+                  {secondaryWorkTypes.slice(0, 2).map((workType) => (
+                    <span key={workType.id}>{workType.label}</span>
+                  ))}
                 </div>
 
                 <div className="library-card__meta">

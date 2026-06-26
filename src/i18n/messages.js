@@ -12,6 +12,7 @@ export const messages = {
       description: "Опишите ситуацию. Система будет искать подходящие разделы инструкций.",
       placeholder: "Например: потеря собственных нужд, вибрация турбины...",
       suggestions: "Примеры запросов для теста:",
+      moreSuggestions: "Показать другие",
       searching: "Идёт поиск…",
       found: "Найдено документов: {count}",
       matches: "Совпадений: {count}",
@@ -33,7 +34,7 @@ export const messages = {
       originalAvailable: "Доступен оригинал на языке",
     },
     filters: {
-      title: "Фильтры", reset: "Сбросить", availability: "Доступность", onlyAvailable: "Показывать только доступные на выбранном языке", purpose: "Назначение документа", category: "Направление",
+      title: "Фильтры", reset: "Сбросить", availability: "Доступность", onlyAvailable: "Показывать только доступные на выбранном языке", purpose: "Назначение документа", category: "Направление", topic: "Тематика", workType: "Назначение",
       accidentResponse: "Ликвидация / предупреждение аварий", reference: "Справочное описание", operationRules: "Правила эксплуатации",
       boiler: "Котельное оборудование", turbine: "Турбинное оборудование", electrical: "Электрическая часть",
       auxiliaryPower: "Собственные нужды", pgu: "ПГУ-370 MW", pte: "Общие тепломеханические / ПТЭ", other: "Другое",
@@ -68,6 +69,7 @@ export const messages = {
     search: {
       title: "Yo‘riqnomalar bazasida qidiruv", description: "Vaziyatni tavsiflang. Tizim yo‘riqnomalarning mos bo‘limlarini izlaydi.",
       placeholder: "Masalan: o‘z ehtiyojlari yo‘qolishi, turbina tebranishi...", suggestions: "Sinov so‘rovlari namunalari:", searching: "Qidirilmoqda…",
+      moreSuggestions: "Boshqalarini ko‘rsatish",
       found: "Topilgan hujjatlar: {count}", matches: "Mosliklar: {count}", noResults: "So‘rovingiz bo‘yicha hech narsa topilmadi.",
       translationUnavailable: "Tanlangan til uchun hujjatlar tarjimasi hali qo‘shilmagan.",
       blockTypes: { heading: "Sarlavha", paragraph: "Xatboshi", list: "Ro‘yxat", section: "Bo‘lim", page: "Sahifa", table: "Jadval", fallback: "Blok" },
@@ -81,7 +83,7 @@ export const messages = {
       originalAvailable: "Asl nusxa tili",
     },
     filters: {
-      title: "Filtrlar", reset: "Tozalash", availability: "Mavjudlik", onlyAvailable: "Faqat tanlangan tilda mavjud hujjatlarni ko‘rsatish", purpose: "Hujjat vazifasi", category: "Yo‘nalish",
+      title: "Filtrlar", reset: "Tozalash", availability: "Mavjudlik", onlyAvailable: "Faqat tanlangan tilda mavjud hujjatlarni ko‘rsatish", purpose: "Hujjat vazifasi", category: "Yo‘nalish", topic: "Mavzu", workType: "Vazifa",
       accidentResponse: "Avariyalarni bartaraf etish / oldini olish", reference: "Ma’lumotnoma", operationRules: "Foydalanish qoidalari",
       boiler: "Qozon uskunalari", turbine: "Turbina uskunalari", electrical: "Elektr qismi", auxiliaryPower: "O‘z ehtiyojlari",
       pgu: "BGQ-370 MW", pte: "Umumiy issiqlik-mexanik / FQ", other: "Boshqa",
@@ -116,6 +118,7 @@ export const messages = {
     search: {
       title: "Йўриқномалар базасида қидирув", description: "Вазиятни тавсифланг. Тизим йўриқномаларнинг мос бўлимларини излайди.",
       placeholder: "Масалан: ўз эҳтиёжлари йўқолиши, турбина тебраниши...", suggestions: "Синов сўровлари намуналари:", searching: "Қидирилмоқда…",
+      moreSuggestions: "Бошқаларини кўрсатиш",
       found: "Топилган ҳужжатлар: {count}", matches: "Мосликлар: {count}", noResults: "Сўровингиз бўйича ҳеч нарса топилмади.",
       translationUnavailable: "Танланган тил учун ҳужжатлар таржимаси ҳали қўшилмаган.",
       blockTypes: { heading: "Сарлавҳа", paragraph: "Хатбоши", list: "Рўйхат", section: "Бўлим", page: "Саҳифа", table: "Жадвал", fallback: "Блок" },
@@ -129,7 +132,7 @@ export const messages = {
       originalAvailable: "Асл нусха тили",
     },
     filters: {
-      title: "Фильтрлар", reset: "Тозалаш", availability: "Мавжудлик", onlyAvailable: "Фақат танланган тилда мавжуд ҳужжатларни кўрсатиш", purpose: "Ҳужжат вазифаси", category: "Йўналиш",
+      title: "Фильтрлар", reset: "Тозалаш", availability: "Мавжудлик", onlyAvailable: "Фақат танланган тилда мавжуд ҳужжатларни кўрсатиш", purpose: "Ҳужжат вазифаси", category: "Йўналиш", topic: "Мавзу", workType: "Вазифа",
       accidentResponse: "Аварияларни бартараф этиш / олдини олиш", reference: "Маълумотнома", operationRules: "Фойдаланиш қоидалари",
       boiler: "Қозон ускуналари", turbine: "Турбина ускуналари", electrical: "Электр қисми", auxiliaryPower: "Ўз эҳтиёжлари",
       pgu: "БГҚ-370 MW", pte: "Умумий иссиқлик-механик / ФҚ", other: "Бошқа",

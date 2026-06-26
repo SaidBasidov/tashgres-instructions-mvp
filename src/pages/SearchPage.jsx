@@ -1,14 +1,8 @@
 import { useEffect, useState } from "react";
+import { getSearchSuggestions, searchSuggestions } from "../data/searchSuggestions.js";
 import { useLanguage } from "../i18n/useLanguage.js";
 import { interpolate } from "../i18n/messages.js";
 import { getSearchableDocumentCount, searchDocuments } from "../utils/searchDocuments";
-
-const russianSearchSuggestions = [
-    "понижение вакуума в конденсаторе", "падение давления масла", "осевой сдвиг ротора",
-    "гидравлический удар в турбине", "упуск воды в барабане котла", "перепитка котла",
-    "погасание факела в топке", "снижение давления газа", "разрыв мазутопровода",
-    "потеря собственных нужд 6 кВ", "загорание сажи в РВП", "повышение жесткости питательной воды",
-];
 
 function groupResultsByDocument(results, maxMatchesPerDocument = 4) {
     const groups = {};
@@ -38,10 +32,12 @@ function SearchPage({ navigate }) {
     const [isSearching, setIsSearching] = useState(false);
     const [searchableDocumentCount, setSearchableDocumentCount] = useState(null);
     const [resultsLanguage, setResultsLanguage] = useState(selectedLanguage);
+    const [suggestionOffset, setSuggestionOffset] = useState(0);
     const groupedResults = groupResultsByDocument(
         resultsLanguage === selectedLanguage ? searchResults : [],
     );
-    const shouldShowSuggestions = selectedLanguage === "ru" && query.trim() === "";
+    const shouldShowSuggestions = query.trim() === "";
+    const visibleSuggestions = getSearchSuggestions(selectedLanguage, suggestionOffset, 6);
 
     useEffect(() => {
         let isCurrent = true;
@@ -77,6 +73,10 @@ function SearchPage({ navigate }) {
         };
     }, [query, selectedLanguage]);
 
+    useEffect(() => {
+        setSuggestionOffset(0);
+    }, [selectedLanguage]);
+
     function createSnippet(text, maxLength = 180) {
         if (!text || text.length <= maxLength) return text || "";
         return `${text.slice(0, maxLength).trim()}...`;
@@ -108,11 +108,22 @@ function SearchPage({ navigate }) {
 
             {shouldShowSuggestions && (
                 <section className="search-suggestions">
-                    <p className="search-suggestions__title">{messages.search.suggestions}</p>
+                    <div className="search-suggestions__header">
+                        <p className="search-suggestions__title">{messages.search.suggestions}</p>
+                        <button
+                            type="button"
+                            className="search-suggestions__refresh"
+                            onClick={() => setSuggestionOffset((currentOffset) => (
+                                (currentOffset + 6) % searchSuggestions.length
+                            ))}
+                        >
+                            {messages.search.moreSuggestions}
+                        </button>
+                    </div>
                     <div className="search-suggestions__list">
-                        {russianSearchSuggestions.map((suggestion) => (
-                            <button key={suggestion} type="button" className="search-suggestions__button" onClick={() => setQuery(suggestion)}>
-                                {suggestion}
+                        {visibleSuggestions.map((suggestion) => (
+                            <button key={suggestion.id} type="button" className="search-suggestions__button" onClick={() => setQuery(suggestion.searchQuery)}>
+                                {suggestion.label}
                             </button>
                         ))}
                     </div>

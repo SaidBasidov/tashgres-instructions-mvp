@@ -839,6 +839,26 @@ button {
   font-weight: 700;
 }
 
+.search-suggestions__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.search-suggestions__header .search-suggestions__title {
+  margin-bottom: 0;
+}
+
+.search-suggestions__refresh {
+  border: 0;
+  background: transparent;
+  color: #2563eb;
+  font-weight: 700;
+  cursor: pointer;
+}
+
 .search-suggestions__list {
   display: flex;
   flex-wrap: wrap;
@@ -1013,6 +1033,12 @@ button {
   font-size: 15px;
   line-height: 1.4;
   cursor: pointer;
+}
+
+.library-filter-option small {
+  margin-left: auto;
+  color: #64748b;
+  font-size: 0.82rem;
 }
 
 .library-filter-option input {
