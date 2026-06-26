@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { getSearchSuggestions, searchSuggestions } from "../data/searchSuggestions.js";
 import { useLanguage } from "../i18n/useLanguage.js";
 import { interpolate } from "../i18n/messages.js";
@@ -25,14 +25,36 @@ function groupResultsByDocument(results, maxMatchesPerDocument = 4) {
     return Object.values(groups);
 }
 
+function SearchLoadingState({ title, description }) {
+    return (
+        <div className="search-loading" role="status" aria-live="polite">
+            <span className="search-loading__spinner" aria-hidden="true" />
+            <div>
+                <p className="search-loading__title">{title}</p>
+                <p className="search-loading__description">
+                    {description}
+                    <span className="search-loading__dots" aria-hidden="true">
+                        <span>.</span><span>.</span><span>.</span>
+                    </span>
+                </p>
+            </div>
+            <div className="search-loading__skeletons" aria-hidden="true">
+                <span className="search-loading__skeleton" />
+                <span className="search-loading__skeleton search-loading__skeleton--short" />
+            </div>
+        </div>
+    );
+}
+
 function SearchPage({ navigate }) {
     const { selectedLanguage, messages } = useLanguage();
     const [query, setQuery] = useState("");
     const [searchResults, setSearchResults] = useState([]);
-    const [isSearching, setIsSearching] = useState(false);
+    const [searchStatus, setSearchStatus] = useState("idle");
     const [searchableDocumentCount, setSearchableDocumentCount] = useState(null);
     const [resultsLanguage, setResultsLanguage] = useState(selectedLanguage);
     const [suggestionOffset, setSuggestionOffset] = useState(0);
+    const latestSearchRequestId = useRef(0);
     const groupedResults = groupResultsByDocument(
         resultsLanguage === selectedLanguage ? searchResults : [],
     );
@@ -50,25 +72,55 @@ function SearchPage({ navigate }) {
     }, [selectedLanguage]);
 
     useEffect(() => {
-        let isCurrent = true;
         const trimmedQuery = query.trim();
+        const requestId = latestSearchRequestId.current + 1;
+        latestSearchRequestId.current = requestId;
 
-        if (!trimmedQuery) return undefined;
+        if (!trimmedQuery) {
+            setSearchStatus("idle");
+            setSearchResults([]);
+            setResultsLanguage(selectedLanguage);
+            return undefined;
+        }
+
+        setSearchStatus("loading");
+        setSearchResults([]);
+        setResultsLanguage(selectedLanguage);
 
         const timeoutId = window.setTimeout(async () => {
-            setIsSearching(true);
-            const searchResponse = await searchDocuments(trimmedQuery, selectedLanguage);
+            const startedAt = window.performance.now();
 
-            if (isCurrent) {
+            try {
+                const searchResponse = await searchDocuments(trimmedQuery, selectedLanguage);
+                const elapsed = window.performance.now() - startedAt;
+                const minimumLoadingTime = 280;
+
+                if (elapsed < minimumLoadingTime) {
+                    await new Promise((resolve) => {
+                        window.setTimeout(resolve, minimumLoadingTime - elapsed);
+                    });
+                }
+
+                if (latestSearchRequestId.current !== requestId) return;
+
                 setSearchResults(searchResponse.results);
                 setResultsLanguage(selectedLanguage);
                 setSearchableDocumentCount(searchResponse.searchableDocumentCount);
-                setIsSearching(false);
+                setSearchStatus(
+                    searchResponse.searchableDocumentCount > 0 && searchResponse.results.length > 0
+                        ? "success"
+                        : "empty",
+                );
+            } catch {
+                if (latestSearchRequestId.current !== requestId) return;
+
+                setSearchResults([]);
+                setResultsLanguage(selectedLanguage);
+                setSearchStatus("error");
             }
         }, 150);
 
         return () => {
-            isCurrent = false;
             window.clearTimeout(timeoutId);
         };
     }, [query, selectedLanguage]);
@@ -88,7 +140,7 @@ function SearchPage({ navigate }) {
 
         if (!nextQuery.trim()) {
             setSearchResults([]);
-            setIsSearching(false);
+            setSearchStatus("idle");
         }
     }
 
@@ -131,18 +183,35 @@ function SearchPage({ navigate }) {
             )}
 
             <section className="search-results" aria-live="polite">
-                <p>{isSearching
-                    ? messages.search.searching
-                    : interpolate(messages.search.found, { count: groupedResults.length })}</p>
+                {searchStatus === "loading" && (
+                    <SearchLoadingState
+                        title={messages.search.searchLoadingTitle}
+                        description={messages.search.searchLoadingDescription}
+                    />
+                )}
 
-                {!isSearching && query.trim() && searchableDocumentCount === 0 && (
+                {searchStatus === "success" && (
+                    <p>{interpolate(messages.search.found, { count: groupedResults.length })}</p>
+                )}
+
+                {searchStatus === "empty" && searchableDocumentCount === 0 && (
                     <div className="empty-message">{messages.search.translationUnavailable}</div>
                 )}
-                {!isSearching && query.trim() && searchableDocumentCount > 0 && groupedResults.length === 0 && (
-                    <div className="empty-message">{messages.search.noResults}</div>
+                {searchStatus === "empty" && searchableDocumentCount > 0 && (
+                    <div className="empty-message">
+                        <h2 className="empty-message__title">{messages.search.searchEmptyTitle}</h2>
+                        <p className="empty-message__description">{messages.search.searchEmptyDescription}</p>
+                    </div>
                 )}
 
-                {groupedResults.map((group) => (
+                {searchStatus === "error" && (
+                    <div className="empty-message empty-message--error" role="alert">
+                        <h2 className="empty-message__title">{messages.search.searchErrorTitle}</h2>
+                        <p className="empty-message__description">{messages.search.searchErrorDescription}</p>
+                    </div>
+                )}
+
+                {searchStatus === "success" && groupedResults.map((group) => (
                     <article className="search-document-card" key={group.documentId}>
                         <h2>{group.documentCode}</h2>
                         <p>{group.documentTitle}</p>
